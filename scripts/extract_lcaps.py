@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ProcessPoolExecutor, as_completed
 import json
 import re
 from dataclasses import dataclass
@@ -858,7 +859,50 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Recursively find PDFs under input-dir. Useful for statewide county subfolders.",
     )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=1,
+        help="Number of PDF extraction worker processes. Use 1 for deterministic single-process parsing.",
+    )
     return parser.parse_args()
+
+
+def parse_error_record(pdf_path: Path, error: Exception) -> dict[str, Any]:
+    return {
+        "source_file": pdf_path.name,
+        "source_path": str(pdf_path),
+        "district_name": pdf_path.stem,
+        "school_year": None,
+        "goals": [],
+        "goal_count": 0,
+        "metric_count": 0,
+        "action_count": 0,
+        "extraction_warnings": [],
+        "extraction_errors": [str(error)],
+    }
+
+
+def parse_pdf_safely(pdf_path_value: str) -> dict[str, Any]:
+    pdf_path = Path(pdf_path_value)
+    try:
+        return parse_pdf(pdf_path)
+    except Exception as error:
+        return parse_error_record(pdf_path, error)
+
+
+def output_path_for_pdf(pdf_path: Path, input_dir: Path, per_lcap_dir: Path, recursive: bool) -> Path:
+    output_stem = pdf_path.stem
+    if recursive:
+        relative_stem = pdf_path.relative_to(input_dir).with_suffix("")
+        output_stem = "__".join(relative_stem.parts)
+    return per_lcap_dir / f"{sanitize_filename(output_stem)}.json"
+
+
+def write_parsed_lcap(parsed: dict[str, Any], input_dir: Path, per_lcap_dir: Path, recursive: bool) -> None:
+    pdf_path = Path(parsed["source_path"])
+    output_path = output_path_for_pdf(pdf_path, input_dir, per_lcap_dir, recursive)
+    output_path.write_text(json.dumps(parsed, indent=2, ensure_ascii=False) + "\n")
 
 
 def main() -> None:
@@ -872,20 +916,30 @@ def main() -> None:
 
     all_lcaps: list[dict[str, Any]] = []
     pdf_paths = sorted(input_dir.rglob("*.pdf") if args.recursive else input_dir.glob("*.pdf"))
-    for pdf_path in pdf_paths:
-        parsed = parse_pdf(pdf_path)
-        all_lcaps.append(parsed)
 
-        output_stem = pdf_path.stem
-        if args.recursive:
-            relative_stem = pdf_path.relative_to(input_dir).with_suffix("")
-            output_stem = "__".join(relative_stem.parts)
-        output_path = per_lcap_dir / f"{sanitize_filename(output_stem)}.json"
-        output_path.write_text(json.dumps(parsed, indent=2, ensure_ascii=False) + "\n")
+    if args.workers <= 1:
+        for index, pdf_path in enumerate(pdf_paths, start=1):
+            print(f"{index:04d}/{len(pdf_paths):04d} extracting {pdf_path}", flush=True)
+            parsed = parse_pdf_safely(str(pdf_path))
+            all_lcaps.append(parsed)
+            write_parsed_lcap(parsed, input_dir, per_lcap_dir, args.recursive)
+    else:
+        with ProcessPoolExecutor(max_workers=args.workers) as executor:
+            futures = {executor.submit(parse_pdf_safely, str(pdf_path)): pdf_path for pdf_path in pdf_paths}
+            for index, future in enumerate(as_completed(futures), start=1):
+                pdf_path = futures[future]
+                parsed = future.result()
+                print(f"{index:04d}/{len(pdf_paths):04d} extracted {pdf_path}", flush=True)
+                all_lcaps.append(parsed)
+                write_parsed_lcap(parsed, input_dir, per_lcap_dir, args.recursive)
+
+    all_lcaps.sort(key=lambda item: item.get("source_path", ""))
+    parse_error_count = sum(1 for item in all_lcaps if item.get("extraction_errors"))
 
     summary = {
         "generated_from": str(input_dir),
         "lcap_count": len(all_lcaps),
+        "parse_error_count": parse_error_count,
         "districts": all_lcaps,
     }
     (output_dir / "all_lcaps.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False) + "\n")

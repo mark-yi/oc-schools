@@ -6,7 +6,9 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import os
 import re
+import shutil
 import time
 import urllib.error
 import urllib.parse
@@ -19,6 +21,7 @@ from typing import Iterable
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT_DIR = ROOT / "lcaps_statewide"
 DEFAULT_MANIFEST_DIR = ROOT / "outputs" / "lcap_downloads"
+DEFAULT_DISTRICTS_PATH = ROOT / "data" / "cde" / "public_districts.json"
 
 CDE_DISTRICTS_URL = "https://www.cde.ca.gov/schooldirectory/report?rid=dl2&tp=txt"
 DASHBOARD_LCAP_CHECK_URL = "https://api.caschooldashboard.org/LCAP/report/check/{cds_code}"
@@ -49,8 +52,11 @@ class LcapRecord:
     year: int
     lcap_url: str
     has_lcap: bool
+    county_dir: str
+    district_dir: str
     pdf_url: str | None = None
     output_path: str | None = None
+    cds_index_path: str | None = None
     error: str | None = None
 
 
@@ -69,22 +75,43 @@ def read_text_url(url: str) -> str:
         return response.read().decode(charset)
 
 
-def iter_public_districts() -> Iterable[District]:
+def district_from_mapping(row: dict[str, str]) -> District | None:
+    cd_code = (row.get("cd_code") or row.get("CD Code") or "").strip()
+    if not re.fullmatch(r"\d{7}", cd_code):
+        return None
+    return District(
+        cd_code=cd_code,
+        cds_code=(row.get("cds_code") or f"{cd_code}0000000").strip(),
+        county=(row.get("county") or row.get("County") or "").strip(),
+        district=(row.get("district") or row.get("District") or "").strip(),
+        doc=(row.get("doc") or row.get("DOC") or "").strip(),
+        doc_type=(row.get("doc_type") or row.get("DOCType") or "").strip(),
+        status_type=(row.get("status_type") or row.get("StatusType") or "").strip(),
+    )
+
+
+def iter_public_districts_from_cde() -> Iterable[District]:
     text = read_text_url(CDE_DISTRICTS_URL)
     rows = csv.DictReader(text.splitlines(), delimiter="\t")
     for row in rows:
-        cd_code = (row.get("CD Code") or "").strip()
-        if not re.fullmatch(r"\d{7}", cd_code):
-            continue
-        yield District(
-            cd_code=cd_code,
-            cds_code=f"{cd_code}0000000",
-            county=(row.get("County") or "").strip(),
-            district=(row.get("District") or "").strip(),
-            doc=(row.get("DOC") or "").strip(),
-            doc_type=(row.get("DOCType") or "").strip(),
-            status_type=(row.get("StatusType") or "").strip(),
-        )
+        district = district_from_mapping(row)
+        if district:
+            yield district
+
+
+def iter_public_districts_from_json(path: Path) -> Iterable[District]:
+    rows = json.loads(path.read_text(encoding="utf-8"))
+    for row in rows:
+        district = district_from_mapping(row)
+        if district:
+            yield district
+
+
+def iter_public_districts(path: Path, refresh: bool) -> Iterable[District]:
+    if path.exists() and not refresh:
+        yield from iter_public_districts_from_json(path)
+        return
+    yield from iter_public_districts_from_cde()
 
 
 def dashboard_has_lcap(cds_code: str) -> bool:
@@ -117,6 +144,14 @@ def safe_filename(value: str) -> str:
     return cleaned[:140] or "unknown"
 
 
+def county_dir_name(district: District) -> str:
+    return safe_filename(district.county)
+
+
+def district_dir_name(district: District) -> str:
+    return safe_filename(f"{district.cds_code} - {district.district}")
+
+
 def download_pdf(url: str, output_path: Path) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with urllib.request.urlopen(request(url), timeout=120) as response:
@@ -124,6 +159,18 @@ def download_pdf(url: str, output_path: Path) -> None:
         if "pdf" not in content_type.lower() and not response.url.lower().endswith(".pdf"):
             raise RuntimeError(f"unexpected response for PDF download: {content_type or response.url}")
         output_path.write_bytes(response.read())
+
+
+def link_by_cds_code(source_path: Path, index_path: Path) -> None:
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+    if index_path.exists() or index_path.is_symlink():
+        index_path.unlink()
+
+    try:
+        relative_target = os.path.relpath(source_path, start=index_path.parent)
+        index_path.symlink_to(relative_target)
+    except OSError:
+        shutil.copy2(source_path, index_path)
 
 
 def write_manifests(records: list[LcapRecord], manifest_dir: Path, year: int) -> None:
@@ -152,6 +199,17 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--download", action="store_true", help="Download PDFs in addition to writing the manifest.")
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR, help="Directory for downloaded PDFs.")
     parser.add_argument("--manifest-dir", type=Path, default=DEFAULT_MANIFEST_DIR, help="Directory for manifest JSON/CSV.")
+    parser.add_argument(
+        "--districts-path",
+        type=Path,
+        default=DEFAULT_DISTRICTS_PATH,
+        help="Cached normalized CDE public districts JSON to use when present.",
+    )
+    parser.add_argument(
+        "--refresh-districts",
+        action="store_true",
+        help="Ignore the cached districts JSON and read the CDE public districts endpoint directly.",
+    )
     parser.add_argument("--delay", type=float, default=0.15, help="Delay between LEA probes, in seconds.")
     return parser
 
@@ -162,7 +220,7 @@ def main() -> None:
     records: list[LcapRecord] = []
 
     candidates = 0
-    for district in iter_public_districts():
+    for district in iter_public_districts(args.districts_path, args.refresh_districts):
         if county_filter and district.county.casefold() != county_filter:
             continue
         candidates += 1
@@ -175,6 +233,8 @@ def main() -> None:
             year=args.year,
             lcap_url=lcap_url,
             has_lcap=False,
+            county_dir=county_dir_name(district),
+            district_dir=district_dir_name(district),
         )
 
         try:
@@ -184,10 +244,19 @@ def main() -> None:
                 record.pdf_url = pdf_url
                 record.error = error
                 if args.download and has_lcap and pdf_url:
-                    filename = f"{district.cd_code} - {safe_filename(district.district)}.pdf"
-                    output_path = args.output_dir / str(args.year) / safe_filename(district.county) / filename
+                    output_path = (
+                        args.output_dir
+                        / str(args.year)
+                        / "by_county"
+                        / record.county_dir
+                        / record.district_dir
+                        / f"LCAP {args.year} - {district.cds_code}.pdf"
+                    )
                     download_pdf(lcap_url, output_path)
                     record.output_path = str(output_path)
+                    cds_index_path = args.output_dir / str(args.year) / "by_cds_code" / f"{district.cds_code}.pdf"
+                    link_by_cds_code(output_path, cds_index_path)
+                    record.cds_index_path = str(cds_index_path)
             time.sleep(args.delay)
         except Exception as error:  # Keep long statewide runs moving.
             record.error = str(error)

@@ -1,0 +1,19 @@
+# Python/local environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local tool state
+.playwright-mcp/
+
+# Generated statewide/county data artifacts
+lcaps_statewide/
+outputs/
+data/dashboard_public/
+county_runs/*/lcaps/
+county_runs/*/outputs/
+
+# OS/editor noise
+.DS_Store
