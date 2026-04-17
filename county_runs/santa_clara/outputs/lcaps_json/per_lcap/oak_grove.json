@@ -1,0 +1,1236 @@
+{
+  "source_file": "oak grove.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/santa-clara-lcap/oak grove.pdf",
+  "district_name": "Oak Grove School District",
+  "school_year": "2024-25",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "All students will be proficient in meeting and/or exceeding all Common Core State Standards and\n21st century skills.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        11
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "SBAC Math State\nAssessment",
+          "baseline_raw": "2022-2023 students\nmet or exceeded\nstandard:\nOverall: 41%\nEnglish Learners: 14%\nStudents with\nDisabilities: 16%\nSocioeconomically\nDisadvantaged: 27%",
+          "year_1_outcome_raw": "",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-2026:\nIncrease students\nwho met or\nexceeded\nstandard in math\nby an average of\n3% each year.\nYear 3 target\noutcome:",
+          "current_difference_from_baseline_raw": "",
+          "source_pages": [
+            11
+          ],
+          "baseline": {
+            "raw": "2022-2023 students\nmet or exceeded\nstandard:\nOverall: 41%\nEnglish Learners: 14%\nStudents with\nDisabilities: 16%\nSocioeconomically\nDisadvantaged: 27%",
+            "context_lines": [
+              "2022-2023 students"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met or exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard:",
+                "numeric_values": []
+              },
+              {
+                "label": "Overall",
+                "value": "41%",
+                "numeric_values": [
+                  41.0
+                ]
+              },
+              {
+                "label": "English Learners",
+                "value": "14%",
+                "numeric_values": [
+                  14.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": "Disabilities",
+                "value": "16%",
+                "numeric_values": [
+                  16.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": "Disadvantaged",
+                "value": "27%",
+                "numeric_values": [
+                  27.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "",
+            "context_lines": [],
+            "entries": []
+          },
+          "year_3_target": {
+            "raw": "2025-2026:\nIncrease students\nwho met or\nexceeded\nstandard in math\nby an average of\n3% each year.\nYear 3 target\noutcome:",
+            "context_lines": [
+              "2025-2026:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Increase students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "who met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard in math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "by an average of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3% each year.",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Year 3 target",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "outcome:",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "Recruit, hire and\nretain highly qualified\nand diverse staff",
+          "description": "We will recruit, hire and retain highly qualified and diverse staff to mirror\nour student community by actively reaching out to communities and\nengaging with partners with a focus on diversity and will use competitive\nrecruitment strategies. Our new teachers will participate in the New\nTeacher Induction program and we will provide ongoing training and\nprofessional development for all teachers.",
+          "total_funds_raw": "$76,666,508.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            16
+          ],
+          "total_funds": 76666508.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.1",
+          "title": "Recruit, hire and retain\nhighly qualified and\ndiverse staff",
+          "description": "",
+          "total_funds_raw": "$76,666,508.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 76666508.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.2",
+          "title": "Core and Supplemental\nCurriculum, Assessment\nand Data",
+          "description": "",
+          "total_funds_raw": "$3,352,504.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 3352504.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.3",
+          "title": "Core Curriculum\nProfessional\nDevelopment",
+          "description": "",
+          "total_funds_raw": "$168,283.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 168283.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.4",
+          "title": "Visual and Performing\nArts Districtwide and\nAfter School Sports at\nthe Intermediate Schools",
+          "description": "",
+          "total_funds_raw": "$1,663,834.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 1663834.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.5",
+          "title": "Centralized\nAdministrative Support\nfor English Learners,\nSocioeconomically\nDisadvantaged\nStudents, Foster Youth\nand Homeless Youth",
+          "description": "",
+          "total_funds_raw": "$249,398.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 249398.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.6",
+          "title": "Technology Hardware",
+          "description": "",
+          "total_funds_raw": "$1,850,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 1850000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.7",
+          "title": "Technology Software\nand Programs",
+          "description": "",
+          "total_funds_raw": "$553,295.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 553295.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.8",
+          "title": "Informational\nTechnology Staff, Online\nSafety and Site\nTechnology Support",
+          "description": "",
+          "total_funds_raw": "$1,849,858.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            64
+          ],
+          "total_funds": 1849858.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.5",
+          "title": "Centralized Administrative\nSupport for English\nLearners,\nSocioeconomically\nDisadvantaged Students,\nFoster Youth and Homeless\nYouth",
+          "description": "",
+          "total_funds_raw": "$249,398.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            68
+          ],
+          "total_funds": 249398.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.8",
+          "title": "Informational Technology\nStaff, Online Safety and Site\nTechnology Support",
+          "description": "",
+          "total_funds_raw": "$1,829,858.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            68
+          ],
+          "total_funds": 1829858.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "We will employ equitable practices to accelerate the academic and language achievement for\ntraditionally underserved student groups, specifically English Learners, Socioeconomically\nDisadvantaged students, Foster Youth, Homeless Youth and students of color.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        21
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "EL Access to CA\nStandards Including ELD\nStandards",
+          "baseline_raw": "2022-2023:\nImplementation of\nAcademic Content\nStandards: OGSD CA\nDashboard Local\nIndicators Ratings: 4 (or\nfull implementation) for\nELD",
+          "year_1_outcome_raw": "",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-2026:\nAchieve Level 5 on\nLocal Indicator\nRating",
+          "current_difference_from_baseline_raw": "",
+          "source_pages": [
+            21
+          ],
+          "baseline": {
+            "raw": "2022-2023:\nImplementation of\nAcademic Content\nStandards: OGSD CA\nDashboard Local\nIndicators Ratings: 4 (or\nfull implementation) for\nELD",
+            "context_lines": [
+              "2022-2023:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Implementation of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Academic Content",
+                "numeric_values": []
+              },
+              {
+                "label": "Standards",
+                "value": "OGSD CA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard Local",
+                "numeric_values": []
+              },
+              {
+                "label": "Indicators Ratings",
+                "value": "4 (or",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "full implementation) for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELD",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "",
+            "context_lines": [],
+            "entries": []
+          },
+          "year_3_target": {
+            "raw": "2025-2026:\nAchieve Level 5 on\nLocal Indicator\nRating",
+            "context_lines": [
+              "2025-2026:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Achieve Level 5 on",
+                "numeric_values": [
+                  5.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Local Indicator",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Rating",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Academic Language\nDevelopment through\nthe SEAL Model",
+          "description": "We will continue to train new teachers and teachers new to the Sobrato\nEarly Academic Language (SEAL) Model. This includes teachers in TK -\n3rd grade at sites in implementation and in grades 4-6 at five sites as well\nas Dual Language Teachers at these grade levels. Two additional sites\nbegin implementation training in 2024-2025. Teachers will attend two years\nof training and Strategy Support Sessions. Teachers participating in this\ntraining are well prepared to enact the CA ELA/ELD Framework as well as\nthe English Learner Roadmap to ensure English Language Learners\nreceive instruction that is based on research-based best practices and in\nan environment that is affirming and asset-based. The SEAL Model is\nimplemented in Spanish at our three Dual Language elementary school\nsites.\nAll sites will be provided with funds necessary to implement the SEAL\nModel such as read aloud books, chapter books, print shop costs and\nrealia. These materials are selected to ensure students see themselves\nreflected throughout the Thematic Units of instruction. Realia makes the\nScience and Social Studies Standards come to life as students become\nScientists and Social Scientists/Anthropologists, studying content through\nintegrated, thematic units.\nDel Roble Elementary School and Edenvale Elementary School will\nreceive additional funding to provide materials and resources to support\nthem as SEAL demonstration sites in our district. Each year we welcome\nteachers, administrators, school board members and researchers into the\nclassrooms at Del Roble and Edenvale. It is our privilege to be able to\ninfluence the opportunities for a robust model of instruction that teaches\nlanguage development and content in tandem; designed for English",
+          "total_funds_raw": "$319,291.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            24,
+            64
+          ],
+          "total_funds": 319291.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Professional\nDevelopment Focused\non Needs of English\nLearners, Foster Youth,\nHomeless Youth and\nSocioeconomically\nDisadvantaged Students",
+          "description": "",
+          "total_funds_raw": "$1,213,778.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 1213778.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.3",
+          "title": "English Learner Support\nStaff",
+          "description": "",
+          "total_funds_raw": "$3,019,702.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65,
+            69
+          ],
+          "total_funds": 3019702.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.4",
+          "title": "Initial and Summative\nLanguage Testing for\nEnglish Language\nLearners",
+          "description": "",
+          "total_funds_raw": "$82,583.00",
+          "contributing_raw": "No\nXEnglish\nLearners",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 82583.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.5",
+          "title": "Assessment, Data and\nProgress Monitoring",
+          "description": "",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65,
+            69
+          ],
+          "total_funds": 0.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.6",
+          "title": "Intervention Systems\nand Programs to\nSupport Extended\nLearning for English\nLearners, Foster Youth,\nHomeless Youth and\nSocioeconomically\nDisadvantaged Students",
+          "description": "",
+          "total_funds_raw": "$280,172.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 280172.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.7",
+          "title": "Expanded Learning\nOpportunities and\nTransportation Support\nfor Homeless Youth and\nFoster Youth",
+          "description": "",
+          "total_funds_raw": "$4,159,166.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 4159166.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.8",
+          "title": "Diverse and Inclusive\nPrograms and Books",
+          "description": "",
+          "total_funds_raw": "$190,715.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65,
+            69
+          ],
+          "total_funds": 190715.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.9",
+          "title": "Centralized\nAdministrative Support\nfor English Learners,\nSocioeconomically\nDisadvantaged\nStudents, Foster Youth\nand Homeless Youth",
+          "description": "",
+          "total_funds_raw": "$542,641.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 542641.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.1",
+          "title": "Academic Language\nDevelopment through the\nSEAL Model",
+          "description": "",
+          "total_funds_raw": "$312,670.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            68
+          ],
+          "total_funds": 312670.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Professional Development\nFocused on Needs of\nEnglish Learners, Foster\nYouth, Homeless Youth and",
+          "description": "",
+          "total_funds_raw": "$1,213,778.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            68
+          ],
+          "total_funds": 1213778.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.6",
+          "title": "Intervention Systems and\nPrograms to Support\nExtended Learning for\nEnglish Learners, Foster\nYouth, Homeless Youth and\nSocioeconomically\nDisadvantaged Students",
+          "description": "",
+          "total_funds_raw": "$215,972.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 215972.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.7",
+          "title": "Expanded Learning\nOpportunities and\nTransportation Support for\nHomeless Youth and Foster\nYouth",
+          "description": "",
+          "total_funds_raw": "$31,980.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 31980.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.9",
+          "title": "Centralized Administrative\nSupport for English\nLearners,\nSocioeconomically\nDisadvantaged Students,\nFoster Youth and Homeless\nYouth",
+          "description": "",
+          "total_funds_raw": "$542,641.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 542641.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "We will provide an inclusive learning environment for students with disabilities to best support social,\nemotional, and academic development.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        30
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "ELA CA Dashboard\nIndicator for Students\nwith Disabilities",
+          "baseline_raw": "2022-2023: -117",
+          "year_1_outcome_raw": "",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-2026: -87 or\nhigher",
+          "current_difference_from_baseline_raw": "",
+          "source_pages": [
+            30
+          ],
+          "baseline": {
+            "raw": "2022-2023: -117",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2022-2023",
+                "value": "-117",
+                "numeric_values": [
+                  -117.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "",
+            "context_lines": [],
+            "entries": []
+          },
+          "year_3_target": {
+            "raw": "2025-2026: -87 or\nhigher",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2025-2026",
+                "value": "-87 or",
+                "numeric_values": [
+                  -87.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "higher",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Special Education\nSupplemental\nCurriculum and\nTraining",
+          "description": "During the 23-24 school year, the department developed a special interest\ngroup of various special education teachers to explore appropriate\nsupplemental curriculum for our students with disabilities. This team of\nteachers selected the general education math curriculum, enVision Math,\nand will further enhance it with its intervention kits for our students with\ndisabilities. Teachers across the district will be trained on the new math\ncurriculum.\nAdditionally, our curriculum special interest group identified a new ELA\ncurriculum: Language! to support our students with mild to moderate\nsupport needs. This new supplemental ELA curriculum will further support\nour current phonics and reading intervention curriculum, Sonday. It also\nhas a writing and composition component to it, which we previously did not\nhave available to our students with disabilities.",
+          "total_funds_raw": "$152,965.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            32
+          ],
+          "total_funds": 152965.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.1",
+          "title": "Special Education\nSupplemental\nCurriculum and Training",
+          "description": "",
+          "total_funds_raw": "$152,965.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 152965.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.2",
+          "title": "Special Education\nProfessional\nDevelopment",
+          "description": "",
+          "total_funds_raw": "$139,613.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            65
+          ],
+          "total_funds": 139613.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.3",
+          "title": "Special Education\nBilingual Support Staff",
+          "description": "",
+          "total_funds_raw": "$96,552.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 96552.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.4",
+          "title": "Special Education\nSupport Staff",
+          "description": "",
+          "total_funds_raw": "$22,736,726.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 22736726.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.5",
+          "title": "Special Education\nBehavioral Supports",
+          "description": "",
+          "total_funds_raw": "$982,275.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 982275.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.3",
+          "title": "Special Education Bilingual\nSupport Staff",
+          "description": "",
+          "total_funds_raw": "$96,552.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 96552.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "4",
+      "description": "We will actively engage families and community members in supporting the implementation of\nCCSS instruction and providing input to program decisions.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        37
+      ],
+      "metrics": [
+        {
+          "metric_number": "4.1",
+          "metric_name": "Question on LCAP\nEducational Partners\nFeedback Survey:\nOGSD seeks input from\nall families and groups",
+          "baseline_raw": "2023-2024: 61% of\neducational partners\nfeel that OGSD seeks\ninput from all families",
+          "year_1_outcome_raw": "",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-2027: 76% of\neducational\npartners feel that\nOGSD seeks input\nfrom all families",
+          "current_difference_from_baseline_raw": "",
+          "source_pages": [
+            37
+          ],
+          "baseline": {
+            "raw": "2023-2024: 61% of\neducational partners\nfeel that OGSD seeks\ninput from all families",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2023-2024",
+                "value": "61% of",
+                "numeric_values": [
+                  61.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "educational partners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "feel that OGSD seeks",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "input from all families",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "",
+            "context_lines": [],
+            "entries": []
+          },
+          "year_3_target": {
+            "raw": "2026-2027: 76% of\neducational\npartners feel that\nOGSD seeks input\nfrom all families",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2026-2027",
+                "value": "76% of",
+                "numeric_values": [
+                  76.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "partners feel that",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "OGSD seeks input",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "from all families",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "4.1",
+          "title": "Social Worker and\nSocial Work Interns",
+          "description": "School Social Worker interns and Pupil Personnel Services Credential\ni n terns will provide direct and indirect services in our district. School Social",
+          "total_funds_raw": "$689,981.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            39,
+            66
+          ],
+          "total_funds": 689981.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.2",
+          "title": "Communication and\nOutreach Directed\nTowards Families of\nFoster Youth, Homeless\nYouth, English Learners\nand Socioeconomically\nDisadvantaged Students",
+          "description": "",
+          "total_funds_raw": "$583,501.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 583501.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.3",
+          "title": "Community Liaisons",
+          "description": "",
+          "total_funds_raw": "$458,363.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66,
+            70
+          ],
+          "total_funds": 458363.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.4",
+          "title": "District Community\nEvents and Parent\nInformation Nights",
+          "description": "",
+          "total_funds_raw": "$10,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 10000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.5",
+          "title": "Parent Access to\nInformation and Decision\nInput Opportunities",
+          "description": "",
+          "total_funds_raw": "$201,842.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66,
+            70
+          ],
+          "total_funds": 201842.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.6",
+          "title": "School Linked Services",
+          "description": "",
+          "total_funds_raw": "$138,720.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 138720.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.1",
+          "title": "Social Worker and Social\nWork Interns",
+          "description": "",
+          "total_funds_raw": "$412,778.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 412778.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.2",
+          "title": "Communication and\nOutreach Directed Towards\nFamilies of Foster Youth,\nHomeless Youth, English\nLearners and",
+          "description": "",
+          "total_funds_raw": "$583,501.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            69
+          ],
+          "total_funds": 583501.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "5",
+      "description": "School and classroom environments support learning, safety, engagement and healthy well-being",
+      "goal_type": "B road Goal",
+      "source_pages": [
+        43
+      ],
+      "metrics": [
+        {
+          "metric_number": "5.1",
+          "metric_name": "CA Dashboard Chronic\nAbsenteeism",
+          "baseline_raw": "2022-2023: Overall:\n25.6%\nPacific Islander: 37.7%\nEnglish Learners:\n30.7%\nStudents with\nDisabilities: 34.4%",
+          "year_1_outcome_raw": "",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-2026:\nOverall: 14.25% or\nless\nPacific Islander:\n14.25% or less\nEnglish Learners:\n14.25% or less",
+          "current_difference_from_baseline_raw": "",
+          "source_pages": [
+            43
+          ],
+          "baseline": {
+            "raw": "2022-2023: Overall:\n25.6%\nPacific Islander: 37.7%\nEnglish Learners:\n30.7%\nStudents with\nDisabilities: 34.4%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2022-2023",
+                "value": "Overall:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "25.6%",
+                "numeric_values": [
+                  25.6
+                ]
+              },
+              {
+                "label": "Pacific Islander",
+                "value": "37.7%",
+                "numeric_values": [
+                  37.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "English Learners:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "30.7%",
+                "numeric_values": [
+                  30.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": "Disabilities",
+                "value": "34.4%",
+                "numeric_values": [
+                  34.4
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "",
+            "context_lines": [],
+            "entries": []
+          },
+          "year_3_target": {
+            "raw": "2025-2026:\nOverall: 14.25% or\nless\nPacific Islander:\n14.25% or less\nEnglish Learners:\n14.25% or less",
+            "context_lines": [
+              "2025-2026:"
+            ],
+            "entries": [
+              {
+                "label": "Overall",
+                "value": "14.25% or",
+                "numeric_values": [
+                  14.25
+                ]
+              },
+              {
+                "label": null,
+                "value": "less",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Pacific Islander:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "14.25% or less",
+                "numeric_values": [
+                  14.25
+                ]
+              },
+              {
+                "label": null,
+                "value": "English Learners:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "14.25% or less",
+                "numeric_values": [
+                  14.25
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.metric_2",
+          "metric_name": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "baseline_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "year_1_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+          "year_2_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2026-27. Leave\nblank until then.",
+          "year_3_target_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "current_difference_from_baseline_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26 and\n2026-27. Leave blank\nuntil then.",
+          "source_pages": [
+            93
+          ],
+          "baseline": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2024-25 or when",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "adding a new metric.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2025-26. Leave",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "blank until then.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2024-25 or when",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "adding a new metric.",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "5.1",
+          "title": "Positive Behavior\nInterventions and\nSupports",
+          "description": "Tier 1 behavior supports will be improved at the schools sites through\nRestorative Practices for classroom teachers, which began in 2023-2024\nand will continue with additional cohorts in 2024-2025, and will include\nclassified staff groups as well. Sakamoto, Baldwin, Davis and Ledesma are\nparticipating in the SUMS grant which will enable us to provide\nindividualized PBIS training for Sakamoto as well as MTSS training at the\ndistrict level. We will convene a committee of principals, district office",
+          "total_funds_raw": "$141,211.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            46,
+            66
+          ],
+          "total_funds": 141211.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.2",
+          "title": "Mental Health and\nSocioemotional\nCounseling Services",
+          "description": "",
+          "total_funds_raw": "$896,778.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 896778.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.3",
+          "title": "Student Physical Health\nand Well-Being",
+          "description": "",
+          "total_funds_raw": "$1,353,138.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 1353138.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.4",
+          "title": "Additional Health Clerk\nSupport of Foster Youth,\nHomeless Youth,\nSocioeconomically\nDisadvantaged\nStudents, and English\nLearners",
+          "description": "",
+          "total_funds_raw": "$286,441.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            66
+          ],
+          "total_funds": 286441.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.5",
+          "title": "Academic Counselors at\nIntermediate Schools",
+          "description": "",
+          "total_funds_raw": "$279,758.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            67,
+            70
+          ],
+          "total_funds": 279758.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.6",
+          "title": "Central Office Support\nfor Foster Youth,\nHomeless Youth,\nEnglish Learners,\nSocioeconomically\nDisadvantaged Students\nin Areas of Attendance,\nSafety and Physical\nHealth",
+          "description": "",
+          "total_funds_raw": "$109,866.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            67
+          ],
+          "total_funds": 109866.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.7",
+          "title": "Attendance\nImprovement and\nMonitoring\nSocioeconomically\nDisadvantaged Students\nSocioeconomically\nDisadvantaged Students",
+          "description": "",
+          "total_funds_raw": "$6,500.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            67,
+            69,
+            70
+          ],
+          "total_funds": 6500.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.2",
+          "title": "Mental Health and\nSocioemotional Counseling\nServices",
+          "description": "",
+          "total_funds_raw": "$836,190.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            70
+          ],
+          "total_funds": 836190.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.4",
+          "title": "Additional Health Clerk\nSupport of Foster Youth,\nHomeless Youth,\nSocioeconomically\nDisadvantaged Students,\nand English Learners",
+          "description": "",
+          "total_funds_raw": "$286,441.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            70
+          ],
+          "total_funds": 286441.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.6",
+          "title": "Central Office Support for\nFoster Youth, Homeless\nYouth, English Learners,\nSocioeconomically\nDisadvantaged Students in\nAreas of Attendance, Safety\nand Physical Health",
+          "description": "",
+          "total_funds_raw": "$109,866.00",
+          "contributing_raw": "XYes",
+          "source_pages": [
+            70
+          ],
+          "total_funds": 109866.0,
+          "contributing": true
+        }
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 5,
+  "metric_count": 6,
+  "action_count": 50
+}

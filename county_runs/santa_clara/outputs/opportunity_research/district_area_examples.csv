@@ -1,0 +1,3451 @@
+district_name,area_key,area_label,goal_count,action_count,metric_count,action_dollars,externalizable_dollars,movement_points,movement_improving,movement_flat,movement_worsening,movement_negative_share,pace_metrics,pace_positive,pace_negative,pace_negative_share,top_action_1,top_action_1_dollars,top_action_2,top_action_2_dollars,metric_example_1,metric_example_1_status,metric_example_1_diff
+San José Unified School District,ela_proficiency,ELA Proficiency & Literacy,3,10,4,399254966.91,299437882.19,11,5,1,5,0.4545,3,1,2,0.6667,"Rigorous
+Curriculum-
+Innovative
+Workforce - EL
+Progress, ELA,
+Chronic
+absenteeism,
+Suspensions",242400.0,"Rigorous Curriculum-
+Innovative Workforce -
+EL Progress, ELA,
+Chronic absenteeism,
+Suspensions",242400.0,"English Language
+Arts (ELA) State
+Standardized
+Assessment-
+Performance
+Indicator Source:
+DataQuest
+(Action 3.1
+Enhanced
+Resources
+Innovative Work)",moving_away,Grades 6-8 &
+San José Unified School District,english_learner_progress,English Learner Progress & Reclassification,2,16,5,413227189.94,283952382.2,4,1,1,2,0.5,3,1,2,0.6667,"English Learner
+Support Metric 1,
+2 - Discontinued",0.0,"English Learner Support
+Metric 1, 2 -
+Discontinued",0.0,"English Learner
+Proficiency
+Assessment
+(ELPAC)
+Percentage making
+progress toward
+English language
+proficiency
+Source: California
+School Dashboard
+and DataQuest",moving_away,-6.1%
+San José Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,8,5,357123437.46,261639677.14,14,10,0,4,0.2857,4,1,3,0.75,"Rigorous
+Curriculum -
+Innovative
+Workforce",21786716.3,"Learning
+Experiences/
+Transportation",3.5,"Percentage of
+graduates meeting
+UC/CSU
+requirements
+Source: DataQuest",moving_away,5.2%
+San José Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",3,5,4,321823651.72,231244553.09,7,4,1,2,0.2857,2,1,1,0.5,"Rigorous
+Curriculum-
+Innovative
+Workforce - EL
+Progress, ELA,
+Chronic
+absenteeism,
+Suspensions",242400.0,"Rigorous
+Curriculum-
+Innovative
+Workforce
+(Base)",287330648.0,"Suspension rate
+Source-Dataquest",off_track,.1%
+San José Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",1,9,3,346455905.13,241275695.73,9,7,1,1,0.1111,3,2,1,0.3333,"Credit Recovery
+Data Metric 1 -
+Discountinued",0.0,"Credit Recovery Data
+Metric 1 - Discountinued",0.0,"Middle School
+dropout rate Source
+- IC",off_track,0.00%
+San José Unified School District,special_education_inclusion,Special Education & Inclusion,3,7,1,382298362.51,273356737.05,3,0,3,0,0.0,0,0,0,0.0,"Rigorous
+Curriculum-
+Innovative
+Workforce
+(Base)",287330648.0,"Professional
+Development.
+Metric 7.1, 7.2",251666.0,"Course Access:
+Percent of students
+with access to and
+enrollment in a
+broad course of
+study, including
+unduplicated
+student groups and
+individuals with
+exceptional needs.
+Source: IC Report",,0%
+San José Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,8,1,355403552.33,259378322.12,0,0,0,0,0.0,0,0,0,0.0,"Enhanced
+Resources -
+Innovative
+Workforce
+(Base)",31226302.2,"Enhanced
+Resources -
+Additional
+Resources and
+Services",11813648.7,"""Parental
+Participation in the
+Expanded Learning
+Opportunities
+Program (ELOP) for
+Low Income,
+English Learner
+and Foster Youth
+students.
+Survey measuring
+Parent satisfaction
+with program",,
+sunnyvale,special_education_inclusion,Special Education & Inclusion,0,7,4,111952802.96,72325095.62,9,9,0,0,0.0,4,0,4,1.0,"Equitable
+Opportunities
+Base Resources &
+Services",1053944.0,"Inclusive and
+Nurturing
+Environments Base
+Staffing",20828762.12,"Extent to which pupils
+have access to and are
+enrolled in: programs
+and services developed
+and provided to
+individuals with
+exceptional needs",moving_away,1.05%
+sunnyvale,ela_proficiency,ELA Proficiency & Literacy,0,6,3,109644657.96,70247765.12,10,10,0,0,0.0,3,0,3,1.0,"Students Achieve
+Mastery",4900344.0,"Inclusive and
+Nurturing
+Environments Base
+Resources &
+Services",1626102.0,"Distance from standard
+(DFS) in ELA for the
+following student groups:
+Students with disabilities
+Socioeconomically
+Disadvantaged
+English Learners",moving_away,2024 CA
+Milpitas Unified School District,ela_proficiency,ELA Proficiency & Literacy,0,17,4,135735121.0,91716886.65,18,9,0,9,0.5,1,1,0,0.0,"Early Literacy K-3
+Staffing",1437600.0,"State Seal and
+Pathway to Biliteracy",58533.0,"K-3 Grade Level
+Reading Proficiency is
+On or Above Grade
+Level as measured by
+iReady",on_track,Overall:-3.2%
+Milpitas Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",1,18,7,142666570.0,92970936.8,34,30,2,2,0.0588,4,3,1,0.25,"State Seal and
+Pathway to Biliteracy",58533.0,"Educational
+Pathways and
+Staffing",3169785.0,"Successfully completed
+at least Career Technical
+Education (CTE)
+Pathway",moving_away,All: 95 more
+Milpitas Unified School District,special_education_inclusion,Special Education & Inclusion,1,14,1,99234396.0,59843532.7,1,1,0,0,0.0,1,0,1,1.0,"Special Education
+and General
+Education Co-
+Teacher
+Development",80000.0,"Special Education
+Staffing",27925248.0,"Percentage of SWD who
+LRE >80%",off_track,4.2%
+Milpitas Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,3,2,36239523.0,32412547.45,4,0,0,4,1.0,1,0,1,1.0,"Acceleration and
+Intervention to Meet
+Needs of
+Unduplicated
+Students",812093.0,"Standards Aligned
+Curriculum and
+Facilities",66000.0,Graduation Rate,moving_away,All: -3.8%
+Alum Rock Union Elementary School District,ela_proficiency,ELA Proficiency & Literacy,1,18,4,58055410.9,48380589.15,0,0,0,0,0.0,2,0,2,1.0,"Biliteracy Pathway
+Opportunities",82924.0,"Expanded Support
+for Long-Term
+English Learners &
+Newcomers",578038.91,"Students meeting
+Pathway to Seal of
+Biliteracy criteria",off_track,
+sunnyvale,mental_health_wellness,"Mental Health, SEL & Wellness",0,14,1,126217508.88,85116113.15,0,0,0,0,0.0,0,0,0,0.0,"Inclusive and
+Nurturing
+Environments
+Targeted Staffing",6680192.13,"Inclusive and
+Nurturing
+Environments",2288145.0,"Student perception of
+access to mental health
+resources when needed",,
+Milpitas Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,6,1,42554147.0,35600100.1,11,7,0,4,0.3636,1,0,1,1.0,"Support and
+Administrative
+Staffing",35361430.0,"Adult Professional
+Development:
+Administrators
+to address the CDE
+Dashboard",0.0,Chronic Absenteeism,off_track,All: -1.5%
+sunnyvale,school_climate_suspension,"School Climate, Behavior & Suspension",0,9,2,39692018.04,35675598.44,20,2,5,13,0.65,2,1,1,0.5,"Inclusive and
+Nurturing
+Environments",2288145.0,"Inclusive and
+Nurturing
+Environments
+Targeted Staffing",6680192.13,"Student Suspension
+Rates",moving_away,Disabilities: +1%
+sunnyvale,english_learner_progress,English Learner Progress & Reclassification,0,9,6,41966485.75,36392425.16,13,12,0,1,0.0769,4,0,4,1.0,"Students Achieve
+Mastery
+Targeted Resources
+& Services",236089.0,"Inclusive and
+Nurturing
+Environments Base
+Staffing",20828762.12,"English learner
+reclassification rate",moving_away,rate: -4%
+Milpitas Unified School District,math_proficiency,Math Proficiency,0,6,2,38084049.0,33612368.45,22,10,0,12,0.5455,2,1,1,0.5,"Support and
+Administrative
+Staffing",35361430.0,High Impact Tutoring,1402174.0,SBAC Math,moving_away,Overall: .21%
+Alum Rock Union Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,12,0,68386879.38,59259474.43,0,0,0,0,0.0,0,0,0,0.0,"Expanded Learning
+Programming",9958761.53,"Expanded Learning
+Opportunities",30000.0,,,
+Santa Clara Unified School District,english_learner_progress,English Learner Progress & Reclassification,2,17,2,23999607.0,19599201.3,3,0,0,3,1.0,1,0,1,1.0,"Provide equitable
+mental health and
+wellness support for
+all students, with a
+focus on support for
+our English learners,
+foster youth,
+homeless students,
+and low income
+students.",14868083.0,"The Family Resource
+Center partners with
+school sites to offer a
+comprehensive set of
+services and
+supports to foster
+youth, students
+experiencing
+homelessness,
+English learners, low
+income, and other
+families to address
+basic needs and
+access both
+community and
+school site
+resources.",391333.0,"Percent of “English
+Learner” students
+making progress
+towards English
+Proficiency as measured
+by the English Learner
+Progress Indicator
+(ELPI)
+(Action 1.7)",moving_away,Learner) : -0.8%
+sunnyvale,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,5,2,24530492.12,22077442.91,20,12,1,7,0.35,1,0,1,1.0,"Inclusive and
+Nurturing
+Environments Base
+Staffing",20828762.12,"Inclusive and
+Nurturing
+Environments",2288145.0,"Chronic absenteeism
+(source: CA Dashboard)",moving_away,Disabilities: -3.1%
+San José Unified School District,family_community_engagement,Family & Community Engagement,2,4,4,60947469.93,51779127.06,1,1,0,0,0.0,0,0,0,0.0,"Unified
+Community -
+Innovative
+Workforce
+(Base)",47767579.2,"Unified
+Community -
+Innovative
+Workforce",7472684.08,"Parent and Family
+Engagement
+Source: California
+School Dashboard
+Local Performance
+Indicator, Parent
+and Family
+Engagement,
+Reflection Tool
+Rating Scale",,4 out of 12
+Alum Rock Union Elementary School District,special_education_inclusion,Special Education & Inclusion,0,14,0,59044966.41,50367033.04,0,0,0,0,0.0,0,0,0,0.0,"Special Services for
+students",34989125.0,"Professional
+development and
+support to ensure
+high quality
+instruction",2479003.96,,,
+San José Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,1,3,3,31711102.2,28406671.98,8,6,0,2,0.25,2,1,1,0.5,"Rigorous
+Curriculum-
+Innovative
+Workforce - EL
+Progress, ELA,
+Chronic
+absenteeism,
+Suspensions",242400.0,"Rigorous Curriculum-
+Innovative Workforce -
+EL Progress, ELA,
+Chronic absenteeism,
+Suspensions",242400.0,"Chronic
+absenteeism rate
+Source - DataQuest",off_track,3.0%
+Alum Rock Union Elementary School District,english_learner_progress,English Learner Progress & Reclassification,1,13,5,93942660.1,48550033.45,0,0,0,0,0.0,0,0,0,0.0,"Expanded Support
+for Long-Term
+English Learners &
+Newcomers",578038.91,"Expanded Support for
+Long-Term English
+Learners & Newcomers",578038.91,"ELPAC growth
+metrics (ELPI)",,
+sunnyvale,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,11,0,50036690.88,43702827.58,0,0,0,0,0.0,0,0,0,0.0,"Equitable
+Opportunities
+Base Resources &
+Services",1053944.0,"Students Achieve
+Mastery",4900344.0,,,
+Milpitas Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,15,2,40844064.0,35540938.9,5,4,0,1,0.2,1,1,0,0.0,"Mental Health
+Staffing",4457493.0,"Tier 1, 2, and 3
+Social Emotional and
+Mental Health
+Supports",324398.0,Wellness Center Survey,at_or_above_target,-143 responses
+Santa Clara Unified School District,special_education_inclusion,Special Education & Inclusion,2,12,4,22049514.0,18426104.35,14,5,5,4,0.2857,4,0,4,1.0,"Provide professional
+learning and instructional
+coaching to enhance
+certificated teacher,
+classified staff and site
+administrator capacity to
+improve student
+learning, achievement in
+literacy and mathematics
+and graduation rates,
+with a focus on English
+learners, Hispanic/Latino
+students, foster and
+homeless youth, low
+income students and
+students with disabilities.",692360.0,"Invest in expansion of
+inclusive practices in
+order to improve access
+to rigorous,
+college/career readiness
+courses especially for
+students with disabilities
+and unhoused youth, to
+address areas of focus
+for Differentiated
+Assistance.",234471.0,"11th Grade ELA
+EAP/CAASPP, Standard
+Met/Exceeded",moving_away,All: -12.04%
+San José Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,4,0,53285270.5,41929735.4,0,0,0,0,0.0,0,0,0,0.0,"Enhanced
+Resources -
+Innovative
+Workforce
+(Base)",31226302.2,"Enhanced
+Resources -
+Additional
+Resources and
+Services",11813648.7,,,
+Alum Rock Union Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,7,2,45336448.62,39044402.84,0,0,0,0,0.0,0,0,0,0.0,"Positive School Climate
+and Culture",2385501.31,"Positive School Climate
+and Culture",153100.0,"California Dashboard
+attendance data
+(suspension and
+expulsion data)",,
+San José Unified School District,data_technology,Data Systems & Instructional Technology,0,4,0,43165556.71,38849001.04,0,0,0,0,0.0,0,0,0,0.0,"Enhanced
+Resources -
+Innovative
+Workforce
+(Base)",31226302.2,"Enhanced
+Resources -
+Additional
+Resources and
+Services (Base)",9004683.38,,,
+Milpitas Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,16,0,41590677.0,35422847.95,0,0,0,0,0.0,0,0,0,0.0,"Acceleration and
+Intervention to Meet
+Needs of
+Unduplicated
+Students",812093.0,High Impact Tutoring,1402174.0,,,
+Santa Clara Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",2,15,3,19733852.0,17391220.3,13,0,0,13,1.0,0,0,0,0.0,"Provide teachers with
+Professional
+Learning
+opportunities focused
+on supporting youth
+in the areas of Social
+Emotional Learning,
+restorative practices,
+and de-escalation
+strategies.",20000.0,"Increase student
+ownership of their
+academic journey
+and foster a sense of
+accountability and
+celebration in relation
+to meeting/not
+meeting educational
+outcomes.
+students with the highest
+need as a Tier 2 support.
+and mental health
+needs.
+areas of Social
+Emotional Learning,
+restorative practices,
+and de-escalation
+strategies.",12000.0,"Percent of students
+completing two
+semesters, three
+quarters, or three
+trimesters of
+partner/associated
+credit-granting, college
+course in either an
+academic discipline
+(e.g., English) or CTE
+discipline with a C- or
+better.
+(Action 3.6)",,Overall: +2.4%.
+Alum Rock Union Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,3,2,38595987.77,34736388.99,0,0,0,0,0.0,1,1,0,0.0,"Special Services for
+students",34989125.0,"Professional
+development and
+support to ensure
+high quality
+instruction",2479003.96,"Middle School Dropout
+Rate",,
+Gilroy Unified School District,english_learner_progress,English Learner Progress & Reclassification,0,14,3,22719825.56,13835509.36,3,1,0,2,0.6667,3,1,2,0.6667,"2.3 Language &
+Literacy for
+Multilingual Learners
+(MLLs / ELLs)",1599260.0,"2.3 Language & Literacy
+for Multilingual Learners
+(MLLs / ELLs)",15992.0,"MMHS English Learner
+Progress -- percent of
+ELs making progress on
+ELPAC",moving_away,-1.6%
+Alum Rock Union Elementary School District,family_community_engagement,Family & Community Engagement,0,15,11,18356415.52,15823966.79,0,0,0,0,0.0,3,0,3,1.0,"Community and
+Family Outreach and
+Support",1604317.73,"Community and Family
+Outreach and Support",1604317.73,"Attendance sheets for
+DAC and DELAC
+meetings",off_track,
+Alum Rock Union Elementary School District,math_proficiency,Math Proficiency,0,3,3,35185725.0,31645402.5,0,0,0,0,0.0,0,0,0,0.0,"Special Services for
+students",34989125.0,"Positive School
+Climate and Culture",153100.0,"SBAC results -
+English Language
+Arts and Mathematics",,
+Alum Rock Union Elementary School District,college_career_readiness,"College, Career & Postsecondary Readiness",1,7,1,20239018.8,15814899.95,0,0,0,0,0.0,1,0,1,1.0,"Routine Restricted
+Maintenance Repair",4944016.25,"Biliteracy Pathway
+Opportunities",82924.0,"Students meeting
+Pathway to Seal of
+Biliteracy criteria",off_track,
+San José Unified School District,math_proficiency,Math Proficiency,0,4,3,24972953.43,22425324.89,13,12,0,1,0.0769,3,2,1,0.3333,"Rigorous
+Curriculum -
+Innovative
+Workforce",21786716.3,"Rigorous
+Curriculum -
+Additional",2934571.13,"Math: Percentage
+of students who
+demonstrate
+college
+preparedness
+pursuant to the
+Early Assessment
+Program (Standard
+Exceeded/Level 4)
+Source: DataQuest",moving_away,Grade 11:
+sunnyvale,family_community_engagement,Family & Community Engagement,0,8,1,33994245.13,30594820.62,0,0,0,0,0.0,0,0,0,0.0,"Inclusive and
+Nurturing
+Environments",2288145.0,"Equitable
+Opportunities
+Targeted Staff",2541043.88,"Total number of parent
+engagement/parent
+education opportunities
+offered centrally and at
+school sites.",,
+Morgan Hill Unified School District,english_learner_progress,English Learner Progress & Reclassification,3,126,14,22951131.97,14179042.83,39,33,0,6,0.1538,7,0,7,1.0,"Long Term English
+Learner (LTEL)-
+Development of LTEL
+courses and
+supplemental materials
+to improve outcomes for
+English Learners.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics)",66406.0,"English Language
+Development
+Teacher on Special
+Assignment to
+improve outcomes for
+English Learners
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics).",150453.15,"Pupil Achievement:
+English Learner
+graduates that have
+successfully completed
+courses that satisfy
+UC/CSU a-g university
+entrance requirements
+(DataQuest)",moving_away,Class of 2024
+Gilroy Unified School District,special_education_inclusion,Special Education & Inclusion,0,11,8,23094635.56,14622724.96,21,18,0,3,0.1429,8,1,7,0.875,2.1 Equity & Inclusion,678367.0,"1.4 District-led
+Professional
+Learning",693561.0,"MMHS CAASPP Math --
+Nearly Met or above",moving_away,-2.3%
+sunnyvale,data_technology,Data Systems & Instructional Technology,0,5,0,29643353.12,26679017.81,0,0,0,0,0.0,0,0,0,0.0,"Inclusive and
+Nurturing
+Environments Base
+Staffing",20828762.12,"Students Achieve
+Mastery",4900344.0,,,
+sunnyvale,college_career_readiness,"College, Career & Postsecondary Readiness",0,7,0,25816953.12,23235257.81,0,0,0,0,0.0,0,0,0,0.0,"Inclusive and
+Nurturing
+Environments Base
+Staffing",20828762.12,"Inclusive and
+Nurturing
+Environments",2288145.0,,,
+Fremont Union High School District,college_career_readiness,"College, Career & Postsecondary Readiness",2,14,4,15107190.47,9384956.23,14,8,0,6,0.4286,1,0,1,1.0,"Advanced Placement
+Courses",6993208.68,"Career Technical
+Education",835828.0,"Increase the percentage
+of students who have
+successfully completed
+both A-G requirements
+and a CTE pathway.",moving_away,+0.5%
+Gilroy Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,5,7,10702528.0,9218111.2,16,10,0,6,0.375,7,1,6,0.8571,"College and Career
+Readiness (including
+Career Technical
+Education (CTE))",766325.0,"College and Career
+Readiness",188624.0,UC/CSU A-G Ready,moving_away,Overall: -2.8%
+Santa Clara Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,16,3,24119736.0,19899641.6,46,45,0,1,0.0217,1,1,0,0.0,"Provide small group
+in-class Tier 1, Tier 2
+and Tier 3 early
+literacy support to
+students with highest
+need",3557708.0,"Provide before and
+after school support
+for students with the
+highest need as a
+Tier 2 support.",200000.0,"Percent of students
+receiving 1:1 literacy
+intervention (Reading
+Recovery) meeting &
+exceeding the Reading",,Overall: -4%.
+Cupertino Union Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,13,2,14094972.0,7841781.4,2,1,0,1,0.5,1,0,1,1.0,"SST Meetings & Tier
+1/Tier 2 Site Teams",0.0,"After School Sports
+(Middle School)",106184.0,"ELOP: Percentage of
+eligible unduplicated
+students (English
+Learners, Foster Youth,
+Low-Income) enrolled in
+the Expanded Learning
+Opportunities Program",moving_away,-1%
+Gilroy Unified School District,ela_proficiency,ELA Proficiency & Literacy,0,15,7,16698867.0,13689704.05,16,16,0,0,0.0,7,4,3,0.4286,"2.3 Language &
+Literacy for
+Multilingual Learners
+(MLLs / ELLs)",1599260.0,"2.3 Language & Literacy
+for Multilingual Learners
+(MLLs / ELLs)",15992.0,"CAASPP ELA
+Met/Exceeded",off_track,Overall : +2.3%
+Santa Clara Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,13,4,21819218.0,18322944.75,4,3,1,0,0.0,2,2,0,0.0,"Provide equitable
+mental health and
+wellness support for
+all students, with a
+focus on support for
+our English learners,
+foster youth,
+homeless students,
+and low income
+students.",14868083.0,"Provide supplemental
+site level support to
+better address
+unduplicated student
+wellness, behavioral,
+and mental health
+needs.",1127342.0,"Percent of secondary
+school staff trained in
+Mental Health Literacy.
+(Action 2.2)",,
+Santa Clara Unified School District,family_community_engagement,Family & Community Engagement,1,12,4,16657737.0,14452054.3,4,2,1,1,0.25,1,1,0,0.0,"The Family Resource
+Center partners with
+school sites to offer a
+comprehensive set of
+services and
+supports to foster
+youth, students
+experiencing
+homelessness,
+English learners, low
+income, and other
+families to address
+basic needs and
+access both
+community and
+school site
+resources.",391333.0,"Increase meaningful
+engagement through
+educational
+opportunities for
+parents and families,
+district events, and
+volunteerism.",5000.0,"Number of family
+Resource Center
+contacts each year
+(Action 3.3)",,"students = -2,151"
+East Side Union High School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,10,0,29122192.0,17559815.2,0,0,0,0,0.0,0,0,0,0.0,"Mental health & wellness support provided by school
+social workers and wellness center support staff
+using an MTSS framework",5133499.0,Academic and social-emotional counseling p,7890122.0,,,
+Santa Clara Unified School District,ela_proficiency,ELA Proficiency & Literacy,2,23,22,12282348.0,8968931.8,76,62,5,9,0.1184,8,2,6,0.75,"Provide students with
+interventions in
+reading/writing, and
+math in order to deter
+task avoidance and",10035.0,"Provide students with
+interventions in
+reading/writing, and
+math in order to deter
+task avoidance and an
+escalation in behavior .",10035.0,"11th Grade ELA
+EAP/CAASPP, Standard
+Met/Exceeded",moving_away,All: -12.04%
+Alum Rock Union Elementary School District,data_technology,Data Systems & Instructional Technology,0,8,0,17363694.78,15201844.8,0,0,0,0,0.0,0,0,0,0.0,"Supplemental
+Educational
+Programs and
+Platforms",368828.12,"Supplemental
+Educational Programs
+and Platforms",368828.12,,,
+Morgan Hill Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",1,57,7,11068068.12,7361707.76,27,17,3,7,0.2593,5,1,4,0.8,"Credit Recovery -
+Provide English
+Learners,
+Socioeconomically
+Disadvantaged, and
+Foster Youth who
+have failed or missed
+courses the
+opportunity to retake
+and earn credits
+needed for
+graduation including,
+but not limited to,
+online courses,
+summer school,
+after-school
+programs, and
+individualized
+learning plans to help
+students stay on",5000.0,"Credit Recovery -
+Provide English
+Learners,
+Socioeconomically
+Disadvantaged, and
+Foster Youth who have
+failed or missed courses
+the opportunity to retake
+and earn credits needed
+for graduation including,
+but not limited to, online
+courses, summer school,
+after-school programs,
+and individualized
+learning plans to help
+students stay on track
+for graduation.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics, College and
+Career Readiness,
+Graduation Rates)",5000.0,"Pupil Achievement:
+High School Graduation
+Rates
+(Cohort/DataQuest)",off_track,Class of 2024
+Mountain View Whisman School District,ela_proficiency,ELA Proficiency & Literacy,0,19,7,8773864.0,6388591.55,55,42,9,4,0.0727,6,0,6,1.0,Early Literacy Team,679448.0,Early Literacy Team,452965.0,"Priority 4 - Student
+Achievement
+CAASPP Results - ELA",moving_away,Overall: -2
+Mountain View Whisman School District,english_learner_progress,English Learner Progress & Reclassification,0,21,5,10236090.0,7104752.0,10,10,0,0,0.0,4,1,3,0.75,"Integrated English
+Language
+Development -
+English Learners and
+Long Term English
+Learners",25000.0,"Designated English
+Language
+Development -
+English Learners and
+Long Term English
+Learners",25000.0,"English Learner
+Progress - California
+Dashboard",moving_away,Dashboard 2024
+Morgan Hill Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",2,36,4,9031436.02,6128042.71,16,11,0,5,0.3125,3,1,2,0.6667,"Provide Licensed and
+Associate Mental
+Health Professionals
+to support wellness -
+Staff with expertise in
+diagnosing and
+treating mental health
+issues, offering
+counseling and
+therapy, and
+developing
+individualized support
+plans to ensure that
+students have access
+to timely,
+professional mental
+health care, which
+can improve their
+emotional well-being,
+academic
+performance, and
+overall quality of life
+to improve outcomes
+for English Learners,
+Foster Youth,
+Homeless Youth and",989012.66,"Provide Licensed and
+Associate Mental Health
+Professionals to support
+wellness - Staff with
+expertise in diagnosing
+and treating mental
+health issues, offering
+counseling and therapy,
+and developing
+individualized support
+plans to ensure that
+students have access to
+timely, professional
+mental health care,
+which can improve their
+emotional well-being,
+academic performance,
+and overall quality of life
+to improve outcomes for
+English Learners, Foster
+Youth, Homeless Youth
+and Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)",989012.0,"School Climate:
+Number of referrals to
+the wellness center",moving_away,2024-25 (as of
+sunnyvale,math_proficiency,Math Proficiency,0,3,3,5954288.0,5358859.2,13,10,0,3,0.2308,3,0,3,1.0,"Students Achieve
+Mastery",4900344.0,"Equitable
+Opportunities
+Base Resources &
+Services",1053944.0,"Demographic make up
+of Algebra 1 course",moving_away,Hispanic: -1.97%
+Gilroy Unified School District,math_proficiency,Math Proficiency,0,8,6,7215959.0,5515035.1,14,10,1,3,0.2143,6,1,5,0.8333,"2.4 Expanded
+Learning
+Opportunities
+(Acceleration,
+Intervention, &
+Summer
+Intersession)",2318319.0,"2.3 Language &
+Literacy for
+Multilingual Learners
+(MLLs / ELLs)",1599260.0,"MMHS CAASPP Math --
+Nearly Met or above",moving_away,-2.3%
+Milpitas Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,8,2,7546953.0,4004152.1,8,2,0,6,0.75,1,0,1,1.0,"Tier 1, 2, and 3
+Social Emotional and
+Mental Health
+Supports",324398.0,"Administrative and
+Support Staff Staffing",2573048.0,"Proportionality of
+Suspensions",moving_away,-0.5% -58
+Mountain View Whisman School District,special_education_inclusion,Special Education & Inclusion,0,15,7,7500837.0,5254708.65,60,40,14,6,0.1,7,1,6,0.8571,"Addressing Chronic
+Absenteeism
+Differentiated
+Assistance",133416.0,"Supports for
+Students with
+Disabilities -
+Differentiated
+Assistance",4000.0,"Priority 4 - Student
+Achievement
+CAASPP Results - ELA",moving_away,Overall: -2
+Morgan Hill Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,52,3,13131974.52,8271487.97,14,11,0,3,0.2143,1,1,0,0.0,"Student Engagement
+and Attendance -
+Initiatives focused on
+promoting active
+participation in learning
+activities and ensuring
+regular student
+attendance including
+creating a positive and
+supportive school
+environment where
+students feel motivated,
+connected, and valued
+to improve student
+outcomes for English
+Learners, Foster Youth
+and Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+Dashboard -Chronic
+Absenteeism)",92000.0,"Student Engagement
+and Attendance -
+Initiatives focused on
+promoting active
+participation in
+learning activities and
+ensuring regular
+student attendance
+including creating a
+positive and
+supportive school
+environment where
+students feel
+motivated,
+connected, and
+valued to improve
+student outcomes for
+English Learners,
+Foster Youth and",92000.0,"Pupil Engagement:
+Chronic Absenteeism
+Rates
+(Aeries SIS)",on_track,2024-25 Chronic
+Gilroy Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,4,5,3968298.0,3338150.2,6,1,0,5,0.8333,4,0,4,1.0,"2.4 Expanded
+Learning
+Opportunities
+(Acceleration,
+Intervention, &
+Summer
+Intersession)",2318319.0,"College and Career
+Readiness (including
+Career Technical
+Education (CTE))",766325.0,"4-year Cohort
+Graduation Rate",moving_away,-4.6% (Overall)
+Mountain View Whisman School District,math_proficiency,Math Proficiency,0,16,6,6338554.0,4211230.15,53,34,14,5,0.0943,6,0,6,1.0,"Mathematics
+Programming and
+Curriculum Adoption",4920.0,"Addressing Academic
+Outcomes for Homeless
+Students in ELA/Math -
+Differentiated Assistance",10000.0,i-Ready math,moving_away,Overall: -1
+Morgan Hill Unified School District,family_community_engagement,Family & Community Engagement,1,39,8,8104756.82,4600655.86,14,10,1,3,0.2143,3,1,2,0.6667,"District English Learner
+Advisory Committee
+(DELAC) and Migrant
+Parent/ Guardian
+Advisory Council
+(MPAC) - Support
+advisory groups within
+the District that
+represent the interests of
+students identified as
+English Learner and
+migrant families that play
+a crucial role in ensuring
+that the District's
+policies, programs, and
+resources effectively
+support the academic",800.0,"District English
+Learner Advisory
+Committee (DELAC)",800.0,"Parental
+Involvement/Pupil
+Engagement:
+Community Liaison
+Home Visits",off_track,2024-25
+Mt. Pleasant Elementary School District (MPESD),ela_proficiency,ELA Proficiency & Literacy,1,14,2,5186337.0,3958759.9,37,34,2,1,0.027,2,0,2,1.0,Parent Engagement,14000.0,"Support teachers
+new to the teaching
+profession.",330550.0,"CAASPP Results for
+English Language Arts,
+Mathematics, and
+Science",off_track,30% standard met
+Alum Rock Union Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,6,1,8967281.12,7572242.75,0,0,0,0,0.0,0,0,0,0.0,"Positive School
+Climate and Culture",2385501.31,"Supplemental
+services and
+intervention for
+designated student
+populations",1127858.81,"Wellness Center
+pre/post check-in/check-
+out assessment",,
+East Side Union High School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",2,18,0,12677343.0,7318351.35,0,0,0,0,0.0,0,0,0,0.0,Summer School Program,722823.0,"Expanded learning sessions in Math and English
+Language Arts for students performing at the lowest
+performance level",60000.0,,,
+Gilroy Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,9,0,9182586.0,7206265.0,0,0,0,0,0.0,0,0,0,0.0,"2.4 Expanded Learning
+Opportunities
+(Acceleration,
+Intervention, & Summer
+Intersession)",23183.0,"2.4 Expanded
+Learning
+Opportunities
+(Acceleration,
+Intervention, &
+Summer
+Intersession)",2318319.0,,,
+Alum Rock Union Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,7,4,7984804.64,7174624.18,0,0,0,0,0.0,0,0,0,0.0,Home visits,10000.0,Community Liaison,54413.9,"Dashboard Data on
+Chronic Absenteeism",,
+Milpitas Unified School District,english_learner_progress,English Learner Progress & Reclassification,1,19,3,12986286.0,4658472.05,7,7,0,0,0.0,2,1,1,0.5,"English Learner
+Development",292584.0,"English Learner
+Parent Workshops",5775.0,"Annual Reclassification
+Rate for Grades 3-12",off_track,+1.4%
+Fremont Union High School District,ela_proficiency,ELA Proficiency & Literacy,0,11,1,5054812.81,3047626.28,13,10,0,3,0.2308,1,0,1,1.0,"ELA: Targeted
+Intervention",210764.81,"ELA: Skill
+Development",280106.0,"By student group,
+increase to 100% the
+percentage of students
+deemed “ready for
+college” or ""conditionally
+ready for college"" as
+measured on CAASPP
+with a score of 3 or 4 to
+indicate ""met or
+exceeded standard"" in
+the area of ELA and
+Mathematics.",off_track,American:+20%/+3
+Gilroy Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,10,0,8434191.0,6771992.3,0,0,0,0,0.0,0,0,0,0.0,3.5 Wellness,817000.0,"Wellness Center
+Needs",178000.0,,,
+Fremont Union High School District,english_learner_progress,English Learner Progress & Reclassification,0,6,5,4720547.75,3169141.15,8,6,1,1,0.125,3,0,3,1.0,"LTEL: Targeted
+Intervention",2322237.0,"ELD: Targeted
+Intervention",1974489.0,"Increase to 100% the
+percentage of English
+Learners (ELs) who
+reach and maintain
+English Learner
+Progress Indicator
+(ELPI) Level 4 or
+progress at least one
+ELPI level as measured
+by the English Language
+Proficiency Assessments
+for CA (ELPAC).",moving_away,-4.8%
+Campbell Union High School District,college_career_readiness,"College, Career & Postsecondary Readiness",2,14,7,5596065.0,3776645.6,71,49,5,17,0.2394,6,3,3,0.5,"College and Career
+Readiness Supports
+for Students with
+IEPs",0.0,"College and career
+planning support
+systems",60686.0,"State Priority 4B. A-G
+Completion Rates",moving_away,+0.8%
+Cupertino Union Elementary School District,math_proficiency,Math Proficiency,0,5,4,3884534.0,2585603.7,15,7,0,8,0.5333,3,0,3,1.0,"Math Intervention
+Teachers",1524550.0,Math Intervention Teachers,1524550.0,"Math: iReady Scores 6-8
+(Window #3):
+Percentage of students
+on grade level",moving_away,All Students: -3%
+Fremont Union High School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,9,1,10294628.68,6476794.01,8,6,2,0,0.0,0,0,0,0.0,"Mental Health and
+Wellness Student
+Support",1558767.0,Wellness Space,261450.0,"Using a check-in and
+check-out survey when
+accessing a wellness
+space, students across
+grade levels, genders,
+abilities, racial, ethnic,
+and socioeconomic
+backgrounds will report
+maintenance of or a",,happy +5.9%;
+Santa Clara Unified School District,math_proficiency,Math Proficiency,0,10,7,3986584.0,2914172.8,49,18,4,27,0.551,6,2,4,0.6667,"Provide professional
+learning and
+instructional coaching
+to enhance
+certificated teacher,
+classified staff and
+site administrator
+capacity to improve
+student learning,
+achievement in
+literacy and
+mathematics and
+graduation rates, with
+a focus on English
+learners,
+Hispanic/Latino
+students, foster and
+homeless youth, low
+income students and",692360.0,"Provide professional
+learning and instructional
+coaching to enhance
+certificated teacher,
+classified staff and site
+administrator capacity to
+improve student
+learning, achievement in
+literacy and mathematics
+and graduation rates,
+with a focus on English
+learners, Hispanic/Latino
+students, foster and
+homeless youth, low
+income students and
+students with disabilities.",692360.0,"11th Grade Math
+EAP/CAASPP, Standard
+Met/Exceeded",moving_away,All: -12.5%
+Gilroy Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,5,4,4160342.0,2982515.05,12,5,2,5,0.4167,4,1,3,0.75,Behavior & Discipline,1710303.0,"Climate and Culture
+(Diversity &
+Belonging)",818915.0,MMHS Suspension Rate,moving_away,+1.4%
+Palo Alto Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",2,2,5,7667722.0,2578936.2,4,1,1,2,0.5,1,0,1,1.0,"Student advising and
+support",5226959.0,English Learners,2440763.0,"P4.D Percentage of all
+students in the combined
+four- and five-year
+cohort graduation rate
+who met UC/CSU (a-g)
+requirements and
+completed at least one
+CTE Pathway
+Source: Dashboard
+UC/CSU & CTE",moving_away,-1.9%
+Morgan Hill Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,30,1,6372056.58,4245111.94,2,1,0,1,0.5,0,0,0,0.0,"Expanded Learning
+Opportunities -
+Provide access to
+extended
+programming for all
+students with a focus
+on English Learners,",360000.0,"Administrative Support
+focused on
+Implementing
+Differentiated
+Interventions
+Youth, Foster Youth, and
+Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics).
+and Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics)
+Youth, and
+Socioeconomically
+Disadvantaged students
+with skills and support
+through an elective
+class, tutoring, and
+schoolwide strategies to
+prepare for college and
+career success.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics)
+differentiated
+Targeted/Tier II math
+instruction to middle
+school students who
+have not succeeded
+through Universal/Tier I
+and Targeted/Tier II
+classroom-based
+instruction to improve
+outcomes for English
+Learners, Homeless
+Youth, Foster Youth, and
+Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics).
+close opportunity gaps
+and increase the
+representation of English
+Learners,
+Socioeconomically
+Disadvantaged, and
+Foster Youth in
+challenging coursework.
+(CA School Dashboard -
+Academics)
+and study strategies by
+offering them support
+through an elective
+class, tutoring, and
+mentorship, while also
+promoting a schoolwide
+culture of high
+expectations and college
+readiness. Improving
+outcomes for English
+Learners,
+Socioeconomically
+Disadvantaged, Foster
+Youth, and Homeless
+Youth. (Differentiated
+Assistance and CA
+School Dashboard -
+Academics)
+School Dashboard -
+College Career
+Readiness, Graduation
+Rate)
+preparation, and social
+activities to build
+students' confidence and
+readiness for their new
+school environment.
+(Differentiated
+Assistance - Academics)
+highlights students'
+dedication to civic
+responsibility,
+leadership, and service,
+encouraging them to
+become engaged
+members of their
+communities and
+contributing positively to
+society. (CA Dashboard
+- Academics, Career and
+College Readiness)
+Assistance and CA
+School Dashboard -
+Academics).
+supported and included
+in the learning
+environment to improve
+outcomes for English
+Learners, Foster Youth,
+and Socioeconomically
+Disadvantaged students
+dually identified as
+Students with
+Disabilities.
+(Differentiated
+Assistance and CA
+School Dashboard -
+Academics; Special
+Education Study)
+and Socioeconomically
+Disadvantaged students
+dually identified as
+Students with
+Disabilities. (CA School
+Dashboard - Suspension
+Rate)
+and Socioeconomically
+Disadvantaged students
+dually identified as
+Students with
+Disabilities. (CA
+Dashboard - Academics,
+Suspension)
+resources, and activities
+that promote active
+family involvement in
+education to improve
+outcomes for English
+Learners, Foster Youth,
+and Socioeconomically
+Disadvantaged students.
+(CA School Dashboard -
+Academics, Chronic
+Absenteeism,
+Suspension, Graduation
+Rate)
+with homework, and
+fostering positive
+behavior and
+communication at home
+to improve outcomes for
+English Learners, Foster
+Youth, and
+Socioeconomically
+Disadvantaged students.
+(CA School Dashboard -
+Academics, Chronic
+Absenteeism,
+Suspension, Graduation
+Rate)
+success and well-being
+of students identified as
+English Learner and/or
+migrant. (CA School
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)
+including professional
+development, behavioral
+supports, community-
+building activities,
+cultural competency
+training, and wellness
+initiatives to promote
+academic success,
+social-emotional
+development, and well-
+being to improve student
+outcomes for English
+Learners, Foster Youth,
+Homeless Youth and
+Socioeconomically
+Disadvantaged students
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)
+mental, and emotional
+well-being of students to
+provide students with the
+knowledge, skills, and
+resources they need to
+make informed decisions
+and adopt healthy
+behaviors to improve
+student outcomes for
+English Learners, Foster
+Youth, Homeless Youth
+and Socioeconomically
+Disadvantaged students
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)
+settings or programs
+designed to meet the
+unique needs of
+students who require
+alternative approaches
+to learning due to
+academic, behavioral, or
+social-emotional
+challenges to improve
+student outcomes for
+English Learners, Foster
+Youth, and
+Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate).
+families and community-
+based organizations that
+provide comprehensive
+support and resources to
+improve student
+outcomes for Foster
+Youth and
+Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)
+and Socioeconomically
+Disadvantaged students
+(Differentiated
+Assistance and CA
+Dashboard - Academics,
+Chronic Absenteeism,
+Suspension, Graduation
+Rate)",610238.0,"Pupil Engagement:
+Percentage of students
+referred out to for School
+Linked Services (SLS)
+and Prevention Early
+Intervention (PEI) for
+qualifying schools
+(DataZone)",,2024-25
+Morgan Hill Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",1,38,14,5189023.94,3525646.85,83,68,2,13,0.1566,11,4,7,0.6364,"Implement and Support
+Dual Enrollment Courses
+- Provide high school
+students an opportunity
+to enroll in college-level
+courses and earn both
+high school and college
+credit simultaneously,
+providing students with
+an opportunity to
+experience college-level
+coursework, explore
+potential career
+interests, and accelerate
+their progress toward a
+college degree. (CA
+School Dashboard -
+College and Career
+Readiness)",29950.0,"Cal-SOAP Support -
+Provide middle
+school students
+access to a program
+designed to increase
+the accessibility of
+postsecondary
+education for English
+Learners, Foster
+Youth, Homeless
+Youth, and
+Socioeconomically
+Disadvantaged
+students.The
+program provides
+academic tutoring,
+college and career
+counseling/coaching,
+and various outreach
+activities to help
+students find success
+in middle school and",10000.0,"Pupil Achievement:
+Graduates that have
+successfully completed
+courses that satisfy
+UC/CSU a-g university
+entrance requirements
+(Cohort/DataQuest)",moving_away,Class of 2024
+Morgan Hill Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",2,19,14,4504467.59,3026118.1,52,34,1,17,0.3269,8,2,6,0.75,"Site Support for
+Student
+Engagement, Social
+Emotional Learning,
+and School Climate -
+Collaborate with
+school sites in
+meeting the district
+goals for improving
+student engagement,
+social emotional, and
+school climate to
+improve student
+outcomes for English",567352.57,"Site Support for Student
+Engagement, Social
+Emotional Learning, and
+School Climate -
+Collaborate with school
+sites in meeting the
+district goals for
+improving student
+engagement, social
+emotional, and school
+climate to improve
+student outcomes for
+English Learners, Foster
+Youth and
+Socioeconomically
+Disadvantaged students.
+(Differentiated
+Assistance and CA
+Dashboard -Chronic
+Absenteeism).",567352.0,"School Climate:
+Suspension Rate
+(DataQuest)",off_track,2023-24
+Cupertino Union Elementary School District,english_learner_progress,English Learner Progress & Reclassification,0,8,4,4199336.0,2921295.5,18,10,0,8,0.4444,3,1,2,0.6667,"English Learner
+Support",140631.0,English Learner Support,140631.0,"from Standard (points
+above or below) for All
+students, African
+American students (AA),
+socio-economically
+disadvantaged (SED)
+students, English
+Learner (EL) students,
+Redesigned Fluent
+English Proficient (RFEP
+students), and Students
+with Disabilities (SWDs)",moving_away,AA: +6 points
+Morgan Hill Unified School District,ela_proficiency,ELA Proficiency & Literacy,2,38,21,5132996.3,3074275.31,297,161,16,120,0.404,10,5,5,0.5,"Reading Intervention
+Programming -
+Provide specialized
+professional
+development and
+instructional
+materials to the
+reading intervention
+staff to address the
+needs of students
+receiving
+Targeted/Tier II and
+Intensive/Tier III
+instruction to improve
+outcomes for English
+Learners, Homeless
+Youth, Foster Youth,
+and
+Socioeconomically",26574.0,"Reading Intervention
+Teachers - Provide
+differentiated
+Targeted/Tier II and
+Intensive/Tier III
+reading instruction to
+elementary students
+who have not
+succeeded through
+Universal/Tier I and
+Targeted/Tier II
+classroom-based
+instruction to improve
+outcomes for English
+Learners, Homeless
+Youth, Foster Youth,
+and
+Socioeconomically
+Disadvantaged
+students. (CA School
+Dashboard -
+Academics).",1274901.15,"Pupil Achievement:
+SWD Statewide
+Assessment SBAC in
+English Language Arts
+(ELA)
+(SBAC Test Results at a
+Glance)",off_track,2023-24
+Mt. Pleasant Elementary School District (MPESD),english_learner_progress,English Learner Progress & Reclassification,0,19,3,4228030.0,2872965.75,5,4,1,0,0.0,1,0,1,1.0,"Designated and
+Integrated ELD
+Curriculum and ELD
+professional
+development for
+teachers for EL and
+LTEL",42868.0,"Extended Learning
+Support Beyond the
+Regular School Day",1900000.0,Reclassification Rate,moving_away,rate by -1.5%
+Mountain View Whisman School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,16,0,8502051.0,5685821.6,0,0,0,0,0.0,0,0,0,0.0,"Addressing
+Academic Outcomes",10000.0,"Supports for
+Students with
+Disabilities -
+Differentiated
+Assistance",4000.0,,,
+Oak Grove School District,special_education_inclusion,Special Education & Inclusion,1,7,0,24357648.0,5279465.2,0,0,0,0,0.0,0,0,0,0.0,"Special Education
+Supplemental
+Curriculum and
+Training",152965.0,"Special Education
+Support Staff",22736726.0,,,
+Evergreen Elementary School District Board of Trustees,ela_proficiency,ELA Proficiency & Literacy,0,8,3,3229158.0,2383126.0,29,14,0,15,0.5172,3,1,2,0.6667,Teacher Support,750827.0,New Tech Network,132000.0,"Language Arts (ELA)
+and Math assessments
+and the California
+Science Test (CAST);
+California Alternate
+Assessments (ELA,
+Math, Science)
+(Source: Test Results for
+California's
+Assessments)",moving_away,ELA: -2.89%
+Saratoga Union School District,ela_proficiency,ELA Proficiency & Literacy,0,14,1,3821406.0,2563395.9,1,0,1,0,0.0,1,0,1,1.0,"ELA/ELD focused
+services for English
+learner students",839561.0,"ELA/ELD
+Interventions",5000.0,"Priority 3: Parental
+Involvement and Family
+Engagement
+How the LEA will
+determine the translation
+needs of English learner
+parents
+Source: DELAC
+meetings, parent/teacher
+conferences",moving_away,0%
+Cupertino Union Elementary School District,special_education_inclusion,Special Education & Inclusion,0,6,4,3901395.0,2763139.4,17,12,0,5,0.2941,4,2,2,0.5,"Sonday Coaching for
+Special Education
+Teachers",0.0,"Reading Intervention
+Teachers",1778893.0,"from Standard (points
+above or below) for All
+students, African
+American students (AA),
+socio-economically
+disadvantaged (SED)
+students, English
+Learner (EL) students,
+Redesigned Fluent
+English Proficient (RFEP
+students), and Students
+with Disabilities (SWDs)",moving_away,AA: +6 points
+Cupertino Union Elementary School District,ela_proficiency,ELA Proficiency & Literacy,0,7,4,4292443.0,2893026.6,20,16,0,4,0.2,4,2,2,0.5,"Reading Intervention
+Teachers",1778893.0,"Instructional
+Assistants (IAs) for
+Reading Intervention",683224.0,"Reading: iReady Grades
+6-8 (Window #2):
+Percentage of students
+on grade level",moving_away,All Students: -1%
+Mountain View Whisman School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,9,2,3331507.0,2509040.15,22,0,1,21,0.9545,2,2,0,0.0,"Addressing Chronic
+Absenteeism
+Differentiated
+Assistance",133416.0,"Improving
+Attendance Rates",0.0,"State Priority 5
+Chronic Absenteeism
+Rates",on_track,2023-24 California
+Union Elementary School District,english_learner_progress,English Learner Progress & Reclassification,1,11,1,3929679.0,2450145.05,1,1,0,0,0.0,1,0,1,1.0,"English Learner
+Committee",26023.0,"English Learner and
+Special Education
+Support",351267.0,"English Learner
+reclassification rate",off_track,0.3%
+Gilroy Unified School District,family_community_engagement,Family & Community Engagement,0,4,3,3344927.0,2445746.8,1,1,0,0,0.0,2,0,2,1.0,3.4 Family Engagement,489671.0,"3.4 Family
+Engagement",489671.0,"Percent of Schools with
+fully constituted ELAC,
+including DELAC rep",off_track,
+Fremont Union High School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,9,0,7006727.85,4637773.35,0,0,0,0,0.0,0,0,0,0.0,"LTEL: Targeted
+Intervention",2322237.0,"ELD: Targeted
+Intervention",1974489.0,,,
+Oak Grove School District,data_technology,Data Systems & Instructional Technology,0,4,0,6083011.0,4549709.9,0,0,0,0,0.0,0,0,0,0.0,"Technology Software
+and Programs",553295.0,"Informational
+Technology Staff, Online
+Safety and Site
+Technology Support",1849858.0,,,
+Santa Clara Unified School District,data_technology,Data Systems & Instructional Technology,0,5,0,5100518.0,4111697.4,0,0,0,0,0.0,0,0,0,0.0,"Provide increased
+coordination and support
+for the college and
+career readiness
+program and services.
+REVISED ACTION
+Develop and/or
+strengthen culturally-
+relevant curriculum that
+supports English
+language, academic
+literacy, mathematical,
+research and technology
+skills across content
+areas.",30000.0,"Invest in
+improvements and
+training to increase
+student and staff
+perceptions and
+experience of
+campus safety and
+security, with
+particular attention to
+the needs of our
+unduplicated
+students population.",2724702.0,,,
+Evergreen Elementary School District Board of Trustees,english_learner_progress,English Learner Progress & Reclassification,0,12,5,3732225.0,1860582.1,18,7,0,11,0.6111,5,3,2,0.4,Hire 1 ELD coach,172323.0,"Supplemental
+Resources to
+Support ELD",165725.0,"Priority 4.E: Percentage
+of English learner
+students who are at or
+above standard on the
+Summative English
+Language Proficiency
+Assessments for
+California (ELPAC)
+(Source: Test Results for
+California's
+Assessments)",moving_away,-4.41%
+Campbell Union High School District,ela_proficiency,ELA Proficiency & Literacy,0,6,2,2286432.0,1520276.7,37,22,1,14,0.3784,1,0,1,1.0,"Special Education
+Course Alignment
+and Interventions",10000.0,"Staffing for
+Professional
+Development and
+Program Monitoring
+of Emerging
+Multilingual Students",2059526.0,"State Priority 4A. CA
+School Dashboard
+Academic Indicator -
+English Language Arts
+and math distance from
+standard; California
+Science Test percent
+met or exceeded",moving_away,+1% tested
+Campbell Union High School District,math_proficiency,Math Proficiency,0,3,3,2129526.0,1481168.2,58,33,0,25,0.431,2,0,2,1.0,"Staffing for
+Professional
+Development and
+Program Monitoring
+of Emerging
+Multilingual Students",2059526.0,Curriculum Alignment,60000.0,"State Priority 4A. CA
+School Dashboard
+Academic Indicator -
+English Language Arts
+and math distance from
+standard; California
+Science Test percent
+met or exceeded",moving_away,+1% tested
+Morgan Hill Unified School District,math_proficiency,Math Proficiency,1,14,20,2739053.69,1724312.12,268,160,10,98,0.3657,10,3,7,0.7,"TK-12 Math
+Alignment- District-
+wide mathematics
+professional
+development and
+alignment to improve
+student outcomes for
+English Learners,
+Foster Youth, and
+Socioeconomically
+Disadvantaged
+students (CA
+Dashboard).",117499.36,"TK-5 Mathematics -
+Provide professional
+development in
+collaboration with
+outside organizations
+to enhance
+instruction leading to
+the development of
+foundational math
+skills and improving
+student outcomes for
+English Learners,",112256.71,"Pupil Achievement:
+iReady Math
+Assessment Grades K to
+8 Overall
+(iReady Assessment)",moving_away,Grade Level: +4%
+Berryessa Union Elementary School District,special_education_inclusion,Special Education & Inclusion,0,26,1,5801403.95,3434303.2,0,0,0,0,0.0,0,0,0,0.0,School Psychologists,1493944.0,"School Social
+Workers",1322556.0,"individuals with
+exceptional needs.",,
+Mt. Pleasant Elementary School District (MPESD),math_proficiency,Math Proficiency,1,7,3,2466640.0,1675866.0,40,37,2,1,0.025,2,0,2,1.0,"Support teachers
+new to the teaching
+profession.",330550.0,"Purchase and
+Implementation of i-
+Ready",71442.0,"CAASPP Results for
+English Language Arts,
+Mathematics, and
+Science",off_track,30% standard met
+Saratoga Union School District,special_education_inclusion,Special Education & Inclusion,0,8,0,4820127.0,3322045.35,0,0,0,0,0.0,0,0,0,0.0,"A district Attendance
+Committee with
+representatives from
+each school will be
+formed to create district
+protocols and build
+strategies at each MTSS
+tier.
+District CA Dashboard
+data shows LEA student
+groups
+(Socioeconomically
+Disadvantaged 28.1%
+chronically absent and
+Students with Disabilities
+16.5% chronically
+absent)",0.0,"School
+Refusal/Avoidance
+Teams at each school
+site to address Chronic
+Absenteeism due to
+School Refusal
+CA Dashboard shows
+Foothill Elementary
+School as overall 13.7%
+chronically absent and
+specifically Asian
+students as 11.8%
+chronically absent, and
+Students with Disabilities
+22% chronically absent",0.0,,,
+Oak Grove School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,8,0,6645300.0,3316960.3,0,0,0,0,0.0,0,0,0,0.0,"Intervention Systems and
+Programs to Support
+Extended Learning for
+English Learners, Foster
+Youth, Homeless Youth and
+Socioeconomically
+Disadvantaged Students",215972.0,"Expanded Learning
+Opportunities and
+Transportation Support
+for Homeless Youth and
+Foster Youth",4159166.0,,,
+Berryessa Union Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,23,0,5244393.18,3271476.0,0,0,0,0,0.0,0,0,0,0.0,School Social Workers,13225.0,School Psychologists,1493944.0,,,
+Campbell Union High School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,9,0,4429041.0,3207852.95,0,0,0,0,0.0,0,0,0,0.0,"Family Engagement
+and Tutoring",69812.0,"Family Engagement and
+Tutoring",69812.0,,,
+Cupertino Union Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,6,3,1779929.0,1119490.0,11,2,0,9,0.8182,1,0,1,1.0,PBIS,277881.0,"Behavior Support
+Team (General
+Education)",0.0,"Pupil Suspension Rate:
+Percent of students
+suspended one or more
+times
+Data Source: CA
+Dashboard
+Pupil Expulsions",off_track,+0.2%
+Evergreen Elementary School District Board of Trustees,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,6,0,5107201.0,3083647.6,0,0,0,0,0.0,0,0,0,0.0,"Additional resources
+for sites to implement
+Multi-Tiered Systems
+of Support (MTSS)",1587307.0,"Additional resources for
+sites to implement Multi-
+Tiered Systems of
+Support (MTSS)",15873.0,,,
+Saratoga Union School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,7,0,4491721.0,3071318.55,0,0,0,0,0.0,0,0,0,0.0,"Social-emotional
+learning for a positive
+foundation",121405.0,"Promote positive
+behaviors",2315953.0,,,
+Franklin-McKinley Elementary School District,special_education_inclusion,Special Education & Inclusion,0,12,6,11967500.0,2925392.65,0,0,0,0,0.0,0,0,0,0.0,"Teaching and Learning:
+Special Education
+Professional
+Development (SCG)",0.0,"Teaching and Learning:
+Special Education
+Professional Development
+( SCG)",0.0,"Student Engagement:
+Priority 5.B
+Percentage of students
+who were chronically
+absent: All students,
+Students with Disabilities
+(SWD), Foster Youth,
+and Homeless students
+Data Source: CA
+Dashboard",,
+Los Gatos-Saratoga Union High School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,8,7,3328300.0,2302000.0,48,37,0,11,0.2292,6,6,0,0.0,Diverse Pathways,330000.0,"Academic
+Interventions
+(Contributing)",1246400.0,"Percentage of students
+meeting UC/CSU
+requirements
+Source: DataQuest, Met
+UC/CSU Requirements
+and CTE Pathway
+Completion report,
+Graduates Meeting
+UC/CSU Requirements
+(Required Metric, State
+Priority 4)",on_track,Year 1
+Fremont Union High School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,5,1,2669240.64,1922986.16,13,5,2,6,0.4615,0,0,0,0.0,Campus Climate,1454925.68,"Instructional
+Technology",660820.0,"Maintain low suspension
+rate and monitor that no
+student groups are over-
+represented among
+suspended students.",,7.6%
+Cupertino Union Elementary School District,college_career_readiness,"College, Career & Postsecondary Readiness",1,5,2,2260297.0,1558378.65,10,2,0,8,0.8,0,0,0,0.0,"iReady/NWEA
+Diagnostic and
+Personalized
+Learning Pathway",361794.0,"Counseling/Mental
+Health",1044982.0,"Connectedness, Safety,
+Meaningful Participation:
+Data Sources: California
+Healthy Kids Survey
+(CHKS)
+Percentage of Grade 6,
+Grade 7 and Grade 8
+students reporting
+""Strongly agree/agree""
+for indicators of ""School
+connectedness"" and
+""School Safety"":
+Updated for Grade 5 in
+the 2024-2025 school
+year (Year 1); Also
+updated to add a new
+area of the survey (Year
+1) Meaningful
+Participation as a metric
+to measure progress
+towards student
+engagement in future-
+ready, deeper learning",,2025-2026
+Franklin-McKinley Elementary School District,english_learner_progress,English Learner Progress & Reclassification,0,16,5,3965907.0,2735068.05,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning:
+Newcomers and EL
+Professional
+Development and
+Program Support
+(SCG)",45000.0,"Strategic
+Partnerships:
+Targeted Family
+Supports for
+Unduplicated Pupil
+Population (UPP)
+and Multilingual
+Families (SCG)",798865.0,"Student Achievement:
+Priority 4.F
+Decrease the
+percentage of Long
+Term English Learners
+(LTELs)
+Data Source: CA
+Dataquest
+Reclassification Rate",,
+Campbell Union High School District,english_learner_progress,English Learner Progress & Reclassification,0,14,2,5969383.0,2719660.2,2,2,0,0,0.0,2,2,0,0.0,"Staffing for
+Professional
+Development and
+Program Monitoring
+of Emerging
+Multilingual Students",2059526.0,"Instructional Training
+to Support Emerging
+Multilingual Students",172456.0,"State Priority 4E. CA
+School Dashboard
+English Learner
+Progress Indicator -
+percentage of English
+learners making
+progress towards
+English language
+proficiency",on_track,+1.4%
+Oak Grove School District,english_learner_progress,English Learner Progress & Reclassification,1,10,0,6650456.0,2686855.9,0,0,0,0,0.0,0,0,0,0.0,"Professional Development
+Focused on Needs of
+English Learners, Foster
+Youth, Homeless Youth and",1213778.0,"English Learner Support
+Staff",3019702.0,,,
+Berryessa Union Elementary School District,ela_proficiency,ELA Proficiency & Literacy,0,18,4,4478221.11,2678722.81,0,0,0,0,0.0,0,0,0,0.0,"English Language Arts
+(ELA) & English
+Language Development
+(ELD)- SEAL
+Instructional Coach.",196905.0,"English Language Arts &
+English Language
+Development (ELD) -
+SEAL Instructional
+Coach",224986.0,"English Language Arts
+(ELA) - SBAC
+Data",,
+Berryessa Union Elementary School District,english_learner_progress,English Learner Progress & Reclassification,0,20,3,3982561.93,2671630.35,0,0,0,0,0.0,0,0,0,0.0,"Summer School -
+English Learners,
+Elevate Math &
+Computer Science",144962.0,"English Language
+Arts & English
+Language
+Development (ELD) -
+SEAL Instructional
+Coach",211478.0,"EL Reclassification Rate
+(# of RFEPs 7/1 -6/30
+divide by # of students
+tested for Summative)
+CA School Dashboard",,
+Mountain View Whisman School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,5,2,1420553.0,923359.45,26,1,2,23,0.8846,2,0,2,1.0,"Supporting Student
+Behavior",0.0,"Addressing
+Suspension Rates -
+Differentiated
+Assistance",0.0,"State Priority 6
+Suspension Rates",off_track,2023-24 California
+Cambrian School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,15,0,3951700.0,2655987.5,0,0,0,0,0.0,0,0,0,0.0,"Integration of
+Expanded Learning
+Opportunities
+Program (ELO-P)",933930.0,"Supplemental
+Targeted Instruction
+& Intervention",670120.0,,,
+Los Gatos-Saratoga Union High School District,special_education_inclusion,Special Education & Inclusion,0,3,3,2433600.0,1703520.0,18,9,0,9,0.5,1,1,0,0.0,"Universal Design for
+Learning (UDL)",37200.0,"Academic
+Interventions (Not
+Contributing)",1150000.0,"Percentage of students
+meeting or exceeding
+standard in Mathematics
+on the Smarter Balanced
+Summative Assessment
+Source: California
+Department of
+Education, Test Results
+for California's
+Assessments (caaspp-
+elpac.ets.org)
+(Required Metric, State
+Priority 4)",on_track,Year 1
+Los Altos Elementary School District,english_learner_progress,English Learner Progress & Reclassification,0,4,3,5123873.0,2229601.55,7,5,1,1,0.1429,2,2,0,0.0,"ENGLISH
+LEARNERS",1088339.0,"PROFESSIONAL
+LEARNING/COLLAB
+ORATION",507331.0,"EXTENDED LEARNING
+OPPORTUNITIES
+Extent to which students
+have access to, and are
+enrolled in, programs
+and services developed
+and provided to low
+income, English learner
+and foster youth (Priority
+7B)
+% invited
+% participating",at_or_above_target,100% of eligible
+Gilroy Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,2,1828880.0,1352039.75,11,7,0,4,0.3636,2,1,1,0.5,Attendance,522209.0,"3.4 Family
+Engagement",489671.0,Attendance Rate,moving_away,-0.6%
+Franklin-McKinley Elementary School District,family_community_engagement,Family & Community Engagement,0,11,6,3661617.0,2514485.15,0,0,0,0,0.0,0,0,0,0.0,"Strategic Partnership:
+Implement Family
+Engagement
+Initiatives (SCG)",109000.0,"Strategic
+Partnerships:
+Targeted Family
+Supports for
+Unduplicated Pupil
+Population (UPP)
+and Multilingual
+Families (SCG)",798865.0,"Parental Involvement:
+Priority 3.A
+Percent of parents who
+responded Strongly
+Agree or Agree to the
+parent survey item:
+Parents have
+opportunities to give
+input into the decision-
+making process at
+school
+Data Source: Panorama
+Survey",,
+Franklin-McKinley Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,13,1,3432036.0,2509494.15,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning:
+Acceleration and
+Expanded Learning
+Opportunities (SCG)",197300.0,"Teaching and Learning:
+Acceleration and
+Expanded Learning
+Opportunities (SCG)",197300.0,"Parental Involvement:
+Priority 3.B
+Participation in the
+Expanded Learning
+Opportunities Program
+(ELOP) for Low Income,
+English Learner and
+Foster Youth students.
+Parent satisfaction with
+the program (yes or
+neutral responses).
+Data Source: ELOP
+survey participation rate",,
+Evergreen Elementary School District Board of Trustees,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,10,2,2247145.0,1417371.5,20,15,0,5,0.25,2,1,1,0.5,"Attendance and re-
+engagement",78364.0,"Director of Child
+Welfare Safety and
+Attendance",268773.0,"Priority 5.A: Pupil
+Engagement
+(Engagement) District
+Average Daily
+Attendance rate as of
+May 22nd
+(Source: PowerSchool)",moving_away,All: +0.22%
+Saratoga Union School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,10,0,3580970.0,2473205.0,0,0,0,0,0.0,0,0,0,0.0,"A district Attendance
+Committee with
+representatives from
+each school will be
+formed to create
+district protocols and
+build strategies at
+each MTSS tier.
+District CA
+Dashboard data
+shows LEA student
+groups
+(Socioeconomically
+Disadvantaged
+28.1% chronically
+absent and Students
+with Disabilities",0.0,"ELA/ELD
+Interventions",5000.0,,,
+Evergreen Elementary School District Board of Trustees,special_education_inclusion,Special Education & Inclusion,0,11,2,2850893.0,1580934.9,16,6,1,9,0.5625,1,1,0,0.0,"Special Education
+Strategic Plan",105000.0,Teacher Support,750827.0,"Priority 5.B: Pupil
+Engagement
+(Engagement)
+Percentage of students
+who were chronically
+absent: all students,
+English learners (EL),
+low income (LI), students
+with disabilities (SWD),
+African American,
+Hispanic, Pacific",at_or_above_target,0.09%
+Mountain View Whisman School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,9,0,2871752.0,2390030.6,0,0,0,0,0.0,0,0,0,0.0,"Student Social
+Emotional Health -
+Counselors",1859366.0,Wellness Center,0.0,,,
+Saratoga Union School District,english_learner_progress,English Learner Progress & Reclassification,0,9,5,1982495.0,1321315.75,5,2,2,1,0.2,5,2,3,0.6,"Extended time for
+students performing
+below grade level
+and English learners",174832.0,"Extended time for
+students performing
+below grade level and
+English learners",174832.0,"Priority 2:
+Implementation of State
+Standards
+How the programs and
+services will enable
+English learners to
+access the Common
+Core State Standards
+and the ELD standards
+for purposes of gaining
+academic content
+knowledge and English
+language proficiency
+Source: Local English
+learner data base and
+local summer school
+roster",moving_away,+7%
+Santa Clara Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",1,5,0,3165323.0,2378155.95,0,0,0,0,0.0,0,0,0,0.0,"Provide professional
+learning and
+instructional coaching
+to enhance
+certificated teacher,
+classified staff and
+site administrator
+capacity to improve
+student learning,
+achievement in
+literacy and
+mathematics and
+graduation rates, with
+a focus on English
+learners,
+Hispanic/Latino
+students, foster and
+homeless youth, low
+income students and",692360.0,"Provide professional
+learning and instructional
+coaching to enhance
+certificated teacher,
+classified staff and site
+administrator capacity to
+improve student
+learning, achievement in
+literacy and mathematics
+and graduation rates,
+with a focus on English
+learners, Hispanic/Latino
+students, foster and
+homeless youth, low
+income students and
+students with disabilities.",692360.0,,,
+Fremont Union High School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,2,6,2,2544103.64,1572023.16,14,6,1,7,0.5,0,0,0,0.0,Attendance,376674.0,Campus Climate,1454925.68,"Decrease chronic
+absenteeism.",,+17.8%
+East Side Union High School District,english_learner_progress,English Learner Progress & Reclassification,3,8,1,5962944.0,2351177.6,1,1,0,0,0.0,0,0,0,0.0,"English Learner program management, prog",170000.0,"English Learner program management, progress
+monitoring, and teacher support",170000.0,"English Language
+Learner Progress
+as measured by
+the CA
+Dashboard ELPI
+Indicator",,of the 2026-27
+Los Gatos-Saratoga Union High School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,8,0,3442164.0,2350476.6,0,0,0,0,0.0,0,0,0,0.0,"Multi-Tiered System
+of Supports (MTSS)",27000.0,"Academic
+Interventions
+(Contributing)",1246400.0,,,
+Cambrian School District,english_learner_progress,English Learner Progress & Reclassification,0,11,2,2681117.0,1877750.4,8,6,0,2,0.25,1,1,0,0.0,"Supporting English
+Learners with
+Language Line
+Interpreting and
+Translation Services
+& Parent Education",110000.0,"Provision of
+Instructional
+Specialists",751350.0,"CA School Dashboard
+English Learner
+Progress Indicator
+(ELPI): Percentage of
+Current ELs Who
+Progressed at Least One
+ELPI Level & Maintained
+ELPI Level 4 by School
+Site",at_or_above_target,10.7
+Oak Grove School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,8,0,4940879.0,2274663.2,0,0,0,0,0.0,0,0,0,0.0,"Mental Health and
+Socioemotional
+Counseling Services",896778.0,"Mental Health and
+Socioemotional Counseling
+Services",836190.0,,,
+Mountain View Whisman School District,family_community_engagement,Family & Community Engagement,0,12,8,2085243.0,1202505.35,26,24,0,2,0.0769,5,1,4,0.8,"Parent Engagement -
+Parent University",5000.0,"Parent
+Communication",0.0,"The percentage of
+parents who agreed or
+strongly agree that
+students social
+emotional needs were
+met on the
+LCAP/Climate Survey.",moving_away,Spring 2025: -10
+Saratoga Union School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,5,2,2412964.0,1695277.0,7,5,0,2,0.2857,1,1,0,0.0,Restorative Practices,8000.0,"Promote positive
+behaviors",2315953.0,"Other local measures,
+including surveys of
+pupils, parents, and
+teachers on the sense of
+safety and school
+connectedness
+Source: KELVIN and
+CHKS survey tools",at_or_above_target,+5%
+Gilroy Unified School District,data_technology,Data Systems & Instructional Technology,0,6,0,3196694.0,2162314.7,0,0,0,0,0.0,0,0,0,0.0,"1.2 Educational
+Technology
+Integration",752711.0,"Instructional
+Technology for
+Differentiated
+Instruction",1000.0,,,
+Mt. Pleasant Elementary School District (MPESD),mtss_intervention,"MTSS, Tutoring & Targeted Intervention",1,9,0,3204599.0,2160170.6,0,0,0,0,0.0,0,0,0,0.0,"Extended Learning
+Support Beyond the
+Regular School Day",1900000.0,"Intervention Support
+During the School
+Day",345717.0,,,
+Mountain View Whisman School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,7,0,2407513.0,2056084.3,0,0,0,0,0.0,0,0,0,0.0,"Student Social
+Emotional Health -
+Counselors",1859366.0,"English Language
+Learners - Newcomer
+Students",537027.0,,,
+Mt. Pleasant Elementary School District (MPESD),school_climate_suspension,"School Climate, Behavior & Suspension",0,10,1,1215478.0,699755.55,11,1,0,10,0.9091,1,0,1,1.0,Improve School Climate,112000.0,Improve School Climate,64393.0,"CA Dashboard -
+Suspension Data",off_track,district by 0.5%
+Evergreen Elementary School District Board of Trustees,math_proficiency,Math Proficiency,0,7,4,1618327.0,1255544.3,38,24,0,14,0.3684,4,3,1,0.25,Teacher Support,750827.0,"Professional
+Development",497500.0,"Language Arts (ELA)
+and Math assessments
+and the California
+Science Test (CAST);
+California Alternate
+Assessments (ELA,
+Math, Science)
+(Source: Test Results for
+California's
+Assessments)",moving_away,ELA: -2.89%
+Berryessa Union Elementary School District,math_proficiency,Math Proficiency,0,13,2,3142316.11,2017492.41,0,0,0,0,0.0,0,0,0,0.0,"English Language
+Development (ELD)
+& Math Instructional
+Coach",222596.0,"Math - SVMI
+(Contract to support
+Middle School &
+Principal PD)",50000.0,"Mathematics - District
+Benchmark (End of
+Second trimester for
+elementary schools; End
+of First semester for
+Middle Schools)",,
+Los Gatos Union Elementary School District,ela_proficiency,ELA Proficiency & Literacy,0,5,5,1917324.0,1009417.4,17,12,0,5,0.2941,3,1,2,0.6667,"Literacy universal
+screening",25000.0,"Literacy professional
+development",663608.0,"Percent of students
+performing at or above
+standard on the Smarter
+Balance ELA and Math
+assessments and the
+California Science Test
+(CAST)",moving_away,ELA: -0.3%
+Morgan Hill Unified School District,special_education_inclusion,Special Education & Inclusion,2,12,17,1478402.23,992229.96,72,53,1,18,0.25,12,4,8,0.6667,"Preschool Inclusion Staff
+- Provide staff with
+specialized training to
+implement strategies to
+promote socialization,
+communication, and skill
+development while
+ensuring that children
+with disabilities or
+special needs have
+equitable access to
+educational opportunities
+alongside their typically
+developing peers.
+(Special Education
+Study)",238000.0,"Classified Inclusion Staff
+- Provide specialized
+staff to ensure that
+students receive
+appropriate
+accommodations and
+support to participate
+fully in the general
+education curriculum to
+improve outcomes for
+English Learners, Foster
+Youth,
+Socioeconomically
+Disadvantaged students
+dually identified as
+Students with
+Disabilities. (CA School
+Dashboard - Academics,
+Special Education
+Study)",55950.0,"Pupil Achievement:
+SWD iReady Math
+Assessment: Grades K-8
+(iReady Assessment)",moving_away,2024-25
+Franklin-McKinley Elementary School District,ela_proficiency,ELA Proficiency & Literacy,1,9,6,2388779.0,1879752.1,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning: PK-8
+Continuum of Core
+Instruction (SCG)",167326.0,"Teaching and
+Learning:
+Core and
+Supplemental,
+Instructional
+Materials &
+Resources",429315.0,"Student Achievement:
+Priority 4.A
+Percent of students in
+grades 3-8 who met or
+exceed standard in ELA
+Data Source: California
+Assessment of Student
+Performance and
+Progress (CAASPP)",,
+Franklin-McKinley Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,5,0,2149540.0,1724046.75,0,0,0,0,0.0,0,0,0,0.0,"Supporting the Whole
+Child: Coordinated
+Services",0.0,"Safe and Supportive
+Schools: Students in
+Foster Care and
+Students
+Experiencing
+Homelessness
+(SCG)",1303583.0,,,
+Los Altos Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,5,1,1860065.0,1139371.85,2,1,0,1,0.5,1,1,0,0.0,"SOCIAL
+EMOTIONAL",302278.0,"STUDENT
+ATTENDANCE",109113.0,"EXTENDED LEARNING
+OPPORTUNITIES
+Extent to which students
+have access to, and are
+enrolled in, programs
+and services developed
+and provided to low
+income, English learner
+and foster youth (Priority
+7B)
+% invited
+% participating",at_or_above_target,100% of eligible
+Los Altos Elementary School District,ela_proficiency,ELA Proficiency & Literacy,2,3,1,3989256.0,1697346.8,1,0,1,0,0.0,0,0,0,0.0,"EMPLOYEE
+RELATIONS",461053.0,"BROAD COURSE
+OF STUDY",3481034.0,"EMPLOYEE
+RELATIONS",,0 grievances file
+Palo Alto Unified School District,english_learner_progress,English Learner Progress & Reclassification,0,3,5,3155810.0,673192.8,10,5,0,5,0.5,2,0,2,1.0,English Learners,2440763.0,"Professional
+Learning: EL support",594959.0,"P4.A Percentage of third
+grade students in the
+following groups that
+meet or exceed standard
+on SBAC English
+Language Arts (ELA):
+English Learners,
+Hispanic, SED,
+Hispanic & SED, SWD
+Source: CAASPP
+website",moving_away,10.8%
+Saratoga Union School District,data_technology,Data Systems & Instructional Technology,0,6,0,2455773.0,1671081.05,0,0,0,0,0.0,0,0,0,0.0,"Provide opportunities
+to students for
+innovation in
+technology, music,
+garden, and arts.",1943343.0,Digital Communication,36302.0,,,
+Palo Alto Unified School District,special_education_inclusion,Special Education & Inclusion,0,5,6,2181938.0,955581.8,17,10,0,7,0.4118,3,2,1,0.3333,"Parent participation--
+SWD",183531.0,"Middle school
+mathematics",248316.0,"P4.A Percentage of third
+grade students in the
+following groups that
+meet or exceed standard
+on SBAC English
+Language Arts (ELA):
+English Learners,
+Hispanic, SED,
+Hispanic & SED, SWD
+Source: CAASPP
+website",moving_away,10.8%
+Los Gatos Union Elementary School District,family_community_engagement,Family & Community Engagement,0,8,4,1963320.0,1083051.0,2,1,0,1,0.5,1,1,0,0.0,DELAC meetings,1500.0,"Provide parent
+education
+opportunities through
+workshops and
+services",20000.0,"Priority 3B:
+Number of parent/
+guardian attendees at
+DELAC meetings",,-4
+Franklin-McKinley Elementary School District,data_technology,Data Systems & Instructional Technology,0,5,0,2383775.0,1608602.35,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning:
+Technology Access
+(SCG)",631888.0,"Teaching and Learning:
+Technology Access
+(SCG)",631888.0,,,
+Berryessa Union Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,11,2,2675260.83,1603381.41,0,0,0,0,0.0,0,0,0,0.0,"Coordinator of
+Student Services
+position",249650.0,"Parent
+Communication -
+Translators",231795.0,"Chronic Absenteeism
+Rates (district-wide)",,
+Cambrian School District,ela_proficiency,ELA Proficiency & Literacy,1,7,3,1310937.0,970455.9,11,7,1,3,0.2727,3,2,1,0.3333,"Provision of
+Instructional
+Specialists",751350.0,"Targeted Expanded
+Educational
+Resources and
+Digital Learning for
+UPP",140000.0,"Percentage of Students
+Performing ""On/Above""
+or ""Low Risk"" at grade-
+level standards on the
+CSD Fastbridge
+aReading Benchmark",off_track,All Students: +0.5
+Cupertino Union Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,10,1,2216473.0,1553408.15,2,2,0,0,0.0,0,0,0,0.0,"Counseling/Mental
+Health",1044982.0,"Social-Emotional
+Learning (SEL) TK-5
+and 6-8; CHKS
+survey tools to
+measure needs and
+progress",3500.0,"Counseling: Access to
+Mental Health Support at
+the school site",,+.05 FTE for
+Union Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",2,5,0,2548798.0,1541526.35,0,0,0,0,0.0,0,0,0,0.0,"Mental Health and
+Counseling Support",2342010.0,"District Wellness
+Coordinator",29814.0,,,
+Campbell Union High School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",1,7,3,1081386.0,915650.9,25,8,0,17,0.68,3,3,0,0.0,"Credit Recovery
+Classes and Tutoring",61193.0,Credit Recovery,904000.0,"State Priority 5E. Cohort
+graduation rate",at_or_above_target,Overall: +0.5%
+Fremont Union High School District,special_education_inclusion,Special Education & Inclusion,1,5,6,1524554.32,816439.62,29,22,0,7,0.2414,5,2,3,0.6,"Access to General
+Education",175119.52,"Career Technical
+Education",835828.0,"By student group,
+increase to 100% the
+percentage of students
+who meet standard
+(level 3, level 4) on the
+California Assessment of
+Student Performance
+and Progress
+(CAASPP).",off_track,+20%/+13.1%
+Los Gatos-Saratoga Union High School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,3,2,1300400.0,906230.0,13,5,0,8,0.6154,1,1,0,0.0,"Academic
+Interventions
+(Contributing)",1246400.0,Articulation,27000.0,"High school graduation
+rate
+Source: DataQuest
+Four-Year Adjusted
+Cohort Graduate Rate
+report
+(Required Metric, State
+Priority 5)",on_track,Year 1
+Mt. Pleasant Elementary School District (MPESD),special_education_inclusion,Special Education & Inclusion,0,5,1,1134253.0,710697.9,24,22,1,1,0.0417,1,0,1,1.0,"Intervention Support
+During the School
+Day",345717.0,"Prepare Students for
+College and Career
+Readiness",383475.0,"CAASPP Results for
+English Language Arts,
+Mathematics, and
+Science",off_track,30% standard met
+Los Altos Elementary School District,math_proficiency,Math Proficiency,0,1,0,3481034.0,1392413.6,0,0,0,0,0.0,0,0,0,0.0,"BROAD COURSE
+OF STUDY",3481034.0,,0.0,,,
+Morgan Hill Unified School District,data_technology,Data Systems & Instructional Technology,0,10,0,1965061.81,1388890.55,0,0,0,0,0.0,0,0,0,0.0,"School Device Digital
+Security - Ensure
+student digital safety
+and equitable access
+to digital instructional
+resources at all
+school sites to
+improve outcomes for
+English Learners,
+Foster Youth, and
+Socioeconomically",128375.0,"School Device Digital
+Security - Ensure
+student digital safety and
+equitable access to
+digital instructional
+resources at all school
+sites to improve
+outcomes for English
+Learners, Foster Youth,
+and Socioeconomically
+Disadvantaged students.",128375.0,,,
+Mt. Pleasant Elementary School District (MPESD),family_community_engagement,Family & Community Engagement,0,7,1,1136920.0,685445.7,16,15,1,0,0.0,1,0,1,1.0,Parent Engagement,14000.0,Parent Engagement,193847.0,"Student, Staff, and
+Parent (LCAP) Survey",moving_away,2023-24 to 2024-
+Cambrian School District,special_education_inclusion,Special Education & Inclusion,0,4,2,1451470.0,1016029.0,10,7,0,3,0.3,2,2,0,0.0,"Provision of
+Instructional
+Specialists",751350.0,"Supplemental
+Targeted Instruction
+& Intervention",670120.0,"Percentage of Students
+Performing Met/Exceed
+Standard on the
+CAASPP ELA
+Assessment",at_or_above_target,All Students: -2.0
+East Side Union High School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,6,1,1628600.0,1055015.0,9,7,0,2,0.2222,1,1,0,0.0,"Positive school climate initiatives, support and
+interventions",234300.0,"Positive school climate initiatives, support an",234300.0,"Suspension Rate
+Status and Change
+as measured by the
+CA Dashboard
+SED =
+Socioeconomically
+Disadvantaged",on_track,2025-26 Update
+Union Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,7,1,570958.0,458098.1,4,1,0,3,0.75,1,0,1,1.0,Behavior Support,331208.0,"Increase students
+sense of belonging
+on campus and in
+their community",0.0,Pupil Suspension Rate,moving_away,All students: 0.3%
+Franklin-McKinley Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,1,1428722.0,1254565.05,0,0,0,0,0.0,0,0,0,0.0,"Resource
+Management:
+Systems to Monitor
+Student Achievement
+(SCG)",125139.0,"Safe and Supportive
+Schools: Students in
+Foster Care and
+Students
+Experiencing
+Homelessness
+(SCG)",1303583.0,"Student Engagement:
+Priority 5.A
+District average daily
+attendance rate
+Data Source: A2A",,
+Los Gatos-Saratoga Union High School District,english_learner_progress,English Learner Progress & Reclassification,0,1,6,1246400.0,872480.0,22,13,0,9,0.4091,3,3,0,0.0,"Academic
+Interventions
+(Contributing)",1246400.0,,0.0,"Percentage of students
+meeting or exceeding
+standard in Mathematics
+on the Smarter Balanced
+Summative Assessment
+Source: California
+Department of
+Education, Test Results
+for California's
+Assessments (caaspp-
+elpac.ets.org)
+(Required Metric, State
+Priority 4)",on_track,Year 1
+Cupertino Union Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,2,1147171.0,683193.15,14,3,0,11,0.7857,1,1,0,0.0,"Attendance
+Messaging, Protocols
+and Site Teams",0.0,"Counseling/Mental
+Health",1044982.0,"Chronic Absenteeism
+Rate: Percentage of
+students who were
+chronically absent
+Data Sources: District
+Attendance Dashboard
+Year to Date; CA
+Dashboard",,All Students -1%
+East Side Union High School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",2,1,3,730000.0,657000.0,20,17,0,3,0.15,3,1,2,0.6667,Edgenuity online Credit Recovery,730000.0,,0.0,"Graduation Rate
+Status and Change
+as measured by the
+CA Dashboard
+SED=Socioeconomically
+Disadvantaged",off_track,2025-26 Update
+Palo Alto Unified School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,2,1,1487602.0,595040.8,3,3,0,0,0.0,1,0,1,1.0,"Behavior &
+suspension",743801.0,Behavior & suspension,743801.0,"P6.C Percentage of
+students responding
+favorably to a question
+about a sense of
+belonging at school
+Source: Panorama
+grades 6-12 survey",off_track,All students +3.0%
+Campbell Union High School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,5,1,2778211.0,1159199.65,1,1,0,0,0.0,0,0,0,0.0,"Supports for
+Socioemotional and
+Mental Health",1183505.0,"Additional School
+Counselors",1477020.0,"Student awareness of
+mental health supports
+including mental health
+staff. Source: Annual
+climate survey",,14%
+Mt. Pleasant Elementary School District (MPESD),chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,6,2,810149.0,495433.55,11,1,1,9,0.8182,2,1,1,0.5,"Improve Student
+Engagement and
+Attendance",40000.0,"Prepare Students for
+College and Career
+Readiness",383475.0,Attendance Rate,off_track,0%
+Union Elementary School District,special_education_inclusion,Special Education & Inclusion,1,9,1,1683082.0,1125259.65,1,1,0,0,0.0,0,0,0,0.0,"English Learner and
+Special Education
+Support",351267.0,"Elementary School
+Interventions",667039.0,"Extent to which pupils
+have access to and are
+enrolled in: programs
+and services developed
+and provided to
+individuals with
+exceptional needs",,6.25%
+East Side Union High School District,family_community_engagement,Family & Community Engagement,1,8,0,2805500.0,1122200.0,0,0,0,0,0.0,0,0,0,0.0,Family Engagement and Communication,2003286.0,Family and Community Engagement,164307.0,,,
+Los Gatos Union Elementary School District,math_proficiency,Math Proficiency,0,3,4,1292338.0,567152.2,16,12,0,4,0.25,3,1,2,0.6667,"Elementary literacy
+and math Specialists",613608.0,"Elementary literacy and
+math Specialists",613608.0,"Percent of students
+performing at or above
+standard on the Smarter
+Balance ELA and Math
+assessments and the
+California Science Test
+(CAST)",moving_away,ELA: -0.3%
+Union Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,9,1,1588596.0,1086015.25,1,0,1,0,0.0,1,1,0,0.0,"Elementary School
+Interventions",667039.0,"Middle School
+Interventions",206262.0,"Monitoring of English
+Language Development,
+English Language Arts,
+and ELD interventions at
+the Elementary and
+Middle School sites",at_or_above_target,0%
+Santa Clara Unified School District,college_career_readiness,"College, Career & Postsecondary Readiness",2,12,11,922428.0,533051.5,57,33,1,23,0.4035,8,3,5,0.625,"Invest in expansion of
+inclusive practices in
+order to improve access
+to rigorous,
+college/career readiness
+courses especially for
+students with disabilities
+and unhoused youth, to
+address areas of focus
+for Differentiated
+Assistance.",234471.0,"Provide increased
+coordination and
+support for the
+college and career
+readiness program
+and services.
+REVISED ACTION
+Develop and/or
+strengthen culturally-
+relevant curriculum
+that supports English
+language, academic
+literacy,
+mathematical,
+research and",30000.0,"Percent of New Valley
+students enrolled in a
+CTE Pathway.(Action
+4.1)",moving_away,Overall = -22.3%.
+Cambrian School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,17,0,1952755.0,1064849.0,0,0,0,0,0.0,0,0,0,0.0,"Comprehensive
+Counseling and",422000.0,"Comprehensive
+Counseling and Mental
+Health Support",422000.0,,,
+Oak Grove School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,4,0,1639258.0,1061373.4,0,0,0,0,0.0,0,0,0,0.0,"Communication and
+Outreach Directed
+Towards Families of
+Foster Youth, Homeless
+Youth, English Learners
+and Socioeconomically
+Disadvantaged Students",583501.0,"Communication and
+Outreach Directed Towards
+Families of Foster Youth,
+Homeless Youth, English
+Learners and",583501.0,,,
+Campbell Union High School District,family_community_engagement,Family & Community Engagement,1,9,7,1721226.0,628553.4,16,9,2,5,0.3125,6,4,2,0.3333,"Family Engagement
+and Tutoring",69812.0,"Family Engagement
+and Educational
+Events",91000.0,"State Priority 3A.
+Percent of parents who
+participate in the parent
+survey. Source: WestEd
+CalSCHLS Parent
+Survey",moving_away,-17%
+Palo Alto Unified School District,family_community_engagement,Family & Community Engagement,0,4,3,1922985.0,1013658.75,2,2,0,0,0.0,1,1,0,0.0,"Parental
+participation--
+unduplicated pupils",560529.0,"Parent participation--
+SWD",183531.0,"P3.A Percentage of
+parents that agree or
+strongly agree with the
+following statement:
+""School actively seeks
+the input of parents
+before
+making important
+decisions.""
+Source: CALSCHLS
+CSPS Survey",,
+Berryessa Union Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,14,0,1383590.24,995706.16,0,0,0,0,0.0,0,0,0,0.0,"Summer School -
+English Learners,
+Elevate Math &
+Computer Science",144962.0,"Positive Behavior
+Intervention Systems",133055.0,,,
+Cambrian School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,6,2,1109524.0,735123.3,6,3,1,2,0.3333,2,2,0,0.0,"Enhancing Student
+Attendance through
+A2A Implementation",0.0,"Enrollment/Engagem
+ent & Support
+Specialist for
+Improving
+Attendance",59087.0,"CA Dashboard: Chronic
+Absenteeism Rate",on_track,All Students: -3.2
+Cupertino Union Elementary School District,data_technology,Data Systems & Instructional Technology,0,4,0,1362131.0,941167.9,0,0,0,0,0.0,0,0,0,0.0,Technology Devices,800000.0,"Digital Tools to
+Support Personalized
+Learning",412000.0,,,
+East Side Union High School District,special_education_inclusion,Special Education & Inclusion,1,2,4,4645506.0,933101.2,4,4,0,0,0.0,0,0,0,0.0,"Support for teachers in meeting the needs of
+Students with Disabilities provided by Education
+Specialist Teacher on Special Assignment",4625506.0,"Placement of Students with Disabilities in Least
+Restrictive Environment (LRE)",20000.0,"CAASPP Math
+scores >=3 (% of
+students meeting
+and Exceeding
+Standard)",,of the 2026-27
+Orchard School District,math_proficiency,Math Proficiency,1,6,3,763000.0,412400.0,20,13,2,5,0.25,1,0,1,1.0,"ELA and Math
+curriculum, resources
+and tools to support
+EL middle school and
+elementary
+programming in
+Kinder through 8th
+grade",14000.0,"ELA and Math
+curriculum, resources
+and tools to support EL
+middle school and
+elementary programming
+in Kinder through 8th
+grade",14000.0,"Percent of students
+performing at or above
+standard on the Smarter
+Balance ELA and Math
+assessments and the
+California Science Test
+(CAST)",moving_away,(2023-24)
+Cambrian School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,8,3,607093.0,407965.1,7,2,1,4,0.5714,3,1,2,0.6667,"Enhancing General
+Education Behavior
+Support & Sustaining
+PBIS",98000.0,"Enhance SEL Support,
+School Climate, and
+Extended Day Programs
+at Price Middle School",0.0,"CA Dashboard:
+Suspension Rate",moving_away,All Students: -0.4
+Union Elementary School District,ela_proficiency,ELA Proficiency & Literacy,0,5,2,1215227.0,806993.85,10,8,1,1,0.1,2,2,0,0.0,"Early Literacy and
+Intervention",29739.0,"Elementary School
+Interventions",667039.0,"K-2 Reading Mid Year
+Reading Assessment",at_or_above_target,K: .64%
+Berryessa Union Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,9,1,1462645.3,881139.03,0,0,0,0,0.0,0,0,0,0.0,"Positive Behavior
+Intervention Systems
+(PBIS) - Contract w/
+Collective Impact
+Solutions",133055.0,"Positive Behavior
+Intervention Systems",133055.0,Suspension Rates,,
+Franklin-McKinley Elementary School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,9,2,1336317.0,876156.05,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning:
+Newcomers and EL
+Professional
+Development and
+Program Support
+(SCG)",45000.0,"Teaching and
+Learning:
+Core and
+Supplemental,
+Instructional
+Materials &
+Resources",429315.0,"School Climate: Priority
+6.C
+Percentage of students
+in grades 3-8 answering
+favorably to feeling a
+sense of belonging
+(School
+Connectedness).
+Data Source: Panorama
+Survey",,
+Los Gatos-Saratoga Union High School District,family_community_engagement,Family & Community Engagement,0,4,8,1178300.0,783520.0,26,23,0,3,0.1154,4,4,0,0.0,Family Engagement,81000.0,"Transparent
+Communication",154000.0,"agree"" that ""This school
+has clean and well-
+maintained facilities and
+properties""
+(2) California School
+Parent Survey, Table
+A9.1, Percentage of
+respondents who replied
+""Agree"" or ""Strongly
+agree"" that ""This school
+has clean and well-
+maintained facilities and
+properties""
+(3) California Healthy
+Kids Survey, Table
+A6.15, Percentage of
+respondents who replied
+""Agree"" or ""Strongly
+agree"" that ""My school is
+usually clean and tidy""
+(State Priority 1)",,Students 10th: -4%
+Fremont Union High School District,data_technology,Data Systems & Instructional Technology,0,4,0,1321640.0,859066.0,0,0,0,0,0.0,0,0,0,0.0,"Instructional
+Technology",660820.0,"Instructional
+Technology - Moved
+to 3.11",0.0,,,
+Milpitas Unified School District,data_technology,Data Systems & Instructional Technology,0,4,0,1127292.0,846063.3,0,0,0,0,0.0,0,0,0,0.0,"Technology Tools
+and Blended
+Learning",336999.0,"Technology Tools and
+Blended Learning",336999.0,,,
+Mt. Pleasant Elementary School District (MPESD),mental_health_wellness,"Mental Health, SEL & Wellness",0,9,0,1276869.0,843203.95,0,0,0,0,0.0,0,0,0,0.0,"Provide Support to
+Families of Most
+Vulnerable Student
+Subgroups",298281.0,"Improve School
+Climate",112000.0,,,
+Cambrian School District,math_proficiency,Math Proficiency,0,1,4,751350.0,525945.0,11,8,2,1,0.0909,4,2,2,0.5,"Provision of
+Instructional
+Specialists",751350.0,,0.0,"Percentage of ELs
+Enrolled in Advanced
+Math at Price Middle
+School",off_track,0
+Los Gatos Union Elementary School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,3,1,647608.0,416695.2,1,0,0,1,1.0,0,0,0,0.0,"Utilize the Educlimber
+Data Management
+System to enter and
+refer to data from
+multiple sources as part
+of the MTSS (Multi-",17000.0,"Utilize the
+Educlimber Data
+Management System
+to enter and refer to",17000.0,"Priority 3B:
+Participation in the
+Expanded Learning
+Opportunities Program
+(ELOP) for Low Income,
+English Learner, and
+Foster Youth students.",,-8%
+Cupertino Union Elementary School District,family_community_engagement,Family & Community Engagement,1,6,9,931428.0,588112.05,11,10,0,1,0.0909,4,3,1,0.25,"Parent Liaisons and
+Support",102189.0,Parent Education,9500.0,"Parent Liaisons
+Percentage of School
+Sites with Parent
+Liaisons that utilized
+75% or more of their
+allocated hours.",moving_away,-8%
+Oak Grove School District,family_community_engagement,Family & Community Engagement,0,4,0,1378844.0,784938.0,0,0,0,0,0.0,0,0,0,0.0,"Communication and
+Outreach Directed
+Towards Families of
+Foster Youth, Homeless
+Youth, English Learners
+and Socioeconomically
+Disadvantaged Students",583501.0,"Communication and
+Outreach Directed Towards
+Families of Foster Youth,
+Homeless Youth, English
+Learners and",583501.0,,,
+Cambrian School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,5,0,1385137.0,774952.4,0,0,0,0,0.0,0,0,0,0.0,"Provision of
+Instructional
+Specialists",751350.0,"Provision for the
+Coordinator of
+Student Support
+Services",240000.0,,,
+Cambrian School District,family_community_engagement,Family & Community Engagement,1,14,6,1070836.0,607261.95,10,10,0,0,0.0,4,3,1,0.25,"Family Engagement
+& Support Specialist",59087.0,"Enhancing Parent and
+Community Engagement
+through the Coordinator
+of Marketing,
+Communications, and
+Community Engagement",124000.0,"Who Responded
+""Strongly Agree"" or
+""Agree"" to the Following
+Survey Item: ""Parents
+have opportunities to
+give input into the
+decision-making process
+at school.""",moving_away,Disabilities: +9.9
+Saratoga Union School District,math_proficiency,Math Proficiency,0,4,0,1012472.0,732853.8,0,0,0,0,0.0,0,0,0,0.0,"Mathematics - full
+implementation
+CCSS TK-8",269326.0,"Mathematics - full
+implementation CCSS
+TK-8",269326.0,,,
+East Side Union High School District,college_career_readiness,"College, Career & Postsecondary Readiness",4,8,3,694179.0,277671.6,19,8,0,11,0.5789,3,0,3,1.0,Targeted college and career readiness for st,167263.0,"Targeted college and career readiness for students
+through AVID course enrollment",167263.0,"UC/CSU A-G
+Course Completion
+by Race/Ethnicity",moving_away,2025-26 Update
+Franklin-McKinley Elementary School District,math_proficiency,Math Proficiency,0,6,4,1083178.0,705215.7,0,0,0,0,0.0,0,0,0,0.0,"Teaching and
+Learning: PK-8
+Continuum of Core
+Instruction (SCG)",167326.0,"Teaching and
+Learning:
+Core and
+Supplemental,
+Instructional
+Materials &
+Resources",429315.0,"Student Achievement:
+Priority 4.A
+Percent of students in
+grades 3-8 who met or
+exceed standard in
+MATHEMATICS
+Data Source: California
+Assessment of Student",,
+Mt. Pleasant Elementary School District (MPESD),college_career_readiness,"College, Career & Postsecondary Readiness",3,7,0,1084279.0,635141.0,0,0,0,0,0.0,0,0,0,0.0,"Prepare Students for
+College and Career
+Readiness",383475.0,Parent Engagement,14000.0,,,
+Los Gatos-Saratoga Union High School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,2,0,967800.0,629070.0,0,0,0,0,0.0,0,0,0,0.0,Student Well-Being,940800.0,"Multi-Tiered System
+of Supports (MTSS)",27000.0,,,
+Saratoga Union School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,10,2,291098.0,228049.6,7,2,0,5,0.7143,1,0,1,1.0,"A district Attendance
+Committee with
+representatives from
+each school will be
+formed to create
+district protocols and
+build strategies at
+each MTSS tier.
+District CA
+Dashboard data
+shows LEA student
+groups
+(Socioeconomically
+Disadvantaged
+28.1% chronically
+absent and Students
+with Disabilities",0.0,"School
+Refusal/Avoidance
+Teams at each
+school site to
+address Chronic
+Absenteeism due to
+School Refusal
+CA Dashboard
+shows Foothill
+Elementary School
+as overall 13.7%
+chronically absent
+and specifically Asian
+students as 11.8%
+chronically absent,
+and Students with
+Disabilities 22%
+chronically absent",0.0,"Priority 5: Student
+Engagement
+Chronic Absenteeism
+Rate
+Source:CA Dashboard",moving_away,+2.0%
+Los Altos Elementary School District,special_education_inclusion,Special Education & Inclusion,0,2,0,1487904.0,604595.4,0,0,0,0,0.0,0,0,0,0.0,"STUDENTS WITH
+DISABILITIES",1440735.0,"PARENT
+INPUT/FEEDBACK
+(Priority 3A/B/C)",47169.0,,,
+Union Elementary School District,math_proficiency,Math Proficiency,0,4,0,913301.0,591145.65,0,0,0,0,0.0,0,0,0,0.0,"Science, Technology,
+Engineering, Arts and
+Mathematics",30000.0,"Elementary School
+Interventions",667039.0,,,
+Palo Alto Unified School District,ela_proficiency,ELA Proficiency & Literacy,0,1,4,359703.0,197836.65,10,3,0,7,0.7,1,0,1,1.0,Literacy,359703.0,,0.0,"P4.A Percentage of third
+grade students in the
+following groups that
+meet or exceed standard
+on SBAC English
+Language Arts (ELA):
+English Learners,
+Hispanic, SED,
+Hispanic & SED, SWD
+Source: CAASPP
+website",moving_away,10.8%
+Lakeside Joint School District,special_education_inclusion,Special Education & Inclusion,0,7,2,409406.0,266701.4,5,5,0,0,0.0,1,0,1,1.0,"Provide fundamental
+foundations that
+support, reflect, and
+model diversity,
+equity, inclusion, and
+belonging for Low
+Income, Foster
+Youth, English
+Language Learners,
+and SPED
+Learning tools with
+fidelity
+collaboration, and
+communication between
+families and staff",3000.0,"Provide fundamental
+foundations that support,
+reflect, and model
+diversity, equity,
+inclusion, and belonging
+for Low Income, Foster
+Youth, English
+Language Learners, and
+SPED",3000.0,CAASPP results,moving_away,1 Outcome was
+Mountain View Whisman School District,data_technology,Data Systems & Instructional Technology,0,7,0,769519.0,499018.5,0,0,0,0,0.0,0,0,0,0.0,Technology Devices,552996.0,Technology Coach,178423.0,,,
+Oak Grove School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,2,0,1123486.0,491757.7,0,0,0,0,0.0,0,0,0,0.0,"Positive Behavior
+Interventions and
+Supports",141211.0,"Special Education
+Behavioral Supports",982275.0,,,
+Mt. Pleasant Elementary School District (MPESD),data_technology,Data Systems & Instructional Technology,0,8,0,621788.0,491205.05,0,0,0,0,0.0,0,0,0,0.0,"Internet Access and
+Technology Devices",500.0,"Supplemental
+Instructional
+Apps and Technology
+Support",92780.0,,,
+Orchard School District,special_education_inclusion,Special Education & Inclusion,1,6,0,965000.0,491000.0,0,0,0,0,0.0,0,0,0,0.0,"Expanded learning
+opportunities to
+support students",190000.0,Support Services,295000.0,,,
+Fremont Union High School District,math_proficiency,Math Proficiency,0,2,1,395312.0,217421.6,13,10,0,3,0.2308,1,0,1,1.0,"Mathematics:
+Instruction",197656.0,Mathematics: Instruction,197656.0,"By student group,
+increase to 100% the
+percentage of students
+deemed “ready for
+college” or ""conditionally
+ready for college"" as
+measured on CAASPP
+with a score of 3 or 4 to
+indicate ""met or
+exceeded standard"" in
+the area of ELA and
+Mathematics.",off_track,American:+20%/+3
+Santa Clara Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,2,596178.0,239965.7,5,5,0,0,0.0,1,0,1,1.0,"Provide support and
+engage with students
+and families, with a
+focus on foster and
+unhoused youth, to
+increase regular
+school attendance,
+and decrease chronic
+absenteeism.",295100.0,"Provide support and
+engage with students
+and families, with a
+focus on foster and
+unhoused youth, to
+increase regular school
+attendance, and
+decrease chronic
+absenteeism.",295100.0,"Districtwide average
+attendance rates.
+(Action 2.4)",off_track,Overall: +0.7%.
+Milpitas Unified School District,family_community_engagement,Family & Community Engagement,0,9,0,638885.0,432616.2,0,0,0,0,0.0,0,0,0,0.0,"Parent Education
+Workshops and
+Events",142176.0,"English Learner
+Parent Workshops",5775.0,,,
+Orchard School District,ela_proficiency,ELA Proficiency & Literacy,0,5,3,288000.0,176900.0,19,12,2,5,0.2632,1,0,1,1.0,"ELA and Math
+curriculum, resources
+and tools to support
+EL middle school and
+elementary
+programming in
+Kinder through 8th
+grade",14000.0,"ELA and Math
+curriculum, resources
+and tools to support EL
+middle school and
+elementary programming
+in Kinder through 8th
+grade",14000.0,"Percent of students
+performing at or above
+standard on the Smarter
+Balance ELA and Math
+assessments and the
+California Science Test
+(CAST)",moving_away,(2023-24)
+Campbell Union School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,10,0,652527.0,381874.65,0,0,0,0,0.0,0,0,0,0.0,"After School
+Interventions",8000.0,After School Interventions,8000.0,,,
+Palo Alto Unified School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,1,1,1,618396.0,371037.6,3,3,0,0,0.0,0,0,0,0.0,"Attendance & chronic
+absenteeism",618396.0,,0.0,"P5.A School attendance
+rates for all students,
+SED, and EL
+Source: 5 Labs ""Overall
+attendance rate""",,All -0.1%
+Berryessa Union Elementary School District,family_community_engagement,Family & Community Engagement,1,13,6,608795.0,363723.0,0,0,0,0,0.0,0,0,0,0.0,"Parent Engagement -
+Contract w/ Santa
+Clara County Office
+of Education
+(SCCOE)",4540.0,"Parent Engagement -
+Materials to support
+workshops",3000.0,"School Site Council
+(SSC) training,
+representation and
+participation",,
+Oak Grove School District,ela_proficiency,ELA Proficiency & Literacy,0,2,1,472256.0,361172.2,0,0,0,0,0.0,0,0,0,0.0,"Special Education
+Supplemental
+Curriculum and
+Training",152965.0,"Academic Language
+Development through
+the SEAL Model",319291.0,"ELA CA Dashboard
+Indicator for Students
+with Disabilities",,
+Saratoga Union School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,2,1,300337.0,270303.3,6,4,0,2,0.3333,1,1,0,0.0,"Mathematics - full
+implementation
+CCSS TK-8",269326.0,"Ensure safety and
+good health practices",31011.0,"Other local measures,
+including surveys of
+pupils, parents, and
+teachers on the sense of
+safety and school
+connectedness
+Source: KELVIN and
+CHKS survey tools",at_or_above_target,+5%
+Cambrian School District,data_technology,Data Systems & Instructional Technology,0,9,0,457050.0,357345.0,0,0,0,0,0.0,0,0,0,0.0,"Advancing
+Technology Priorities",0.0,"Targeted Expanded
+Educational
+Resources and
+Digital Learning for
+UPP",140000.0,,,
+Orchard School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,2,1,825000.0,165000.0,2,0,0,2,1.0,0,0,0,0.0,Small class sizes,690000.0,Support Staff,135000.0,Suspension Rates,,1.59% decrease in
+Orchard School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",1,3,0,560000.0,316500.0,0,0,0,0,0.0,0,0,0,0.0,"Expanded learning
+opportunities to
+support students",190000.0,Summer school,180000.0,,,
+Fremont Union High School District,family_community_engagement,Family & Community Engagement,1,6,5,497950.75,208980.3,17,11,0,6,0.3529,1,1,0,0.0,Parent Education,60934.75,"Advisory Lessons -
+Discontinued for 25-
+26",0.0,"Increase to 100% the
+number of
+parents/guardians who",,CHS: -2%/+2%
+Orchard School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,2,1,230000.0,94000.0,9,0,0,9,1.0,1,0,1,1.0,"Transportation
+(aligned with DA
+work)",220000.0,"School events:
+health, wellness, and
+community events
+(aligned with DA
+work)",10000.0,"Percentage of students
+who are chronically
+absent and percentage
+of total district
+attendance rate.",off_track,attendance. 1.47%
+Palo Alto Unified School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,2,0,492022.0,269330.4,0,0,0,0,0.0,0,0,0,0.0,Wellness,362608.0,"Social Emotional
+Learning",129414.0,,,
+Palo Alto Unified School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,2,0,503761.0,263695.9,0,0,0,0,0.0,0,0,0,0.0,MTSS,124383.0,"Programs for
+unduplicated pupils",379378.0,,,
+Saratoga Union School District,family_community_engagement,Family & Community Engagement,1,8,6,215127.0,156278.9,11,7,2,2,0.1818,6,4,2,0.3333,Parent Committees,8100.0,"Parent Adult
+Education",0.0,"Priority 3: Parental
+Involvement and Family
+Engagement
+How the LEA will
+determine the translation
+needs of English learner
+parents
+Source: DELAC
+meetings, parent/teacher
+conferences",moving_away,0%
+Orchard School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,5,0,380000.0,236000.0,0,0,0,0,0.0,0,0,0,0.0,Counseling services,280000.0,"Student engagement
+and self regulation
+training",70000.0,,,
+Campbell Union School District,ela_proficiency,ELA Proficiency & Literacy,0,5,6,372040.0,230696.0,0,0,0,0,0.0,3,3,0,0.0,"Reading Intervention
+Teacher",228143.0,"Web-based
+Math/Reading
+Programs and
+Assessments",26000.0,"Literacy: Increase the
+number of 3rd and 6th
+grade students who
+are above or near
+standard in the
+Reading Claim area
+on the annual SBAC
+assessment by 3%
+annually.",,
+Evergreen Elementary School District Board of Trustees,mental_health_wellness,"Mental Health, SEL & Wellness",0,2,0,889363.0,227872.6,0,0,0,0,0.0,0,0,0,0.0,"SSW Interns and
+Counseling Interns",125000.0,"Create a safe and
+caring climate",764363.0,,,
+Berryessa Union Elementary School District,data_technology,Data Systems & Instructional Technology,0,4,0,240575.0,216517.5,0,0,0,0,0.0,0,0,0,0.0,Technology support,139575.0,Illuminate,62000.0,,,
+Fremont Union High School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",1,1,1,196509.0,117905.4,11,2,0,9,0.8182,0,0,0,0.0,Student Support,196509.0,,0.0,"By student group,
+decrease the dropout
+rate.",,+6.1%
+Los Altos Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,2,1,349447.0,209668.2,6,6,0,0,0.0,0,0,0,0.0,"SOCIAL
+EMOTIONAL",302278.0,"PARENT
+INPUT/FEEDBACK
+(Priority 3A/B/C)",47169.0,"SOCIAL-EMOTIONAL
+LEARNING
+Student Social
+Emotional Learning TSE
+survey results (Priority
+6C)",,Spring 2025:
+Campbell Union High School District,data_technology,Data Systems & Instructional Technology,0,1,0,379000.0,208450.0,0,0,0,0,0.0,0,0,0,0.0,"Equitable School
+Access",379000.0,,0.0,,,
+Palo Alto Unified School District,math_proficiency,Math Proficiency,0,1,1,248316.0,99326.4,2,0,0,2,1.0,0,0,0,0.0,"Middle school
+mathematics",248316.0,,0.0,"P4.H Percentage of 11th
+grade students in the
+“Standard Exceeded”
+level on the Smarter
+Balanced Summative
+ELA and Math
+Assessments
+Source: CAASPP
+website",,-1.6% ELA
+East Side Union High School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,6,1,463514.0,190345.1,2,2,0,0,0.0,0,0,0,0.0,Child Welfare & Attendance Support,372049.0,Attendance Support through Family Engage,25000.0,"District P2
+attendance rate",,2025-26 Update
+East Side Union High School District,math_proficiency,Math Proficiency,3,5,2,301500.0,184225.0,2,2,0,0,0.0,0,0,0,0.0,"Professional Development for Mathematics, Science,
+and English Language Arts teachers",40000.0,"High-dosage tutoring for students by subject area
+with a focus on Math and English Language Arts",159000.0,"CAASPP Math
+scores >=3 (% of
+students meeting
+and Exceeding
+Standard)",,of the 2026-27
+Los Altos Elementary School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,1,0,302278.0,181366.8,0,0,0,0,0.0,0,0,0,0.0,"SOCIAL
+EMOTIONAL",302278.0,,0.0,,,
+Loma Prieta Joint Union School District,math_proficiency,Math Proficiency,1,4,5,195963.0,90383.05,0,0,0,0,0.0,1,0,1,1.0,"Math intervention
+support",64601.0,"Targeted Math &
+Reading supports",68162.0,"% of students with
+access to Algebra and
+Geometry",moving_away,
+Union Elementary School District,data_technology,Data Systems & Instructional Technology,0,4,0,313071.0,172189.05,0,0,0,0,0.0,0,0,0,0.0,"Digital Citizenship,
+Safety and Balance
+of Technology Use",8000.0,"Digital Citizenship,
+Safety and Balance of
+Technology Use",8000.0,,,
+East Side Union High School District,ela_proficiency,ELA Proficiency & Literacy,4,5,2,269297.0,171468.8,2,2,0,0,0.0,0,0,0,0.0,"High-dosage tutoring for students by subject area
+with a focus on Math and English Language Arts",159000.0,"Professional Development for Mathematics, Science,
+and English Language Arts teachers",40000.0,"CAASPP ELA
+scores >=3 (% of
+students meeting
+and Exceeding
+Standard)",,of the 2026-27
+Loma Prieta Joint Union School District,data_technology,Data Systems & Instructional Technology,0,3,0,263700.0,145060.0,0,0,0,0,0.0,0,0,0,0.0,"Improve technology
+access",200000.0,"Course
+access/instructional
+materilals",63200.0,,,
+Orchard School District,english_learner_progress,English Learner Progress & Reclassification,0,7,1,336000.0,143500.0,1,1,0,0,0.0,0,0,0,0.0,"Devices to support
+English Learners
+including newcomers
+(aligned with DA
+work)",35000.0,"Devices to support
+English Learners
+including newcomers
+(aligned with DA work)",35000.0,"Percent of students who
+made progress towards
+English language
+proficiency by advancing
+at least one English
+Learner Progress
+Indicator (ELPI) level or
+maintaining ELPI level 4.",,students by 6.9%.
+Campbell Union School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,4,0,192150.0,140373.8,0,0,0,0,0.0,0,0,0,0.0,School Counselor,130134.0,"PBIS and SEL
+Materials and
+Supplies",5000.0,,,
+Oak Grove School District,math_proficiency,Math Proficiency,0,1,1,152965.0,137668.5,0,0,0,0,0.0,0,0,0,0.0,"Special Education
+Supplemental
+Curriculum and
+Training",152965.0,,0.0,"SBAC Math State
+Assessment",,
+Union Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,1,166141.0,104084.6,7,5,0,2,0.2857,1,1,0,0.0,"Increase Student
+Attendance",88000.0,Community Liaison,48327.0,"Chronic absenteeism
+rates",at_or_above_target,All students: -4.2%
+Campbell Union School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,5,2,150861.0,66002.65,0,0,0,0,0.0,1,0,1,1.0,"Campus PBIS
+Support and
+Supervisor",57414.0,"PBIS and SEL
+Materials and
+Supplies",5000.0,"Increase favorable
+response to Emotional
+Regulation (grades 3-
+8) and Sense of
+Belonging (grades 6-
+8) in Fall 2021
+Panorama Survey to
+80% (12% annually).",off_track,
+Evergreen Elementary School District Board of Trustees,data_technology,Data Systems & Instructional Technology,0,1,0,185551.0,129885.7,0,0,0,0,0.0,0,0,0,0.0,"Maintain Educational
+Tech TOSA",185551.0,,0.0,,,
+Campbell Union High School District,special_education_inclusion,Special Education & Inclusion,0,6,3,107078.0,64642.9,27,14,0,13,0.4815,2,1,1,0.5,"Special Education
+Course Alignment
+and Interventions",10000.0,"Special Education
+Course Alignment and
+Interventions",10000.0,"State Priority 4H.
+CAASPP Percent
+Meets/Exceeds (EAP
+Conditionally College
+Ready) in English
+language arts and math",moving_away,All Students: -0.7%
+Cambrian School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,1,1,140000.0,126000.0,1,0,1,0,0.0,0,0,0,0.0,"Targeted Expanded
+Educational
+Resources and
+Digital Learning for
+UPP",140000.0,,0.0,"Number of Middle
+School Dropouts",,0
+Campbell Union High School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,3,3,106172.0,64968.8,17,8,2,7,0.4118,2,1,1,0.5,"Anti-Bias and
+Restorative Practices
+Training",50000.0,"Restorative Practices
+and Anti-Bias
+Professional
+Development",25000.0,"State Priority 6C.
+Surveys of pupils,
+parents, and teachers on
+the sense of safety and
+school connectedness
+(WestEd CalSCHLS
+Surveys including
+California Healthy Kids
+Survey)",off_track,2%
+Los Altos Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,1,1,109113.0,43645.2,19,4,2,13,0.6842,1,0,1,1.0,"STUDENT
+ATTENDANCE",109113.0,,0.0,"ATTENDANCE
+Student attendance
+rates
+(Priority 5A)
+Chronic absenteeism
+rates
+(Priority 5B)
+Middle school drop out
+rates
+(Priority 5C)",moving_away,-2% EOY
+Palo Alto Unified School District,data_technology,Data Systems & Instructional Technology,0,1,0,124383.0,111944.7,0,0,0,0,0.0,0,0,0,0.0,MTSS,124383.0,,0.0,,,
+Loma Prieta Joint Union School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,3,0,168959.0,109823.35,0,0,0,0,0.0,0,0,0,0.0,"Reading intervention
+support",104358.0,"Math intervention
+support",64601.0,,,
+Los Gatos-Saratoga Union High School District,data_technology,Data Systems & Instructional Technology,0,3,0,128000.0,105750.0,0,0,0,0,0.0,0,0,0,0.0,Infrastructure,54000.0,Human Resources,47000.0,,,
+Union Elementary School District,family_community_engagement,Family & Community Engagement,1,5,3,105068.0,60240.8,5,4,0,1,0.2,2,1,1,0.5,Parent Education,12927.0,Communication,14000.0,Parent Survey,moving_away,1%
+Evergreen Elementary School District Board of Trustees,school_climate_suspension,"School Climate, Behavior & Suspension",0,4,1,278364.0,96345.6,1,1,0,0,0.0,0,0,0,0.0,"Professional
+Development for
+behavior supports",50000.0,"Attendance and re-
+engagement",78364.0,"Percentage of parents
+reporting sense of safety
+and school
+connectedness
+(Staff and Community
+Engagement Feedback
+Survey)",,+25.72%
+Los Gatos Union Elementary School District,english_learner_progress,English Learner Progress & Reclassification,0,4,2,267643.0,64053.6,2,1,0,1,0.5,1,1,0,0.0,"Elementary ELD
+Teacher",206955.0,"Middle school ELD
+teacher",39188.0,"Priority 3B:
+Participation in the
+Expanded Learning
+Opportunities Program
+(ELOP) for Low Income,
+English Learner, and
+Foster Youth students.",,-8%
+Franklin-McKinley Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,4,4,144139.0,94640.35,0,0,0,0,0.0,0,0,0,0.0,"Supporting the Whole
+Child: Professional
+Development
+Targeted Strategies
+(SCG)",19000.0,"Supporting the Whole
+Child: Coordinated
+Services",0.0,"School Climate: Priority
+6.C
+Percentage of students
+in grades 3-8 answering
+favorably to feeling a
+sense of belonging
+(School
+Connectedness).
+Data Source: Panorama
+Survey",,
+Evergreen Elementary School District Board of Trustees,family_community_engagement,Family & Community Engagement,1,2,10,180000.0,51000.0,28,22,0,6,0.2143,7,3,4,0.5714,"Parent University
+classes",150000.0,"Create Equitable
+Actions and Policies",30000.0,"Priority 6.C: Community
+Engagement Feedback
+Survey (Engagement)
+Percentage of parents
+reporting they/their
+family feel involved in
+school life at their child's
+school",moving_away,-0.40%
+Oak Grove School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,3,1,226232.0,90492.8,0,0,0,0,0.0,0,0,0,0.0,"Central Office Support
+for Foster Youth,
+Homeless Youth,
+English Learners,
+Socioeconomically
+Disadvantaged Students
+in Areas of Attendance,
+Safety and Physical
+Health",109866.0,"Central Office Support for
+Foster Youth, Homeless
+Youth, English Learners,
+Socioeconomically
+Disadvantaged Students in
+Areas of Attendance, Safety
+and Physical Health",109866.0,"CA Dashboard Chronic
+Absenteeism",,
+Loma Prieta Joint Union School District,ela_proficiency,ELA Proficiency & Literacy,1,4,7,172520.0,81465.1,0,0,0,0,0.0,0,0,0,0.0,"Reading intervention
+support",104358.0,"Targeted Math &
+Reading supports",68162.0,"Fountas and Pinnell
+Reading Assessment",,
+Campbell Union School District,math_proficiency,Math Proficiency,0,2,4,101777.0,63555.05,0,0,0,0,0.0,2,2,0,0.0,"Web-based
+Math/Reading
+Programs and
+Assessments",26000.0,"Targeted
+Interventions",75777.0,"English Language
+Arts and Mathematics:
+Increase the percent
+of Overall students
+proficient on SBAC
+Math and ELA by 3%
+annually.
+Increase the percent
+of Black/African
+American,
+Hispanic/Latino, SED,
+and EL students
+proficient on SBAC
+ELA and Math by 5%
+annually.",,
+Los Altos Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,1,2,109113.0,43645.2,5,2,1,2,0.4,0,0,0,0.0,"SUSPENSION/EXPU
+LSION",109113.0,,0.0,"SUSPENSION/EXPULSI
+ON",,- +0.1%
+Evergreen Elementary School District Board of Trustees,college_career_readiness,"College, Career & Postsecondary Readiness",0,3,2,189796.0,54918.4,5,5,0,0,0.0,1,1,0,0.0,"Parent University
+classes",150000.0,"Create Equitable
+Actions and Policies",30000.0,"Percentage of parents
+reporting sense of safety
+and school
+connectedness
+(Staff and Community
+Engagement Feedback
+Survey)",,+25.72%
+Lakeside Joint School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,16,3,59750.0,38525.0,3,2,0,1,0.3333,1,1,0,0.0,"Positive Behavioral
+Interventions and
+Supports (PBIS) and
+Multi-Tiered System
+of Supports (MTSS)
+Implementation",8000.0,"Positive Behavioral
+Interventions and
+Supports (PBIS) and
+Multi-Tiered System of
+Supports (MTSS)
+Implementation",8000.0,Suspension Rate,,Difference of 1.5%
+Los Gatos Union Elementary School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,7,1,40000.0,36000.0,8,5,0,3,0.375,1,1,0,0.0,"Monthly attendance
+data review",0.0,"Identify students at
+risk of chronic
+absenteeism with
+monthly data reviews",0.0,"Priority 5B:
+CA School Dashboard
+chronic absenteeism
+rates",at_or_above_target,Baseline - Year 1
+Los Altos Elementary School District,family_community_engagement,Family & Community Engagement,1,2,2,87919.0,44601.4,4,2,2,0,0.0,1,1,0,0.0,"PARENT
+INPUT/FEEDBACK
+(Priority 3A/B/C)",47169.0,"PARENT
+ENGAGEMENT",40750.0,"PARENT
+ENGAGEMENT",,+219 hours
+Orchard School District,data_technology,Data Systems & Instructional Technology,0,2,0,70000.0,38500.0,0,0,0,0,0.0,0,0,0,0.0,"Devices to support
+English Learners
+including newcomers
+(aligned with DA
+work)",35000.0,"Devices to support
+English Learners
+including newcomers
+(aligned with DA work)",35000.0,,,
+Los Gatos Union Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,1,0,40000.0,36000.0,0,0,0,0,0.0,0,0,0,0.0,"Continue to enforce
+attendance policy",40000.0,,0.0,,,
+Campbell Union School District,family_community_engagement,Family & Community Engagement,1,4,6,55771.0,30674.05,0,0,0,0,0.0,1,1,0,0.0,"Family Engagement
+and Learning",1500.0,"Family Engagement and
+Learning",0.0,"School Site Council
+(SSC) and English
+Learner Advisory
+Committees (ELAC) at
+each CUSD school
+completed the LCFF
+Priority 3 self-
+reflection tool in April
+and May 2021
+resulting in a status of
+""Met"" on the 2021
+California School
+Dashboard.",at_or_above_target,
+Lakeside Joint School District,mtss_intervention,"MTSS, Tutoring & Targeted Intervention",0,11,3,45000.0,29250.0,0,0,0,0,0.0,0,0,0,0.0,"Positive Behavioral
+Interventions and
+Supports (PBIS) and
+Multi-Tiered System
+of Supports (MTSS)
+Implementation",8000.0,"Positive Behavioral
+Interventions and
+Supports (PBIS) and
+Multi-Tiered System of
+Supports (MTSS)
+Implementation",8000.0,"assessments, and/or any
+other appropriate
+progress monitoring
+assessments.",,
+Los Gatos Union Elementary School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,8,0,41500.0,27050.0,0,0,0,0,0.0,0,0,0,0.0,"Further work in
+Restorative Practices",0.0,"Suspension rate
+review",0.0,,,
+Los Gatos-Saratoga Union High School District,school_climate_suspension,"School Climate, Behavior & Suspension",0,1,4,27000.0,17550.0,25,14,0,11,0.44,2,2,0,0.0,"Multi-Tiered System
+of Supports (MTSS)",27000.0,,0.0,"Suspension Rates
+Source: DataQuest,
+Suspension and
+Expulsion Data report,
+Suspension Rate
+(Required Metric, State
+Priority 6)",,Year 1
+Lakeside Joint School District,mental_health_wellness,"Mental Health, SEL & Wellness",0,5,1,51000.0,24100.0,0,0,0,0,0.0,0,0,0,0.0,"Communicate safety
+plans",1000.0,"Teach and implement
+Social and Emotional
+Learning tools with
+fidelity",32000.0,"Strengths and Difficulties
+Questionnaire (SDQ)
+administered twice
+yearly to determine
+student psychological
+attributes/mental health.",,
+Los Gatos Union Elementary School District,data_technology,Data Systems & Instructional Technology,0,1,0,25000.0,22500.0,0,0,0,0,0.0,0,0,0,0.0,"Literacy universal
+screening",25000.0,,0.0,,,
+Loma Prieta Joint Union School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,4,0,69092.0,20018.4,0,0,0,0,0.0,0,0,0,0.0,"Targeted counseling
+for attendance",15000.0,"School-based
+counseling/support
+services",0.0,,,
+Loma Prieta Joint Union School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,4,4,40656.0,19262.4,0,0,0,0,0.0,1,1,0,0.0,"Targeted counseling
+for attendance",15000.0,Attendance Intiatives,0.0,"Chronic absenteeism
+rates",,
+Mt. Pleasant Elementary School District (MPESD),graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,1,1,15000.0,10500.0,2,1,0,1,0.5,1,1,0,0.0,"AVID Implementation
+and Professional
+Development",15000.0,,0.0,"Pupil Engagement:
+Middle School Dropout
+Rate",at_or_above_target,-9% (Decreased
+Lakeside Joint School District,english_learner_progress,English Learner Progress & Reclassification,0,2,2,28000.0,15100.0,3,3,0,0,0.0,0,0,0,0.0,"English Language
+Learners",15000.0,"Promote critical
+thinking and civic
+responsibility through
+classroom instruction",13000.0,"English Learners will, be
+reclassified RFEP as
+measured by the annual
+ELPAC assessment,
+and/or the Benchmark
+Advanced ELA
+assessments, and/or the
+Writing By Design",,was 37.5% in
+Los Gatos Union Elementary School District,special_education_inclusion,Special Education & Inclusion,0,2,0,20000.0,14000.0,0,0,0,0,0.0,0,0,0,0.0,"Provide parent
+education
+opportunities through
+workshops and
+services",20000.0,"Professional
+development for staff",0.0,,,
+Campbell Union School District,data_technology,Data Systems & Instructional Technology,0,1,0,34120.0,13648.0,0,0,0,0,0.0,0,0,0,0.0,"Library and Media
+Aide",34120.0,,0.0,,,
+Los Gatos Union Elementary School District,mental_health_wellness,"Mental Health, SEL & Wellness",1,4,0,20000.0,12000.0,0,0,0,0,0.0,0,0,0,0.0,"Continue Social
+Emotional Learning
+(SEL) Programming
+and Supports at both
+Elementary and
+Middle School",0.0,"Continue Social
+Emotional Learning
+(SEL) Programming and
+Supports at both
+Elementary and Middle
+School",0.0,,,
+Loma Prieta Joint Union School District,school_climate_suspension,"School Climate, Behavior & Suspension",1,4,1,53592.0,10718.4,0,0,0,0,0.0,0,0,0,0.0,"Student behavior
+management/recogni
+tion programs",0.0,"Behavioral support
+staff",53592.0,Suspension rates,,
+Loma Prieta Joint Union School District,special_education_inclusion,Special Education & Inclusion,0,4,2,53592.0,10718.4,0,0,0,0,0.0,0,0,0,0.0,"Behavioral support
+staff",53592.0,Attendance Intiatives,0.0,"Broad course of study:
+percentage of SWD
+students spending
+greater than 80% of",,
+Los Gatos Union Elementary School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,1,1,20000.0,8000.0,4,4,0,0,0.0,1,1,0,0.0,"Parent/Guardian
+Feedback survey",20000.0,,0.0,"Priority 6C:
+Percent of students who
+state that they feel
+connected to their
+school.",at_or_above_target,2024-2025:
+Loma Prieta Joint Union School District,family_community_engagement,Family & Community Engagement,2,3,5,11500.0,7900.0,0,0,0,0,0.0,0,0,0,0.0,"Parent/Community
+Communication",8000.0,Loma Family System,0.0,"Parent participation
+rates",,
+Orchard School District,family_community_engagement,Family & Community Engagement,0,1,2,10000.0,6000.0,2,0,2,0,0.0,1,1,0,0.0,"School events:
+health, wellness, and
+community events
+(aligned with DA
+work)",10000.0,,0.0,"Parent Institute for
+Quality Education
+(PIQE): number of
+parents completing the
+program.",,No difference in
+Lakeside Joint School District,family_community_engagement,Family & Community Engagement,1,7,10,18500.0,5700.0,9,8,1,0,0.0,2,2,0,0.0,"""Home to School Communication"" team to promote school-family
+partnerships with Low Income, Foster Youth, and English Language
+Learner families. There is no additional funding for this goal as it is part of
+the District's existing funding.",0.0,"Provide reporting on
+budget projections
+and plans for
+maintaining a
+balanced budget",10000.0,LCAP Parent Survey,,
+Campbell Union School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,1,0,5000.0,2750.0,0,0,0,0,0.0,0,0,0,0.0,"PBIS and SEL
+Materials and
+Supplies",5000.0,,0.0,,,
+Los Gatos-Saratoga Union High School District,ela_proficiency,ELA Proficiency & Literacy,1,1,1,13500.0,2700.0,1,1,0,0,0.0,0,0,0,0.0,Grading Policies,13500.0,,0.0,"Parent and Family
+Engagement: Building
+Relationships
+Source: California
+School Dashboard,
+Parent and Family
+Engagement, Building
+Relationships Between
+School Staff and
+Families, Reflection Tool
+Rating Scale (1 -
+Exploration and
+Research Phase, 2 -
+Beginning Development,
+3 - Initial
+Implementation, 4 - Full
+Implementation, 5 - Full
+Implementation and
+Sustainability) average
+(State Priority 3)",,Year 1
+Campbell Union School District,english_learner_progress,English Learner Progress & Reclassification,0,1,1,600.0,240.0,0,0,0,0,0.0,0,0,0,0.0,"Field Trips and
+Outdoor Experiences
+for Students",600.0,,0.0,"Increase the
+percentage of English
+Language Learners
+(ELs) making at least
+one level of progress
+on the English
+Language Proficiency
+Assessments for
+California (ELPAC).",,
+Berryessa Union Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,,0.0,,0.0,"Middle School Dropout
+Rate",,
+Franklin-McKinley Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,,0.0,,0.0,"Student Engagement:
+Priority 5.C
+Middle school dropout
+rates
+Data Source: CALPADS",,
+Campbell Union School District,special_education_inclusion,Special Education & Inclusion,0,0,2,0.0,0.0,0,0,0,0,0.0,1,0,1,1.0,,0.0,,0.0,"Decrease the overall
+Chronic Absenteeism
+rate by 0.5% annually.
+Reduce the Chronic
+Absenteeism for ELs,
+SWDs, and SED
+Students by at least
+1.3% annually.",moving_away,
+Campbell Union School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,0,2,0.0,0.0,0,0,0,0,0.0,1,0,1,1.0,,0.0,,0.0,"Decrease the overall
+Chronic Absenteeism
+rate by 0.5% annually.
+Reduce the Chronic
+Absenteeism for ELs,
+SWDs, and SED
+Students by at least
+1.3% annually.",moving_away,
+Cupertino Union Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,,0.0,,0.0,"Middle School Dropout
+Rate: Number of
+Students Who Drop Out
+of School",,
+Evergreen Elementary School District Board of Trustees,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,1,0,1,0,0.0,1,1,0,0.0,,0.0,,0.0,"Priority 5.C: Pupil
+Engagement
+(Engagement)
+Number of middle school
+dropouts as of May 30th",at_or_above_target,0%
+Lakeside Joint School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,0,2,0.0,0.0,2,1,1,0,0.0,1,1,0,0.0,,0.0,,0.0,"Provide recommended
+instructional time for
+protected literacy and
+numeracy blocks of
+instruction daily in grade
+first through fifth grade.
+Number of minutes",,"No Difference, 90-"
+Lakeside Joint School District,math_proficiency,Math Proficiency,0,0,3,0.0,0.0,2,1,1,0,0.0,0,0,0,0.0,,0.0,,0.0,"Provide recommended
+instructional time for
+protected literacy and
+numeracy blocks of
+instruction daily in grade
+first through fifth grade.
+Number of minutes",,"No Difference, 90-"
+Lakeside Joint School District,ela_proficiency,ELA Proficiency & Literacy,0,0,3,0.0,0.0,3,2,1,0,0.0,0,0,0,0.0,,0.0,,0.0,"English Learners will, be
+reclassified RFEP as
+measured by the annual
+ELPAC assessment,
+and/or the Benchmark
+Advanced ELA
+assessments, and/or the
+Writing By Design",,was 37.5% in
+Lakeside Joint School District,data_technology,Data Systems & Instructional Technology,0,0,1,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,,0.0,,0.0,"assessments, and/or any
+other appropriate
+progress monitoring
+assessments.",,
+Lakeside Joint School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,0,2,0.0,0.0,3,1,0,2,0.6667,1,1,0,0.0,,0.0,,0.0,Chronic Absenteeism,on_track,2.7% over 2023-
+Loma Prieta Joint Union School District,english_learner_progress,English Learner Progress & Reclassification,1,0,2,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,,0.0,,0.0,"English Learners access
+to common core state
+standards: percentage of
+RFEP students who
+met/exceed ELA on
+SBAC",,
+Loma Prieta Joint Union School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,1,2,0.0,0.0,0,0,0,0,0.0,1,0,1,1.0,Attendance Intiatives,0.0,,0.0,"Middle school dropout
+rates",moving_away,
+Loma Prieta Joint Union School District,college_career_readiness,"College, Career & Postsecondary Readiness",0,1,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0.0,Loma Family System,0.0,,0.0,,,
+Los Gatos-Saratoga Union High School District,math_proficiency,Math Proficiency,0,0,2,0.0,0.0,17,10,0,7,0.4118,2,2,0,0.0,,0.0,,0.0,"Percentage of students
+meeting or exceeding
+standard in Mathematics
+on the Smarter Balanced
+Summative Assessment
+Source: California
+Department of
+Education, Test Results
+for California's
+Assessments (caaspp-
+elpac.ets.org)
+(Required Metric, State
+Priority 4)",on_track,Year 1
+Los Gatos-Saratoga Union High School District,chronic_absenteeism,Chronic Absenteeism & Attendance Recovery,0,0,2,0.0,0.0,18,8,0,10,0.5556,1,0,1,1.0,,0.0,,0.0,"Chronic Absenteeism
+Source: DataQuest,
+Absenteeism Data
+report, Chronic
+Absenteeism
+(Required Metric, State
+Priority 5)",off_track,Year 1
+Mountain View Whisman School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,1,0,0,1,1.0,1,1,0,0.0,,0.0,,0.0,"State Priority 5
+Middle School Dropout
+Rate",at_or_above_target,2024-25: 0
+Orchard School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,2,0,1,1,0.5,1,1,0,0.0,,0.0,,0.0,"Middle school dropout
+rate",at_or_above_target,No difference in
+Palo Alto Unified School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,4,0.0,0.0,4,0,1,3,0.75,2,0,2,1.0,,0.0,,0.0,"P4.D Percentage of all
+students in the combined
+four- and five-year
+cohort graduation rate
+who met UC/CSU (a-g)
+requirements and
+completed at least one
+CTE Pathway
+Source: Dashboard
+UC/CSU & CTE",moving_away,-1.9%
+Saratoga Union School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,1,0,1,0,0.0,0,0,0,0.0,,0.0,,0.0,"Priority 5: School
+Engagement
+Middle school dropout
+rates
+Source: Local data",,0%
+Union Elementary School District,graduation_credit_recovery,"Graduation, Credit Recovery & Alternative Pathways",0,0,1,0.0,0.0,1,0,1,0,0.0,1,1,0,0.0,,0.0,,0.0,"Middle School Dropout
+Rates",at_or_above_target,0%

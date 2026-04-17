@@ -1,0 +1,4766 @@
+{
+  "source_file": "Anaheim Elementary.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/lcaps/Anaheim Elementary.pdf",
+  "district_name": "Anaheim Elementary School District - Anaheim, CA",
+  "school_year": "2025-26",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "By fostering culturally and linguistically responsive teaching and leadership practices, AESD is\ncommitted to enhancing the academic and social-emotional growth of all students. Our focus\nincludes accelerating the academic progress and achievements of Emergent Bilingual, Low Income,\nStudents with Disabilities, Foster Youth, and Long-Term English Learners, Homeless students,\nensuring equitable outcomes for every learner.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        12
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "ELPI-District\nAnnually increase the\npercent of students\nmaking progress toward\nOverall English\nproficiency by 4% until\nreaching 55% or higher.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "-3.7%",
+          "year_1_outcome_raw": "2023-24\n44.0%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n55% Minimally",
+          "current_difference_from_baseline_raw": "-3.7%",
+          "source_pages": [
+            13
+          ],
+          "baseline": {
+            "raw": "-3.7%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-3.7%",
+                "numeric_values": [
+                  -3.7
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n44.0%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "44.0%",
+                "numeric_values": [
+                  44.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n55% Minimally",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "55% Minimally",
+                "numeric_values": [
+                  55.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.2",
+          "metric_name": "ELPI-Schools\nAnnually increase the\npercent of students\nmaking progress toward\nOverall English\nproficiency by 4% until\nreaching 55% or higher.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "Guinn: +3.1%\nWestmont: +10.2\n%",
+          "year_1_outcome_raw": "2023-24\nGuinn: 44.4%\nWestmont: 48.1%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nGuinn: 53.4%\nWestmont: 49.9%",
+          "current_difference_from_baseline_raw": "Guinn: +3.1%\nWestmont: +10.2\n%",
+          "source_pages": [
+            13
+          ],
+          "baseline": {
+            "raw": "Guinn: +3.1%\nWestmont: +10.2\n%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "Guinn",
+                "value": "+3.1%",
+                "numeric_values": [
+                  3.1
+                ]
+              },
+              {
+                "label": "Westmont",
+                "value": "+10.2",
+                "numeric_values": [
+                  10.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "%",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nGuinn: 44.4%\nWestmont: 48.1%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "Guinn",
+                "value": "44.4%",
+                "numeric_values": [
+                  44.4
+                ]
+              },
+              {
+                "label": "Westmont",
+                "value": "48.1%",
+                "numeric_values": [
+                  48.1
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nGuinn: 53.4%\nWestmont: 49.9%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "Guinn",
+                "value": "53.4%",
+                "numeric_values": [
+                  53.4
+                ]
+              },
+              {
+                "label": "Westmont",
+                "value": "49.9%",
+                "numeric_values": [
+                  49.9
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.3",
+          "metric_name": "CAASPP ELA- District\nAESD will decrease the\nELA distance from\nstandard (DFS) by 15\npoints annually.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "All: -0.7\nSED: +1.2\nEL: -0.3\nFOS: -8.5\nHOM: -5.5\nSWD: +1.2\nAA: +1.9",
+          "year_1_outcome_raw": "2023-24\nAll: -56.07\nSED: -62.9\nEL: -74.1\nFOS: -91.7\nHOM: -90.4\nSWD: -114.4\nAA: -71",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nAll: -11\nSED: -17\nEL: -28.8\nFOS: -38.2\nHOM: -39.9\nSWD: -70.7\nAA: -27.9",
+          "current_difference_from_baseline_raw": "All: -0.7\nSED: +1.2\nEL: -0.3\nFOS: -8.5\nHOM: -5.5\nSWD: +1.2\nAA: +1.9",
+          "source_pages": [
+            13,
+            14
+          ],
+          "baseline": {
+            "raw": "All: -0.7\nSED: +1.2\nEL: -0.3\nFOS: -8.5\nHOM: -5.5\nSWD: +1.2\nAA: +1.9",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-0.7",
+                "numeric_values": [
+                  -0.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "+1.2",
+                "numeric_values": [
+                  1.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-0.3",
+                "numeric_values": [
+                  -0.3
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "-8.5",
+                "numeric_values": [
+                  -8.5
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-5.5",
+                "numeric_values": [
+                  -5.5
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "+1.2",
+                "numeric_values": [
+                  1.2
+                ]
+              },
+              {
+                "label": "AA",
+                "value": "+1.9",
+                "numeric_values": [
+                  1.9
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nAll: -56.07\nSED: -62.9\nEL: -74.1\nFOS: -91.7\nHOM: -90.4\nSWD: -114.4",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-56.07",
+                "numeric_values": [
+                  -56.07
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-62.9",
+                "numeric_values": [
+                  -62.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-74.1",
+                "numeric_values": [
+                  -74.1
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "-91.7",
+                "numeric_values": [
+                  -91.7
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-90.4",
+                "numeric_values": [
+                  -90.4
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-114.4",
+                "numeric_values": [
+                  -114.4
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nAll: -11\nSED: -17\nEL: -28.8\nFOS: -38.2",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-11",
+                "numeric_values": [
+                  -11.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-17",
+                "numeric_values": [
+                  -17.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-28.8",
+                "numeric_values": [
+                  -28.8
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "-38.2",
+                "numeric_values": [
+                  -38.2
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.4",
+          "metric_name": "CAASPP ELA- Schools\nand Student Groups\nAESD will decrease the\nELA distance from\nstandard (DFS) by 15\npoints annually.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "2023-24\nBarton\nHOM: +5.5\nSWD: -13.2\nEdison\nEL: -3.3\nHOM: +13.9\nFranklin\nSWD: +5.3\nGauer\nSWD: +18.3\nHI: +10.7\nGuinn\nEL: -3.8\nSWD: +2.7\nHenry\nALL: -5.4\nEL: -6.9\nSED: -6.9\nSWD: -1.9\nHI: -3.8\nJuarez\nSWD: +11.2\nLincoln\nALL: -3\nEL: -5.2\nHOM: -12.5\nSED: -1.9\nHI: -3.7\nLoara\nSWD: +7.6\nMann\nEL: +6.7\nHOM: -10.4\nSWD: +14.2\nMarshall\nHOM: -10.8\nSWD: -6.4\nOlive Street\nALL: +3.7\nEL: +7.6\nSED: +7.0\nSWD: +7.4\nHI: +1.2\nOrange Grove\nEL: -0.6\nHOM: +9.3\nSED: -0.3\nHI: +2.4\nPonderosa\nALL: -10.7\nEL: -8.1\nHOM: -20.6\nSED: -11.2\nSWD: -12\nHI: -11.6\nRevere\nEL: +14.3\nSWD: +2.8\nRoosevelt\nEL: +2.1\nRoss\nSWD: +7.2\nSunkist\nALL: +0.2\nEL: -0.2\nHOM: -5.7\nSED: +1.0\nSWD: +3.1\nHI: -4.1\nWestmont\nEL: +2.2\nSWD: -10.2",
+          "year_1_outcome_raw": "2023-24\nBarton\nHOM: -76.2\nSWD: -118.6\nEdison\nEL: -79.2\nHOM: -82.4\nFranklin\nSWD: -75.7\nGauer\nSWD: -126.6\nHI: -63.9\nGuinn\nEL: -87.4\nSWD: -104.1\nHenry\nALL: -90.2\nEL: -97.1\nSED: -92.1\nSWD: -149.7\nHI: -89\nJuarez\nSWD: -87.4\nLincoln\nALL: -82\nEL: -95.5\nHOM: -125.6\nSED: -89.6\nHI: -83.2\nLoara\nSWD: -138.3\nMann\nEL: -67.6\nHOM: -101.7\nSWD: -101.5\nMarshall\nHOM: -116.4\nSWD: -112.2\nOlive Street\nALL: -69.8\nEL: -80.4\nSED: -70.5\nSWD: -138.9\nHI: -70.7\nOrange Grove\nEL: -77.1\nHOM: -79.3\nSED: -70.2\nHI: -68.2\nPonderosa\nALL: -91.7\nEL: -103\nHOM: -117.7\nSED: -96\nSWD: -143.7\nHI: -93.3\nRevere\nEL: -71.4\nSWD: -147.7\nRoosevelt\nEL: -96.3\nRoss\nSWD: -88.5\nSunkist\nALL: -81.9\nEL: -93.5\nHOM: -116.7\nSED: -83.4\nSWD: -162.1\nHI: -89.2\nWestmont\nEL: -75\nSWD: -100.2",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nBarton\nHOM: -36.6\nSWD: -61.3\nEdison\nEL: -30.8\nHOM: -50.3\nFranklin\nSWD: -36\nGauer\nSWD: -100\nHI: -29.6\nGuinn\nEL: -38.6\nSWD: -61.7\nHenry\nALL: -39.8\nEL: -45.3\nSED: -40.2\nSWD: -102.8\nHI: -40.2\nJuarez\nSWD: -53.6\nLincoln\nALL: -33.9\nEL: -45.3\nHOM: -68.1\nSED: -42.7\nHI: -34.5\nLoara\nSWD: -72.7\nMann\nEL: -29.3\nHOM: -46.3\nSWD: -70.7\nMarshall\nHOM: -60.6\nSWD: -60.8\nOlive Street\nALL: -28.5\nEL: -43\nSED: -32.4\nSWD: -101.3\nHI: -26.9\nOrange Grove\nEL: -31.5\nHOM: -43.7\nSED: -25.5\nHI: -25.6\nPonderosa\nALL: -36\nEL: -49.8\nHOM: -52.1\nSED: -39.7\nSWD: -86.7\nHI: -36.7\nRevere\nEL: -40.7\nSWD: -105.5\nRoosevelt\nEL: -53.4\nRoss\nSWD: -50.6\nSunkist\nALL: -37.1\nEL: -48.2\nHOM: -66\nSED: -39.4\nSWD: -120.1\nHI: -40.2\nWestmont\nEL: -32.2\nSWD: -45.1",
+          "current_difference_from_baseline_raw": "2023-24\nBarton\nHOM: +5.5\nSWD: -13.2\nEdison\nEL: -3.3\nHOM: +13.9\nFranklin\nSWD: +5.3\nGauer\nSWD: +18.3\nHI: +10.7\nGuinn\nEL: -3.8\nSWD: +2.7\nHenry\nALL: -5.4\nEL: -6.9\nSED: -6.9\nSWD: -1.9\nHI: -3.8\nJuarez\nSWD: +11.2\nLincoln\nALL: -3\nEL: -5.2\nHOM: -12.5\nSED: -1.9\nHI: -3.7\nLoara\nSWD: +7.6\nMann\nEL: +6.7\nHOM: -10.4\nSWD: +14.2\nMarshall\nHOM: -10.8\nSWD: -6.4\nOlive Street\nALL: +3.7\nEL: +7.6\nSED: +7.0\nSWD: +7.4\nHI: +1.2\nOrange Grove\nEL: -0.6\nHOM: +9.3\nSED: -0.3\nHI: +2.4\nPonderosa\nALL: -10.7\nEL: -8.1\nHOM: -20.6\nSED: -11.2\nSWD: -12\nHI: -11.6\nRevere\nEL: +14.3\nSWD: +2.8\nRoosevelt\nEL: +2.1\nRoss\nSWD: +7.2\nSunkist\nALL: +0.2\nEL: -0.2\nHOM: -5.7\nSED: +1.0\nSWD: +3.1\nHI: -4.1\nWestmont\nEL: +2.2\nSWD: -10.2",
+          "source_pages": [
+            14,
+            15,
+            16
+          ],
+          "baseline": {
+            "raw": "2023-24\nBarton\nHOM: +5.5\nSWD: -13.2\nEdison\nEL: -3.3\nHOM: +13.9\nFranklin\nSWD: +5.3\nGauer\nSWD: +18.3\nHI: +10.7\nGuinn\nEL: -3.8\nSWD: +2.7\nHenry\nALL: -5.4\nEL: -6.9\nSED: -6.9\nSWD: -1.9\nHI: -3.8\nJuarez\nSWD: +11.2\nLincoln\nALL: -3\nEL: -5.2\nHOM: -12.5\nSED: -1.9\nHI: -3.7\nLoara\nSWD: +7.6\nMann\nEL: +6.7",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "+5.5",
+                "numeric_values": [
+                  5.5
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-13.2",
+                "numeric_values": [
+                  -13.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-3.3",
+                "numeric_values": [
+                  -3.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "+13.9",
+                "numeric_values": [
+                  13.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+5.3",
+                "numeric_values": [
+                  5.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+18.3",
+                "numeric_values": [
+                  18.3
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "+10.7",
+                "numeric_values": [
+                  10.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-3.8",
+                "numeric_values": [
+                  -3.8
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "+2.7",
+                "numeric_values": [
+                  2.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-5.4",
+                "numeric_values": [
+                  -5.4
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-6.9",
+                "numeric_values": [
+                  -6.9
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-6.9",
+                "numeric_values": [
+                  -6.9
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-1.9",
+                "numeric_values": [
+                  -1.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-3.8",
+                "numeric_values": [
+                  -3.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+11.2",
+                "numeric_values": [
+                  11.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-3",
+                "numeric_values": [
+                  -3.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-5.2",
+                "numeric_values": [
+                  -5.2
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-12.5",
+                "numeric_values": [
+                  -12.5
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-1.9",
+                "numeric_values": [
+                  -1.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-3.7",
+                "numeric_values": [
+                  -3.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Loara",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+7.6",
+                "numeric_values": [
+                  7.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "+6.7",
+                "numeric_values": [
+                  6.7
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nBarton\nHOM: -76.2\nSWD: -118.6\nEdison\nEL: -79.2\nHOM: -82.4\nFranklin\nSWD: -75.7\nGauer\nSWD: -126.6\nHI: -63.9\nGuinn\nEL: -87.4\nSWD: -104.1\nHenry\nALL: -90.2\nEL: -97.1\nSED: -92.1\nSWD: -149.7\nHI: -89\nJuarez\nSWD: -87.4\nLincoln\nALL: -82\nEL: -95.5\nHOM: -125.6\nSED: -89.6\nHI: -83.2\nLoara\nSWD: -138.3\nMann\nEL: -67.6",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-76.2",
+                "numeric_values": [
+                  -76.2
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-118.6",
+                "numeric_values": [
+                  -118.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-79.2",
+                "numeric_values": [
+                  -79.2
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-82.4",
+                "numeric_values": [
+                  -82.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-75.7",
+                "numeric_values": [
+                  -75.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-126.6",
+                "numeric_values": [
+                  -126.6
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-63.9",
+                "numeric_values": [
+                  -63.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-87.4",
+                "numeric_values": [
+                  -87.4
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-104.1",
+                "numeric_values": [
+                  -104.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-90.2",
+                "numeric_values": [
+                  -90.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-97.1",
+                "numeric_values": [
+                  -97.1
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-92.1",
+                "numeric_values": [
+                  -92.1
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-149.7",
+                "numeric_values": [
+                  -149.7
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-89",
+                "numeric_values": [
+                  -89.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-87.4",
+                "numeric_values": [
+                  -87.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-82",
+                "numeric_values": [
+                  -82.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-95.5",
+                "numeric_values": [
+                  -95.5
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-125.6",
+                "numeric_values": [
+                  -125.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-89.6",
+                "numeric_values": [
+                  -89.6
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-83.2",
+                "numeric_values": [
+                  -83.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Loara",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-138.3",
+                "numeric_values": [
+                  -138.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-67.6",
+                "numeric_values": [
+                  -67.6
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nBarton\nHOM: -36.6\nSWD: -61.3\nEdison\nEL: -30.8\nHOM: -50.3\nFranklin\nSWD: -36\nGauer\nSWD: -100\nHI: -29.6\nGuinn\nEL: -38.6\nSWD: -61.7\nHenry\nALL: -39.8\nEL: -45.3\nSED: -40.2\nSWD: -102.8\nHI: -40.2\nJuarez\nSWD: -53.6\nLincoln\nALL: -33.9\nEL: -45.3\nHOM: -68.1\nSED: -42.7\nHI: -34.5\nLoara\nSWD: -72.7\nMann\nEL: -29.3\nHOM: -46.3",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-36.6",
+                "numeric_values": [
+                  -36.6
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-61.3",
+                "numeric_values": [
+                  -61.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-30.8",
+                "numeric_values": [
+                  -30.8
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-50.3",
+                "numeric_values": [
+                  -50.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-36",
+                "numeric_values": [
+                  -36.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-100",
+                "numeric_values": [
+                  -100.0
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-29.6",
+                "numeric_values": [
+                  -29.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-38.6",
+                "numeric_values": [
+                  -38.6
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-61.7",
+                "numeric_values": [
+                  -61.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-39.8",
+                "numeric_values": [
+                  -39.8
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-45.3",
+                "numeric_values": [
+                  -45.3
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-40.2",
+                "numeric_values": [
+                  -40.2
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-102.8",
+                "numeric_values": [
+                  -102.8
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-40.2",
+                "numeric_values": [
+                  -40.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-53.6",
+                "numeric_values": [
+                  -53.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-33.9",
+                "numeric_values": [
+                  -33.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-45.3",
+                "numeric_values": [
+                  -45.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-68.1",
+                "numeric_values": [
+                  -68.1
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-42.7",
+                "numeric_values": [
+                  -42.7
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-34.5",
+                "numeric_values": [
+                  -34.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "Loara",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-72.7",
+                "numeric_values": [
+                  -72.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-29.3",
+                "numeric_values": [
+                  -29.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-46.3",
+                "numeric_values": [
+                  -46.3
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.5",
+          "metric_name": "CAASPP Math- District\nAESD will decrease the\nMath distance from\nstandard (DFS) by 20\npoints annually.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "2023-24\nAll: +1.3\nSWD: +0.7\nSED: +0.9\nEL: -1.5\nFY: -16.5",
+          "year_1_outcome_raw": "2023-24\nAll: -69.2\nSWD: -127.5\nSED: -75.5\nEL: -84\nFY: -110.1",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nAll: -10.5\nSWD: -68.2\nSED: -16.7\nEL: -25.5\nFY: -33.6",
+          "current_difference_from_baseline_raw": "2023-24\nAll: +1.3\nSWD: +0.7\nSED: +0.9\nEL: -1.5\nFY: -16.5",
+          "source_pages": [
+            16
+          ],
+          "baseline": {
+            "raw": "2023-24\nAll: +1.3\nSWD: +0.7\nSED: +0.9\nEL: -1.5\nFY: -16.5",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "+1.3",
+                "numeric_values": [
+                  1.3
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "+0.7",
+                "numeric_values": [
+                  0.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "+0.9",
+                "numeric_values": [
+                  0.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-1.5",
+                "numeric_values": [
+                  -1.5
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "-16.5",
+                "numeric_values": [
+                  -16.5
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nAll: -69.2\nSWD: -127.5\nSED: -75.5\nEL: -84\nFY: -110.1",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-69.2",
+                "numeric_values": [
+                  -69.2
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-127.5",
+                "numeric_values": [
+                  -127.5
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-75.5",
+                "numeric_values": [
+                  -75.5
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-84",
+                "numeric_values": [
+                  -84.0
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "-110.1",
+                "numeric_values": [
+                  -110.1
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nAll: -10.5\nSWD: -68.2\nSED: -16.7\nEL: -25.5\nFY: -33.6",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-10.5",
+                "numeric_values": [
+                  -10.5
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-68.2",
+                "numeric_values": [
+                  -68.2
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-16.7",
+                "numeric_values": [
+                  -16.7
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-25.5",
+                "numeric_values": [
+                  -25.5
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "-33.6",
+                "numeric_values": [
+                  -33.6
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.6",
+          "metric_name": "CAASPP Math- Schools\nand Student Groups\nAESD will decrease the\nMath distance from\nstandard (DFS) by 20\npoints annually.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "2023-24\nBarton\nSWD: -18.7\nGauer\nSWD: +18.3\nHenry\nHI: -5.8\nJuarez\nSWD: +11.2\nLincoln\nHOM: -12.5\nSED: -1.9\nMann\nHOM: -6.6\nMarshall\nHOM: -10.9\nSWD: -13.5\nOrange Grove\nHOM: +9.9\nPonderosa\nALL: -4.3\nEL: -1.3\nHOM: -9.3\nSED: -2.9\nSWD: -0.4\nHI: -4.8\nRevere\nSWD: -5.5\nRoosevelt\nEL: +0.6\nSWD: -13.6\nRoss\nHOM: +41\nSWD: +21.1\nSunkist\nEL: +12.9\nHOM: -3.2\nSED: +12.7\nSWD: +13\nHI: +9.3\nWestmont\nSWD: -4.0",
+          "year_1_outcome_raw": "2023-24\nBarton\nSWD: -134.4\nGauer\nSWD: -126.6\nHenry\nHI: -108\nJuarez\nSWD: -87.4\nLincoln\nHOM: -125.6\nSED: -89.6\nMann\nHOM: -110\nMarshall\nHOM: -141.4\nSWD: -133.3\nOrange Grove\nHOM: -88.9\nPonderosa\nALL: -106.9\nEL: -119.3\nHOM: -118.8\nSED: -110.4\nSWD: -150.9\nHI: -109.5\nRevere\nSWD: -169\nRoosevelt\nEL: -100.8\nSWD: -146.7\nRoss\nHOM: -59.4\nSWD: -92.1\nSunkist\nEL: -90.6\nHOM: -119.3\nSED: -84.6\nSWD: -162.6\nHI: -88.8\nWestmont\nSWD: -107.2",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nBarton\nSWD: -55.7\nGauer\nSWD: -91.8\nHenry\nHI: -42.2\nJuarez\nSWD: -51.4\nLincoln\nHOM: -67.4\nSED: -35.5\nMann\nHOM: -31.3\nMarshall\nHOM: -70.5\nSWD: -50.8\nOrange Grove\nHOM: -38.8\nPonderosa\nALL: -42.7\nEL: -58\nHOM: -49.6\nSED: -47.6\nSWD: -90.5\nHI: -44.7\nRevere\nSWD: -103.5\nRoosevelt\nEL: -41.4\nSWD: -73.1\nRoss\nHOM: -40.4\nSWD: -53.2\nSunkist\nEL: -43.5\nHOM: -56.1\nSED: -37.3\nSWD: -115.5\nHI: -38.1\nWestmont\nSWD: -43.2",
+          "current_difference_from_baseline_raw": "2023-24\nBarton\nSWD: -18.7\nGauer\nSWD: +18.3\nHenry\nHI: -5.8\nJuarez\nSWD: +11.2\nLincoln\nHOM: -12.5\nSED: -1.9\nMann\nHOM: -6.6\nMarshall\nHOM: -10.9\nSWD: -13.5\nOrange Grove\nHOM: +9.9\nPonderosa\nALL: -4.3\nEL: -1.3\nHOM: -9.3\nSED: -2.9\nSWD: -0.4\nHI: -4.8\nRevere\nSWD: -5.5\nRoosevelt\nEL: +0.6\nSWD: -13.6\nRoss\nHOM: +41\nSWD: +21.1\nSunkist\nEL: +12.9\nHOM: -3.2\nSED: +12.7\nSWD: +13\nHI: +9.3\nWestmont\nSWD: -4.0",
+          "source_pages": [
+            16,
+            17
+          ],
+          "baseline": {
+            "raw": "2023-24\nBarton\nSWD: -18.7\nGauer\nSWD: +18.3\nHenry\nHI: -5.8\nJuarez\nSWD: +11.2\nLincoln\nHOM: -12.5\nSED: -1.9\nMann\nHOM: -6.6\nMarshall\nHOM: -10.9\nSWD: -13.5\nOrange Grove\nHOM: +9.9\nPonderosa\nALL: -4.3\nEL: -1.3\nHOM: -9.3",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-18.7",
+                "numeric_values": [
+                  -18.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+18.3",
+                "numeric_values": [
+                  18.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "-5.8",
+                "numeric_values": [
+                  -5.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "+11.2",
+                "numeric_values": [
+                  11.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-12.5",
+                "numeric_values": [
+                  -12.5
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-1.9",
+                "numeric_values": [
+                  -1.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-6.6",
+                "numeric_values": [
+                  -6.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Marshall",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-10.9",
+                "numeric_values": [
+                  -10.9
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-13.5",
+                "numeric_values": [
+                  -13.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "Orange Grove",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "+9.9",
+                "numeric_values": [
+                  9.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Ponderosa",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-4.3",
+                "numeric_values": [
+                  -4.3
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-1.3",
+                "numeric_values": [
+                  -1.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-9.3",
+                "numeric_values": [
+                  -9.3
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nBarton\nSWD: -134.4\nGauer\nSWD: -126.6\nHenry\nHI: -108\nJuarez\nSWD: -87.4\nLincoln\nHOM: -125.6\nSED: -89.6\nMann\nHOM: -110\nMarshall\nHOM: -141.4\nSWD: -133.3\nOrange Grove\nHOM: -88.9\nPonderosa\nALL: -106.9\nEL: -119.3\nHOM: -118.8",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-134.4",
+                "numeric_values": [
+                  -134.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-126.6",
+                "numeric_values": [
+                  -126.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "-108",
+                "numeric_values": [
+                  -108.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-87.4",
+                "numeric_values": [
+                  -87.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-125.6",
+                "numeric_values": [
+                  -125.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-89.6",
+                "numeric_values": [
+                  -89.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-110",
+                "numeric_values": [
+                  -110.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Marshall",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-141.4",
+                "numeric_values": [
+                  -141.4
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-133.3",
+                "numeric_values": [
+                  -133.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Orange Grove",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-88.9",
+                "numeric_values": [
+                  -88.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Ponderosa",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-106.9",
+                "numeric_values": [
+                  -106.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-119.3",
+                "numeric_values": [
+                  -119.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-118.8",
+                "numeric_values": [
+                  -118.8
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nBarton\nSWD: -55.7\nGauer\nSWD: -91.8\nHenry\nHI: -42.2\nJuarez\nSWD: -51.4\nLincoln\nHOM: -67.4\nSED: -35.5\nMann\nHOM: -31.3\nMarshall\nHOM: -70.5\nSWD: -50.8\nOrange Grove\nHOM: -38.8\nPonderosa\nALL: -42.7\nEL: -58\nHOM: -49.6",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-55.7",
+                "numeric_values": [
+                  -55.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-91.8",
+                "numeric_values": [
+                  -91.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "-42.2",
+                "numeric_values": [
+                  -42.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "-51.4",
+                "numeric_values": [
+                  -51.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-67.4",
+                "numeric_values": [
+                  -67.4
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-35.5",
+                "numeric_values": [
+                  -35.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "Mann",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-31.3",
+                "numeric_values": [
+                  -31.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Marshall",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-70.5",
+                "numeric_values": [
+                  -70.5
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-50.8",
+                "numeric_values": [
+                  -50.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Orange Grove",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-38.8",
+                "numeric_values": [
+                  -38.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Ponderosa",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-42.7",
+                "numeric_values": [
+                  -42.7
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-58",
+                "numeric_values": [
+                  -58.0
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-49.6",
+                "numeric_values": [
+                  -49.6
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.7",
+          "metric_name": "Reclassification Rate\nIncrease reclassification\nrate by 5% annually for a\ndesired outcome of 15%.\nData Source: Local\nTableau",
+          "baseline_raw": "2024-25\n+1.4%",
+          "year_1_outcome_raw": "2024-25\n12.7% as of\n5/27/25",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n15% Minimally",
+          "current_difference_from_baseline_raw": "2024-25\n+1.4%",
+          "source_pages": [
+            17
+          ],
+          "baseline": {
+            "raw": "2024-25\n+1.4%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+1.4%",
+                "numeric_values": [
+                  1.4
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n12.7% as of\n5/27/25",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "12.7% as of",
+                "numeric_values": [
+                  12.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "5/27/25",
+                "numeric_values": [
+                  5.0,
+                  27.0,
+                  25.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n15% Minimally",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "15% Minimally",
+                "numeric_values": [
+                  15.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.8",
+          "metric_name": "Star Reading - Local\nAssessment\nThe percentage of all\nstudents including\nEmergent Bilingual,\nStudents with\nDisabilities, Low Income,\nFoster Youth, and\nHomeless students\nreading at/above grade\nlevel in their target\nlanguage by the end of\nthe year will increase 5%\neach year.\nData Source: Local\nTableau",
+          "baseline_raw": "2024-25\nALL: +2.6%\nEL: +6.6%\nHOM: +1.7%\nSED: +3.6%\nSWD: +3.1%\nFY: +3.2%\n2024-25\nALL: +4.2%\nEL: +7.8%\nHOM: +5.4%\nSED: +3.6%\nSWD: +1.8%\nFY: -0.5%",
+          "year_1_outcome_raw": "2024-25\nALL: 47.1%\nEL: 35.1%\nHOM: 36.1%\nSED: 45.7%\nSWD: 21.9%\nFY: 29.0%\nAs of 5/27/25",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nALL: 59.5%\nEL: 43.5%\nHOM: 49.4%\nSED: 57.1%\nSWD: 33.8%\nFY: 40.8%",
+          "current_difference_from_baseline_raw": "2024-25\nALL: +2.6%\nEL: +6.6%\nHOM: +1.7%\nSED: +3.6%\nSWD: +3.1%\nFY: +3.2%\n2024-25\nALL: +4.2%\nEL: +7.8%\nHOM: +5.4%\nSED: +3.6%\nSWD: +1.8%\nFY: -0.5%",
+          "source_pages": [
+            17,
+            18,
+            19
+          ],
+          "baseline": {
+            "raw": "2024-25\nALL: +2.6%\nEL: +6.6%\nHOM: +1.7%\nSED: +3.6%\nSWD: +3.1%\nFY: +3.2%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "+2.6%",
+                "numeric_values": [
+                  2.6
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "+6.6%",
+                "numeric_values": [
+                  6.6
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "+1.7%",
+                "numeric_values": [
+                  1.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "+3.6%",
+                "numeric_values": [
+                  3.6
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "+3.1%",
+                "numeric_values": [
+                  3.1
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "+3.2%",
+                "numeric_values": [
+                  3.2
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nALL: 47.1%\nEL: 35.1%\nHOM: 36.1%\nSED: 45.7%\nSWD: 21.9%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "47.1%",
+                "numeric_values": [
+                  47.1
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "35.1%",
+                "numeric_values": [
+                  35.1
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "36.1%",
+                "numeric_values": [
+                  36.1
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "45.7%",
+                "numeric_values": [
+                  45.7
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "21.9%",
+                "numeric_values": [
+                  21.9
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nALL: 59.5%\nEL: 43.5%\nHOM: 49.4%\nSED: 57.1%\nSWD: 33.8%\nFY: 40.8%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "59.5%",
+                "numeric_values": [
+                  59.5
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "43.5%",
+                "numeric_values": [
+                  43.5
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "49.4%",
+                "numeric_values": [
+                  49.4
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "57.1%",
+                "numeric_values": [
+                  57.1
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "33.8%",
+                "numeric_values": [
+                  33.8
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "40.8%",
+                "numeric_values": [
+                  40.8
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.10",
+          "metric_name": "Unique Learning\nSystems - Local\nAssessment\nIncrease the percent of\nstudents with moderate\nto severe disabilities’\nscoring Proficient\nMastery on Core\nContent Connectors-\naligned benchmarks\nannually by 3% as\nmeasured by Unique\nLearning Systems.\nData Source: ULS\nExport",
+          "baseline_raw": "2024-25\n+0.2%",
+          "year_1_outcome_raw": "2024-25\n27.2%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n36%",
+          "current_difference_from_baseline_raw": "2024-25\n+0.2%",
+          "source_pages": [
+            19
+          ],
+          "baseline": {
+            "raw": "2024-25\n+0.2%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0.2%",
+                "numeric_values": [
+                  0.2
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n27.2%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "27.2%",
+                "numeric_values": [
+                  27.2
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n36%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "36%",
+                "numeric_values": [
+                  36.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.11",
+          "metric_name": "CAASPP CAST\nDistance from Standard\n(DFS)\nGrade Level\nGrade 5\nAESD will decrease\nScience distance from\nstandard (DFS) by TBD\npoints annually.\nData Source: California\nSchool Dashboard",
+          "baseline_raw": "NA",
+          "year_1_outcome_raw": "2024-25\n-19.5",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "-13.5",
+          "current_difference_from_baseline_raw": "NA",
+          "source_pages": [
+            19
+          ],
+          "baseline": {
+            "raw": "NA",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "NA",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n-19.5",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "-19.5",
+                "numeric_values": [
+                  -19.5
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "-13.5",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-13.5",
+                "numeric_values": [
+                  -13.5
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.12",
+          "metric_name": "Local Indicator for\nImplementing State\nAcademic Standards\nAESD will implement the\nacademic content and\nperformance standards\nadopted by the state\nboard, and indicate how\nthe programs and\nservices will enable\nEnglish learners to\naccess the common core\nacademic content\nstandards.\nData Source: CDE’s\nPriority 2 Self Reflection\nTool",
+          "baseline_raw": "+0",
+          "year_1_outcome_raw": "2024-25\n3.8 average",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n4.0 average\nminimally",
+          "current_difference_from_baseline_raw": "+0",
+          "source_pages": [
+            20
+          ],
+          "baseline": {
+            "raw": "+0",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n3.8 average",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "3.8 average",
+                "numeric_values": [
+                  3.8
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n4.0 average\nminimally",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "4.0 average",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "minimally",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "ELA Targeted Intervention\nPrograms",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the\ndistrict will implement evidence-based ELA intervention programs, principally directed to\nEnglish Learners, Low Income Students, Students with Disabilities, Students Experiencing\nHomelessness, Hispanic Students, African American Students, and Foster Youth, to close the\nELA achievement gap as measured M1.1, M1.2, M1.3, and M1.4 (ELPI and CAASPP ELA for\nDistrict and Schools).",
+          "total_funds_raw": "$2,857,054.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            21,
+            22
+          ],
+          "total_funds": 2857054.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.2",
+          "title": "TOSA IN/PD - Instructional\nCoaches",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide a TOSA IN/PD at all school sites to provide evidence based interventions, ongoing,\njob-embedded professional development focused on differentiated instruction, cultural\ncompetency, and strategies for increasing literacy skills, principally directed to Emergent\nBilingual, low-income and foster youth. Professional development specific to emergent\nbilingual students includes language acquisition pedagogy and strategies in alignment with the\nEL Roadmap, state standards, and ELA/ELD Framework. This action will be measured by\nM1.2 and M1.4 (ELPI and CAASPP ELA).",
+          "total_funds_raw": "$7,392,430.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            22
+          ],
+          "total_funds": 7392430.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.3",
+          "title": "Professional Development\nfor TK-6 Teachers in\nLiteracy and Math",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill implement a comprehensive professional learning plan to train PK-6 teachers in literacy\nstrategies that positively impact student outcomes of vulnerable populations:\nPhonemic Awareness: The ability to recognize and manipulate individual sounds (phonemes)\nin spoken words.\nPhonics: Instruction that emphasizes the connection between letters (graphemes) and their\ncorresponding sounds (phonemes) to decode words.\nFluency: The capacity to read words, phrases, sentences, and texts accurately, with\nappropriate speed and expression.\nVocabulary: Understanding word meanings and using them effectively in context.\nComprehension: The skill of understanding and making sense of what is read.\nA district wide focus on implementing structured literacy program at all school sites will\nsupport academic gains across all populations. Professional development specific to\nemergent bilingual students includes language acquisition pedagogy and\nstrategies in alignment with the EL Roadmap, state standards, and\nELA/ELD Framework.\nIn addition, the district will implement a comprehensive professional learning plan to train PK-6\nteachers in the evidence based practices. These math practices emphasize the expertise that students\nshould develop to become proficient mathematicians: Make Sense of Problems and Persevere in\nSolving Them, Reason Abstractly and Quantitatively, Construct Viable Arguments and Critique the\nReasoning of Others, Model with Mathematics, Use Appropriate Tools Strategically, Attend to\nPrecision, and Look for and Make Use of Structure.\nEight TOSAs will be hired beginning in 2025-26 to support with release of\nteachers for literacy training and support.",
+          "total_funds_raw": "$2,660,280.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            22,
+            23
+          ],
+          "total_funds": 2660280.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.4",
+          "title": "To enhance student\nlearning outcomes by\neffectively utilizing\nRenaissance's Accelerated\nReader (AR), STAR\nassessments, Learning\nGenie and MyON digital\nlibrary resources.",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill utilize STAR assessment results to identify individual student learning needs and create\npersonalized learning pathways. Adjust strategies and interventions based on data analysis to\nensure continuous improvement in student learning outcomes principally directed to English\nLearner/Emergent Bilingual, low-income and foster youth.",
+          "total_funds_raw": "$464,030.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            23
+          ],
+          "total_funds": 464030.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.5",
+          "title": "Professional Learning\nCommunities PK-6 release\ntime/PE",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide PE coaches at every school to release classroom teachers to participate in\nprofessional learning community's (PLC) where grade level teams of educators share ideas to\nenhance their teaching practice and create a learning environment where all students can\nreach their fullest potential. ALL AESD teachers TK-6 grade will be released bimonthly to\nparticipate in PLCs. Students will attend PE with coaches while teachers meet in grade level\nteams.\nThe initiative to provide PE coaches at every school, thereby releasing teachers to participate\nin bi-weekly Professional Learning Communities, increases and improves learning for English\nLearners/Emergent Bilinguals, Low-Income, and Foster Youth students by enhancing\ninstructional practices, fostering a collaborative and inclusive learning environment, and\naddressing the specific needs of these vulnerable groups. This approach not only improves\nacademic outcomes but also promotes overall student engagement, well-being, and\nsuccess. Specifically, Focus on Targeted Strategies: PLCs enable teachers to collaboratively\ndevelop and share instructional strategies that address the specific needs of English Learners,\nLow-Income, and Foster Youth students. This can include differentiated instruction, scaffolding,\nand culturally responsive teaching; and Data-Driven Decisions: Teachers use PLC time to\nanalyze student data, identify learning gaps, and develop targeted interventions that can be\nimmediately applied in the classroom, particularly benefiting students who may need additional\nsupport .\nThis contributes to increasing/improving outcomes at every school site throughout the LEA for\nthe following student groups: English Learners, Low Income Students, Students with\nDisabilities, Students Experiencing Homelessness, Hispanic Students, African American\nStudents, and Foster Youth.",
+          "total_funds_raw": "$1,772,486.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            23
+          ],
+          "total_funds": 1772486.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.6",
+          "title": "Broad Course of Study",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide equitable access to a PK-6 grade broad course of study eSTEAMd (Equity,\nEngaged, Science, Technology, Arts, Math, Dual Language) that is supported by VAPA TOSA,\nMusic Teachers, GATE programs) and provide additional budget allocation to all school sites\nto purchase Library Books, VAPA Supplies).\nFinally, supporting English Learners (ELs)/Emergent Bilinguals, low-income students, and\nfoster youth with access to enrichment opportunities, including science-based field trips, is\ncrucial for several reasons: Students from low-income backgrounds, English learners, and\nfoster youth often face barriers that limit their exposure to educational enrichment activities.\nProviding these opportunities helps bridge the gap in educational experiences, ensuring all\nstudents have equal access to quality learning resources. Field trips provide experiential\nlearning that makes abstract scientific concepts tangible and relevant. This hands-on\nexperience can significantly enhance understanding and retention of scientific ideas. For\nEnglish learners, field trips provide a context-rich environment where they can practice\nlanguage skills in authentic settings. They encounter new vocabulary and language structures\nin meaningful, memorable ways. Participation in group activities, such as field trips, can foster\na sense of community and belonging among students, which is particularly beneficial for foster\nyouth who may experience instability in their lives.\nBy implementing the eSTEAMd program, enhancing access to resources like library books and\nVAPA supplies, and providing enriching opportunities such as science-based field trips, the\ndistrict significantly increases and improves learning outcomes for English Learners/Emergent\nBilinguals, Low-Income, Students Experiencing Homelessness, Hispanic Students, African\nAmerican Students and Foster Youth students. This holistic approach supports academic\nachievement, fosters cultural and linguistic diversity, promotes equity in education, and\nprepares students for success in a global society.\nThis contributes to increasing/improving outcomes at every school site throughout the LEA for\nthe following student groups: English Learners, Low Income Students, Students Experiencing\nHomelessness, Hispanic Students, African American Students, and Foster Youth.",
+          "total_funds_raw": "$6,576,065.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            24
+          ],
+          "total_funds": 6576065.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.7",
+          "title": "Library Services",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide Library Media Assistants at all school sites. This action will strengthen library\nservices by enhancing access to multilingual, culturally relevant books, and providing diverse\nliteracy opportunities increases and improves learning outcomes for English\nLearners/Emergent Bilinguals, Low-Income, and Foster Youth students. This initiative supports\nliteracy development, promotes equity, addresses specific needs, and fosters a love for\nreading, contributing to overall academic success and personal growth for these student\ngroups.",
+          "total_funds_raw": "$1,886,808.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            24,
+            25
+          ],
+          "total_funds": 1886808.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.8",
+          "title": "Dual Immersion Programs",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide Dual Language Programs at all schools in the district. Increasing access and\nbuilding site capacity for a high-quality dual language immersion (DLI) program enhances\nlearning for English Learners/Emergent Bilinguals, Low-Income, and Foster Youth by providing\nrigorous and integrated content and language instruction. This approach supports academic\nachievement, promotes bilingualism and biliteracy, fosters inclusivity, and addresses the\nspecific needs of vulnerable student groups, preparing them to become multilingual global\ncitizens with the skills and confidence needed for future success.\nSpecifically, Improved Literacy Skills: DLI programs integrate literacy instruction in both\nlanguages, allowing students to develop strong reading and writing skills. This dual approach\nsupports English Learners in building literacy skills in their native language and English\nsimultaneously, leading to higher academic achievement in both languages; and Cognitive\nBenefits: Research shows that bilingual students often exhibit enhanced cognitive abilities,\nsuch as better problem-solving skills and mental flexibility, which positively impacts their overall\nacademic performance. Simultaneous Language Learning: English Learners receive structured\nsupport to develop proficiency in both their native language and English, which facilitates\nacademic learning and social integration; and Reduced Language Attrition: DLI programs help\nmaintain and strengthen students' native language skills while they acquire English, preventing\nthe loss of linguistic and cultural heritage.\nThis contributes to increasing/improving outcomes at every school site throughout the LEA for\nthe following student groups: English Learners, Low Income Students, Students with\nDisabilities, Students Experiencing Homelessness, Hispanic Students, African American\nStudents, and Foster Youth.",
+          "total_funds_raw": "$777,337.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 777337.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.9",
+          "title": "Access for English\nLanguage Learners",
+          "description": "To support English Learners/Emergent Bilingual, the district will provide a coherent and aligned\nset of practices, services, relationships, linguistically-appropriate program placement options\nand approaches to teaching and learning, in alignment with the English Learner Roadmap, will\nprovide English language learners with meaningful access and engagement in a 21st Century\neducation in order to achieve increased English and bilingual proficiencies, grade-level\nstandards mastery, and college and career readiness, principally directed to Emergent\nBilingual, low-income and foster youth. (Coordinator Multilingual Programs, Curriculum\nSpecialist Multilingual Programs).\nImplementing a coherent and aligned set of practices, services, and program options as\noutlined in the English Learner Roadmap ensures that English Learners/Emergent Bilinguals\nstudents receive equitable access to high-quality education. This approach supports bilingual\nand biliteracy proficiencies, academic achievement, and college and career readiness,\nultimately preparing students to succeed in a diverse and interconnected world.",
+          "total_funds_raw": "$1,611,249.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25,
+            26
+          ],
+          "total_funds": 1611249.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.10",
+          "title": "Long Term English Learner\n(LTEL) Intervention",
+          "description": "To meet the needs of emergent bilingual students who are not making adequate progress in\nEnglish language acquisition, AESD will provide 4 Teachers on Special Assignment (TOSA-IN)\nto support 4th-5th grade English Learner/Emergent Bilingual students at-risk of becoming long-\nterm English learners (LTELS).",
+          "total_funds_raw": "$599,267.00",
+          "contributing_raw": "No\nEnglish Learners/E mergent\nBilingual",
+          "source_pages": [
+            26
+          ],
+          "total_funds": 599267.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.11",
+          "title": "Technology to\nSupport Academic\nInstruction",
+          "description": "This action has been discontinued, effective 2025-26.",
+          "total_funds_raw": "",
+          "contributing_raw": "",
+          "source_pages": [
+            26
+          ],
+          "total_funds": null,
+          "contributing": null
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "All students, staff, and families will feel welcomed and supported at all AESD sites. The District will prioritize\nmeaningful engagement, nurture social emotional learning, and promote the overall well being of students, staff, and\nfamilies. Building upon these diverse assets we enhance the richness and diversity of our district and foster an\ninclusive environment for all. Setting the goal to make everyone feel welcomed and supported at all sites, while prioritizing\nengagement, social-emotional learning, and overall well-being, fosters a nurturing and inclusive school environment. The\nactions and services will enhance educational outcomes, support diverse needs, and build a strong, cohesive community,\nultimately leading to a more effective and fulfilling educational experience for all involved.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        27
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "School Climate Survey\nIncrease students’ Sense\nof Belonging by 3%\nannually as measured by\nthe School Climate Survey.\nData Source: School\nClimate Survey in Qualtrics",
+          "baseline_raw": "2024-25\nALL: +0.6%\nSED: +0.5%\nEL: -0.6%\nFY: (fewer than\n10 students)",
+          "year_1_outcome_raw": "2024-25\nALL: 62.7%\nSED: 62.7%\nEL: 61.5%\nFY: (fewer than\n10 students)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nALL: 71.1%\nSED: 71.2%\nEL: 71.2%\nFY: (fewer than\n10 students)",
+          "current_difference_from_baseline_raw": "2024-25\nALL: +0.6%\nSED: +0.5%\nEL: -0.6%\nFY: (fewer than\n10 students)",
+          "source_pages": [
+            27
+          ],
+          "baseline": {
+            "raw": "2024-25\nALL: +0.6%\nSED: +0.5%\nEL: -0.6%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "+0.6%",
+                "numeric_values": [
+                  0.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "+0.5%",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-0.6%",
+                "numeric_values": [
+                  -0.6
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nALL: 62.7%\nSED: 62.7%\nEL: 61.5%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "62.7%",
+                "numeric_values": [
+                  62.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "62.7%",
+                "numeric_values": [
+                  62.7
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "61.5%",
+                "numeric_values": [
+                  61.5
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nALL: 71.1%\nSED: 71.2%\nEL: 71.2%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "71.1%",
+                "numeric_values": [
+                  71.1
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "71.2%",
+                "numeric_values": [
+                  71.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "71.2%",
+                "numeric_values": [
+                  71.2
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.2",
+          "metric_name": "School Climate Survey\nIncrease students’\nEngagement by 3% as\nmeasured by the School\nClimate Survey.\nData Source: School\nClimate Survey in Qualtrics",
+          "baseline_raw": "2024-25\nALL: -1.0%\nSED: -1.3%\nEL: -0.9%\nFY: (fewer than\n10 students)",
+          "year_1_outcome_raw": "2024-25\nALL: 54.7%\nSED: 54.2%\nEL: 54.2%\nFY: (fewer than\n10 students)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nALL: 64.7%\nSED: 64.5%\nEL: 64.1%\nFY: (fewer than\n10 students)",
+          "current_difference_from_baseline_raw": "2024-25\nALL: -1.0%\nSED: -1.3%\nEL: -0.9%\nFY: (fewer than\n10 students)",
+          "source_pages": [
+            28
+          ],
+          "baseline": {
+            "raw": "2024-25\nALL: -1.0%\nSED: -1.3%\nEL: -0.9%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "-1.0%",
+                "numeric_values": [
+                  -1.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-1.3%",
+                "numeric_values": [
+                  -1.3
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-0.9%",
+                "numeric_values": [
+                  -0.9
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nALL: 54.7%\nSED: 54.2%\nEL: 54.2%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "54.7%",
+                "numeric_values": [
+                  54.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "54.2%",
+                "numeric_values": [
+                  54.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "54.2%",
+                "numeric_values": [
+                  54.2
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nALL: 64.7%\nSED: 64.5%\nEL: 64.1%\nFY: (fewer than\n10 students)",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "64.7%",
+                "numeric_values": [
+                  64.7
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "64.5%",
+                "numeric_values": [
+                  64.5
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "64.1%",
+                "numeric_values": [
+                  64.1
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "(fewer than",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10 students)",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.3",
+          "metric_name": "Attendance Rate\nStudent will increase by\n1.3% annually until a goal\nof 97% is reached.\nData Source: Local\nTableau",
+          "baseline_raw": "2023-24\nALL: +1.6%\nSED: +1.7%\nEL: +1.7%\nFY: +1.5%",
+          "year_1_outcome_raw": "2023-24\nALL: 93.0%\nSED: 92.9%\nEL: 92.8%\nFY: 91.6%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nALL: 95.2%\nSED: 94.1%\nEL: 95.0%\nFY: 94.0%",
+          "current_difference_from_baseline_raw": "2023-24\nALL: +1.6%\nSED: +1.7%\nEL: +1.7%\nFY: +1.5%",
+          "source_pages": [
+            28
+          ],
+          "baseline": {
+            "raw": "2023-24\nALL: +1.6%\nSED: +1.7%\nEL: +1.7%\nFY: +1.5%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "+1.6%",
+                "numeric_values": [
+                  1.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "+1.7%",
+                "numeric_values": [
+                  1.7
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "+1.7%",
+                "numeric_values": [
+                  1.7
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "+1.5%",
+                "numeric_values": [
+                  1.5
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nALL: 93.0%\nSED: 92.9%\nEL: 92.8%\nFY: 91.6%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "93.0%",
+                "numeric_values": [
+                  93.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "92.9%",
+                "numeric_values": [
+                  92.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "92.8%",
+                "numeric_values": [
+                  92.8
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "91.6%",
+                "numeric_values": [
+                  91.6
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nALL: 95.2%\nSED: 94.1%\nEL: 95.0%\nFY: 94.0%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "95.2%",
+                "numeric_values": [
+                  95.2
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "94.1%",
+                "numeric_values": [
+                  94.1
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "95.0%",
+                "numeric_values": [
+                  95.0
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "94.0%",
+                "numeric_values": [
+                  94.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.4",
+          "metric_name": "Chronic Absenteeism- District\nDecrease student Chronic\nAbsenteeism rate by 3%\nannually.\nData Source: California\nSchools Dashboard",
+          "baseline_raw": "2023-24\nALL: -10.7%\nFOS: -8.5%\nAA: -12.6%\nSED: -10.8%\nEL: -10.8%",
+          "year_1_outcome_raw": "2023-24\nALL: 22.8%\nFOS: 31.4%\nAA: 33.0%\nSED: 24.0%\nEL: 23.1%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nALL: 24.4%\nFOS: 30.9%\nAA: 36.5%\nSED: 25.9%\nEL: 24.8%",
+          "current_difference_from_baseline_raw": "2023-24\nALL: -10.7%\nFOS: -8.5%\nAA: -12.6%\nSED: -10.8%\nEL: -10.8%",
+          "source_pages": [
+            28
+          ],
+          "baseline": {
+            "raw": "2023-24\nALL: -10.7%\nFOS: -8.5%\nAA: -12.6%\nSED: -10.8%\nEL: -10.8%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "-10.7%",
+                "numeric_values": [
+                  -10.7
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "-8.5%",
+                "numeric_values": [
+                  -8.5
+                ]
+              },
+              {
+                "label": "AA",
+                "value": "-12.6%",
+                "numeric_values": [
+                  -12.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-10.8%",
+                "numeric_values": [
+                  -10.8
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-10.8%",
+                "numeric_values": [
+                  -10.8
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nALL: 22.8%\nFOS: 31.4%\nAA: 33.0%\nSED: 24.0%\nEL: 23.1%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "22.8%",
+                "numeric_values": [
+                  22.8
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "31.4%",
+                "numeric_values": [
+                  31.4
+                ]
+              },
+              {
+                "label": "AA",
+                "value": "33.0%",
+                "numeric_values": [
+                  33.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "24.0%",
+                "numeric_values": [
+                  24.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "23.1%",
+                "numeric_values": [
+                  23.1
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nALL: 24.4%\nFOS: 30.9%\nAA: 36.5%\nSED: 25.9%\nEL: 24.8%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "24.4%",
+                "numeric_values": [
+                  24.4
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "30.9%",
+                "numeric_values": [
+                  30.9
+                ]
+              },
+              {
+                "label": "AA",
+                "value": "36.5%",
+                "numeric_values": [
+                  36.5
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "25.9%",
+                "numeric_values": [
+                  25.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "24.8%",
+                "numeric_values": [
+                  24.8
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.5",
+          "metric_name": "Chronic Absenteeism-\nSchools and Student\nGroups\nDecrease\nstudent Chronic\nAbsenteeism rate by 3%\nannually.\nData Source: California\nSchools Dashboard",
+          "baseline_raw": "2023-24\nBarton\nALL: -11.2%\nEL: -10.9%\nHOM: -12.3%\nHI: -14.9%\nEdison\nALL: -13.4%\nEL: -13.8%\nHOM: -19.8%\nSED: -13.7%\nSWD: -18.3%\nHI: -13.3%\nFranklin\nEL: -7.2%\nGauer\nHOM: -18.9%\nHI: -12.7%\nGuinn\nALL: -15.9%\nEL: -17.6%\nHOM: 0.2%\nSED: -16.2%\nSWD: -21.8%\nHI: -18.1%\nHenry\nALL: -16.8%\nHOM: -24.6%\nSED: -16.6%\nSWD: -18.9%\nHI: -16.8%\nJefferson\nHOM: -10.9%\nSWD: -18.3%\nJuarez\nAS: -9.0%\nLincoln\nHOM: -24.7%\nWH: -13.0%\nLoara\nALL: -10.0%\nHOM: -6.0%\nMarshall\nALL: -13.3%\nEL: -16.5%\nSED: -13.8%\nSWD: -15.0%\nAS: -18.1%\nWH: -14.8%\nOrange Grove\nHOM: -6.1%\nPrice\nSWD: -10.2%\nRevere\nHOM: -24.0%\nSED: -17.1%\nSWD: -17.7%\nRoosevelt\nALL: -15.7%\nEL: -23.3%\nHOM: +2.4%\nSED: -13.1%\nHI: -15.7%\nRoss\nHOM: +9.3%\nWH: +3.5%\nStoddard\nSWD: -7.8%\nHI: -5.4%\nSunkist\nSWD: -8.6%",
+          "year_1_outcome_raw": "2023-24\nBarton\nALL: 23.4%\nEL: 25.0%\nHOM: 37.7%\nHI: 24.2%\nEdison\nALL: 20.3%\nEL: 18.0%\nHOM: 22.1%\nSED: 20.6%\nSWD: 19.0%\nHI: 20.1%\nFranklin\nEL: 30.4%\nGauer\nHOM: 32%\nHI: 25%\nGuinn\nALL: 28.0%\nEL: 26.4%\nHOM: 55.8%\nSED: 29.9%\nSWD: 38.9%\nHI: 27.9%\nHenry\nALL: 17.9%\nHOM: 35.4%\nSED: 18.5%\nSWD: 28.8%\nHI: 18.0%\nJefferson\nHOM: 23.1%\nSWD: 22.7%\nJuarez\nAS: 20.0%\nLincoln\nHOM: 32.6%\nWH: 19.4%\nLoara\nALL: 21.4%\nHOM: 39.5%\nMarshall\nALL: 23.2%\nEL: 23.7%\nSED: 24.3%\nSWD: 28.8%\nAS: 9.5%\nWH: 25.8%\nOrange Grove\nHOM: 31.8%\nPrice\nSWD: 19.4%\nRevere\nHOM: 34.3%\nSED: 26.5%\nSWD: 32.3%\nRoosevelt\nALL: 22.3%\nEL: 16.8%\nHOM: 48.4%\nSED: 25.5%\nHI: 23.9%\nRoss\nHOM: 37.1%\nWH: 32.6%\nStoddard\nSWD: 29.9%\nHI: 30.6%\nSunkist\nSWD: 32.1%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nBarton\nALL: 25.6%\nEL: 26.9%\nHOM: 41%\nHI: 30.1%\nEdison\nALL: 24.6%\nEL: 22.8%\nHOM: 32.9%\nSED: 25.3%\nSWD: 28.3%\nHI: 24.4%\nFranklin\nEL: 28.6%\nGauer\nHOM: 41.9%\nHI: 28.7%\nGuinn\nALL: 34.9%\nEL: 35.1%\nHOM: 46.6%\nSED: 37.1%\nSWD: 51.7%\nHI: 37%\nHenry\nALL: 25.7%\nHOM: 51%\nSED: 26.1%\nSWD: 38.7%\nHI: 25.8%\nJefferson\nHOM: 25%\nSWD: 32%\nJuarez\nAS: 20%\nLincoln\nHOM: 48.3%\nWH: 23.4%\nLoara\nALL: 22.5%\nHOM: 36.5%\nMarshall\nALL: 27.5%\nEL: 31.1%\nSED: 29.1%\nSWD: 34.8%\nAS: 18.7%\nWH: 31.6%\nOrange Grove\nHOM: 28.9%\nPrice\nSWD: 20.6%\nRevere\nHOM: 49.3%\nSED: 34.6%\nSWD: 41%\nRoosevelt\nALL: 29%\nEL: 31.1%\nHOM: 37%\nSED: 29.6%\nHI: 30.6%\nRoss\nHOM: 37.5%\nWH: 37.5%\nStoddard\nSWD: 28.7%\nHI: 26.9%\nSunkist\nSWD: 31.7%",
+          "current_difference_from_baseline_raw": "2023-24\nBarton\nALL: -11.2%\nEL: -10.9%\nHOM: -12.3%\nHI: -14.9%\nEdison\nALL: -13.4%\nEL: -13.8%\nHOM: -19.8%\nSED: -13.7%\nSWD: -18.3%\nHI: -13.3%\nFranklin\nEL: -7.2%\nGauer\nHOM: -18.9%\nHI: -12.7%\nGuinn\nALL: -15.9%\nEL: -17.6%\nHOM: 0.2%\nSED: -16.2%\nSWD: -21.8%\nHI: -18.1%\nHenry\nALL: -16.8%\nHOM: -24.6%\nSED: -16.6%\nSWD: -18.9%\nHI: -16.8%\nJefferson\nHOM: -10.9%\nSWD: -18.3%\nJuarez\nAS: -9.0%\nLincoln\nHOM: -24.7%\nWH: -13.0%\nLoara\nALL: -10.0%\nHOM: -6.0%\nMarshall\nALL: -13.3%\nEL: -16.5%\nSED: -13.8%\nSWD: -15.0%\nAS: -18.1%\nWH: -14.8%\nOrange Grove\nHOM: -6.1%\nPrice\nSWD: -10.2%\nRevere\nHOM: -24.0%\nSED: -17.1%\nSWD: -17.7%\nRoosevelt\nALL: -15.7%\nEL: -23.3%\nHOM: +2.4%\nSED: -13.1%\nHI: -15.7%\nRoss\nHOM: +9.3%\nWH: +3.5%\nStoddard\nSWD: -7.8%\nHI: -5.4%\nSunkist\nSWD: -8.6%",
+          "source_pages": [
+            29,
+            30
+          ],
+          "baseline": {
+            "raw": "2023-24\nBarton\nALL: -11.2%\nEL: -10.9%\nHOM: -12.3%\nHI: -14.9%\nEdison\nALL: -13.4%\nEL: -13.8%\nHOM: -19.8%\nSED: -13.7%\nSWD: -18.3%\nHI: -13.3%\nFranklin\nEL: -7.2%\nGauer\nHOM: -18.9%\nHI: -12.7%\nGuinn\nALL: -15.9%\nEL: -17.6%\nHOM: 0.2%\nSED: -16.2%\nSWD: -21.8%\nHI: -18.1%\nHenry\nALL: -16.8%\nHOM: -24.6%\nSED: -16.6%\nSWD: -18.9%\nHI: -16.8%\nJefferson\nHOM: -10.9%\nSWD: -18.3%\nJuarez\nAS: -9.0%\nLincoln",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-11.2%",
+                "numeric_values": [
+                  -11.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-10.9%",
+                "numeric_values": [
+                  -10.9
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-12.3%",
+                "numeric_values": [
+                  -12.3
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-14.9%",
+                "numeric_values": [
+                  -14.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-13.4%",
+                "numeric_values": [
+                  -13.4
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-13.8%",
+                "numeric_values": [
+                  -13.8
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-19.8%",
+                "numeric_values": [
+                  -19.8
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-13.7%",
+                "numeric_values": [
+                  -13.7
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-18.3%",
+                "numeric_values": [
+                  -18.3
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-13.3%",
+                "numeric_values": [
+                  -13.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "-7.2%",
+                "numeric_values": [
+                  -7.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-18.9%",
+                "numeric_values": [
+                  -18.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-12.7%",
+                "numeric_values": [
+                  -12.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-15.9%",
+                "numeric_values": [
+                  -15.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-17.6%",
+                "numeric_values": [
+                  -17.6
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "0.2%",
+                "numeric_values": [
+                  0.2
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-16.2%",
+                "numeric_values": [
+                  -16.2
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-21.8%",
+                "numeric_values": [
+                  -21.8
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-18.1%",
+                "numeric_values": [
+                  -18.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-16.8%",
+                "numeric_values": [
+                  -16.8
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-24.6%",
+                "numeric_values": [
+                  -24.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-16.6%",
+                "numeric_values": [
+                  -16.6
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-18.9%",
+                "numeric_values": [
+                  -18.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-16.8%",
+                "numeric_values": [
+                  -16.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Jefferson",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "-10.9%",
+                "numeric_values": [
+                  -10.9
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-18.3%",
+                "numeric_values": [
+                  -18.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "AS",
+                "value": "-9.0%",
+                "numeric_values": [
+                  -9.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nBarton\nALL: 23.4%\nEL: 25.0%\nHOM: 37.7%\nHI: 24.2%\nEdison\nALL: 20.3%\nEL: 18.0%\nHOM: 22.1%\nSED: 20.6%\nSWD: 19.0%\nHI: 20.1%\nFranklin\nEL: 30.4%\nGauer\nHOM: 32%\nHI: 25%\nGuinn\nALL: 28.0%\nEL: 26.4%\nHOM: 55.8%\nSED: 29.9%\nSWD: 38.9%\nHI: 27.9%\nHenry\nALL: 17.9%\nHOM: 35.4%\nSED: 18.5%\nSWD: 28.8%\nHI: 18.0%\nJefferson\nHOM: 23.1%\nSWD: 22.7%\nJuarez\nAS: 20.0%\nLincoln",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "23.4%",
+                "numeric_values": [
+                  23.4
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "25.0%",
+                "numeric_values": [
+                  25.0
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "37.7%",
+                "numeric_values": [
+                  37.7
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "24.2%",
+                "numeric_values": [
+                  24.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "20.3%",
+                "numeric_values": [
+                  20.3
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "18.0%",
+                "numeric_values": [
+                  18.0
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "22.1%",
+                "numeric_values": [
+                  22.1
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "20.6%",
+                "numeric_values": [
+                  20.6
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "19.0%",
+                "numeric_values": [
+                  19.0
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "20.1%",
+                "numeric_values": [
+                  20.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "30.4%",
+                "numeric_values": [
+                  30.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "32%",
+                "numeric_values": [
+                  32.0
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "25%",
+                "numeric_values": [
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "28.0%",
+                "numeric_values": [
+                  28.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "26.4%",
+                "numeric_values": [
+                  26.4
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "55.8%",
+                "numeric_values": [
+                  55.8
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "29.9%",
+                "numeric_values": [
+                  29.9
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "38.9%",
+                "numeric_values": [
+                  38.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "27.9%",
+                "numeric_values": [
+                  27.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "17.9%",
+                "numeric_values": [
+                  17.9
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "35.4%",
+                "numeric_values": [
+                  35.4
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "18.5%",
+                "numeric_values": [
+                  18.5
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "28.8%",
+                "numeric_values": [
+                  28.8
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "18.0%",
+                "numeric_values": [
+                  18.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Jefferson",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "23.1%",
+                "numeric_values": [
+                  23.1
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "22.7%",
+                "numeric_values": [
+                  22.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "AS",
+                "value": "20.0%",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nBarton\nALL: 25.6%\nEL: 26.9%\nHOM: 41%\nHI: 30.1%\nEdison\nALL: 24.6%\nEL: 22.8%\nHOM: 32.9%\nSED: 25.3%\nSWD: 28.3%\nHI: 24.4%\nFranklin\nEL: 28.6%\nGauer\nHOM: 41.9%\nHI: 28.7%\nGuinn\nALL: 34.9%\nEL: 35.1%\nHOM: 46.6%\nSED: 37.1%\nSWD: 51.7%\nHI: 37%\nHenry\nALL: 25.7%\nHOM: 51%\nSED: 26.1%\nSWD: 38.7%\nHI: 25.8%\nJefferson\nHOM: 25%\nSWD: 32%\nJuarez\nAS: 20%\nLincoln",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Barton",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "25.6%",
+                "numeric_values": [
+                  25.6
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "26.9%",
+                "numeric_values": [
+                  26.9
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "41%",
+                "numeric_values": [
+                  41.0
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "30.1%",
+                "numeric_values": [
+                  30.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Edison",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "24.6%",
+                "numeric_values": [
+                  24.6
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "22.8%",
+                "numeric_values": [
+                  22.8
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "32.9%",
+                "numeric_values": [
+                  32.9
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "25.3%",
+                "numeric_values": [
+                  25.3
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "28.3%",
+                "numeric_values": [
+                  28.3
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "24.4%",
+                "numeric_values": [
+                  24.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "Franklin",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "28.6%",
+                "numeric_values": [
+                  28.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Gauer",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "41.9%",
+                "numeric_values": [
+                  41.9
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "28.7%",
+                "numeric_values": [
+                  28.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Guinn",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "34.9%",
+                "numeric_values": [
+                  34.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "35.1%",
+                "numeric_values": [
+                  35.1
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "46.6%",
+                "numeric_values": [
+                  46.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "37.1%",
+                "numeric_values": [
+                  37.1
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "51.7%",
+                "numeric_values": [
+                  51.7
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "37%",
+                "numeric_values": [
+                  37.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Henry",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "25.7%",
+                "numeric_values": [
+                  25.7
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "51%",
+                "numeric_values": [
+                  51.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "26.1%",
+                "numeric_values": [
+                  26.1
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "38.7%",
+                "numeric_values": [
+                  38.7
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "25.8%",
+                "numeric_values": [
+                  25.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Jefferson",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "25%",
+                "numeric_values": [
+                  25.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "32%",
+                "numeric_values": [
+                  32.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Juarez",
+                "numeric_values": []
+              },
+              {
+                "label": "AS",
+                "value": "20%",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Lincoln",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.6",
+          "metric_name": "Suspension Rate- District\nMaintain a suspension\nrate of 0.5% or\nlower. Decrease\nsuspension rate for\nhistorically marginalized\nstudent groups including\nAfrican American students\nData Source: California\nSchools Dashboard",
+          "baseline_raw": "2023-24\nAll: +0%\nAA: -0.3%\nFOS: +0%\nSED: +0.1%\nEL: +0.2%",
+          "year_1_outcome_raw": "2023-24\nAll: 0.9%\nAA: 1.5%\nFOS: 1.5%\nSED: 1.0%\nEL: 0.9%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nAll: 0.5% Maximum\nAA: 0.5% Maximum\nFOS: 0.5%\nMaximum\nSED: 0.5%\nMaximum\nEL: 0.5%\nMaximum",
+          "current_difference_from_baseline_raw": "2023-24\nAll: +0%\nAA: -0.3%\nFOS: +0%\nSED: +0.1%\nEL: +0.2%",
+          "source_pages": [
+            30,
+            31
+          ],
+          "baseline": {
+            "raw": "2023-24",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2025-26",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.7",
+          "metric_name": "Suspension Rate-Schools\nand Groups\nMaintain a suspension rate\nof 0.5% or\nlower. Decrease\nsuspension rate for\nhistorically marginalized\nstudent groups including\nAfrican American students\nData Source: California\nSchools Dashboard",
+          "baseline_raw": "2023-24\nSunkist\nALL: -2.2%\nEL: -2.8%\nHOM: -6.3%\nSED: -2.4%\nSWD: -5.4%\nHI: -2.1%",
+          "year_1_outcome_raw": "2023-24\nSunkist\nALL: 1.9%\nEL: 2.3%\nHOM: 1.5%\nSED: 1.9%\nSWD: 2.2%\nHI: 2.0%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nSunkist\nALL: 0.5% or\nlower\nEL: 0.5% or lower\nHOM: 0.5% or\nlower\nSED: 0.5% or\nlower\nSWD: 0.5% or\nlower\nHI: 0.5% or lower",
+          "current_difference_from_baseline_raw": "2023-24\nSunkist\nALL: -2.2%\nEL: -2.8%\nHOM: -6.3%\nSED: -2.4%\nSWD: -5.4%\nHI: -2.1%",
+          "source_pages": [
+            31
+          ],
+          "baseline": {
+            "raw": "2023-24\nSunkist\nALL: -2.2%\nEL: -2.8%\nHOM: -6.3%\nSED: -2.4%\nSWD: -5.4%\nHI: -2.1%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Sunkist",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "-2.2%",
+                "numeric_values": [
+                  -2.2
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "-2.8%",
+                "numeric_values": [
+                  -2.8
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "-6.3%",
+                "numeric_values": [
+                  -6.3
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "-2.4%",
+                "numeric_values": [
+                  -2.4
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "-5.4%",
+                "numeric_values": [
+                  -5.4
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "-2.1%",
+                "numeric_values": [
+                  -2.1
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nSunkist\nALL: 1.9%\nEL: 2.3%\nHOM: 1.5%\nSED: 1.9%\nSWD: 2.2%\nHI: 2.0%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Sunkist",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "1.9%",
+                "numeric_values": [
+                  1.9
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "2.3%",
+                "numeric_values": [
+                  2.3
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "1.5%",
+                "numeric_values": [
+                  1.5
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "1.9%",
+                "numeric_values": [
+                  1.9
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "2.2%",
+                "numeric_values": [
+                  2.2
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "2.0%",
+                "numeric_values": [
+                  2.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nSunkist\nALL: 0.5% or\nlower\nEL: 0.5% or lower\nHOM: 0.5% or\nlower\nSED: 0.5% or\nlower\nSWD: 0.5% or\nlower\nHI: 0.5% or lower",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Sunkist",
+                "numeric_values": []
+              },
+              {
+                "label": "ALL",
+                "value": "0.5% or",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "lower",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "0.5% or lower",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "0.5% or",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "lower",
+                "numeric_values": []
+              },
+              {
+                "label": "SED",
+                "value": "0.5% or",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "lower",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "0.5% or",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "lower",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "0.5% or lower",
+                "numeric_values": [
+                  0.5
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.8",
+          "metric_name": "Expulsion\nMaintain an expulsion rate\nof 0.\nData Source: Aeries",
+          "baseline_raw": "2024-25\n+0%",
+          "year_1_outcome_raw": "2024-25\n0%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n0%",
+          "current_difference_from_baseline_raw": "2024-25\n+0%",
+          "source_pages": [
+            31
+          ],
+          "baseline": {
+            "raw": "2024-25\n+0%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n0%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n0%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.9",
+          "metric_name": "LCAP Parent Survey\nMaintain or reach a minimum\nof 95% of parents who\nstrongly/somewhat agree that\nthey feel welcome at their\nchild’s school annually as\nmeasured by the Parent\nLCAP Survey.\nData Source: Qualtrics LCAP\nParent Survey",
+          "baseline_raw": "2024-25\n+2%",
+          "year_1_outcome_raw": "2024-25\n98%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n95% Minimum",
+          "current_difference_from_baseline_raw": "2024-25\n+2%",
+          "source_pages": [
+            31,
+            32
+          ],
+          "baseline": {
+            "raw": "2024-25\n+2%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+2%",
+                "numeric_values": [
+                  2.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n98%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "98%",
+                "numeric_values": [
+                  98.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n95% Minimum",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "95% Minimum",
+                "numeric_values": [
+                  95.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.11",
+          "metric_name": "Parent Engagement\nAESD average of 4, Full\nImplementation, on the\n“Seeking Input and\nDecision Making” section\nof the Parent\nEngagement Reflection\nTool.\nData Source: Parent\nEngagement Reflection\nTool",
+          "baseline_raw": "2024-25\n+0.5",
+          "year_1_outcome_raw": "2024-25\n4.0 average",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n4 average",
+          "current_difference_from_baseline_raw": "2024-25\n+0.5",
+          "source_pages": [
+            32
+          ],
+          "baseline": {
+            "raw": "2024-25\n+0.5",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0.5",
+                "numeric_values": [
+                  0.5
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n4.0 average",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "4.0 average",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n4 average",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "4 average",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Empowering Staff:Trauma\nInformed Classroom\nManagement Strategies",
+          "description": "AESD BEISY data shows that our unduplicated students have higher rates of internalizing and\nexternalizing behaviors. To support English Learners/Emergent Bilingual, Low Income, and\nFoster Youth, the district will provide professional development through a one-day conference-\nstyle training offered in the summer that aims to support students in developing positive\nbehaviors by equipping educators with effective, trauma-informed strategies and techniques.\nThis contributes to increasing/improving outcomes at every school site throughout the LEA for\nthe following student groups: English Learner, Foster Youth, and Low Income.\nBy focusing on equipping educators with effective strategies, the one-day conference-style\ntraining addresses critical barriers to learning for English Learners/Emergent Bilinguals, Low\nIncome, and Foster Youth students. This approach not only improves classroom management\nbut also fosters a supportive and inclusive learning environment that enhances academic and\nsocial-emotional outcomes including reduced suspension rates for these student groups.\nThis action will be measured by M2.6 and M2.7 (Suspension Rate for District and Schools).",
+          "total_funds_raw": "$270,374.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            33,
+            34
+          ],
+          "total_funds": 270374.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Comprehensive Student\nSupport Services",
+          "description": "Implementing Social and Emotional Learning (SEL) with the support of School Counselors,\nSchool Psychologists, Behavioral Health Specialists, and Clinicians for English Learners\n(ELs)/Emergent Bilinguals, low-income students, and foster youth is crucial for their academic\nsuccess and overall well-being.\nHere’s why:\n1. Many English Learners/Emergent Bilingual, low-income students, and foster youth face\nunique stressors and traumatic experiences, such as language barriers, financial instability,\nand family disruptions. Access to mental health professionals ensures that these students\nreceive tailored support for their specific emotional and psychological needs, which can\nprevent or address mental health issues. School Counselors and Behavioral Health Specialists\ncan develop individualized interventions that address the specific needs of ELs, low-income\nstudents, and foster youth, ensuring that support is principally directed to these students.\n2. This support encourages positive relationships with peers and adults, which is particularly\nimportant for foster youth who may lack stable support systems.\n3. The support staff will incorporate culturally responsive strategies that respect and integrate\nthe linguistic and cultural backgrounds of ELs, facilitating a more inclusive learning\nenvironment.\nImplementing SEL with the support of school mental health professionals for ELs, low-income\nstudents, and foster youth is critical in addressing their unique challenges and promoting their\noverall well-being. This comprehensive support system fosters emotional resilience, academic\nsuccess, and social integration, helping to create a more equitable and supportive educational\nenvironment.",
+          "total_funds_raw": "$13,832,604.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            34
+          ],
+          "total_funds": 13832604.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.3",
+          "title": "Attendance Boost Program",
+          "description": "AESD's unduplicated student population has lower attendance rates and higher proportions of\nchronic absenteeism. To support English Learners/Emergent Bilingual, Low Income, and\nFoster Youth, the district will provide Attendance Improvement Software and Services will be\nimplemented in 2024-25 to increase the efficiency of attendance tracking and outreach. This\naction will be measured by M2.4, M2.5 (Chronic Absentee Rate at District and Schools level)\nand M1.3 and M1.5 (CAASPP ELA and Math performance).",
+          "total_funds_raw": "$198,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            34,
+            35
+          ],
+          "total_funds": 198000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.4",
+          "title": "Attendance Liaison\nInitiative: Strengthening\nStudent Engagement and\nSupport",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill utilize the 7 attendance liaisons to assist with the monitoring of student attendance, support\nthe School Attendance Review Team procedures and with connecting families to school and\ncommunity resources for students who are chronically absent or at risk of becoming chronically\nabsent.",
+          "total_funds_raw": "$400,769.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            35
+          ],
+          "total_funds": 400769.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.5",
+          "title": "Conduct regular student\nwellness screenings and\nsupport overall health of\nstudents",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide health care professionals at all sites. Integrating health professionals into the\nschool environment to provide wellness support significantly enhances the learning outcomes\nfor English Learners/Emergent Bilinguals, Low-Income, and Foster Youth students by\naddressing their physical, mental, and emotional health needs. This comprehensive support\nsystem reduces barriers to learning, promotes engagement and attendance, enhances overall\nwell-being, and fosters a more inclusive and equitable educational experience for these\nvulnerable student groups.",
+          "total_funds_raw": "$4,753,714.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            35
+          ],
+          "total_funds": 4753714.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.6",
+          "title": "Parent and Family\nEngagement Initiative: PK-\n6 Support",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide Family and Community Engagement Specialists, School Office Assistants at all\nschool sites and support the district by providing Preschool Learning Link, Parent Involvement\nSpecialist, Schools Family and Community Engagement Director, and Translators throughout\nthe school/district community.\nProviding Family and Community Engagement Specialists, School Office Assistants, Preschool\nLearning Link, Parent Involvement Specialists, a Schools Family and Community Engagement\nDirector, and Translators throughout the school district enhances learning for English\nLearners/Emergent Bilinguals, Low-Income, and Foster Youth by addressing communication\nbarriers, fostering strong school-family partnerships, providing early support, and creating an\ninclusive and supportive school climate. These actions ensure that all students have access to\nthe resources and support they need to succeed academically and personally.",
+          "total_funds_raw": "$4,137,412.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            35
+          ],
+          "total_funds": 4137412.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.7",
+          "title": "Strengthening Family and\nCommunity Engagement\nProfessional Development\nfor Parent Engagement",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide education sessions for parents each trimester based on the district needs\nassessment: Language Arts/Math, Emergent Bilingual, Inclusive Education, & SEL Parent\nworkshops to teach parents to successfully navigate California's educational system to\nfacilitate child's access to higher education. Parent workshops that combine parenting and\nleadership skills that empower parents to become vital contributors to their children's academic\nsuccess.\nProviding trimester-based education sessions for parents that includes workshops on\nLanguage Arts/Math, Emergent Bilingual support, Inclusive Education, and SEL, along with\nnavigating the educational system and leadership skills, increases and improves learning for\nEnglish Learners/Emergent Bilinguals, Low-Income, and Foster Youth by empowering parents\nto actively support their children’s academic and personal development. This comprehensive\napproach fosters better home-school collaboration, enhances parental involvement, and\naddresses the unique needs of these vulnerable student groups, leading to improved academic\nengagement, performance, and overall well-being.",
+          "total_funds_raw": "$85,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            35,
+            36
+          ],
+          "total_funds": 85000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.8",
+          "title": "Trauma Informed\nInterventions",
+          "description": "To support Foster Youth the district will provide in time support for Foster Youth students and\nfamilies including Student Success Team Liaison and after school tutoring as needed.\nTransportation provide as needed to Foster Youth students.",
+          "total_funds_raw": "$202,190.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            36
+          ],
+          "total_funds": 202190.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.9",
+          "title": "SEL Support for student\nAchievement",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide curriculum to develop self-awareness, improve body awareness to help students\naddress their needs and respect others’ space; build healthy self-esteem + strong relationship\nskills; help students communicate clearly, understand their strengths, and maintain friendships;\nstudents notice, identify, and regulate their emotions; use play-based activities to teach\nstrategies for responding to strong emotions.",
+          "total_funds_raw": "$100,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            36
+          ],
+          "total_funds": 100000.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "The district will maintain 100% compliance with California State Priority 1 - Basic (Conditions of\nLearning) by ensuring that all students have access to fully credentialed teachers, standard-aligned\ninstructional materials, and facilities that are in good repair throughout the LCAP cycle.",
+      "goal_type": "Maintenance of Progress\nGoal",
+      "source_pages": [
+        37
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "California Statewide\nAssignment Accountability\nSystem\nAESD will hire Fully\nCredentialed and\nAppropriately Assigned\nTeachers: teachers who\nare appropriately\nassigned, fully\ncredentialed in the\nsubject areas, and, for\nthe pupils they are\nteaching.\nData Source: Human\nResources",
+          "baseline_raw": "2024-25\n-0.7%",
+          "year_1_outcome_raw": "2024-25\n99.2% of teachers\nwere appropriately\nassigned and fully\ncredentialed (5 out\nof 622 teachers\nare on an\nemergency or\nshort term permit)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of teachers",
+          "current_difference_from_baseline_raw": "2024-25\n-0.7%",
+          "source_pages": [
+            37,
+            38
+          ],
+          "baseline": {
+            "raw": "2024-25\n-0.7%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "-0.7%",
+                "numeric_values": [
+                  -0.7
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n99.2% of teachers\nwere appropriately\nassigned and fully\ncredentialed (5 out\nof 622 teachers\nare on an",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "99.2% of teachers",
+                "numeric_values": [
+                  99.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "were appropriately",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assigned and fully",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "credentialed (5 out",
+                "numeric_values": [
+                  5.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "of 622 teachers",
+                "numeric_values": [
+                  622.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "are on an",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of teachers",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.2",
+          "metric_name": "Williams Visit\nEvery pupil in AESD will\nhave sufficient access to\nthe standards-aligned\ninstructional materials.\nData Source: Williams\nVisit Summary",
+          "baseline_raw": "Maintained\n\"Sufficient\"\nrating (findings =\n0)",
+          "year_1_outcome_raw": "2024-25\n“Sufficient” Rating\non Williams Visit\nfor selected\nschools (findings\n= 0)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n\"Sufficient\"\nRating (findings =\n0)",
+          "current_difference_from_baseline_raw": "Maintained\n\"Sufficient\"\nrating (findings =\n0)",
+          "source_pages": [
+            38
+          ],
+          "baseline": {
+            "raw": "Maintained\n\"Sufficient\"\nrating (findings =\n0)",
+            "context_lines": [
+              "Maintained"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "\"Sufficient\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rating (findings =",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "0)",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n“Sufficient” Rating\non Williams Visit\nfor selected\nschools (findings\n= 0)",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "“Sufficient” Rating",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "on Williams Visit",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for selected",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "schools (findings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "= 0)",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n\"Sufficient\"\nRating (findings =\n0)",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "\"Sufficient\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Rating (findings =",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "0)",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.3",
+          "metric_name": "Facilities Inspection Tool\n100% of AESD facilities will\nbe maintained in “Good”\nRepair.\nData Source: FIT\nReport",
+          "baseline_raw": "2024-25\n+75%",
+          "year_1_outcome_raw": "2024-25\n100% of schools",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of schools",
+          "current_difference_from_baseline_raw": "2024-25\n+75%",
+          "source_pages": [
+            38
+          ],
+          "baseline": {
+            "raw": "2024-25\n+75%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "+75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of schools",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of schools",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.4",
+          "metric_name": "Local Indicator for\nImplementing State\nAcademic Standards\n(Priority 2)\nAESD will implement the\nacademic content and\nperformance standards\nadopted by the state\nboard, and indicate how\nthe programs and services\nwill enable English learners\nto access the common core\nacademic content\nstandards.\nData Source:\nImplementation of State\nAcademic Standards\nReflection Tool",
+          "baseline_raw": "+0",
+          "year_1_outcome_raw": "2024-25\n3.8 average",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n4.0 average\nminimum",
+          "current_difference_from_baseline_raw": "+0",
+          "source_pages": [
+            38,
+            39
+          ],
+          "baseline": {
+            "raw": "+0",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n3.8 average",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "3.8 average",
+                "numeric_values": [
+                  3.8
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n4.0 average\nminimum",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "4.0 average",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "minimum",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Ensure annual access to\nAnnual Procurement of\nStandards-Aligned\nInstructional Materials",
+          "description": "To ensure access to high-quality instructional materials, a transparent selection process\ninvolving educators, administrators, and parents is used. Special considerations are given\nwhen adopting new materials and the adoption process includes training all committee\nmembers on the associated standards, frameworks, and critical instructional strategies that\nsupport our vulnerable populations prior to looking at materials. Consideration is given to\ndisadvantaged students, including foster youth, those on free and reduced lunch, and\nEmergent Bilinguals, with funds allocated within the education budget to ensure equitable\naccess.",
+          "total_funds_raw": "$20,000.00",
+          "contributing_raw": "No\nXX",
+          "source_pages": [
+            40
+          ],
+          "total_funds": 20000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.2",
+          "title": "Highly Qualified Teachers",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill implement smaller class sizes as follows: TK-6th grade Class Sizes per contract: TK=22,\nKindergarten=24, 1st-3rd=26, 4th-6th=27",
+          "total_funds_raw": "$19,830,017.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            40
+          ],
+          "total_funds": 19830017.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.3",
+          "title": "Early Learning--Inclusion\nClasses",
+          "description": "To support all students, including Students with Disabilities, the district will provide\nKindergarten Collaboration Gen Ed/Special Ed (inclusion) classes at various school\nsites. Implementing Kindergarten Collaboration Gen Ed/Special Ed (inclusion) classes at\nvarious school sites supports diverse student populations by creating inclusive learning\nenvironments. This approach not only enhances academic outcomes but also promotes social-\nemotional development, cultural competence, and equitable access to education.",
+          "total_funds_raw": "$668,209.00",
+          "contributing_raw": "No\nXX",
+          "source_pages": [
+            40
+          ],
+          "total_funds": 668209.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.4",
+          "title": "Technology Integration",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide access to high-quality technology integration to support equity focused 21st-\ncentury learning environments of instruction for in-person and online learning settings through\n1-1 access to a device and Wi-Fi connectivity for students. (Technology Assistants Technician\nSupport Techs*, FileWave MDM, Program Secretary, Information System Specialist,\nProgrammers, Data Assessment Technician). By providing access to high-quality technology\nintegration, including 1-1 devices and Wi-Fi connectivity, the district supports equity-focused\n21st-century learning environments for English Learners/Emergent Bilinguals, Low-Income\nstudents, and Foster youth. This initiative not only enhances access to educational resources\nbut also promotes digital literacy, personalized learning, and overall academic success in both\nin-person and online learning settings.",
+          "total_funds_raw": "$5,570,990.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            40,
+            41
+          ],
+          "total_funds": 5570990.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.5",
+          "title": "Support the educational\nprograms of the district",
+          "description": "To support all students, including Students with Disabilities, the district will provide support to\nall school sites to develop and maintain budgets in order to make informed decisions which will\nresult in the efficient use of funds in alignment with the LCAP across the district. (Budget\nAnalyst, Buyer, Translation/Printing support, Qualtrics Software to conduct LCAP Surveys)",
+          "total_funds_raw": "$400,315.00",
+          "contributing_raw": "No\nXX",
+          "source_pages": [
+            41
+          ],
+          "total_funds": 400315.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.6",
+          "title": "Future Ready Learning and\nWork Environments",
+          "description": "To support all students, the district will provide future ready and well maintained facilities to\nensure school safety, security, and high-quality, cutting edge learning and work environments\n(RRM, Custodians)",
+          "total_funds_raw": "$2,346,574.00",
+          "contributing_raw": "No\nXX",
+          "source_pages": [
+            41
+          ],
+          "total_funds": 2346574.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.7",
+          "title": "Welcoming, Safe, and\nInclusive School\nEnvironment",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster Youth, the district\nwill provide Vice Principal support to all schools. Vice Principals play a crucial role in\nincreasing and improving learning for English Learners/Emergent Bilinguals, Low-Income, and\nFoster Youth students by providing targeted instructional leadership, fostering a positive and\ninclusive school climate, supporting student well-being, strengthening family and community\nengagement, and addressing the specific needs of vulnerable student groups. Their\ninvolvement ensures that these students receive comprehensive support that enhances their\nacademic success and overall well-being.",
+          "total_funds_raw": "$4,725,176.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            41
+          ],
+          "total_funds": 4725176.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.8",
+          "title": "Saturday School",
+          "description": "To support English Learners/Emergent Bilingual, Low Income, and Foster\nYouth, Saturday school will be held 4 times to allow students to make up\nmissed instructional time in a supportive, engaging academic\nenvironment.",
+          "total_funds_raw": "$310,592.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            41
+          ],
+          "total_funds": 310592.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "4",
+      "description": "Over the course of the next three years, the Anaheim Elementary Online Academy at Roosevelt Elementary will strive to\nensure equitable access to high-quality education and improve learning outcomes for all student groups, with particular\nemphasis on English Learners/Emergent Bilingual, Socioeconomically Disadvantaged, and Hispanic students. This will be\nachieved through targeted interventions, personalized support, and culturally responsive instructional practices aimed at\naddressing individual needs and eliminating achievement disparities.",
+      "goal_type": "Equity Multiplier Focus Goal",
+      "source_pages": [
+        43
+      ],
+      "metrics": [
+        {
+          "metric_number": "4.1",
+          "metric_name": "CAASPP ELA- Students\nattending the online\nlearning program at\nRoosevelt Elementary\nwill decrease their ELA\ndistance from standard\n(DFS) by 15 points\nannually.\nData Source: Local\nTableau Data",
+          "baseline_raw": "2023-24\nAll: +8\nLow Income: +4\nEmergent\nBilingual: -14.4\nHispanic: +9.8",
+          "year_1_outcome_raw": "2023-24\nAll: -25.6\nLow Income: -41.9\nEmergent\nBilingual: -43.5\nHispanic: -42.1",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-36\nAll:11.4\nLow Income: -0.9\nEmergent Bilingual:14.1\nHispanic: -6.9",
+          "current_difference_from_baseline_raw": "2023-24\nAll: +8\nLow Income: +4\nEmergent\nBilingual: -14.4\nHispanic: +9.8",
+          "source_pages": [
+            43,
+            44
+          ],
+          "baseline": {
+            "raw": "2023-24",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-36\nAll:11.4\nLow Income: -0.9",
+            "context_lines": [
+              "2025-36"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "11.4",
+                "numeric_values": [
+                  11.4
+                ]
+              },
+              {
+                "label": "Low Income",
+                "value": "-0.9",
+                "numeric_values": [
+                  -0.9
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.2",
+          "metric_name": "CAASPP Math- Students\nattending the online\nlearning program at\nRoosevelt Elementary\nwill decrease their Math\ndistance from standard\n(DFS) by 20 points\nannually.\nData Source: Local\nTableau Data",
+          "baseline_raw": "2023-24\nAll:+4.7\nLow Income:-3.8\nEmergent\nBilingual: -11.2\nHispanic:+0.9",
+          "year_1_outcome_raw": "2023-24\nAll: -36.3\nLow Income: -53.8\nEmergent\nBilingual: -43.1\nHispanic: -56.7",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nAll:19\nLow Income:10\nEmergent Bilingual:\n21.8\nHispanic:2.4",
+          "current_difference_from_baseline_raw": "2023-24\nAll:+4.7\nLow Income:-3.8\nEmergent\nBilingual: -11.2\nHispanic:+0.9",
+          "source_pages": [
+            44
+          ],
+          "baseline": {
+            "raw": "2023-24\nAll:+4.7\nLow Income:-3.8\nEmergent\nBilingual: -11.2\nHispanic:+0.9",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "+4.7",
+                "numeric_values": [
+                  4.7
+                ]
+              },
+              {
+                "label": "Low Income",
+                "value": "-3.8",
+                "numeric_values": [
+                  -3.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent",
+                "numeric_values": []
+              },
+              {
+                "label": "Bilingual",
+                "value": "-11.2",
+                "numeric_values": [
+                  -11.2
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "+0.9",
+                "numeric_values": [
+                  0.9
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nAll: -36.3\nLow Income: -53.8\nEmergent\nBilingual: -43.1\nHispanic: -56.7",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "-36.3",
+                "numeric_values": [
+                  -36.3
+                ]
+              },
+              {
+                "label": "Low Income",
+                "value": "-53.8",
+                "numeric_values": [
+                  -53.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent",
+                "numeric_values": []
+              },
+              {
+                "label": "Bilingual",
+                "value": "-43.1",
+                "numeric_values": [
+                  -43.1
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "-56.7",
+                "numeric_values": [
+                  -56.7
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nAll:19\nLow Income:10\nEmergent Bilingual:\n21.8\nHispanic:2.4",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "19",
+                "numeric_values": [
+                  19.0
+                ]
+              },
+              {
+                "label": "Low Income",
+                "value": "10",
+                "numeric_values": [
+                  10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent Bilingual:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "21.8",
+                "numeric_values": [
+                  21.8
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "2.4",
+                "numeric_values": [
+                  2.4
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.3",
+          "metric_name": "Chronic Absenteeism-\nDecrease chronic\nabsenteeism by 3%\nannually.\nData Source: Local\nTableau Data",
+          "baseline_raw": "2023-24\nAll: +1.0%\nLow\nIncome: +1.8%\nEmergent\nBilingual: -3.6%\nHispanic: +2.4%",
+          "year_1_outcome_raw": "2023-24\nAll: 15.5%\nLow\nIncome: 16.7%\nEmergent\nBilingual: 13.9%\nHispanic: 15.5%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nAll: 5.5%\nLow Income: 5.9%\nEmergent\nBilingual: 8.5%\nHispanic: 4.1%",
+          "current_difference_from_baseline_raw": "2023-24\nAll: +1.0%\nLow\nIncome: +1.8%\nEmergent\nBilingual: -3.6%\nHispanic: +2.4%",
+          "source_pages": [
+            44
+          ],
+          "baseline": {
+            "raw": "2023-24\nAll: +1.0%\nLow\nIncome: +1.8%\nEmergent\nBilingual: -3.6%\nHispanic: +2.4%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "+1.0%",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Low",
+                "numeric_values": []
+              },
+              {
+                "label": "Income",
+                "value": "+1.8%",
+                "numeric_values": [
+                  1.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent",
+                "numeric_values": []
+              },
+              {
+                "label": "Bilingual",
+                "value": "-3.6%",
+                "numeric_values": [
+                  -3.6
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "+2.4%",
+                "numeric_values": [
+                  2.4
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nAll: 15.5%\nLow\nIncome: 16.7%\nEmergent\nBilingual: 13.9%\nHispanic: 15.5%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "15.5%",
+                "numeric_values": [
+                  15.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "Low",
+                "numeric_values": []
+              },
+              {
+                "label": "Income",
+                "value": "16.7%",
+                "numeric_values": [
+                  16.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent",
+                "numeric_values": []
+              },
+              {
+                "label": "Bilingual",
+                "value": "13.9%",
+                "numeric_values": [
+                  13.9
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "15.5%",
+                "numeric_values": [
+                  15.5
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nAll: 5.5%\nLow Income: 5.9%\nEmergent\nBilingual: 8.5%\nHispanic: 4.1%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "5.5%",
+                "numeric_values": [
+                  5.5
+                ]
+              },
+              {
+                "label": "Low Income",
+                "value": "5.9%",
+                "numeric_values": [
+                  5.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Emergent",
+                "numeric_values": []
+              },
+              {
+                "label": "Bilingual",
+                "value": "8.5%",
+                "numeric_values": [
+                  8.5
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "4.1%",
+                "numeric_values": [
+                  4.1
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.4",
+          "metric_name": "AESD will hire Fully\nCredentialed and\nAppropriately Assigned\nTeachers: teachers who\nare appropriately\nassigned, fully\ncredentialed in the\nsubject areas, and, for\nthe pupils they are\nteaching.\nData Source: Human\nResources",
+          "baseline_raw": "2024-25\n0%",
+          "year_1_outcome_raw": "2024-25\n100% of teachers",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of teachers\nwill be\nappropriately\nassigned and fully\ncredentialed.",
+          "current_difference_from_baseline_raw": "2024-25\n0%",
+          "source_pages": [
+            45
+          ],
+          "baseline": {
+            "raw": "2024-25\n0%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of teachers",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of teachers\nwill be\nappropriately\nassigned and fully\ncredentialed.",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "will be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "appropriately",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assigned and fully",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "credentialed.",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "4.1",
+          "title": "Technology Integration",
+          "description": "To support students attending the Online Learning Program @ Roosevelt, the district will\nprovide access to high-quality technology integration to support equity focused 21st-century\nlearning environments of instruction for online learning settings through 1-1 access to a device\nand Wi-Fi connectivity for students and staff.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nEnglish Learner/Emergent\nBilingual, Socioeconomically\nDisadvantaged, and Hispanic\nstudents",
+          "source_pages": [
+            46
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "5",
+      "description": "",
+      "goal_type": "",
+      "source_pages": [
+        47
+      ],
+      "metrics": [],
+      "actions": []
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 5,
+  "metric_count": 29,
+  "action_count": 29
+}

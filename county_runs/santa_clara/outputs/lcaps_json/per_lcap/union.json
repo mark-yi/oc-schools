@@ -1,0 +1,5351 @@
+{
+  "source_file": "union.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/santa-clara-lcap/union.pdf",
+  "district_name": "Union Elementary School District",
+  "school_year": "2025-26",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "Provide the appropriate conditions to support teaching and learning for all students by: recruiting,\nhiring and retaining a diverse group of highly qualified staff who are skilled in closing the\nachievement gap and in creating an enriched, social-emotionally responsive and academically\nrigorous future-ready learning environment for all students; maintaining facilities in good repair; and\nensuring access to instructional materials and technology.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        11
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "Teacher Assignments\nand Credentials",
+          "baseline_raw": "2023-24\n100% of teachers are\nhighly qualified and\nproperly assigned.",
+          "year_1_outcome_raw": "2024-25\n100% of teachers\nare highly qualified\nand properly\nassigned.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of teachers\nare highly qualified\nand properly\nassigned.",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            11,
+            12
+          ],
+          "baseline": {
+            "raw": "2023-24",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2024-25",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2026-27",
+                "numeric_values": [
+                  2026.0,
+                  27.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.2",
+          "metric_name": "Staff Perception Survey",
+          "baseline_raw": "2 0 23-24\nFavorable response\nrates:\nRelevance of\nprofessional\ndevelopment\nopportunities 66%\nPositive working\nenvironment 66%\nPositive tone that\nleaders set 72%",
+          "year_1_outcome_raw": "2024-25\nFavorable\nresponse rates:\nRelevance of\nprofessional\ndevelopment\nopportunities 67%\nPositive working\nenvironment 71%\nPositive tone that\nleaders set 75%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nStaff will rate the\nabove perception\nsurvey questions\nat 75% or higher:\nRelevance of\nprofessional\ndevelopment\nopportunities:75%\nPositive working\nenvironment :75%\nPositive tone that\nleaders set : 75%",
+          "current_difference_from_baseline_raw": "Relevance of\nprofessional\ndevelopment\nopportunities: 1%\nPositive working\nenvironment 5%\nPositive tone that\nleaders set 3%",
+          "source_pages": [
+            12
+          ],
+          "baseline": {
+            "raw": "2 0 23-24\nFavorable response\nrates:\nRelevance of\nprofessional\ndevelopment\nopportunities 66%\nPositive working\nenvironment 66%\nPositive tone that\nleaders set 72%",
+            "context_lines": [
+              "2 0 23-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Favorable response",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rates:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relevance of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "professional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "development",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "opportunities 66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive working",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "environment 66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive tone that",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "leaders set 72%",
+                "numeric_values": [
+                  72.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nFavorable\nresponse rates:\nRelevance of\nprofessional\ndevelopment\nopportunities 67%\nPositive working\nenvironment 71%\nPositive tone that\nleaders set 75%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Favorable",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "response rates:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relevance of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "professional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "development",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "opportunities 67%",
+                "numeric_values": [
+                  67.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive working",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "environment 71%",
+                "numeric_values": [
+                  71.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive tone that",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "leaders set 75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nStaff will rate the\nabove perception\nsurvey questions\nat 75% or higher:\nRelevance of\nprofessional\ndevelopment\nopportunities:75%\nPositive working\nenvironment :75%\nPositive tone that\nleaders set : 75%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Staff will rate the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above perception",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "survey questions",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "at 75% or higher:",
+                "numeric_values": [
+                  75.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Relevance of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "professional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "development",
+                "numeric_values": []
+              },
+              {
+                "label": "opportunities",
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive working",
+                "numeric_values": []
+              },
+              {
+                "label": "environment",
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Positive tone that",
+                "numeric_values": []
+              },
+              {
+                "label": "leaders set",
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.3",
+          "metric_name": "Technology Access",
+          "baseline_raw": "2023-24\n100% of students and\nstaff are assigned 1:1\nmobile devices that are\nrefreshed as they\nbecome eligible for\nreplacement.",
+          "year_1_outcome_raw": "2024-25\n100% of students\nand staff have\nbeen assigned 1:1\nmobile devices\nthat are refreshed\nas they become\neligible for\nreplacement.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of students\nand staff are\nassigned 1:1\nmobile devices\nthat are refreshed\nas they become\neligible for\nreplacement.",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            12
+          ],
+          "baseline": {
+            "raw": "2023-24\n100% of students and\nstaff are assigned 1:1\nmobile devices that are\nrefreshed as they\nbecome eligible for\nreplacement.",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students and",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": "staff are assigned 1",
+                "value": "1",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "mobile devices that are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "refreshed as they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "become eligible for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "replacement.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of students\nand staff have\nbeen assigned 1:1\nmobile devices\nthat are refreshed\nas they become\neligible for\nreplacement.",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and staff have",
+                "numeric_values": []
+              },
+              {
+                "label": "been assigned 1",
+                "value": "1",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "mobile devices",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "that are refreshed",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "as they become",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "eligible for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "replacement.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of students\nand staff are\nassigned 1:1\nmobile devices\nthat are refreshed\nas they become\neligible for\nreplacement.",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and staff are",
+                "numeric_values": []
+              },
+              {
+                "label": "assigned 1",
+                "value": "1",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "mobile devices",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "that are refreshed",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "as they become",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "eligible for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "replacement.",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.4",
+          "metric_name": "Every student in the\nschool district has\nsufficient access to the\nstandards-aligned\ninstructional materials",
+          "baseline_raw": "2023-24\n100% of students have\naccess to their own\ncopies of standards-\naligned instructional\nmaterials for use at\nschool and at home.",
+          "year_1_outcome_raw": "2024-25\n100% of students\nhave access to\ntheir own copies of\nstandards-aligned\ninstructional\nmaterials for use at\nschool and at\nhome.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of students\nhave access to\ntheir own copies of\nstandards-aligned\ninstructional\nmaterials for use at\nschool and at\nhome.",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            12,
+            13
+          ],
+          "baseline": {
+            "raw": "2023-24\n100% of students have\naccess to their own\ncopies of standards-\naligned instructional\nmaterials for use at\nschool and at home.",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students have",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "access to their own",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "copies of standards-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "aligned instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "materials for use at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school and at home.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of students\nhave access to\ntheir own copies of\nstandards-aligned\ninstructional\nmaterials for use at",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "have access to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "their own copies of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards-aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "materials for use at",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of students\nhave access to\ntheir own copies of\nstandards-aligned\ninstructional\nmaterials for use at",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "have access to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "their own copies of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards-aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "materials for use at",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.5",
+          "metric_name": "School facilities are\nmaintained in good\nrepair",
+          "baseline_raw": "2023-24\n100% of sites passing\nthe Williams\nCompliance review (i.e.,\nthe facilities are in good\nrepair - as measured by\nthe FIT tool).",
+          "year_1_outcome_raw": "2024-25\n100% of sites\npassed the\nWilliams\nCompliance review\n(i.e., the facilities\nare in good repair -\nas measured by\nthe FIT tool).",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of sites\npassing the\nWilliams\nCompliance review\n(i.e., the facilities\nare in good repair -\nas measured by\nthe FIT tool).",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            13
+          ],
+          "baseline": {
+            "raw": "2023-24\n100% of sites passing\nthe Williams\nCompliance review (i.e.,\nthe facilities are in good\nrepair - as measured by\nthe FIT tool).",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of sites passing",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "the Williams",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Compliance review (i.e.,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the facilities are in good",
+                "numeric_values": []
+              },
+              {
+                "label": "repair",
+                "value": "as measured by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the FIT tool).",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of sites\npassed the\nWilliams\nCompliance review\n(i.e., the facilities\nare in good repair -\nas measured by\nthe FIT tool).",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of sites",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "passed the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Williams",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Compliance review",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(i.e., the facilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "are in good repair -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "as measured by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the FIT tool).",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of sites\npassing the\nWilliams\nCompliance review\n(i.e., the facilities\nare in good repair -\nas measured by\nthe FIT tool).",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of sites",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "passing the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Williams",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Compliance review",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(i.e., the facilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "are in good repair -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "as measured by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the FIT tool).",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.6",
+          "metric_name": "New Teacher Induction",
+          "baseline_raw": "2 0 23-24\n100% of new teachers\nin their first and second\nyear of teaching will\nhave participated in a\nnew teacher induction\nprogram.",
+          "year_1_outcome_raw": "2024-25\n100% of new\nteachers in their\nfirst and second\nyear of teaching\nare participating in\na new teacher\ninduction program.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of new\nteachers in their\nfirst and second\nyear of teaching\nwill participate in a\nnew teacher\ninduction program.",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            13
+          ],
+          "baseline": {
+            "raw": "2 0 23-24\n100% of new teachers\nin their first and second\nyear of teaching will\nhave participated in a\nnew teacher induction\nprogram.",
+            "context_lines": [
+              "2 0 23-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of new teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "in their first and second",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "year of teaching will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have participated in a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "new teacher induction",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "program.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of new\nteachers in their\nfirst and second\nyear of teaching\nare participating in\na new teacher\ninduction program.",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of new",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "teachers in their",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "first and second",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "year of teaching",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "are participating in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "a new teacher",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "induction program.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of new\nteachers in their\nfirst and second\nyear of teaching\nwill participate in a\nnew teacher\ninduction program.",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of new",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "teachers in their",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "first and second",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "year of teaching",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "will participate in a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "new teacher",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "induction program.",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.7",
+          "metric_name": "School Attendance\nRates",
+          "baseline_raw": "2023-24\nDistrict Average Daily\nAttendance Rate is\n96.65%",
+          "year_1_outcome_raw": "2024-25\nDistrict Average\nDaily Attendance\nRate is 96.16%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nDistrict Average\nDaily Attendance\nRate will be 97.5%\nor higher",
+          "current_difference_from_baseline_raw": "-.49%",
+          "source_pages": [
+            13
+          ],
+          "baseline": {
+            "raw": "2023-24\nDistrict Average Daily\nAttendance Rate is\n96.65%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "District Average Daily",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Attendance Rate is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "96.65%",
+                "numeric_values": [
+                  96.65
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nDistrict Average\nDaily Attendance\nRate is 96.16%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "District Average",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Daily Attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Rate is 96.16%",
+                "numeric_values": [
+                  96.16
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nDistrict Average\nDaily Attendance\nRate will be 97.5%\nor higher",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "District Average",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Daily Attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Rate will be 97.5%",
+                "numeric_values": [
+                  97.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "or higher",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.8",
+          "metric_name": "Chronic absenteeism\nrates",
+          "baseline_raw": "2022-23\nPercentage of students\nwho are chronically\nabsent:\nAll students: 10.1%\nStudents with\nDisabilities (SWD):\n19.6%\nHomeless students:\n45.2%\nEnglish Learners:\n14.1%\nLow Income: 27.2%\nHispanic: 22.2%\nWhite: 11.2%",
+          "year_1_outcome_raw": "2023-24\nPercentage of\nstudents who are\nchronically absent:\nAll students: 5.9%\nStudents with\nDisabilities (SWD):\n14.6%\nHomeless\nstudents: 30.6%\nEnglish Learners:\n7.4%\nLow Income:\n18.7%\nHispanic: 15.4%\nWhite: 6.3%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nPercentage of\nstudents who are\nchronically absent:\nAll students: <\n10%\nStudents with\nDisabilities (SWD):\n< 15%\nHomeless\nstudents: < 25%\nEnglish Learners:\n< 10%\nLow Income: <\n15%\nHispanic:< 15%%\nWhite: <10%",
+          "current_difference_from_baseline_raw": "All students: -4.2%\nStudents with\nDisabilities (SWD):\n-5%\nHomeless\nstudents: -14.6%\nEnglish Learners: -\n6.7%\nLow Income: -\n8.5%\nHispanic: -6.8%\nWhite: -4.9%",
+          "source_pages": [
+            13,
+            14
+          ],
+          "baseline": {
+            "raw": "2022-23\nPercentage of students\nwho are chronically\nabsent:\nAll students: 10.1%\nStudents with\nDisabilities (SWD):\n19.6%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Percentage of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "who are chronically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "absent:",
+                "numeric_values": []
+              },
+              {
+                "label": "All students",
+                "value": "10.1%",
+                "numeric_values": [
+                  10.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disabilities (SWD):",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "19.6%",
+                "numeric_values": [
+                  19.6
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nPercentage of\nstudents who are\nchronically absent:\nAll students: 5.9%\nStudents with\nDisabilities (SWD):\n14.6%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Percentage of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students who are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "chronically absent:",
+                "numeric_values": []
+              },
+              {
+                "label": "All students",
+                "value": "5.9%",
+                "numeric_values": [
+                  5.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disabilities (SWD):",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "14.6%",
+                "numeric_values": [
+                  14.6
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nPercentage of\nstudents who are\nchronically absent:\nAll students: <\n10%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Percentage of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students who are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "chronically absent:",
+                "numeric_values": []
+              },
+              {
+                "label": "All students",
+                "value": "<",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10%",
+                "numeric_values": [
+                  10.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.9",
+          "metric_name": "Extent to which pupils\nhave access to and are\nenrolled in: a broad\ncourse of study",
+          "baseline_raw": "2023-24\n59% of middle school\nstudents enrolled in a\nVisual and Performing\nArts Course",
+          "year_1_outcome_raw": "2024-25\n66% of middle\nschool students\nenrolled in a Visual\nand Performing\nArts Course",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n65% of middle\nschool students\nenrolled in a Visual\nand Performing\nArts Course",
+          "current_difference_from_baseline_raw": "7%",
+          "source_pages": [
+            14
+          ],
+          "baseline": {
+            "raw": "2023-24\n59% of middle school\nstudents enrolled in a\nVisual and Performing\nArts Course",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "59% of middle school",
+                "numeric_values": [
+                  59.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students enrolled in a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Visual and Performing",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts Course",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n66% of middle\nschool students\nenrolled in a Visual\nand Performing\nArts Course",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "66% of middle",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "enrolled in a Visual",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Performing",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts Course",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n65% of middle\nschool students\nenrolled in a Visual\nand Performing\nArts Course",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "65% of middle",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "enrolled in a Visual",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Performing",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts Course",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.10",
+          "metric_name": "Extent to which pupils\nhave access to and are\nenrolled in: programs\nand services developed\nand provided to\nindividuals with\nexceptional needs",
+          "baseline_raw": "2023-24\n65% of students with\ndisabilities in general\neducation classes 80%\nor more of the time",
+          "year_1_outcome_raw": "2024-25\n71.25% of\nstudents with\ndisabilities in\ngeneral education\nclasses 80% or\nmore of the time",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nTarget is >62%\nstudents with\ndisabilities in\ngeneral education\nclasses 80% or\nmore of the time",
+          "current_difference_from_baseline_raw": "6.25%",
+          "source_pages": [
+            14
+          ],
+          "baseline": {
+            "raw": "2023-24\n65% of students with\ndisabilities in general\neducation classes 80%\nor more of the time",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "65% of students with",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "disabilities in general",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "education classes 80%",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "or more of the time",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n71.25% of\nstudents with\ndisabilities in\ngeneral education\nclasses 80% or\nmore of the time",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "71.25% of",
+                "numeric_values": [
+                  71.25
+                ]
+              },
+              {
+                "label": null,
+                "value": "students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disabilities in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "general education",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "classes 80% or",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "more of the time",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nTarget is >62%\nstudents with\ndisabilities in\ngeneral education\nclasses 80% or\nmore of the time",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Target is >62%",
+                "numeric_values": [
+                  62.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disabilities in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "general education",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "classes 80% or",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "more of the time",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.11",
+          "metric_name": "Extent to which pupils\nhave access to and are\nenrolled in: programs\nand services developed\nand provided to\nunduplicated pupils",
+          "baseline_raw": "2023-24\n100% of teachers\nreceived three site\npresentations with\nintervention strategies\nand core teaching\npractices with a focus\non English Learners.",
+          "year_1_outcome_raw": "2024-25\n100% of teachers\nreceived three site\npresentations with\nintervention\nstrategies and core\nteaching practices\nwith a focus on\nEnglish Learners.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of teachers\nwill received four\nsite presentations\nwith intervention\nstrategies and core\nteaching practices\nwith a focus on\nEnglish Learners",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            14
+          ],
+          "baseline": {
+            "raw": "2023-24\n100% of teachers\nreceived three site\npresentations with\nintervention strategies\nand core teaching\npractices with a focus\non English Learners.",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "received three site",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "presentations with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "intervention strategies",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and core teaching",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "practices with a focus",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "on English Learners.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of teachers\nreceived three site\npresentations with\nintervention\nstrategies and core\nteaching practices\nwith a focus on\nEnglish Learners.",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "received three site",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "presentations with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "intervention",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "strategies and core",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "teaching practices",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with a focus on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of teachers\nwill received four\nsite presentations\nwith intervention\nstrategies and core\nteaching practices\nwith a focus on\nEnglish Learners",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "will received four",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "site presentations",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with intervention",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "strategies and core",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "teaching practices",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with a focus on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "Staff Recruitment\nand Retention",
+          "description": "Actively recruit high-quality staff in a variety of ways, including participation\nin recruitment fairs, the utilization of equitable screening tools, and\nupgrading our onboarding process for all new employees. We will annually\nrecognize staff contributions and staff dedication to supporting all students.",
+          "total_funds_raw": "$37,834.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            17
+          ],
+          "total_funds": 37834.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.2",
+          "title": "New Teacher\nSupport",
+          "description": "Provide teacher support for 1st and 2nd year teachers to assist teachers in\nclearing their credentials through a new teacher induction program.",
+          "total_funds_raw": "$36,187.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            17
+          ],
+          "total_funds": 36187.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.3",
+          "title": "Curriculum and\nInstructional\nMaterials Access",
+          "description": "Students will have access to core curricular materials. English Language\nArts/English Language Development curriculum will be piloted in 2026-27.",
+          "total_funds_raw": "$4,800.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            17
+          ],
+          "total_funds": 4800.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.4",
+          "title": "Student and Staff\nDevices",
+          "description": "Refresh student and staff devices as they become eligible for replacement.\nProvide translation devices for students in grades 3rd through 8th that are\nat a level 1 on the ELPAC.",
+          "total_funds_raw": "$267,071.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            18,
+            50
+          ],
+          "total_funds": 267071.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.5",
+          "title": "Maintain Facilities",
+          "description": "Maintain school facilities paying special attention to school bathrooms.",
+          "total_funds_raw": "$2,384,843.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            18,
+            50
+          ],
+          "total_funds": 2384843.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.6",
+          "title": "Access to a variety of\nelective courses",
+          "description": "Provide a variety of elective offerings for middle school students, taking\ninto account student feedback on courses they are interested in\nparticipating in. No cost is required to implement the action.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            18,
+            50
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.7",
+          "title": "Health and Nutrition\nCommittee",
+          "description": "Create a health and nutrition committee to monitor our free lunch program\nand collect student survey data on lunch menus. No cost is required to\nimplement the action.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            18,
+            50
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.8",
+          "title": "Increase Student\nAttendance",
+          "description": "Implement a positive attendance campaign and targeted attendance\ninterventions through the coordination of various resources provided by\nstaff, including: our community liaison, counselors, student wellness\ncoordinator, Extended Care, district nurses, site staff, and our student\nservices director. Attendance will be monitored through an attendance\ncompliance system. This action will target student groups who are\ndesignated as chronically absent as indicated on the California State\nDashboard in red: Hispanic and White, Low-Income students, English\nLearners, and Students with Disabilities, and Homeless.",
+          "total_funds_raw": "$88,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            18,
+            50
+          ],
+          "total_funds": 88000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.9",
+          "title": "Lunchtime\nSupervision",
+          "description": "Recruit parent volunteers and noon duty staff to increase student\nsupervision. Protocols will be developed and professional development will\nbe provided for volunteers and Noon Duty Staff at least twice per year. No\ncost is required to implement the action,",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            19
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.1",
+          "title": "Staff Recruitment and\nRetention",
+          "description": "",
+          "total_funds_raw": "$37,834.\n00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            50
+          ],
+          "total_funds": 37834.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.2",
+          "title": "New Teacher Support",
+          "description": "",
+          "total_funds_raw": "$36,187.\n00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            50
+          ],
+          "total_funds": 36187.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.3",
+          "title": "Curriculum and\nInstructional Materials\nAccess",
+          "description": "",
+          "total_funds_raw": "$4,800.0\n0",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            50
+          ],
+          "total_funds": 4800.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.9",
+          "title": "Lunchtime Supervision",
+          "description": "",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            51
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "Raise the achievement of all students, while closing achievement gaps in identified student groups,\nincluding English Learners, Long Term English Learners, low-income, foster youth and students with\ndisabilities, through rigorous differentiated instruction that is based on state standards, is culturally\nresponsive and develops students' Collaboration, Communication, Creativity, and Critical Thinking\nskills.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        20
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "Performance of\nRedesignated Fluent\nEnglish Proficient\nstudents meeting or\nexceeding standard on\nthe English Language\nArts Smarter Balanced\nSummative Assessment",
+          "baseline_raw": "2022-2023\n87% of Redesignated\nFluent English\nProficient students\nMeeting or Exceeding\nStandard on the\nSmarter Balanced\nS u mmative\nAssessments for\nEnglish Language\nArts/Literacy",
+          "year_1_outcome_raw": "2023-24\n87% of\nRedesignated\nFluent English\nProficient students\nMet or Exceeding\nStandard on the\nSmarter Balanced\nSummative\nAssessments for\nEnglish Language\nArts/Literacy",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n90% of\nRedesignated\nFluent English\nProficient students\nMeeting or\nExceeding\nStandard on the\nSmarter Balanced\nSummative\nAssessments for\nEnglish Language\nArts/Literacy",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            21
+          ],
+          "baseline": {
+            "raw": "2022-2023\n87% of Redesignated\nFluent English\nProficient students\nMeeting or Exceeding\nStandard on the\nSmarter Balanced\nS u mmative\nAssessments for\nEnglish Language\nArts/Literacy",
+            "context_lines": [
+              "2022-2023"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "87% of Redesignated",
+                "numeric_values": [
+                  87.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Fluent English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Proficient students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Meeting or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standard on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "S u mmative",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessments for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts/Literacy",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n87% of\nRedesignated\nFluent English\nProficient students\nMet or Exceeding\nStandard on the\nSmarter Balanced\nSummative\nAssessments for\nEnglish Language\nArts/Literacy",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "87% of",
+                "numeric_values": [
+                  87.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Redesignated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Fluent English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Proficient students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Met or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standard on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Summative",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessments for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts/Literacy",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n90% of\nRedesignated\nFluent English\nProficient students\nMeeting or\nExceeding\nStandard on the\nSmarter Balanced\nSummative\nAssessments for\nEnglish Language\nArts/Literacy",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "90% of",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Redesignated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Fluent English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Proficient students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Meeting or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standard on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Summative",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessments for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts/Literacy",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.2",
+          "metric_name": "Monitoring of English\nLanguage Development,\nEnglish Language Arts,\nand ELD interventions at\nthe Elementary and\nMiddle School sites",
+          "baseline_raw": "2023-24\n100% of Elementary\nSites have ELD, ELA,\nand Math interventions\n50% of Middle School\nSites have ELD, ELA,\nand Math interventions",
+          "year_1_outcome_raw": "2024-25\n100% of\nElementary Sites\nhave ELD, ELA,\nand Math\ninterventions.\n50% of Middle\nschools have an\nELD intervention,\nhowever each only\nhave an ELA or\nMath intervention\nfor some students",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of\nElementary Sites\nhave ELD, ELA,\nand Math\ninterventions\n100% of Middle\nSchool Sites have\nELD, ELA, and\nMath interventions",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            21
+          ],
+          "baseline": {
+            "raw": "2023-24\n100% of Elementary\nSites have ELD, ELA,\nand Math interventions\n50% of Middle School\nSites have ELD, ELA,\nand Math interventions",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of Elementary",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Sites have ELD, ELA,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math interventions",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "50% of Middle School",
+                "numeric_values": [
+                  50.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Sites have ELD, ELA,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math interventions",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n100% of\nElementary Sites\nhave ELD, ELA,\nand Math\ninterventions.\n50% of Middle\nschools have an\nELD intervention,\nhowever each only\nhave an ELA or\nMath intervention\nfor some students",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Elementary Sites",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have ELD, ELA,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "interventions.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "50% of Middle",
+                "numeric_values": [
+                  50.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "schools have an",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELD intervention,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "however each only",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have an ELA or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math intervention",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for some students",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of\nElementary Sites\nhave ELD, ELA,\nand Math\ninterventions\n100% of Middle\nSchool Sites have\nELD, ELA, and\nMath interventions",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Elementary Sites",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have ELD, ELA,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "interventions",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of Middle",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "School Sites have",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELD, ELA, and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math interventions",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.3",
+          "metric_name": "Implementation of state\nboard adopted academic\ncontent and performance\nstandards for all\nstudents:",
+          "baseline_raw": "2023-24\nAn average response\nrating of 3.5 on a scale\nfrom 1 to 5 on the CA\nSchool Dashboard\nImplementation of\nAcademic Standards\nSelf-Reflection Tool",
+          "year_1_outcome_raw": "2024-25\nAn average\nresponse rating of\n3.6 on a scale from\n1 to 5 on the CA\nSchool Dashboard\nImplementation of\nAcademic\nStandards Self-\nReflection Tool",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nAn average\nresponse rating of\n4 or higher on a\nscale of 1 to 5 on\nthe CA School\nDashboard\nImplementation of\nAcademic\nStandards Self-\nReflection Tool",
+          "current_difference_from_baseline_raw": "0.1",
+          "source_pages": [
+            21,
+            22
+          ],
+          "baseline": {
+            "raw": "2023-24\nAn average response\nrating of 3.5 on a scale\nfrom 1 to 5 on the CA\nSchool Dashboard\nImplementation of\nAcademic Standards\nSelf-Reflection Tool",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "An average response",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rating of 3.5 on a scale",
+                "numeric_values": [
+                  3.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "from 1 to 5 on the CA",
+                "numeric_values": [
+                  1.0,
+                  5.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "School Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Implementation of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Academic Standards",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Self-Reflection Tool",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nAn average\nresponse rating of\n3.6 on a scale from\n1 to 5 on the CA\nSchool Dashboard\nImplementation of\nAcademic",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "An average",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "response rating of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3.6 on a scale from",
+                "numeric_values": [
+                  3.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "1 to 5 on the CA",
+                "numeric_values": [
+                  1.0,
+                  5.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "School Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Implementation of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Academic",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nAn average\nresponse rating of\n4 or higher on a\nscale of 1 to 5 on\nthe CA School\nDashboard\nImplementation of",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "An average",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "response rating of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "4 or higher on a",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "scale of 1 to 5 on",
+                "numeric_values": [
+                  1.0,
+                  5.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "the CA School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Implementation of",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.4",
+          "metric_name": "Percentage of English\nlearner students who\nmake progress toward\nEnglish proficiency as\nmeasured by the English\nLanguage Proficiency\nAssessments for\nCalifornia",
+          "baseline_raw": "2022-23\nCA School Dashboard\nEnglish Learner\nProgress Indicator\n(ELPI): 44.1% of current\nEL students who\nprogressed at least one\nELPI level, 11.2%\nmaintained ELPI level 4",
+          "year_1_outcome_raw": "2023-24\nCA School\nDashboard English\nLearner Progress\nIndicator (ELPI):\n47.7% of current\nEL students\nprogressed at least\none ELPI level\n8.4% maintained\nELPI level 4",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nCA School\nDashboard English\nLearner Progress\nIndicator (ELPI):\n55% of current EL\nstudents who\nprogressed at least\none ELPI level,\n15% maintained\nELPI level 4",
+          "current_difference_from_baseline_raw": "Dashboard English\nLearner Progress\nIndicator (ELPI):\n3.6% of current EL\nstudents\nprogressed at least\none ELPI level\n-2.8% maintained\nELPI level 4",
+          "source_pages": [
+            22
+          ],
+          "baseline": {
+            "raw": "2022-23\nCA School Dashboard\nEnglish Learner\nProgress Indicator\n(ELPI): 44.1% of current\nEL students who\nprogressed at least one\nELPI level, 11.2%\nmaintained ELPI level 4",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "CA School Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learner",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Progress Indicator",
+                "numeric_values": []
+              },
+              {
+                "label": "(ELPI)",
+                "value": "44.1% of current",
+                "numeric_values": [
+                  44.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "EL students who",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "progressed at least one",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELPI level, 11.2%",
+                "numeric_values": [
+                  11.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "maintained ELPI level 4",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nCA School\nDashboard English\nLearner Progress\nIndicator (ELPI):\n47.7% of current\nEL students\nprogressed at least\none ELPI level\n8.4% maintained\nELPI level 4",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "CA School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learner Progress",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator (ELPI):",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "47.7% of current",
+                "numeric_values": [
+                  47.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "EL students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "progressed at least",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "one ELPI level",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8.4% maintained",
+                "numeric_values": [
+                  8.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "ELPI level 4",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nCA School\nDashboard English\nLearner Progress\nIndicator (ELPI):\n55% of current EL\nstudents who\nprogressed at least\none ELPI level,\n15% maintained\nELPI level 4",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "CA School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learner Progress",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator (ELPI):",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "55% of current EL",
+                "numeric_values": [
+                  55.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students who",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "progressed at least",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "one ELPI level,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "15% maintained",
+                "numeric_values": [
+                  15.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "ELPI level 4",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.5",
+          "metric_name": "English Learner\nreclassification rate",
+          "baseline_raw": "2022-23\n10.3 % of English\nLearner students\nreclassified to Fluent\nEnglish Proficient\nduring the school year",
+          "year_1_outcome_raw": "2023-24\n10.6% of English\nLearner students\nreclassified to\nFluent English\nProficient during\nthe school year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n18% of English\nLearner students\nreclassified to\nFluent English\nProficient during\nthe school year",
+          "current_difference_from_baseline_raw": "0.3%",
+          "source_pages": [
+            22
+          ],
+          "baseline": {
+            "raw": "2022-23\n10.3 % of English\nLearner students\nreclassified to Fluent\nEnglish Proficient\nduring the school year",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "10.3 % of English",
+                "numeric_values": [
+                  10.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "Learner students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified to Fluent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Proficient",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "during the school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n10.6% of English\nLearner students\nreclassified to\nFluent English\nProficient during\nthe school year",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "10.6% of English",
+                "numeric_values": [
+                  10.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "Learner students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Fluent English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Proficient during",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n18% of English\nLearner students\nreclassified to\nFluent English\nProficient during\nthe school year",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "18% of English",
+                "numeric_values": [
+                  18.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Learner students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Fluent English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Proficient during",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the school year",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.6",
+          "metric_name": "Student performance on\nstatewide standardized\nassessments",
+          "baseline_raw": "2022-23\n% of students\nperforming at or above\nstandard on the\nSmarter Balance ELA\nand Math assessments\nand the California\nScience Test (CAST)\nAll Students\nELA: 74%\nMath: 74%\nScience: 30%",
+          "year_1_outcome_raw": "2023-24\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nand the California\nScience Test\n(CAST)\nAll Students\nELA: 74%\nMath: 75%\nScience: 63%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nand the California\nScience Test\n(CAST)\nAll Students\nELA: 77%\nMath: 77%\nScience: 45%",
+          "current_difference_from_baseline_raw": "All Students\nELA: 0%\nMath:1%\nScience: 33%",
+          "source_pages": [
+            22,
+            23
+          ],
+          "baseline": {
+            "raw": "2022-23\n% of students\nperforming at or above\nstandard on the\nSmarter Balance ELA\nand Math assessments\nand the California\nScience Test (CAST)\nAll Students\nELA: 74%\nMath: 74%\nScience: 30%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balance ELA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and the California",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Science Test (CAST)",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "All Students",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": "Science",
+                "value": "30%",
+                "numeric_values": [
+                  30.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nand the California\nScience Test\n(CAST)\nAll Students\nELA: 74%\nMath: 75%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Balance ELA and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and the California",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Science Test",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(CAST)",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "All Students",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nand the California\nScience Test\n(CAST)\nAll Students\nELA: 77%\nMath: 77%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Balance ELA and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and the California",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Science Test",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(CAST)",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "All Students",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "77%",
+                "numeric_values": [
+                  77.0
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "77%",
+                "numeric_values": [
+                  77.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.7",
+          "metric_name": "Student group\nperformance on\nstatewide standardized\nassessments",
+          "baseline_raw": "2022-23\n% of students\nperforming at or above\nstandard on the\nSmarter Balance ELA\nand Math assessments\nELA:\nEL: 24%\nSED: 35%\nSWD: 30%\nHispanic:41%\nMath:\nEL: 32%\nSED: 32%\nSWD: 36%\nHispanic: 36%",
+          "year_1_outcome_raw": "2023-24\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA:\nEL: 24%\nSED: 55%\nSWD: 31%\nHispanic:43%\nMath:\nEL: 38%\nSED: 54%\nSWD: 32%\nHispanic: 38%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nSmarter Balance\nELA and Math\nassessments\nELA:\nEL: 33%\nSED: 44%\nSWD: 39%\nHispanic:51%\nMath:\nEL: 41%\nSED: 41%\nSWD: 45%\nHispanic: 46%",
+          "current_difference_from_baseline_raw": "ELA:\nEL: 0%\nSED: 20%\nSWD: 1%\nHispanic:2%\nMath:\nEL: -6%\nSED: 22%\nSWD: -4%\nHispanic: 2%",
+          "source_pages": [
+            23
+          ],
+          "baseline": {
+            "raw": "2022-23\n% of students\nperforming at or above\nstandard on the\nSmarter Balance ELA\nand Math assessments\nELA:\nEL: 24%\nSED: 35%\nSWD: 30%\nHispanic:41%\nMath:\nEL: 32%\nSED: 32%\nSWD: 36%\nHispanic: 36%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balance ELA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "24%",
+                "numeric_values": [
+                  24.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "35%",
+                "numeric_values": [
+                  35.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "30%",
+                "numeric_values": [
+                  30.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "41%",
+                "numeric_values": [
+                  41.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Math:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "32%",
+                "numeric_values": [
+                  32.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "32%",
+                "numeric_values": [
+                  32.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "36%",
+                "numeric_values": [
+                  36.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "36%",
+                "numeric_values": [
+                  36.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n% of students\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA:\nEL: 24%\nSED: 55%\nSWD: 31%\nHispanic:43%\nMath:\nEL: 38%\nSED: 54%\nSWD: 32%\nHispanic: 38%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Balance ELA and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "24%",
+                "numeric_values": [
+                  24.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "55%",
+                "numeric_values": [
+                  55.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "31%",
+                "numeric_values": [
+                  31.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "43%",
+                "numeric_values": [
+                  43.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Math:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "38%",
+                "numeric_values": [
+                  38.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "54%",
+                "numeric_values": [
+                  54.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "32%",
+                "numeric_values": [
+                  32.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "38%",
+                "numeric_values": [
+                  38.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nSmarter Balance\nELA and Math\nassessments\nELA:\nEL: 33%\nSED: 44%\nSWD: 39%\nHispanic:51%\nMath:\nEL: 41%\nSED: 41%\nSWD: 45%\nHispanic: 46%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Smarter Balance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA and Math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assessments",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "33%",
+                "numeric_values": [
+                  33.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "44%",
+                "numeric_values": [
+                  44.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "39%",
+                "numeric_values": [
+                  39.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "51%",
+                "numeric_values": [
+                  51.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Math:",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "41%",
+                "numeric_values": [
+                  41.0
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "41%",
+                "numeric_values": [
+                  41.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "45%",
+                "numeric_values": [
+                  45.0
+                ]
+              },
+              {
+                "label": "Hispanic",
+                "value": "46%",
+                "numeric_values": [
+                  46.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.8",
+          "metric_name": "K-2 Reading Mid Year\nReading Assessment",
+          "baseline_raw": "2023-24 Mid-Year\nLiterably percent\nmeeting or exceeding\nstandards:\nKindergarten: 89.36%\n1st Grade: 78.24%\n2nd Grade: 79.92%\nEL:\nK 82.76%\n1st 50.38%\n2nd 47.83%\nSED:\nK 37.50%\n1st 36.21%\n2nd 45.90%",
+          "year_1_outcome_raw": "2024-25 Mid-Year\nLiterably percent\nmeeting or\nexceeding\nstandards:\nKindergarten: 90%\n1st Grade: 83%\n2nd Grade: 86%\nEL:\nK 66%\n1st 74%\n2nd 60%\nSED:\nK 100%\n1st 62%\n2nd 57%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n% of students at\ngrade level or\nabove in reading in\ngrades K-2\nK: 90% or higher\n1st: 80% or higher\n2nd: 80% or higher\nEL:\nK 90% or higher\n1st 65% or higher\n2nd 60% or higher\nSED:\nK: 50% or higher\n1st: 50% or higher\n2nd: 55% or higher",
+          "current_difference_from_baseline_raw": "K: .64%\n1st: 4.76%\n2nd: 6.08%\nEL:\nK: -16.76%\n1st: 23.62%\n2nd: 12.17%\nSED:\nK: 62.50%\n1st: 25.79%\n2nd: 11.1%",
+          "source_pages": [
+            23,
+            24
+          ],
+          "baseline": {
+            "raw": "2023-24 Mid-Year\nLiterably percent\nmeeting or exceeding\nstandards:\nKindergarten: 89.36%\n1st Grade: 78.24%\n2nd Grade: 79.92%\nEL:\nK 82.76%\n1st 50.38%\n2nd 47.83%\nSED:",
+            "context_lines": [
+              "2023-24 Mid-Year"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Literably percent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "meeting or exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards:",
+                "numeric_values": []
+              },
+              {
+                "label": "Kindergarten",
+                "value": "89.36%",
+                "numeric_values": [
+                  89.36
+                ]
+              },
+              {
+                "label": "1st Grade",
+                "value": "78.24%",
+                "numeric_values": [
+                  78.24
+                ]
+              },
+              {
+                "label": "2nd Grade",
+                "value": "79.92%",
+                "numeric_values": [
+                  79.92
+                ]
+              },
+              {
+                "label": null,
+                "value": "EL:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "K 82.76%",
+                "numeric_values": [
+                  82.76
+                ]
+              },
+              {
+                "label": null,
+                "value": "1st 50.38%",
+                "numeric_values": [
+                  50.38
+                ]
+              },
+              {
+                "label": null,
+                "value": "2nd 47.83%",
+                "numeric_values": [
+                  47.83
+                ]
+              },
+              {
+                "label": null,
+                "value": "SED:",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25 Mid-Year\nLiterably percent\nmeeting or\nexceeding\nstandards:\nKindergarten: 90%\n1st Grade: 83%\n2nd Grade: 86%\nEL:\nK 66%\n1st 74%\n2nd 60%",
+            "context_lines": [
+              "2024-25 Mid-Year"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Literably percent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "meeting or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards:",
+                "numeric_values": []
+              },
+              {
+                "label": "Kindergarten",
+                "value": "90%",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": "1st Grade",
+                "value": "83%",
+                "numeric_values": [
+                  83.0
+                ]
+              },
+              {
+                "label": "2nd Grade",
+                "value": "86%",
+                "numeric_values": [
+                  86.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "EL:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "K 66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "1st 74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "2nd 60%",
+                "numeric_values": [
+                  60.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n% of students at\ngrade level or\nabove in reading in\ngrades K-2\nK: 90% or higher\n1st: 80% or higher\n2nd: 80% or higher\nEL:\nK 90% or higher\n1st 65% or higher\n2nd 60% or higher",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of students at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "grade level or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above in reading in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "grades K-2",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": "K",
+                "value": "90% or higher",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": "1st",
+                "value": "80% or higher",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": "2nd",
+                "value": "80% or higher",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "EL:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "K 90% or higher",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "1st 65% or higher",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "2nd 60% or higher",
+                "numeric_values": [
+                  60.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.9",
+          "metric_name": "Long Term English\nLearner Progress",
+          "baseline_raw": "2022-23\n% of Long Term English\nLearners performing at\nor above standard on\nthe Smarter Balance\nELA and Math\nassessments\nELA: 7.4%\nMath: 13.2%",
+          "year_1_outcome_raw": "2023-24\n% of Long Term\nEnglish Learners\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA: 9.1%\nMath: 11.4%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n% of Long Term\nEnglish Learners\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA: 15%\nMath: 20%",
+          "current_difference_from_baseline_raw": "ELA: 1.7%\nMath: -1.8%",
+          "source_pages": [
+            24
+          ],
+          "baseline": {
+            "raw": "2022-23\n% of Long Term English\nLearners performing at\nor above standard on\nthe Smarter Balance\nELA and Math\nassessments\nELA: 7.4%\nMath: 13.2%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of Long Term English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learners performing at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter Balance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA and Math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assessments",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "7.4%",
+                "numeric_values": [
+                  7.4
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "13.2%",
+                "numeric_values": [
+                  13.2
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n% of Long Term\nEnglish Learners\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA: 9.1%\nMath: 11.4%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of Long Term",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Balance ELA and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "9.1%",
+                "numeric_values": [
+                  9.1
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "11.4%",
+                "numeric_values": [
+                  11.4
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n% of Long Term\nEnglish Learners\nperforming at or\nabove standard on\nthe Smarter\nBalance ELA and\nMath assessments\nELA: 15%\nMath: 20%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "% of Long Term",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performing at or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "above standard on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the Smarter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Balance ELA and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Math assessments",
+                "numeric_values": []
+              },
+              {
+                "label": "ELA",
+                "value": "15%",
+                "numeric_values": [
+                  15.0
+                ]
+              },
+              {
+                "label": "Math",
+                "value": "20%",
+                "numeric_values": [
+                  20.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Elementary School\nInterventions",
+          "description": "Our elementary schools will be implementing site-based intervention\nprograms in English Language Arts, Mathematics, and English Language\nDevelopment, which are aligned with the Multi-Tiered Systems of Support\n(MTSS) process. To ensure that all students receive the necessary\nsupport, a Teacher on Special Assignment (ToSA) will monitor the\nprogress of the students and recommend interventions three times a year.\nWe firmly believe that our students who are Foster Youth, English\nLearners, Low Income, and Students with Disabilities will benefit greatly\nfrom these additional intervention programs. Our data shows that our\nEnglish Learners and Low Income students are not performing at the same\nlevel as other students. This action is to ensure they are getting the extra\nsupport needed for their academic growth.",
+          "total_funds_raw": "$667,039.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            27,
+            51
+          ],
+          "total_funds": 667039.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Middle School\nInterventions",
+          "description": "Implement school site-based intervention programs in English Language\nArts, Mathematics, and English Language Development (with a special\nfocus on Long Term English Learners) in our middle schools that align with\nthe Multi-Tiered Systems of Support (MTSS) process. With support from a\nTeacher on Special Assignment (ToSA), school staff will monitor the\nprogress and make recommendations for students needing interventions\nthree times a year. This action will target student groups who are\ndesignated as falling in the red indicator on the California State Dashboard:\nStudents with disabilities and English learners (English Language Arts) and\nHispanic and Low Income students (Math).",
+          "total_funds_raw": "$206,262.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            27,
+            51
+          ],
+          "total_funds": 206262.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.3",
+          "title": "Professional\nDevelopment",
+          "description": "Provide professional development for certificated and classified staff during\ndistrict professional development days and after school, targeting small\ngroup differentiated instruction with an emphasis on English Language\nArts, Mathematics, and the integration of English Language Development\nstrategies. This will increase the achievement of all students, with a focus\non unduplicated students and Students with Disabilities, as our data shows\nthat these subgroups are underperforming compared to everyone else.",
+          "total_funds_raw": "$10,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            27,
+            51
+          ],
+          "total_funds": 10000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.4",
+          "title": "English Learner and\nSpecial Education\nSupport",
+          "description": "Provide a Teacher on Special Assignment (ToSA) to coach instructional\nstaff on providing strategies that support English Learners, including Long\nTerm English Learners, while using data to improve instructional practice in\nall content areas. Provide a Teacher on Special Assignment (ToSA) to\ncoach instructional staff on providing strategies that support special\neducation students to ensure students are making progress towards their\nIEP goals. Our academic achievement data indicates a need to increase\nthe use of research-based strategies to increase the achievement of all\nstudents, including unduplicated students. We will be using LREBG funds\nto support this action.\nLREBG Funds: $317,017.00 for the 2025-26 school year.",
+          "total_funds_raw": "$351,267.00",
+          "contributing_raw": "No\nXFocus on English Learners\nand Long Term E nglish\nLearners",
+          "source_pages": [
+            28,
+            51
+          ],
+          "total_funds": 351267.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.5",
+          "title": "Differentiated Core\nInstruction (Tier 1)",
+          "description": "Using data to guide instructional practices, instructional staff will provide\ndifferentiated instruction in all content areas to increase learning\nopportunities for all students. We will continue our focus on supporting\nstudents who are below grade level in grades 4th through 8th in reading.\nThis will include supporting our English Learners, Long Term English\nLearners, and those who need more enrichment opportunities. By\nproviding professional development, coaching and modeling by Teachers\non Special Assignment (ToSA) and through the review of student data at\nstaff meetings, instructional staff will have a cadre of strategies to utilize.\nThis will support our English Learners, Foster Youth, Low Income, and\nStudents with Disabilities.",
+          "total_funds_raw": "$230,212.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            28,
+            51
+          ],
+          "total_funds": 230212.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.6",
+          "title": "Science, Technology,\nEngineering, Arts and\nMathematics",
+          "description": "Increase Science, Technology, Engineering, Arts, and Mathematics\n(STEAM) access and opportunities for all students utilizing district-provided\nSTEAM Kits and Makerspace resources. Additional STEAM kits will be\ncreated, and MakerSpace inventory will be maintained. In the middle\nschools, new Project Lead the Way (PLTW) units will be implemented.",
+          "total_funds_raw": "$30,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            28,
+            51
+          ],
+          "total_funds": 30000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.7",
+          "title": "Content Area\nCommittees",
+          "description": "Create various committees to support the integration of content area\ncurriculum, provide feedback on curriculum, receive updated training, and\nlead instructional staff by providing strategies at school sites.",
+          "total_funds_raw": "$58,336.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            29,
+            51
+          ],
+          "total_funds": 58336.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.8",
+          "title": "Digital Citizenship,\nSafety and Balance\nof Technology Use",
+          "description": "Digital citizenship and safety lessons will be taught throughout the year for\nstudents to learn how their digital footprint affects their lives. To provide a\nb alance between technology usage and other instructional methods,\ninstructional staff will continue to receive professional development to\nincrease the use of communication, collaboration, creativity and critical\nthinking when utilizing technology.",
+          "total_funds_raw": "$8,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            29
+          ],
+          "total_funds": 8000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.9",
+          "title": "Early Literacy and\nIntervention",
+          "description": "Provide tier 1 early interventions, early literacy curriculum (such as\nphonics), a reading difficulties screener in grades K-2 and early literacy\nprofessional development to accelerate the closing of achievement gaps\nfor our English Learners, low income, homeless and students with\ndisabilities.",
+          "total_funds_raw": "$29,739.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            29,
+            51
+          ],
+          "total_funds": 29739.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.8",
+          "title": "Digital Citizenship,\nSafety and Balance of\nTechnology Use",
+          "description": "",
+          "total_funds_raw": "$8,000.0\n0",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            51
+          ],
+          "total_funds": 8000.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "Educate the whole child by providing integrated social-emotional, behavioral and mental health\nsupport systems to ensure that all students develop self-regulation skills, social responsibility, and\nrespect for themselves and their school, community, and the world.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        30
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "Middle School Dropout\nRates",
+          "baseline_raw": "2022-23\nMiddle School Dropout\nrate 0%",
+          "year_1_outcome_raw": "2023-24\nMiddle School\nDropout rate 0%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nMiddle School\nDropout rate 0%",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            30
+          ],
+          "baseline": {
+            "raw": "2022-23\nMiddle School Dropout\nrate 0%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Middle School Dropout",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rate 0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\nMiddle School\nDropout rate 0%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Middle School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dropout rate 0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nMiddle School\nDropout rate 0%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Middle School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dropout rate 0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.2",
+          "metric_name": "Pupil Suspension Rate",
+          "baseline_raw": "2 022-23: Suspension\nRates\nAll Students: 0.6%\nSED: 1.7%\nEL:.6%\nAfrican American: 6%",
+          "year_1_outcome_raw": "2023-24:\nSuspension Rates\nAll Students: 0.9%\nSED: 1.3%\nEL: 1.1%\nAfrican American:\n1%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\nSuspension Rate\nAll students: 0.4%\nSED:.5%\nEL:.1%\nAfrican\nAmerican:1%",
+          "current_difference_from_baseline_raw": "All students: 0.3%\nSED: -0.4%\nEL: 0.5%\nAfrican American: -\n5%",
+          "source_pages": [
+            30,
+            31
+          ],
+          "baseline": {
+            "raw": "2 022-23: Suspension\nRates\nAll Students: 0.6%\nSED: 1.7%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2 022-23",
+                "value": "Suspension",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Rates",
+                "numeric_values": []
+              },
+              {
+                "label": "All Students",
+                "value": "0.6%",
+                "numeric_values": [
+                  0.6
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "1.7%",
+                "numeric_values": [
+                  1.7
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24:\nSuspension Rates\nAll Students: 0.9%\nSED: 1.3%",
+            "context_lines": [
+              "2023-24:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Suspension Rates",
+                "numeric_values": []
+              },
+              {
+                "label": "All Students",
+                "value": "0.9%",
+                "numeric_values": [
+                  0.9
+                ]
+              },
+              {
+                "label": "SED",
+                "value": "1.3%",
+                "numeric_values": [
+                  1.3
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\nSuspension Rate\nAll students: 0.4%\nSED:.5%",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Suspension Rate",
+                "numeric_values": []
+              },
+              {
+                "label": "All students",
+                "value": "0.4%",
+                "numeric_values": [
+                  0.4
+                ]
+              },
+              {
+                "label": "SED",
+                "value": ".5%",
+                "numeric_values": [
+                  5.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.3",
+          "metric_name": "Pupil Expulsion Rates",
+          "baseline_raw": "2 022-23\n0% of students expelled",
+          "year_1_outcome_raw": "2023-24\n0% of students\nexpelled",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2025-26\n0% of students\nExpelled",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            31
+          ],
+          "baseline": {
+            "raw": "2 022-23\n0% of students expelled",
+            "context_lines": [
+              "2 022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% of students expelled",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-24\n0% of students\nexpelled",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% of students",
+                "numeric_values": [
+                  0.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "expelled",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2025-26\n0% of students\nExpelled",
+            "context_lines": [
+              "2025-26"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% of students",
+                "numeric_values": [
+                  0.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Expelled",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.4",
+          "metric_name": "California Healthy Kids\nSurvey",
+          "baseline_raw": "2023-24\n5th\nSchool Connectedness\n74%\nFeels Safe at School\n81%\nCaring Adults in School\n66%\nFrequent Sadness 13%\n6th\nSchool Connectedness\n65%\nFeels Safe at School\n75%\nCaring Adult\nRelationships 71%\nSocial Emotional\nDistress 24%\n7th\nSchool Connectedness\n58%\nFeels Safe at School\n66%\nCaring Adult\nRelationships 63%\nSocial Emotional\nDistress 21%",
+          "year_1_outcome_raw": "2024-25\n5th\nSchool\nConnectedness\n83%\nFeels Safe at\nSchool 91%\nCaring Adults in\nSchool 74%\nFrequent Sadness\n8%\n6th\nSchool\nConnectedness\n68%\nFeels Safe at\nSchool 71%\nCaring Adult\nRelationships 63%\nSocial Emotional\nDistress 20%\n7th\nSchool\nConnectedness\n61%\nFeels Safe at\nSchool 67%\nCaring Adult\nRelationships 68%\nSocial Emotional\nDistress\n25%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n5th\nSchool\nConnectedness\n80% or above\nFeels Safe at\nSchool 80% or\nabove\nCaring Adults in\nSchool 80% or\nabove\nFrequent Sadness\n10% or less\n6th\nSchool\nConnectedness\n80% or above\nFeels Safe at\nSchool 80% or\nabove\nCaring Adult\nRelationships 80%\nor above\nSocial Emotional\nDistress 10% or\nless\n7th\nSchool\nConnectedness\n80% or above\nFeels Safe at\nSchool 80% or\nabove\nCaring Adult\nRelationships 80%\nor above\nSocial Emotional\nDistress 10% or\nless",
+          "current_difference_from_baseline_raw": "5th\nSchool\nConnectedness\n9%\nFeels Safe at\nSchool 10%\nCaring Adults in\nSchool 8%\nFrequent Sadness\n-5% or less\n6th\nSchool\nConnectedness\n3%\nFeels Safe at\nSchool -4%\nCaring Adult\nRelationships -8%\nSocial Emotional\nDistress -4%\n7th\nSchool\nConnectedness\n3%\nFeels Safe at\nSchool 1%\nCaring Adult\nRelationships 5%\nSocial Emotional\nDistress 4%",
+          "source_pages": [
+            31,
+            32
+          ],
+          "baseline": {
+            "raw": "2023-24\n5th\nSchool Connectedness\n74%\nFeels Safe at School\n81%\nCaring Adults in School\n66%\nFrequent Sadness 13%\n6th\nSchool Connectedness\n65%\nFeels Safe at School\n75%\nCaring Adult\nRelationships 71%\nSocial Emotional\nDistress 24%\n7th\nSchool Connectedness\n58%\nFeels Safe at School\n66%\nCaring Adult\nRelationships 63%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "5th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "81%",
+                "numeric_values": [
+                  81.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Caring Adults in School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Frequent Sadness 13%",
+                "numeric_values": [
+                  13.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "6th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "65%",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Caring Adult",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relationships 71%",
+                "numeric_values": [
+                  71.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Social Emotional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Distress 24%",
+                "numeric_values": [
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "7th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "58%",
+                "numeric_values": [
+                  58.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Caring Adult",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relationships 63%",
+                "numeric_values": [
+                  63.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n5th\nSchool\nConnectedness\n83%\nFeels Safe at\nSchool 91%\nCaring Adults in\nSchool 74%\nFrequent Sadness\n8%\n6th\nSchool\nConnectedness\n68%\nFeels Safe at\nSchool 71%\nCaring Adult\nRelationships 63%\nSocial Emotional\nDistress 20%\n7th\nSchool\nConnectedness\n61%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "5th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "83%",
+                "numeric_values": [
+                  83.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 91%",
+                "numeric_values": [
+                  91.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Caring Adults in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 74%",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Frequent Sadness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8%",
+                "numeric_values": [
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "6th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "68%",
+                "numeric_values": [
+                  68.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 71%",
+                "numeric_values": [
+                  71.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Caring Adult",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relationships 63%",
+                "numeric_values": [
+                  63.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Social Emotional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Distress 20%",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "7th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "61%",
+                "numeric_values": [
+                  61.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n5th\nSchool\nConnectedness\n80% or above\nFeels Safe at\nSchool 80% or\nabove\nCaring Adults in\nSchool 80% or\nabove\nFrequent Sadness\n10% or less\n6th\nSchool\nConnectedness\n80% or above\nFeels Safe at\nSchool 80% or\nabove\nCaring Adult\nRelationships 80%\nor above\nSocial Emotional\nDistress 10% or\nless\n7th",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "5th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "80% or above",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 80% or",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Caring Adults in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 80% or",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Frequent Sadness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "10% or less",
+                "numeric_values": [
+                  10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "6th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Connectedness",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "80% or above",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Feels Safe at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "School 80% or",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Caring Adult",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Relationships 80%",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "or above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Social Emotional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Distress 10% or",
+                "numeric_values": [
+                  10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "less",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "7th",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Social Emotional\nLearning",
+          "description": "Sites will continue to implement a Social Emotional Learning (SEL)\ncurriculum in all classrooms to increase the wellbeing of students.",
+          "total_funds_raw": "$6,999.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            34,
+            51
+          ],
+          "total_funds": 6999.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.2",
+          "title": "Mental Health and\nCounseling Support",
+          "description": "Schools will provide access to mental health and counseling support\ns e rvices. All sites will have a student self-referral process. Caseload\nnumbers and stakeholder data show that there is an increased need for\nthese services. By providing additional mental health support for students\nat the school level, we believe that our Foster Youth, English Learners, and\nLow-Income students will principally benefit from the additional access and\nthat we will see an overall decrease in student mental health referrals. In\norder to provide additional counselors and Mental Health Therapists, we\nwill be using LREBG funds to support this action.\nLREBG Funds: $556,172.00 for the 2025-26 school year.",
+          "total_funds_raw": "$2,342,010.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            34,
+            51
+          ],
+          "total_funds": 2342010.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.3",
+          "title": "Behavior Support",
+          "description": "Through the Multi tiered Systems of Support (MTSS) model, Positive\nBehavior Intervention and Supports (PBIS) has been identified as a tiered\napproach to support behavioral needs. PBIS provides consistency of\nlanguage and interventions across all schools. The district will provide\nresources and professional development to support PBIS implementation,\nincluding the use of a behavioral data tracking system. Our data shows\nthat our unduplicated students are being suspended at a higher rate, and\nby providing positive behavior support we will see a decrease in behaviors.\nThis action will also provide resources to address the our African American\nstudent group that is red on the California Dashboard.",
+          "total_funds_raw": "$331,208.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            34,
+            52
+          ],
+          "total_funds": 331208.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.4",
+          "title": "Professional\nDevelopment",
+          "description": "Provide professional development and ongoing coaching support for\nclassified and certificated staff on preventative behavioral support\ntechniques and de-escalation strategies during professional development\ndays and after school.",
+          "total_funds_raw": "$79,634.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            34,
+            52
+          ],
+          "total_funds": 79634.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.5",
+          "title": "Incorporating Student\nVoice",
+          "description": "To continue incorporating student voice, we will provide opportunities for\nfeedback through student senate, student councils, student suggestions\nboxes, student focus groups and various surveys such as: elective\nofferings, nutrition, middle school quick checks, and lunchtime and after\nschool enrichment offerings. We will also administer the California Healthy\nKids Survey annually.",
+          "total_funds_raw": "$3,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            35,
+            52
+          ],
+          "total_funds": 3000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.6",
+          "title": "Increase students\nsense of belonging\non campus and in\ntheir community",
+          "description": "Students will be given more opportunities to engage in activities that\nsupport their school and community, increasing their sense of belonging. In\nour middle schools, we will begin to explore peer mentoring and conflict\nresolution. We will also focus on ensuring our Students with disabilities\nhave continued opportunities for mainstreaming and taking part in school-\nwide activities. No cost is required to implement the action.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            35
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.6",
+          "title": "Increase students sense\nof belonging on campus\nand in their community",
+          "description": "",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            52
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "4",
+      "description": "Enhance parent engagement and improve communication among home, school and district\nstakeholders.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        36
+      ],
+      "metrics": [
+        {
+          "metric_number": "4.1",
+          "metric_name": "English Language\nLearner Parent\nParticipation Rates",
+          "baseline_raw": "2023-24\nDELAC attendance\naverage of 15 per\nmeeting",
+          "year_1_outcome_raw": "2024-25\nDELAC\nattendance\naverage of 20 per\nmeeting",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nDELAC\nattendance\naverage of 25 per\nmeeting",
+          "current_difference_from_baseline_raw": "5",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "2023-24\nDELAC attendance\naverage of 15 per\nmeeting",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "DELAC attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "average of 15 per",
+                "numeric_values": [
+                  15.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nDELAC\nattendance\naverage of 20 per\nmeeting",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "DELAC",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "average of 20 per",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nDELAC\nattendance\naverage of 25 per\nmeeting",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "DELAC",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "average of 25 per",
+                "numeric_values": [
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.2",
+          "metric_name": "Translation Service\nUsage",
+          "baseline_raw": "2023-24\n300 calls",
+          "year_1_outcome_raw": "2024-25\n376 calls",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n450 calls",
+          "current_difference_from_baseline_raw": "76",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "2023-24\n300 calls",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "300 calls",
+                "numeric_values": [
+                  300.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n376 calls",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "376 calls",
+                "numeric_values": [
+                  376.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n450 calls",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "450 calls",
+                "numeric_values": [
+                  450.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.3",
+          "metric_name": "Percent of parents of\nstudents with a disability\nthat indicated full\nparticipation in the IEP\nprocess",
+          "baseline_raw": "2023-24\n99.86%",
+          "year_1_outcome_raw": "2024-25\n99.91%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\n100% of parents\nindicate that they\nhave fully\nparticipated in the\nIEP Process",
+          "current_difference_from_baseline_raw": ".05%",
+          "source_pages": [
+            37
+          ],
+          "baseline": {
+            "raw": "2023-24\n99.86%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "99.86%",
+                "numeric_values": [
+                  99.86
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\n99.91%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "99.91%",
+                "numeric_values": [
+                  99.91
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\n100% of parents\nindicate that they\nhave fully\nparticipated in the\nIEP Process",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of parents",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "indicate that they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have fully",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "participated in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "IEP Process",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.4",
+          "metric_name": "Parent Survey",
+          "baseline_raw": "2023-24\nThe District engages\nParents 55%\nThe District is\ntransparent with parents\nabout decision making\n54%\nThe District effectively\ncommunicates with\nparents/guardians 72%",
+          "year_1_outcome_raw": "2024-25\nThe District\nengages Parents\n54%\nThe District is\ntransparent with\nparents about\ndecision making\n50%\nThe District\neffectively\ncommunicates with\nparents/guardians\n69%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nThe District\nengages Parents\n60%\nThe District is\ntransparent with\nparents about\ndecision making\n60%\nThe District\neffectively\ncommunicates with\nparents/guardians\n75%",
+          "current_difference_from_baseline_raw": "The District\nengages Parents\n1%\nThe District is\ntransparent with\nparents about\ndecision making -\n4%\nThe District\neffectively\ncommunicates with\nparents/guardians\n-3%",
+          "source_pages": [
+            37
+          ],
+          "baseline": {
+            "raw": "2023-24\nThe District engages\nParents 55%\nThe District is\ntransparent with parents\nabout decision making\n54%\nThe District effectively\ncommunicates with\nparents/guardians 72%",
+            "context_lines": [
+              "2023-24"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "The District engages",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Parents 55%",
+                "numeric_values": [
+                  55.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "transparent with parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "about decision making",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "54%",
+                "numeric_values": [
+                  54.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District effectively",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "communicates with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents/guardians 72%",
+                "numeric_values": [
+                  72.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nThe District\nengages Parents\n54%\nThe District is\ntransparent with\nparents about\ndecision making\n50%\nThe District\neffectively\ncommunicates with\nparents/guardians\n69%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "The District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "engages Parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "54%",
+                "numeric_values": [
+                  54.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "transparent with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents about",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "decision making",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "50%",
+                "numeric_values": [
+                  50.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "effectively",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "communicates with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents/guardians",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "69%",
+                "numeric_values": [
+                  69.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nThe District\nengages Parents\n60%\nThe District is\ntransparent with\nparents about\ndecision making\n60%\nThe District\neffectively\ncommunicates with\nparents/guardians\n75%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "The District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "engages Parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "60%",
+                "numeric_values": [
+                  60.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "transparent with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents about",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "decision making",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "60%",
+                "numeric_values": [
+                  60.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "The District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "effectively",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "communicates with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents/guardians",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "4.1",
+          "title": "Parent Education",
+          "description": "Engage parents/caregivers that speak languages other than English, as\nwell as our English Only community, through parent outreach programs,\nclasses, district/school committees, events and by providing volunteer\nopportunities. In the 2025-26 school year we will add parent education\nopportunities for students in transitional kindergarten and kindergarten.",
+          "total_funds_raw": "$12,927.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            39,
+            52
+          ],
+          "total_funds": 12927.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.2",
+          "title": "Communication",
+          "description": "Provide translation services to increase parent communication and the\ninvolvement of English Learner parents in school activities. To support our\nfamilies in connecting to our community we have a Language Ambassador\nprogram that allows families who speak the same language to build a\nconnection within the school community. Annually, we will collect family\nfeedback through our perception survey.",
+          "total_funds_raw": "$14,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            39,
+            52
+          ],
+          "total_funds": 14000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.3",
+          "title": "Community Liaison",
+          "description": "P rovide a bilingual community liaison to connect our multilingual learner\ncommunity, and those students struggling with academics, behavior, or\nattendance, with school and community-based resources. Our data shows\nthat our English Learners, Long Term English Learners, Low Income, and\nFoster Youth and Students with Disabilities have lower proficiency rates in\nacademics, higher behavior incidences, and higher rates of absenteeism.\nWith this action, we will target the identified groups through targeted\noutreach.",
+          "total_funds_raw": "$48,327.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            39,
+            52
+          ],
+          "total_funds": 48327.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.4",
+          "title": "District Wellness\nCoordinator",
+          "description": "To connect our families with community resources such as for food,\nclothing, housing and access to health care, our district wellness\ncoordinator will organize district-wide community wellness events and\nprovide a food and resource center. Our data shows that our English\nLearners, Low Income, Homeless, Foster Youth, and Students with\ndisabilities have lower proficiency rates in academics, higher behavior\nincidences, and higher rates of absenteeism. With this action, we will target\nthe identified groups through targeted outreach.",
+          "total_funds_raw": "$29,814.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            40,
+            52
+          ],
+          "total_funds": 29814.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "5",
+      "description": "Address the underlying systemic conditions leading to the significantly disproportionate identification\nof Hispanic students for special education assessment under Specific Learning Disability (SLD).",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        41
+      ],
+      "metrics": [
+        {
+          "metric_number": "5.1",
+          "metric_name": "Indicator 10:\nDisproportionate\nRepresentation by\nDisability",
+          "baseline_raw": "2022-23\nHispanic Students in\nthe area of SLD target\nrate is 4.97%",
+          "year_1_outcome_raw": "2024-25\nHispanic Students\nin the area of SLD\ntarget rate is\n5.07%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nHispanic Students\nin the area of SLD\ntarget rate is =<\n3%",
+          "current_difference_from_baseline_raw": "0.1%",
+          "source_pages": [
+            41
+          ],
+          "baseline": {
+            "raw": "2022-23\nHispanic Students in\nthe area of SLD target\nrate is 4.97%",
+            "context_lines": [
+              "2022-23"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Hispanic Students in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the area of SLD target",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rate is 4.97%",
+                "numeric_values": [
+                  4.97
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25\nHispanic Students\nin the area of SLD\ntarget rate is\n5.07%",
+            "context_lines": [
+              "2024-25"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Hispanic Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "in the area of SLD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "target rate is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "5.07%",
+                "numeric_values": [
+                  5.07
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nHispanic Students\nin the area of SLD\ntarget rate is =<\n3%",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Hispanic Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "in the area of SLD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "target rate is =<",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3%",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.2",
+          "metric_name": "CCEIS Quarterly\nProgress Reports",
+          "baseline_raw": "2023-24: Quarterly\nCCEIS Progress\nReports Completed and\nsubmitted.\n100% 4/4",
+          "year_1_outcome_raw": "2024-25: Quarterly\nCCEIS Progress\nReports\nCompleted and\nsubmitted.\n100% 4/4",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "2026-27\nQuarterly CCEIS\nProgress Reports\nCompleted and\nsubmitted.\n100% 4/4",
+          "current_difference_from_baseline_raw": "0%",
+          "source_pages": [
+            41
+          ],
+          "baseline": {
+            "raw": "2023-24: Quarterly\nCCEIS Progress\nReports Completed and\nsubmitted.\n100% 4/4",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2023-24",
+                "value": "Quarterly",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CCEIS Progress",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Reports Completed and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "submitted.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% 4/4",
+                "numeric_values": [
+                  100.0,
+                  4.0,
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-25: Quarterly\nCCEIS Progress\nReports\nCompleted and\nsubmitted.\n100% 4/4",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "2024-25",
+                "value": "Quarterly",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CCEIS Progress",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Reports",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Completed and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "submitted.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% 4/4",
+                "numeric_values": [
+                  100.0,
+                  4.0,
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "2026-27\nQuarterly CCEIS\nProgress Reports\nCompleted and\nsubmitted.\n100% 4/4",
+            "context_lines": [
+              "2026-27"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Quarterly CCEIS",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Progress Reports",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Completed and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "submitted.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% 4/4",
+                "numeric_values": [
+                  100.0,
+                  4.0,
+                  4.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.metric_3",
+          "metric_name": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "baseline_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "year_1_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+          "year_2_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2026-27. Leave\nblank until then.",
+          "year_3_target_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "current_difference_from_baseline_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26 and\n2026-27. Leave blank\nuntil then.",
+          "source_pages": [
+            74
+          ],
+          "baseline": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2024-25 or when",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "adding a new metric.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2025-26. Leave",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "blank until then.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+            "context_lines": [
+              "Enter information in"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "this box when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "completing the LCAP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for 2024-25 or when",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "adding a new metric.",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "5.1",
+          "title": "English Learner\nCommittee",
+          "description": "Add an additional 6 meetings to our District English Learner Committee to\nextend our work through the 2024-25 school year to support teachers in\ntheir implementation of the ELD standards into their classrooms, paying\nspecial attention to the needs of our Long Term English Learners.",
+          "total_funds_raw": "$26,023.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            43,
+            52
+          ],
+          "total_funds": 26023.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.2",
+          "title": "Partially fund a\nCCEIS/MTSS TOSA\nfor the 2024-25\nSchool Year",
+          "description": "Provide Teacher on Special Assignment (TOSA) support to effectively\nimplement the variety of activities described in our Comprehensive\nCoordinated Early Intervening Services (CCEIS) plan as well as assistance\nin monitoring the effectiveness of these activities. The CCEIS/MTSS\nTOSA will monitor progress of our Target Population students and will\nsupport their teachers as needed through coaching, modeling lessons, and\nassistance with targeted lesson planning.",
+          "total_funds_raw": "$88,357.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            43
+          ],
+          "total_funds": 88357.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.3",
+          "title": "Continued\nProfessional\nDevelopment and\nfollow up coaching to\nsupport current\nLCAP, CCEIS and\nDistrict Initiatives",
+          "description": "Continued professional development and follow up coaching support from\nEL and Literacy TOSAs in the areas of current LCAP, CCEIS and District\nInitiatives:\nInclusion (such as Social Thinking courses) Behavior and Self regulation\n(such as Zones of Regulation), EL strategies (such as GLAD and PD\noffered by the Santa Clara County Office of Education), Engagement, early\nliteracy skills, Cooperative Learning (such as Kagan Cooperative Learning)\nand Differentiation (such as Universal Design for Learning)",
+          "total_funds_raw": "$81,975.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            43
+          ],
+          "total_funds": 81975.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.2",
+          "title": "Partially fund a\nCCEIS/MTSS TOSA for\nthe 2024-25 School Year",
+          "description": "",
+          "total_funds_raw": "$88,357.\n00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            52
+          ],
+          "total_funds": 88357.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.3",
+          "title": "Continued Professional\nDevelopment and follow\nup coaching to support\ncurrent LCAP, CCEIS\nand District Initiatives",
+          "description": "",
+          "total_funds_raw": "$81,975.\n00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            52
+          ],
+          "total_funds": 81975.0,
+          "contributing": false
+        }
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 5,
+  "metric_count": 31,
+  "action_count": 39
+}

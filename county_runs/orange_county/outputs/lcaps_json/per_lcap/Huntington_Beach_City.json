@@ -1,0 +1,3711 @@
+{
+  "source_file": "Huntington Beach City.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/lcaps/Huntington Beach City.pdf",
+  "district_name": "Huntington Beach City School District",
+  "school_year": "2025-26",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "All students will demonstrate growth toward meeting standards in English Language Arts (ELA) and\nMath and English Learners (ELs) will demonstrate progress in developing English language\nproficiency.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        16
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "CAASPP ELA- District\n% Meet or Exceeds\nGrades 3-8\nSource: CAASPP-\nELPAC Public Reporting\nSite (caaspp-\nelpac.ets.org)",
+          "baseline_raw": "0.5% growth from\nbaseline",
+          "year_1_outcome_raw": "2023-2024\nAll- 70.14%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "All- 79%",
+          "current_difference_from_baseline_raw": "0.5% growth from\nbaseline",
+          "source_pages": [
+            16,
+            17
+          ],
+          "baseline": {
+            "raw": "0.5% growth from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0.5% growth from",
+                "numeric_values": [
+                  0.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll- 70.14%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 70.14%",
+                "numeric_values": [
+                  70.14
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "All- 79%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 79%",
+                "numeric_values": [
+                  79.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.2",
+          "metric_name": "CAASPP Math- District\n& School\n% Meet or Exceeds\nGrades 3-8\nSource: CAASPP-\nELPAC Public Reporting\nSite (caaspp-\nelpac.ets.org)",
+          "baseline_raw": "All- 3.48% growth\nfrom baseline\nDwyer- 7.02%\ngrowth from\nbaseline",
+          "year_1_outcome_raw": "2023-2024\nAll- 64.83%\nDwyer- SWD:\n21.59%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "All- 71%\nDwyer\nSWD: 24.57%",
+          "current_difference_from_baseline_raw": "All- 3.48% growth\nfrom baseline\nDwyer- 7.02%\ngrowth from\nbaseline",
+          "source_pages": [
+            17
+          ],
+          "baseline": {
+            "raw": "All- 3.48% growth\nfrom baseline\nDwyer- 7.02%\ngrowth from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 3.48% growth",
+                "numeric_values": [
+                  3.48
+                ]
+              },
+              {
+                "label": null,
+                "value": "from baseline",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dwyer- 7.02%",
+                "numeric_values": [
+                  7.02
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth from",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll- 64.83%\nDwyer- SWD:\n21.59%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 64.83%",
+                "numeric_values": [
+                  64.83
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dwyer- SWD:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "21.59%",
+                "numeric_values": [
+                  21.59
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "All- 71%\nDwyer\nSWD: 24.57%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 71%",
+                "numeric_values": [
+                  71.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dwyer",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "24.57%",
+                "numeric_values": [
+                  24.57
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.3",
+          "metric_name": "Percentage of English\nlearner students who\nmake progress toward\nEnglish proficiency-\nDistrict\nSource: 2024 CA\nDashboard",
+          "baseline_raw": "All- a decrease of\n11.4% from\nbaseline",
+          "year_1_outcome_raw": "2023-2024\nAll- 39.5% making\nprogress",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "District: 60%\nmaking progress",
+          "current_difference_from_baseline_raw": "All- a decrease of\n11.4% from\nbaseline",
+          "source_pages": [
+            17
+          ],
+          "baseline": {
+            "raw": "All- a decrease of\n11.4% from\nbaseline",
+            "context_lines": [
+              "All- a decrease of"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "11.4% from",
+                "numeric_values": [
+                  11.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll- 39.5% making\nprogress",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "All- 39.5% making",
+                "numeric_values": [
+                  39.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "progress",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "District: 60%\nmaking progress",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "District",
+                "value": "60%",
+                "numeric_values": [
+                  60.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "making progress",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "Reduce Class Size",
+          "description": "H BCSD will reduce class size to an average of 26:1 for elementary grades\nand 29:1 for middle school, with the exception of PE and performing arts\ncourses. This action will allow teachers to address students needed by\nproviding Tier 1 classroom interventions and supports. This specifically\nbenefits homeless, foster youth, English Learners, and socio-economically\nidentified students by providing more opportunities for small group\ninstruction and additional learning time. This action includes core teachers,\nbut excludes special education, Title I, and elementary music teachers.",
+          "total_funds_raw": "$925,578.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            19
+          ],
+          "total_funds": 925578.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.2",
+          "title": "Literacy Coaches",
+          "description": "Literacy Coaches will provided job-embedded, ongoing professional\ndevelopment, coaching, co-planning and support for teachers, staff, and\nparents focused on the New Art and Science of Teaching and HBCSD's\nLiteracy Framework, which includes concepts of print, phonics instruction,\nphonemic awareness/phonological awareness, vocabulary development,\nreading comprehension, fluency, and writing. This action is to increase\nliteracy skills, principally directed to low income, foster youth, and English\nlearners as measured by 1.1, 1.2, 1.3, 4.1, 4.2",
+          "total_funds_raw": "$321,218.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            19
+          ],
+          "total_funds": 321218.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.3",
+          "title": "Professional\nDevelopment",
+          "description": "HBCSD will provide ongoing professional development by providing\nsubstitutes, stipends, consultants for certificated and classified staff in the\nareas of targeted interventions, math instruction, and differentiation. This\naction is to increase literacy and math skills, principally directed to low\nincome, foster youth, and English learners as measured by 1.1, 1.2, 1.3,\n4.1, 4.2",
+          "total_funds_raw": "$267,421.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            19
+          ],
+          "total_funds": 267421.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.4",
+          "title": "Professional\nLearning\nCommunities (PLC)",
+          "description": "Provide time for professional learning communities (PLC) to analyze data,\nidentify students who need additional support, develop targeted\nin terventions, and evaluate effectiveness of interventions. This action is to\nincrease literacy and math skills, principally directed to low income, foster\nyouth, and English learners as measured by 1.1, 1.2, 1.3, 4.1, 4.2",
+          "total_funds_raw": "$1,106,227.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            20
+          ],
+          "total_funds": 1106227.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.5",
+          "title": "Supplemental\nTechnology Software\nPrograms",
+          "description": "HBCSD will provide supplemental technology software to support literacy\nand math skills. This action will provide access to software to assess\nstudents and develop skills in communication, collaboration, creativity, and\ncritical thinking.",
+          "total_funds_raw": "$306,765.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            20
+          ],
+          "total_funds": 306765.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.6",
+          "title": "Core Teachers",
+          "description": "Provide highly qualified core/general education teachers as part of the\nbase education program for all students.",
+          "total_funds_raw": "$26,527,849.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            20
+          ],
+          "total_funds": 26527849.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "HBCSD will expand opportunities to engage and educate parents, families and community in their\nschools and district to ensure that they have opportunities to participate in school and district\ndecision-making.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        21
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "LCAP Survey- Parent\nInvolvement & Decision\nMaking\n% of parents who\nStrongly Agree/Agree\nthat they are involved in\ntheir child's education\nand decision making\nsource: 2025 LCAP\nSurvey",
+          "baseline_raw": "decrease of 3%\nfrom baseline",
+          "year_1_outcome_raw": "Winter 2025:\n61%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "75%",
+          "current_difference_from_baseline_raw": "decrease of 3%\nfrom baseline",
+          "source_pages": [
+            21,
+            22
+          ],
+          "baseline": {
+            "raw": "decrease of 3%\nfrom baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "decrease of 3%",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "from baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Winter 2025:\n61%",
+            "context_lines": [
+              "Winter 2025:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "61%",
+                "numeric_values": [
+                  61.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "75%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "75%",
+                "numeric_values": [
+                  75.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.2",
+          "metric_name": "CHKS Parent Survey-\nPromotion of parental\ninvolvement & decision\nmaking\n% of parents feel the\ndistrict and school\npromotes parental\ninvolvement & decision\nmaking\nsource: CHKS Parent\nSurvey",
+          "baseline_raw": "decrease of 6% for\nelementary\nparents\nincrease of 8% for\nmiddle school\nparents",
+          "year_1_outcome_raw": "Spring 2025:\n56% of elementary\nparents\n33% of middle\nschool parents",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "72% of elementary\nparents\n35% of middle\nschool parents",
+          "current_difference_from_baseline_raw": "decrease of 6% for\nelementary\nparents\nincrease of 8% for\nmiddle school\nparents",
+          "source_pages": [
+            22
+          ],
+          "baseline": {
+            "raw": "decrease of 6% for\nelementary\nparents\nincrease of 8% for\nmiddle school\nparents",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "decrease of 6% for",
+                "numeric_values": [
+                  6.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "elementary",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "increase of 8% for",
+                "numeric_values": [
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "middle school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parents",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Spring 2025:\n56% of elementary\nparents\n33% of middle\nschool parents",
+            "context_lines": [
+              "Spring 2025:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "56% of elementary",
+                "numeric_values": [
+                  56.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "33% of middle",
+                "numeric_values": [
+                  33.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school parents",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "72% of elementary\nparents\n35% of middle\nschool parents",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "72% of elementary",
+                "numeric_values": [
+                  72.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "parents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "35% of middle",
+                "numeric_values": [
+                  35.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school parents",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.3",
+          "metric_name": "Suspension Rate-\nDistrict\nsource: 2024 CA\nDashboard",
+          "baseline_raw": "decrease in All\nsuspension rate by\n.4%\nSowers - met goal\nwith a decrease of\n9.8%\nAdded LTEL and\nDwyer",
+          "year_1_outcome_raw": "2023-2024\nAll: 1.4%\nFOS: 7.4%\nLTEL: 9.7%\nSowers- SWD:\n3.8%\nDywer- SWD\n12.7%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "ALL: .8%\nFOS: 4%\nLTEL: 4.7%\nSowers- SWD: 8%\nDwyer- SWD 7.7%",
+          "current_difference_from_baseline_raw": "decrease in All\nsuspension rate by\n.4%\nSowers - met goal\nwith a decrease of\n9.8%\nAdded LTEL and\nDwyer",
+          "source_pages": [
+            22
+          ],
+          "baseline": {
+            "raw": "decrease in All\nsuspension rate by\n.4%\nSowers - met goal\nwith a decrease of\n9.8%\nAdded LTEL and\nDwyer",
+            "context_lines": [
+              "decrease in All"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "suspension rate by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": ".4%",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": "Sowers",
+                "value": "met goal",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with a decrease of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9.8%",
+                "numeric_values": [
+                  9.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Added LTEL and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dwyer",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll: 1.4%\nFOS: 7.4%\nLTEL: 9.7%\nSowers- SWD:\n3.8%\nDywer- SWD\n12.7%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "1.4%",
+                "numeric_values": [
+                  1.4
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "7.4%",
+                "numeric_values": [
+                  7.4
+                ]
+              },
+              {
+                "label": "LTEL",
+                "value": "9.7%",
+                "numeric_values": [
+                  9.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "Sowers- SWD:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3.8%",
+                "numeric_values": [
+                  3.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dywer- SWD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "12.7%",
+                "numeric_values": [
+                  12.7
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "ALL: .8%\nFOS: 4%\nLTEL: 4.7%\nSowers- SWD: 8%\nDwyer- SWD 7.7%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": ".8%",
+                "numeric_values": [
+                  8.0
+                ]
+              },
+              {
+                "label": "FOS",
+                "value": "4%",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": "LTEL",
+                "value": "4.7%",
+                "numeric_values": [
+                  4.7
+                ]
+              },
+              {
+                "label": "Sowers- SWD",
+                "value": "8%",
+                "numeric_values": [
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dwyer- SWD 7.7%",
+                "numeric_values": [
+                  7.7
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.4",
+          "metric_name": "Expulsion Rate- District\n& School\nsource: CDE DataQuest",
+          "baseline_raw": "continue to meet\ngoal at 0%",
+          "year_1_outcome_raw": "2023-2024\nAll: 0%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "ALL: 0%",
+          "current_difference_from_baseline_raw": "continue to meet\ngoal at 0%",
+          "source_pages": [
+            22
+          ],
+          "baseline": {
+            "raw": "continue to meet\ngoal at 0%",
+            "context_lines": [
+              "continue to meet"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "goal at 0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll: 0%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "ALL: 0%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "0%",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.5",
+          "metric_name": "Canvas Parent Observer\nRates (Middle School)\nsource: Canvas\nAnalytics",
+          "baseline_raw": "0",
+          "year_1_outcome_raw": "2024-2025\n74% of middle\nschool parents are\nobservers",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of middle\nschool parents are\nobservers",
+          "current_difference_from_baseline_raw": "0",
+          "source_pages": [
+            22,
+            23
+          ],
+          "baseline": {
+            "raw": "0",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "2024-2025",
+                "numeric_values": [
+                  2024.0,
+                  2025.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of middle\nschool parents are\nobservers",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of middle",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school parents are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "observers",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Communication\nTools",
+          "description": "Continue to provide access to communication and engagement tools such\nas ZOOM, SeeSaw, Canvas, ThoughtExchange, and ParentSquare to\nkeep parents informed and to engage parents.",
+          "total_funds_raw": "$93,235.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            24
+          ],
+          "total_funds": 93235.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.2",
+          "title": "Community Liaisons",
+          "description": "H B CSD will provide community liaisons to increase outreach, resources\nand engagement to families whose students are disengaged, chronically\nabsent, students with disabilities, and speak a language other than English\nin the home. This will contribute to increasing student outcomes by\nincreasing parental involvement with school via workshops,\ncommunication, translation at meetings, and providing access to school,\ndistrict and community resources.",
+          "total_funds_raw": "$91,385.00",
+          "contributing_raw": "No\nXX",
+          "source_pages": [
+            24
+          ],
+          "total_funds": 91385.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.3",
+          "title": "Parent Engagement\nAcitivites",
+          "description": "HBCSD will implement parent engagement activities and parent education\nwhich provides accessibility for parents to participate, i.e. childcare during\nmeetings, convenient time for parent meetings, informal meetings. This will\nhelp to contribute to learning of English learners, foster youth, and at-\nrisk/low income students by increasing parent knowledge and involvement\nin their child's education. This action contributes to increased\ncommunication about academic and behavior expectations that will\naddress learning outcomes, school climate, suspensions, and expulsions.",
+          "total_funds_raw": "$7,991.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 7991.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.4",
+          "title": "Parent Education-\nMS, EL, Preschool-\nDISCONTINUED\n2025-2026",
+          "description": "Parent education programs specifically targeting middle school families,\nEnglish learner families, low income, and preschool families. This action\ncontributes to increased communication about academic and behavior\nexpectations that will address learning outcomes, school climate,\nsuspensions, and expulsions.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 0.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.5",
+          "title": "Literacy Resources\nfor Home-\nDISCONTINUED\n2025-2026",
+          "description": "Provide literacy activities and resources for home. This action is focused\non increasing literacy skills, principally directed to low income, foster youth,\nand English learners. This action contributes to increased communication\nabout academic and behvior expectations that will address learning\noutcomes, school climate, suspensions, and expulstions.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 0.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "HBCSD will improve overall perceptions of school climate and increase feelings of safety and\nbelonging among students, staff, and parents/guardians.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        26
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "Chronic Absenteeism\nRate- District\nsource: 2024 CA\nDashboard",
+          "baseline_raw": "All: decrease of\n3.7%\nHOM: decrease of\n28.1%- MET\nFY: new baseline",
+          "year_1_outcome_raw": "2023-2024\nAll: 9.8%\nHom: 26.7%\nFY: 34.6%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "ALL: 3.5%\nHOM: 44%",
+          "current_difference_from_baseline_raw": "All: decrease of\n3.7%\nHOM: decrease of\n28.1%- MET\nFY: new baseline",
+          "source_pages": [
+            26
+          ],
+          "baseline": {
+            "raw": "All: decrease of\n3.7%\nHOM: decrease of\n28.1%- MET\nFY: new baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "All",
+                "value": "decrease of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3.7%",
+                "numeric_values": [
+                  3.7
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "decrease of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "28.1%- MET",
+                "numeric_values": [
+                  28.1
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "new baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll: 9.8%\nHom: 26.7%\nFY: 34.6%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "9.8%",
+                "numeric_values": [
+                  9.8
+                ]
+              },
+              {
+                "label": "Hom",
+                "value": "26.7%",
+                "numeric_values": [
+                  26.7
+                ]
+              },
+              {
+                "label": "FY",
+                "value": "34.6%",
+                "numeric_values": [
+                  34.6
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "ALL: 3.5%\nHOM: 44%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "3.5%",
+                "numeric_values": [
+                  3.5
+                ]
+              },
+              {
+                "label": "HOM",
+                "value": "44%",
+                "numeric_values": [
+                  44.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.2",
+          "metric_name": "Chronic Absenteeism\nRate- School & Student\nGroups\nsource: 2024 CA\nDashboard",
+          "baseline_raw": "Seacliff: met Year\n3 goals\nEL: decrease\n11.9%\nHisp: decrease\n9.8%\nSWD: decrease\n12.9%\nWH: decrease\n6.6%\nSowers MS: met\nYear 3 goals\nSWD: 10.8%\nPeterson: met\nYear 3 goal\nSWD: decrease\n18.4%\nHawes: met Year 3\ngoal\nHisp: decrease\n11.6%\nDwyer- New\n(2025-206)",
+          "year_1_outcome_raw": "2023-2024\nSeacliff-\nEL: 16.2%\nHisp: 10.9%\nSWD: 15.9%\nWhite: 9.5%\nSowers MS-\nSWD: 18.6%\nPeterson-\nSWD: 7.5%\nHawes-\nHisp: 10.4%\nDwyer (2024-\n2025):\nSWD: 32.7%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Seacliff-\nEL: 18.1%\nHI: 10.7%\nSWD: 18.8%\nWH: 6.1%\nSowers MS-\nSWD: 19.4%\nPeterson-\nSWD: 15.9%\nHawes-\nHI: 12%\nDwyer-\nSWD: 22.7%",
+          "current_difference_from_baseline_raw": "Seacliff: met Year\n3 goals\nEL: decrease\n11.9%\nHisp: decrease\n9.8%\nSWD: decrease\n12.9%\nWH: decrease\n6.6%\nSowers MS: met\nYear 3 goals\nSWD: 10.8%\nPeterson: met\nYear 3 goal\nSWD: decrease\n18.4%\nHawes: met Year 3\ngoal\nHisp: decrease\n11.6%\nDwyer- New\n(2025-206)",
+          "source_pages": [
+            26,
+            27
+          ],
+          "baseline": {
+            "raw": "Seacliff: met Year\n3 goals\nEL: decrease\n11.9%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "Seacliff",
+                "value": "met Year",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3 goals",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": "EL",
+                "value": "decrease",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "11.9%",
+                "numeric_values": [
+                  11.9
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nSeacliff-\nEL: 16.2%",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Seacliff-",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "16.2%",
+                "numeric_values": [
+                  16.2
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Seacliff-\nEL: 18.1%\nHI: 10.7%\nSWD: 18.8%",
+            "context_lines": [
+              "Seacliff-"
+            ],
+            "entries": [
+              {
+                "label": "EL",
+                "value": "18.1%",
+                "numeric_values": [
+                  18.1
+                ]
+              },
+              {
+                "label": "HI",
+                "value": "10.7%",
+                "numeric_values": [
+                  10.7
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "18.8%",
+                "numeric_values": [
+                  18.8
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.3",
+          "metric_name": "Middle School Dropout\nRate- District & School\nsource: CalPads Fall 1 -\nReport 8.1c",
+          "baseline_raw": "No difference at 0\nstudents",
+          "year_1_outcome_raw": "2023-2024\n0 dropouts",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "District: 0 dropouts",
+          "current_difference_from_baseline_raw": "No difference at 0\nstudents",
+          "source_pages": [
+            27
+          ],
+          "baseline": {
+            "raw": "No difference at 0\nstudents",
+            "context_lines": [
+              "No difference at 0"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "students",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\n0 dropouts",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "0 dropouts",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "District: 0 dropouts",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "District",
+                "value": "0 dropouts",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.4",
+          "metric_name": "CHKS - Safety\n% feel school is safe for\nstudents\nsource: 2023-2024 CA\nHealthy Kids Survey\n(parents/staff/students)",
+          "baseline_raw": "Elementary:\nParents: increase\nof 2%\nStudents: increase\nof 1%\nStaff: increase of\n12%\nMiddle School:\nParents: increase\n2%\nStudents:\ndecrease 2%\nStaff: decrease 9%",
+          "year_1_outcome_raw": "2024-2025\nElementary:\nParents: 61%\nStudents: 90%\nStaff: 69%\nMiddle School:\nParents: 28%\nStudents: 60%\nStaff: 24%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Elementary:\nParents: 69%\nStudents: 99%\nStaff: 67%\nMiddle School:\nParents: 36%\nStudents: 72%\nStaff: 43%",
+          "current_difference_from_baseline_raw": "Elementary:\nParents: increase\nof 2%\nStudents: increase\nof 1%\nStaff: increase of\n12%\nMiddle School:\nParents: increase\n2%\nStudents:\ndecrease 2%\nStaff: decrease 9%",
+          "source_pages": [
+            27,
+            28
+          ],
+          "baseline": {
+            "raw": "Elementary:\nParents: increase\nof 2%\nStudents: increase\nof 1%",
+            "context_lines": [
+              "Elementary:"
+            ],
+            "entries": [
+              {
+                "label": "Parents",
+                "value": "increase",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "of 2%",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "increase",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "of 1%",
+                "numeric_values": [
+                  1.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\nElementary:\nParents: 61%\nStudents: 90%\nStaff: 69%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Elementary:",
+                "numeric_values": []
+              },
+              {
+                "label": "Parents",
+                "value": "61%",
+                "numeric_values": [
+                  61.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "90%",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "69%",
+                "numeric_values": [
+                  69.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Elementary:\nParents: 69%\nStudents: 99%\nStaff: 67%\nMiddle School:",
+            "context_lines": [
+              "Elementary:"
+            ],
+            "entries": [
+              {
+                "label": "Parents",
+                "value": "69%",
+                "numeric_values": [
+                  69.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "99%",
+                "numeric_values": [
+                  99.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "67%",
+                "numeric_values": [
+                  67.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.5",
+          "metric_name": "CHKS- School\nConnectedness\n% of students feel\nconnected to school\nsource: 2023-2024 CA\nHealthy Kids Survey\n(students)",
+          "baseline_raw": "Elementary:\nincrease 4%\nMiddle School:\nincrease 1%",
+          "year_1_outcome_raw": "2024-2025\nElementary: 84%\nMiddle School:\n59%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Elementary: 90%\nMiddle School:\n68%",
+          "current_difference_from_baseline_raw": "Elementary:\nincrease 4%\nMiddle School:\nincrease 1%",
+          "source_pages": [
+            28
+          ],
+          "baseline": {
+            "raw": "Elementary:\nincrease 4%\nMiddle School:\nincrease 1%",
+            "context_lines": [
+              "Elementary:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "increase 4%",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "increase 1%",
+                "numeric_values": [
+                  1.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\nElementary: 84%\nMiddle School:\n59%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": "Elementary",
+                "value": "84%",
+                "numeric_values": [
+                  84.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "59%",
+                "numeric_values": [
+                  59.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Elementary: 90%\nMiddle School:\n68%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "Elementary",
+                "value": "90%",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "68%",
+                "numeric_values": [
+                  68.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.6",
+          "metric_name": "CHKS- Caring Adult\n% feel there are caring\nadults at school\nsource: 2023-2024 CA\nHealthy Kids Survey\n(parents/staff/students)",
+          "baseline_raw": "Elementary:\nParents: decrease\n9%\nStudents: increase\n5%\nStaff: increase 9%\nMiddle School:\nParents: increase\n11%\nStudents: increase\n3%\nStaff: decrease\n22%",
+          "year_1_outcome_raw": "2024-2025\nElementary:\nParents: 59%\nStudents: 78%\nStaff: 66%\nMiddle School:\nParents: 36%\nStudents: 61%\nStaff: 24%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Elementary:\nParents: 77%\nStudents: 83%\nStaff: 67%\nMiddle School:\nParents: 35%\nStudents: 68%\nStaff: 56%",
+          "current_difference_from_baseline_raw": "Elementary:\nParents: decrease\n9%\nStudents: increase\n5%\nStaff: increase 9%\nMiddle School:\nParents: increase\n11%\nStudents: increase\n3%\nStaff: decrease\n22%",
+          "source_pages": [
+            28
+          ],
+          "baseline": {
+            "raw": "Elementary:\nParents: decrease\n9%\nStudents: increase\n5%\nStaff: increase 9%\nMiddle School:\nParents: increase\n11%\nStudents: increase\n3%\nStaff: decrease\n22%",
+            "context_lines": [
+              "Elementary:"
+            ],
+            "entries": [
+              {
+                "label": "Parents",
+                "value": "decrease",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9%",
+                "numeric_values": [
+                  9.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "increase",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "5%",
+                "numeric_values": [
+                  5.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "increase 9%",
+                "numeric_values": [
+                  9.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": "Parents",
+                "value": "increase",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "11%",
+                "numeric_values": [
+                  11.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "increase",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3%",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "decrease",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "22%",
+                "numeric_values": [
+                  22.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\nElementary:\nParents: 59%\nStudents: 78%\nStaff: 66%\nMiddle School:\nParents: 36%\nStudents: 61%\nStaff: 24%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Elementary:",
+                "numeric_values": []
+              },
+              {
+                "label": "Parents",
+                "value": "59%",
+                "numeric_values": [
+                  59.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "78%",
+                "numeric_values": [
+                  78.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "66%",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": "Parents",
+                "value": "36%",
+                "numeric_values": [
+                  36.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "61%",
+                "numeric_values": [
+                  61.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "24%",
+                "numeric_values": [
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Elementary:\nParents: 77%\nStudents: 83%\nStaff: 67%\nMiddle School:\nParents: 35%\nStudents: 68%\nStaff: 56%",
+            "context_lines": [
+              "Elementary:"
+            ],
+            "entries": [
+              {
+                "label": "Parents",
+                "value": "77%",
+                "numeric_values": [
+                  77.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "83%",
+                "numeric_values": [
+                  83.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "67%",
+                "numeric_values": [
+                  67.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Middle School:",
+                "numeric_values": []
+              },
+              {
+                "label": "Parents",
+                "value": "35%",
+                "numeric_values": [
+                  35.0
+                ]
+              },
+              {
+                "label": "Students",
+                "value": "68%",
+                "numeric_values": [
+                  68.0
+                ]
+              },
+              {
+                "label": "Staff",
+                "value": "56%",
+                "numeric_values": [
+                  56.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.7",
+          "metric_name": "School Attendance Rate\nsource: P-2 Monthly\nAttendance Summary\nAnalysis (Regular\nProgram)",
+          "baseline_raw": "Increase of 0.74%\nin ADA",
+          "year_1_outcome_raw": "2024-2025\nALL: 95.57%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "97%",
+          "current_difference_from_baseline_raw": "Increase of 0.74%\nin ADA",
+          "source_pages": [
+            28,
+            29
+          ],
+          "baseline": {
+            "raw": "Increase of 0.74%\nin ADA",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Increase of 0.74%",
+                "numeric_values": [
+                  0.74
+                ]
+              },
+              {
+                "label": null,
+                "value": "in ADA",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\nALL: 95.57%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "95.57%",
+                "numeric_values": [
+                  95.57
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "97%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "97%",
+                "numeric_values": [
+                  97.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.8",
+          "metric_name": "Discipline Data- bullying\nsource: CalPads EOY\n7.13 Report\nand Aeries Discipline\nAnalytics",
+          "baseline_raw": "0",
+          "year_1_outcome_raw": "2024-2025\n3 incidents of\nbullyng\nAeries Discpline:\nAggressive Beh:\n22\nName\nCalling/Teasing:\n47\nSpreading\nRumors: 4\nInappropriate Beh:\n289\nThreatening: 5",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "0 incidents of\nbullying\nAeries Discpline:\nAggressive Beh:\n12\nName\nCalling/Teasing:\n37\nSpreading\nRumors: 0\nInappropriate Beh:\n150\nThreatening: 0",
+          "current_difference_from_baseline_raw": "0",
+          "source_pages": [
+            29
+          ],
+          "baseline": {
+            "raw": "0",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n3 incidents of\nbullyng\nAeries Discpline:\nAggressive Beh:\n22\nName\nCalling/Teasing:\n47\nSpreading\nRumors: 4\nInappropriate Beh:\n289\nThreatening: 5",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "3 incidents of",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "bullyng",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Aeries Discpline:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Aggressive Beh:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "22",
+                "numeric_values": [
+                  22.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Name",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Calling/Teasing:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "47",
+                "numeric_values": [
+                  47.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Spreading",
+                "numeric_values": []
+              },
+              {
+                "label": "Rumors",
+                "value": "4",
+                "numeric_values": [
+                  4.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Inappropriate Beh:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "289",
+                "numeric_values": [
+                  289.0
+                ]
+              },
+              {
+                "label": "Threatening",
+                "value": "5",
+                "numeric_values": [
+                  5.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "0 incidents of\nbullying\nAeries Discpline:\nAggressive Beh:\n12\nName\nCalling/Teasing:\n37\nSpreading\nRumors: 0\nInappropriate Beh:\n150\nThreatening: 0",
+            "context_lines": [
+              "0 incidents of"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "bullying",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Aeries Discpline:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Aggressive Beh:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "12",
+                "numeric_values": [
+                  12.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Name",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Calling/Teasing:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "37",
+                "numeric_values": [
+                  37.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Spreading",
+                "numeric_values": []
+              },
+              {
+                "label": "Rumors",
+                "value": "0",
+                "numeric_values": [
+                  0.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Inappropriate Beh:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "150",
+                "numeric_values": [
+                  150.0
+                ]
+              },
+              {
+                "label": "Threatening",
+                "value": "0",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Positive Behavior\nInterventions &\nSupports (PBIS)",
+          "description": "Implement Positive Behavior Interventions and Supports to address\nbehaviors and create a systematic behavior expectation and a safe school\nlearning environment.",
+          "total_funds_raw": "$86,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            30
+          ],
+          "total_funds": 86000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.2",
+          "title": "Tiered Behavior\nSupports",
+          "description": "The district will implement targeted interventions, including counseling,\nmentoring, and academic and behavioral supports for students at-risk.",
+          "total_funds_raw": "$14,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            30
+          ],
+          "total_funds": 14000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "3.3",
+          "title": "Interventions for\nChronic Absenteeism",
+          "description": "HBCSD will establish a system for timely identification of students at risk of\nc h r onic absenteeism and implement targeted interventions to decrease the\nrate of chronic absenteeism for homeless youth, English learners, low\nincome, Hispanic, foster youth, and white as measured by 3.1 and 3.2. The\ndistrict will develop an early indentification and intervention system for\nstudents in the middle grades to prevent student disengagement which\ncombines effective whole school reforms with attendance, behavioral, and\nextra-help interventions as a strategy to improving chronic absenteeism.",
+          "total_funds_raw": "$4,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            30,
+            31
+          ],
+          "total_funds": 4000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.4",
+          "title": "Library Services to\nmake connections\nwithin school and\nbeyond",
+          "description": "Deploy library services and collections to connect students, connect to the\nworld beyond HB, and promote collaboration.",
+          "total_funds_raw": "$32,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            31
+          ],
+          "total_funds": 32000.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "4",
+      "description": "HBCSD will increase ELA and Math proficiency by 10 points distance from standard (DFS) over the\ncourse of the three year cycle for the following student groups:\nStudents with Disabilities (SWD),\nEnglish learners (ELs),\nHomeless (HOM),\nHispanic (HI),\nSocio-economically disadvantaged (SED).",
+      "goal_type": "Focus Goal",
+      "source_pages": [
+        32
+      ],
+      "metrics": [
+        {
+          "metric_number": "4.1",
+          "metric_name": "CAASPP ELA- District\nsource: 2023 CA School\nDashboard",
+          "baseline_raw": "All: 1 DFS growth\nSWD: 6.8 DFS\ndecline\nEL: 0.4 DFS\ngrowth\nHom: 11.6 DFS\ngrowth\nHI: 3.8 DFS\ndecline\nSED: 1.9 DFS\ngrowth\nLTEL: new metric",
+          "year_1_outcome_raw": "2023-2024\nAll: 44.3 DFS\nabove standard\nSWD: 28.8 DFS\nbelow standard\nEL: 17.1 DFS\nbelow standard\nHom: 52.5 DFS\nbelow standard\nHI: 17 DFS above\nstandard\nSED: 9.8 DFS\nabove standard\nLTEL: 89.6 DFS\nbelow standard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "ALL: 53.3 DFS\nabove standard\nSWD: 25.6 DFS\nbelow standard\nEL: 6.7 DFS below\nstandard\nHOM: 30.9 DFS\nbelow standard\nHI: 30.8 DFS\nabove standard\nSED: 17.9 DFS\nabove standard\nLTEL: 69.6 DFS\nbelow standard",
+          "current_difference_from_baseline_raw": "All: 1 DFS growth\nSWD: 6.8 DFS\ndecline\nEL: 0.4 DFS\ngrowth\nHom: 11.6 DFS\ngrowth\nHI: 3.8 DFS\ndecline\nSED: 1.9 DFS\ngrowth\nLTEL: new metric",
+          "source_pages": [
+            33
+          ],
+          "baseline": {
+            "raw": "All: 1 DFS growth\nSWD: 6.8 DFS\ndecline\nEL: 0.4 DFS\ngrowth\nHom: 11.6 DFS\ngrowth\nHI: 3.8 DFS\ndecline\nSED: 1.9 DFS\ngrowth\nLTEL: new metric",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "All",
+                "value": "1 DFS growth",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": "SWD",
+                "value": "6.8 DFS",
+                "numeric_values": [
+                  6.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "0.4 DFS",
+                "numeric_values": [
+                  0.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": "Hom",
+                "value": "11.6 DFS",
+                "numeric_values": [
+                  11.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "3.8 DFS",
+                "numeric_values": [
+                  3.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": "SED",
+                "value": "1.9 DFS",
+                "numeric_values": [
+                  1.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "new metric",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll: 44.3 DFS\nabove standard\nSWD: 28.8 DFS\nbelow standard\nEL: 17.1 DFS\nbelow standard\nHom: 52.5 DFS\nbelow standard\nHI: 17 DFS above\nstandard\nSED: 9.8 DFS\nabove standard\nLTEL: 89.6 DFS\nbelow standard",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "44.3 DFS",
+                "numeric_values": [
+                  44.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "28.8 DFS",
+                "numeric_values": [
+                  28.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "17.1 DFS",
+                "numeric_values": [
+                  17.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "Hom",
+                "value": "52.5 DFS",
+                "numeric_values": [
+                  52.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "17 DFS above",
+                "numeric_values": [
+                  17.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SED",
+                "value": "9.8 DFS",
+                "numeric_values": [
+                  9.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "89.6 DFS",
+                "numeric_values": [
+                  89.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "ALL: 53.3 DFS\nabove standard\nSWD: 25.6 DFS\nbelow standard\nEL: 6.7 DFS below\nstandard\nHOM: 30.9 DFS\nbelow standard\nHI: 30.8 DFS\nabove standard\nSED: 17.9 DFS\nabove standard\nLTEL: 69.6 DFS\nbelow standard",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "53.3 DFS",
+                "numeric_values": [
+                  53.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "25.6 DFS",
+                "numeric_values": [
+                  25.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "6.7 DFS below",
+                "numeric_values": [
+                  6.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "30.9 DFS",
+                "numeric_values": [
+                  30.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "HI",
+                "value": "30.8 DFS",
+                "numeric_values": [
+                  30.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SED",
+                "value": "17.9 DFS",
+                "numeric_values": [
+                  17.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "69.6 DFS",
+                "numeric_values": [
+                  69.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.2",
+          "metric_name": "CAASPP ELA- School &\nStudent Group\nsource: 2023 CA School\nDashboard",
+          "baseline_raw": "Smith- 3.8 DFS\ndecline\nSWD: 46.1 DFS\ngrowth\nEader- 5.4 DFS\ndecline\nHawes- 1.7 DFS\ngrowth\nMoffett- 8.3 DFS\ndecline\nPeterson- 3.6 DFS\ngrowth\nSWD- 3.8 DFS\ndecline\nSeacliff- 3.6 DFS\ndecline\nDwyer MS-1.4\nDFS decline\nEL: 1.3 DFS\ngrowth\nSED: 8.6 DFS\ngrowth\nSWD: 0.8 DFS\ngrowth\nSowers MS- 10.5\nDFS growth",
+          "year_1_outcome_raw": "2023-2024\nSmith- 42.9 DFS\nabove standard\nSWD: 6.9 DFS\nabove standard\nEader- 55.2 DFS\nabove standard\nHawes- 69.7 DFS\nabove standard\nMoffett- 42.1 DFS\nabove standard\nPeterson- 45.9\nDFS above\nstandard\nSWD: 43.8 DFS\nbelow standard\nSeacliff- 70.8 DFS\nabove standard\nDwyer MS- 35.2\nDFS above\nstandard\nEL: 45.8 DFS\nbelow standard\nSED: 3.4 DFS\nbelow standard\nSWD: 67.1 DFS\nbelow standard\nSowers MS- 36.1\nDFS above\nstandard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Smith- 56.7 DFS\nabove standard\nSWD: 29.2 DFS\nbelow standard\nEader- 70.6 DFS\nabove standard\nHawes- 78.0 DFS\nabove standard\nMoffett- 60.4 DFS\nabove standard\nPeterson- 52.3\nDFS above\nstandard\nSWD: 30 DFS\nbelow standard\nSeacliff- 84.4 DFS\nabove standard\nDwyer MS- 46.6\nDFS above\nstandard\nEL: 37.1 DFS\nbelow standard\nSED: 2 DFS below\nstandard\nSWD: 57.9 DFS\nbelow standard\nSowers MS- 35.6\nDFS above\nstandard",
+          "current_difference_from_baseline_raw": "Smith- 3.8 DFS\ndecline\nSWD: 46.1 DFS\ngrowth\nEader- 5.4 DFS\ndecline\nHawes- 1.7 DFS\ngrowth\nMoffett- 8.3 DFS\ndecline\nPeterson- 3.6 DFS\ngrowth\nSWD- 3.8 DFS\ndecline\nSeacliff- 3.6 DFS\ndecline\nDwyer MS-1.4\nDFS decline\nEL: 1.3 DFS\ngrowth\nSED: 8.6 DFS\ngrowth\nSWD: 0.8 DFS\ngrowth\nSowers MS- 10.5\nDFS growth",
+          "source_pages": [
+            33,
+            34
+          ],
+          "baseline": {
+            "raw": "Smith- 3.8 DFS\ndecline\nSWD: 46.1 DFS\ngrowth\nEader- 5.4 DFS\ndecline\nHawes- 1.7 DFS\ngrowth\nMoffett- 8.3 DFS\ndecline\nPeterson- 3.6 DFS\ngrowth\nSWD- 3.8 DFS\ndecline\nSeacliff- 3.6 DFS\ndecline",
+            "context_lines": [
+              "Smith- 3.8 DFS"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "46.1 DFS",
+                "numeric_values": [
+                  46.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Eader- 5.4 DFS",
+                "numeric_values": [
+                  5.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Hawes- 1.7 DFS",
+                "numeric_values": [
+                  1.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Moffett- 8.3 DFS",
+                "numeric_values": [
+                  8.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Peterson- 3.6 DFS",
+                "numeric_values": [
+                  3.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "SWD- 3.8 DFS",
+                "numeric_values": [
+                  3.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Seacliff- 3.6 DFS",
+                "numeric_values": [
+                  3.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nSmith- 42.9 DFS\nabove standard\nSWD: 6.9 DFS\nabove standard\nEader- 55.2 DFS\nabove standard\nHawes- 69.7 DFS\nabove standard\nMoffett- 42.1 DFS\nabove standard\nPeterson- 45.9\nDFS above\nstandard",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Smith- 42.9 DFS",
+                "numeric_values": [
+                  42.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "6.9 DFS",
+                "numeric_values": [
+                  6.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Eader- 55.2 DFS",
+                "numeric_values": [
+                  55.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Hawes- 69.7 DFS",
+                "numeric_values": [
+                  69.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Moffett- 42.1 DFS",
+                "numeric_values": [
+                  42.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Peterson- 45.9",
+                "numeric_values": [
+                  45.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "DFS above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Smith- 56.7 DFS\nabove standard\nSWD: 29.2 DFS\nbelow standard\nEader- 70.6 DFS\nabove standard\nHawes- 78.0 DFS\nabove standard\nMoffett- 60.4 DFS\nabove standard\nPeterson- 52.3\nDFS above\nstandard\nSWD: 30 DFS\nbelow standard\nSeacliff- 84.4 DFS\nabove standard",
+            "context_lines": [
+              "Smith- 56.7 DFS"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "29.2 DFS",
+                "numeric_values": [
+                  29.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Eader- 70.6 DFS",
+                "numeric_values": [
+                  70.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Hawes- 78.0 DFS",
+                "numeric_values": [
+                  78.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Moffett- 60.4 DFS",
+                "numeric_values": [
+                  60.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Peterson- 52.3",
+                "numeric_values": [
+                  52.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "DFS above",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "30 DFS",
+                "numeric_values": [
+                  30.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Seacliff- 84.4 DFS",
+                "numeric_values": [
+                  84.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.3",
+          "metric_name": "CAASPP Math- District\nsource: 2023 CA School\nDashboard",
+          "baseline_raw": "All: 6.1 DFS\ngrowth\nEL: 4.3 DFS\ngrowth\nHom: 1.9 DFS\ndecline\nLTEL: new metric",
+          "year_1_outcome_raw": "2023-2024\nAll: 27.4 DFS\nabove standard\nEL: 29.3 DFS\nbelow standard\nHom: 74.4 DFS\nbelow standard\nLTEL: 125.4 DFS\nbelow standard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "ALL: 31.3 DFS\nabove standard\nEL: 23.6 DFS\nbelow standard\nHOM: 62.5 DFS\nbelow standard\nLTEL: 105.4 DFS\nbelow standard",
+          "current_difference_from_baseline_raw": "All: 6.1 DFS\ngrowth\nEL: 4.3 DFS\ngrowth\nHom: 1.9 DFS\ndecline\nLTEL: new metric",
+          "source_pages": [
+            34
+          ],
+          "baseline": {
+            "raw": "All: 6.1 DFS\ngrowth\nEL: 4.3 DFS\ngrowth\nHom: 1.9 DFS\ndecline\nLTEL: new metric",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "All",
+                "value": "6.1 DFS",
+                "numeric_values": [
+                  6.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "4.3 DFS",
+                "numeric_values": [
+                  4.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              },
+              {
+                "label": "Hom",
+                "value": "1.9 DFS",
+                "numeric_values": [
+                  1.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "new metric",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nAll: 27.4 DFS\nabove standard\nEL: 29.3 DFS\nbelow standard\nHom: 74.4 DFS\nbelow standard\nLTEL: 125.4 DFS\nbelow standard",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": "All",
+                "value": "27.4 DFS",
+                "numeric_values": [
+                  27.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "29.3 DFS",
+                "numeric_values": [
+                  29.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "Hom",
+                "value": "74.4 DFS",
+                "numeric_values": [
+                  74.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "125.4 DFS",
+                "numeric_values": [
+                  125.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "ALL: 31.3 DFS\nabove standard\nEL: 23.6 DFS\nbelow standard\nHOM: 62.5 DFS\nbelow standard\nLTEL: 105.4 DFS\nbelow standard",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "ALL",
+                "value": "31.3 DFS",
+                "numeric_values": [
+                  31.3
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "EL",
+                "value": "23.6 DFS",
+                "numeric_values": [
+                  23.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "HOM",
+                "value": "62.5 DFS",
+                "numeric_values": [
+                  62.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              },
+              {
+                "label": "LTEL",
+                "value": "105.4 DFS",
+                "numeric_values": [
+                  105.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.4",
+          "metric_name": "CAASPP Math- School\n& Student Group\nsource: 2023 CA School\nDashboard",
+          "baseline_raw": "Smith- 2.7 DFS\ndecline\nSWD: 26.1 DFS\ngrowth\nEader- 4.5 DFS\ndecline\nHawes- 2.6 DFS\ngrowth\nMoffett- 7.2 DFS\ndecline\nPeterson- 0.5 DFS\ndecline\nSeacliff- 8.1 DFS\ndecline\nDwyer MS- 8.3\nDFS growth\nEL: 21.2 DFS\ngrowth\nSWD: 15.9 DFS\ngrowth\nSowers MS- 21.9\nDFS growth",
+          "year_1_outcome_raw": "2023-2024\nSmith- 25.6 DFS\nabove standard\nSWD: 25.6 DFS\nbelow standard\nEader- 50.3 DFS\nabove standard\nHawes- 62 DFS\nabove standard\nMoffett- 34.4 DFS\nabove standard\nPeterson- 30.9\nDFS above\nstandard\nSeacliff- 47.1 DFS\nabove standard\nDwyer MS- 11.6\nDFS above\nstandard\nEL: 62.7 DFS\nbelow standard\nSWD: 92.8 DFS\nbelow standard\nSowers MS- 22\nDFS above\nstandard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Smith- 18.3 DFS\nabove standard\nSWD: 41.7 DFS\nbelow standard\nEader- 64.8 DFS\nabove standard\nHawes- 69.4 DFS\nabove standard\nMoffett- 61.6 DFS\nabove standard\nPeterson- 41.4\nDFS above\nstandard\nSeacliff- 65.2 DFS\nabove standard\nDwyer MS-13.3\nDFS above\nstandard\nEL: 73.9 DFS\nbelow standard\nSWD: 98.7 DFS\nbelow standard\nSowers MS- 10\nDFS above\nstandard",
+          "current_difference_from_baseline_raw": "Smith- 2.7 DFS\ndecline\nSWD: 26.1 DFS\ngrowth\nEader- 4.5 DFS\ndecline\nHawes- 2.6 DFS\ngrowth\nMoffett- 7.2 DFS\ndecline\nPeterson- 0.5 DFS\ndecline\nSeacliff- 8.1 DFS\ndecline\nDwyer MS- 8.3\nDFS growth\nEL: 21.2 DFS\ngrowth\nSWD: 15.9 DFS\ngrowth\nSowers MS- 21.9\nDFS growth",
+          "source_pages": [
+            34,
+            35
+          ],
+          "baseline": {
+            "raw": "Smith- 2.7 DFS\ndecline\nSWD: 26.1 DFS\ngrowth",
+            "context_lines": [
+              "Smith- 2.7 DFS"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "26.1 DFS",
+                "numeric_values": [
+                  26.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "growth",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\nSmith- 25.6 DFS\nabove standard\nSWD: 25.6 DFS\nbelow standard",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Smith- 25.6 DFS",
+                "numeric_values": [
+                  25.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "25.6 DFS",
+                "numeric_values": [
+                  25.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Smith- 18.3 DFS\nabove standard\nSWD: 41.7 DFS\nbelow standard",
+            "context_lines": [
+              "Smith- 18.3 DFS"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "above standard",
+                "numeric_values": []
+              },
+              {
+                "label": "SWD",
+                "value": "41.7 DFS",
+                "numeric_values": [
+                  41.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "below standard",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.5",
+          "metric_name": "Percentage of English\nlearner Pupils who make\nprogress toward English\nproficiency- District &\nSchool\nsource: 2024 CA School\nDashboard",
+          "baseline_raw": "decline of 11.4%\nmaking progress\nDwyer MS: decline\nof 9.4% making\nprogress",
+          "year_1_outcome_raw": "2023-2024\n39.5% making\nprogress\nDwyer MS: 47.5%\nmaking progress",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "60.9% making\nprogress\nDwyer MS: 66.9%\nmaking progress",
+          "current_difference_from_baseline_raw": "decline of 11.4%\nmaking progress\nDwyer MS: decline\nof 9.4% making\nprogress",
+          "source_pages": [
+            35,
+            36
+          ],
+          "baseline": {
+            "raw": "decline of 11.4%\nmaking progress\nDwyer MS: decline\nof 9.4% making\nprogress",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "decline of 11.4%",
+                "numeric_values": [
+                  11.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "making progress",
+                "numeric_values": []
+              },
+              {
+                "label": "Dwyer MS",
+                "value": "decline",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "of 9.4% making",
+                "numeric_values": [
+                  9.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "progress",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024\n39.5% making\nprogress\nDwyer MS: 47.5%\nmaking progress",
+            "context_lines": [
+              "2023-2024"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "39.5% making",
+                "numeric_values": [
+                  39.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "progress",
+                "numeric_values": []
+              },
+              {
+                "label": "Dwyer MS",
+                "value": "47.5%",
+                "numeric_values": [
+                  47.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "making progress",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "60.9% making\nprogress\nDwyer MS: 66.9%\nmaking progress",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "60.9% making",
+                "numeric_values": [
+                  60.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "progress",
+                "numeric_values": []
+              },
+              {
+                "label": "Dwyer MS",
+                "value": "66.9%",
+                "numeric_values": [
+                  66.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "making progress",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.6",
+          "metric_name": "Reclassification Rate-\nDistrict\nsource: local data",
+          "baseline_raw": "decline of 4%",
+          "year_1_outcome_raw": "2024-2025\n7%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "21%",
+          "current_difference_from_baseline_raw": "decline of 4%",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "decline of 4%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "decline of 4%",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n7%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "7%",
+                "numeric_values": [
+                  7.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "21%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "21%",
+                "numeric_values": [
+                  21.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.7",
+          "metric_name": "LTELs (Number)\nSource: 2024-2025\nDataQuest (At-Risk and\nLTEL)",
+          "baseline_raw": "decrease of 4\nLTELs",
+          "year_1_outcome_raw": "2024-2025\n16",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "15",
+          "current_difference_from_baseline_raw": "decrease of 4\nLTELs",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "decrease of 4\nLTELs",
+            "context_lines": [
+              "decrease of 4"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "LTELs",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n16",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "16",
+                "numeric_values": [
+                  16.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "15",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "15",
+                "numeric_values": [
+                  15.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.8",
+          "metric_name": "Access to Broad Course\nof Study\nSource: Aeries Class\nRosters/ Course Report",
+          "baseline_raw": "continue to\nmaintain 100% of\nstudents",
+          "year_1_outcome_raw": "2024-2025\n100%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of students",
+          "current_difference_from_baseline_raw": "continue to\nmaintain 100% of\nstudents",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "continue to\nmaintain 100% of\nstudents",
+            "context_lines": [
+              "continue to"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "maintain 100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n100%",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100%",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of students",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.9",
+          "metric_name": "STAR Reading 1st-8th\nSource: Star Reading\nProficiency Rate (State\nBenchmark)",
+          "baseline_raw": "1st: 7.8% decline\n2nd: 0.7% decline\n3rd: 5.9% decline\n4th: 3.6% decline\n5th: 0.7% growth\n6th: 1.3% decline\n7th: 0.6% decline\n8th: 1.2% growth",
+          "year_1_outcome_raw": "Spring\nAssessment\nWindow 2025\n1st: 74.4%\n2nd: 74.5%\n3rd: 67.2%\n4th: 69.8%\n5th: 75.5%\n6th: 69%\n7th: 69.7%\n8th: 55.7%",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "1st: 82.5%\n2nd: 79.8%\n3rd: 79.7%\n4th: 86.2%\n5th: 84%\n6th: 77.9%\n7th: 75.8%\n8th: 77%",
+          "current_difference_from_baseline_raw": "1st: 7.8% decline\n2nd: 0.7% decline\n3rd: 5.9% decline\n4th: 3.6% decline\n5th: 0.7% growth\n6th: 1.3% decline\n7th: 0.6% decline\n8th: 1.2% growth",
+          "source_pages": [
+            36
+          ],
+          "baseline": {
+            "raw": "1st: 7.8% decline\n2nd: 0.7% decline\n3rd: 5.9% decline\n4th: 3.6% decline\n5th: 0.7% growth\n6th: 1.3% decline\n7th: 0.6% decline\n8th: 1.2% growth",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "1st",
+                "value": "7.8% decline",
+                "numeric_values": [
+                  7.8
+                ]
+              },
+              {
+                "label": "2nd",
+                "value": "0.7% decline",
+                "numeric_values": [
+                  0.7
+                ]
+              },
+              {
+                "label": "3rd",
+                "value": "5.9% decline",
+                "numeric_values": [
+                  5.9
+                ]
+              },
+              {
+                "label": "4th",
+                "value": "3.6% decline",
+                "numeric_values": [
+                  3.6
+                ]
+              },
+              {
+                "label": "5th",
+                "value": "0.7% growth",
+                "numeric_values": [
+                  0.7
+                ]
+              },
+              {
+                "label": "6th",
+                "value": "1.3% decline",
+                "numeric_values": [
+                  1.3
+                ]
+              },
+              {
+                "label": "7th",
+                "value": "0.6% decline",
+                "numeric_values": [
+                  0.6
+                ]
+              },
+              {
+                "label": "8th",
+                "value": "1.2% growth",
+                "numeric_values": [
+                  1.2
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Spring\nAssessment\nWindow 2025\n1st: 74.4%\n2nd: 74.5%\n3rd: 67.2%\n4th: 69.8%\n5th: 75.5%\n6th: 69%\n7th: 69.7%\n8th: 55.7%",
+            "context_lines": [
+              "Spring"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Assessment",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Window 2025",
+                "numeric_values": [
+                  2025.0
+                ]
+              },
+              {
+                "label": "1st",
+                "value": "74.4%",
+                "numeric_values": [
+                  74.4
+                ]
+              },
+              {
+                "label": "2nd",
+                "value": "74.5%",
+                "numeric_values": [
+                  74.5
+                ]
+              },
+              {
+                "label": "3rd",
+                "value": "67.2%",
+                "numeric_values": [
+                  67.2
+                ]
+              },
+              {
+                "label": "4th",
+                "value": "69.8%",
+                "numeric_values": [
+                  69.8
+                ]
+              },
+              {
+                "label": "5th",
+                "value": "75.5%",
+                "numeric_values": [
+                  75.5
+                ]
+              },
+              {
+                "label": "6th",
+                "value": "69%",
+                "numeric_values": [
+                  69.0
+                ]
+              },
+              {
+                "label": "7th",
+                "value": "69.7%",
+                "numeric_values": [
+                  69.7
+                ]
+              },
+              {
+                "label": "8th",
+                "value": "55.7%",
+                "numeric_values": [
+                  55.7
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "1st: 82.5%\n2nd: 79.8%\n3rd: 79.7%\n4th: 86.2%\n5th: 84%\n6th: 77.9%\n7th: 75.8%\n8th: 77%",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": "1st",
+                "value": "82.5%",
+                "numeric_values": [
+                  82.5
+                ]
+              },
+              {
+                "label": "2nd",
+                "value": "79.8%",
+                "numeric_values": [
+                  79.8
+                ]
+              },
+              {
+                "label": "3rd",
+                "value": "79.7%",
+                "numeric_values": [
+                  79.7
+                ]
+              },
+              {
+                "label": "4th",
+                "value": "86.2%",
+                "numeric_values": [
+                  86.2
+                ]
+              },
+              {
+                "label": "5th",
+                "value": "84%",
+                "numeric_values": [
+                  84.0
+                ]
+              },
+              {
+                "label": "6th",
+                "value": "77.9%",
+                "numeric_values": [
+                  77.9
+                ]
+              },
+              {
+                "label": "7th",
+                "value": "75.8%",
+                "numeric_values": [
+                  75.8
+                ]
+              },
+              {
+                "label": "8th",
+                "value": "77%",
+                "numeric_values": [
+                  77.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "4.1",
+          "title": "Middle School SEL-\nDISCONTINUED\n2025-2026",
+          "description": "Investigate and adopt a middle school social emotional learning curriculum.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            37
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.2",
+          "title": "Targeted\nInterventions",
+          "description": "Counseling and curriculum support teams will implement targeted\ninterventions and supports, including counseling, academic supports and\nmentoring for students (at-risk). This action is principally directed at our\nunduplicated students (low income, foster youth, English learners) to\nimprove social emotional learning and academic supports.",
+          "total_funds_raw": "$32,495.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            38
+          ],
+          "total_funds": 32495.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.3",
+          "title": "Afterschool\nEnrichment",
+          "description": "Provide afterschool enrichment program for low income, English learners,\nand foster youth.",
+          "total_funds_raw": "$1,487,279.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            38
+          ],
+          "total_funds": 1487279.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.4",
+          "title": "Professional\nDevelopment in EL\nand LTEL Strategies",
+          "description": "The district will provide onngoing professional development for teachers on\nEL instructional strategies including designated and integrated English\nL a nguage Development which include developing academic writing skills,\nuse of formative assessments, and explicit vocabulary instruction to\nincrease language proficiency to support ELs and LTELs.",
+          "total_funds_raw": "$1,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            38
+          ],
+          "total_funds": 1000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.5",
+          "title": "Specialized\nAcademic\nInstructional Services\n& Access to Rigorous\nCurriculum",
+          "description": "Provide specialized academic instructional services at all schools for\nstudents with disabilities and increase student access to the most rigorous\nand relevant curriculum to prepare students for high school. This action is\nspecific to students with disabilities to provide access to grade level core\ncourses to prepare students for high school A-G courses.",
+          "total_funds_raw": "$0.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            38
+          ],
+          "total_funds": 0.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "5",
+      "description": "HBCSD will maintain 100% compliance with California State Priority 1- Basic Services, Priority 2-\nImplementation of State Standards, and Priority 7- Course Access.",
+      "goal_type": "Maintenance of Progress\nGoal",
+      "source_pages": [
+        39
+      ],
+      "metrics": [
+        {
+          "metric_number": "5.1",
+          "metric_name": "Teacher Credentialing &\nAppropriately Assigned\nTeachers\nsource: CalSAAS Detail\nreport/ Teacher\nAssignment Monitoring\nOutcomes report\n(TAMO)",
+          "baseline_raw": "Increase of 1\nmisassigned\nteacher\ncontinue to have\n100% of teachers\ncredentialed",
+          "year_1_outcome_raw": "2023-2024:\n2 misassignments\n100% of teachers\nare credentialed",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "0 misassignment\n100% of teachers\nare credentialed",
+          "current_difference_from_baseline_raw": "Increase of 1\nmisassigned\nteacher\ncontinue to have\n100% of teachers\ncredentialed",
+          "source_pages": [
+            39
+          ],
+          "baseline": {
+            "raw": "Increase of 1\nmisassigned\nteacher\ncontinue to have\n100% of teachers\ncredentialed",
+            "context_lines": [
+              "Increase of 1"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "misassigned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "teacher",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "continue to have",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "credentialed",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2023-2024:\n2 misassignments\n100% of teachers\nare credentialed",
+            "context_lines": [
+              "2023-2024:"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "2 misassignments",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "are credentialed",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "0 misassignment\n100% of teachers\nare credentialed",
+            "context_lines": [
+              "0 misassignment"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "are credentialed",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.2",
+          "metric_name": "Access to Standards\nAligned Instructional\nMaterials\nsource: Results from the\nLEA's Fall 2023\nWilliams' Textbook\nSufficiency Report",
+          "baseline_raw": "continue to have\n100% of students\naccess",
+          "year_1_outcome_raw": "2024-2025\n100% of students",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of students",
+          "current_difference_from_baseline_raw": "continue to have\n100% of students\naccess",
+          "source_pages": [
+            39,
+            40
+          ],
+          "baseline": {
+            "raw": "continue to have\n100% of students\naccess",
+            "context_lines": [
+              "continue to have"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "access",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n100% of students",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of students",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.3",
+          "metric_name": "Professional\nDevelopment\nParticipation\nsource: PD sign in\nsheets and HR 2.0",
+          "baseline_raw": "continued to be\n100%",
+          "year_1_outcome_raw": "2024-2025\n100% certificated\n100% classified",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% certificated\n100% classified",
+          "current_difference_from_baseline_raw": "continued to be\n100%",
+          "source_pages": [
+            40
+          ],
+          "baseline": {
+            "raw": "continued to be\n100%",
+            "context_lines": [
+              "continued to be"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100%",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n100% certificated\n100% classified",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% certificated",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "100% classified",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% certificated\n100% classified",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% certificated",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "100% classified",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.4",
+          "metric_name": "Implementation of State\nStandards\nsource: Participation in\ncontent-specific\nprofessional\ndevelopment",
+          "baseline_raw": "continued to be\n100%",
+          "year_1_outcome_raw": "2024-2025\n100% of state\nstandards\n100% participation\nin PD",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of state\nstandards\n100% participation\nin PD",
+          "current_difference_from_baseline_raw": "continued to be\n100%",
+          "source_pages": [
+            40
+          ],
+          "baseline": {
+            "raw": "continued to be\n100%",
+            "context_lines": [
+              "continued to be"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100%",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n100% of state\nstandards\n100% participation\nin PD",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of state",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "standards",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% participation",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "in PD",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of state\nstandards\n100% participation\nin PD",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of state",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "standards",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% participation",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "in PD",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "5.5",
+          "metric_name": "Facilities in \"good\" repair\nsource: Facility\nInspection Tool (FIT)\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "baseline_raw": "continued to be\n100%\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26 and\n2026-27. Leave blank\nuntil then.",
+          "year_1_outcome_raw": "2024-2025\n100% of facilities\ncontinue to be\ncategorized as\n“good” or better on\nFIT.\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+          "year_2_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2026-27. Leave\nblank until then.",
+          "year_3_target_raw": "100% of facilities\ncontinue to be\ncategorized as\n“good” or better on\nFIT.\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "current_difference_from_baseline_raw": "continued to be\n100%",
+          "source_pages": [
+            40,
+            87
+          ],
+          "baseline": {
+            "raw": "continued to be\n100%",
+            "context_lines": [
+              "continued to be"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100%",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2024-2025\n100% of facilities\ncontinue to be\ncategorized as\n“good” or better on\nFIT.",
+            "context_lines": [
+              "2024-2025"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of facilities",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "continue to be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "categorized as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "“good” or better on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FIT.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of facilities\ncontinue to be\ncategorized as\n“good” or better on\nFIT.",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of facilities",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "continue to be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "categorized as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "“good” or better on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FIT.",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "5.1",
+          "title": "Centralized PD, EL,\nSED, GATE\nTechnical Assistance",
+          "description": "HBCSD will provide centralized professional development, English\nLearner, SED supports, GATE, technical assistance, and student\ne d u cational program improvement services including data analysis,\nteacher collaboration, and EL supports. This action focuses staff efforts\nand actions to address needs, professional development, and access for\nELs, SEDs, foster youth, homeless.",
+          "total_funds_raw": "$370,018.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            41
+          ],
+          "total_funds": 370018.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.2",
+          "title": "Technology Support",
+          "description": "H B CSD will provide a Teacher on Special Assignment Support for\nimplementation of technology integration to support instruction in\nclassrooms - 15% of salary.",
+          "total_funds_raw": "$21,554.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            42
+          ],
+          "total_funds": 21554.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.3",
+          "title": "Full Day\nKindergarten",
+          "description": "HBCSD will fund 25% of kindergarten teacher salaries to be able to fund\nand offer a full day kindergarten program. By providing a longer day for\nkindergarten students, all students, including English learners, at-risk(SED)\nstudents, foster youth, and low income, includng homeless students, have\nmore time to learn and are provided acceleration in the early years.",
+          "total_funds_raw": "$600,073.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            42
+          ],
+          "total_funds": 600073.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.4",
+          "title": "Classified Support\nStaff",
+          "description": "HBCSD will maintain and increase classified support staff to address\nbehavioral, academic, social and emotional impact caused by COVID 19.\nThis includes additional hours for health clerks, LMTs, and office\nassistants. They will assist in implementing each schools Positive Behavior\nand Intervention Supports. This action principally addresses needs of\nEnglish learners, socioeconomically disadvantaged students, foster youth,\nhomeless youth by having additional staff to connect to students.",
+          "total_funds_raw": "$412,947.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            42
+          ],
+          "total_funds": 412947.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.5",
+          "title": "Bilingual Instructional\nAssistant Support",
+          "description": "HBCSD will provide two part time bilingual instructional assistants to\nprovide support, assessments, and engagement for English Learners and\ntheir families. The two bilingual instructional assistants will provide\nadditional support through individual or small group tutoring sessions that\nfocus on language acquisition and academic skills by preteaching\nvocabluary and practicing language skills using sentence frames and\nstarters. This action will provide additional support and time above and\nbeyond designated and integrated ELD for English learners.",
+          "total_funds_raw": "$13,095.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            42
+          ],
+          "total_funds": 13095.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.6",
+          "title": "Assistant Principals\nat Middle School",
+          "description": "HBCSD will provide one assistant principal funded through LCFF to\nprovide increased services for academic, behavioral, and socialemotional\nsupports. Assistant principals will develop systems for early detection of\nstudents who may be chronically absent, work with staff and parents to\ndevelop interventions to address barriers, and monitor chronic\nabsenteeism interventions and data. They will also work with staff and\nparents to address behaviors leading to suspensions. This will assist\nstudents identified as at-risk, English learners, foster youth, and low\nincome, including homeless youth, by providing an additional caring adult\non campus to specifically address their needs and provide resources and\nsupport.",
+          "total_funds_raw": "$369,010.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            42,
+            43
+          ],
+          "total_funds": 369010.0,
+          "contributing": true
+        },
+        {
+          "action_number": "5.7",
+          "title": "Preschool",
+          "description": "HBCSD will support early learners in preschool by providing supplemental\nmaterials",
+          "total_funds_raw": "$5,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            43
+          ],
+          "total_funds": 5000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.8",
+          "title": "Continue Elementary\nand Middle School\nCounselors",
+          "description": "HBCSD will continue to provide two middle school and three elementary\nschool counselors. This will contribute to learning and support for ELs,\nsocio-economically disadvantaged, including homeless youth, foster youth,\nat-risk students by providing executive functioning skills and conflict\nresolution skills.",
+          "total_funds_raw": "$700,084.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            43
+          ],
+          "total_funds": 700084.0,
+          "contributing": true
+        }
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 5,
+  "metric_count": 30,
+  "action_count": 28
+}

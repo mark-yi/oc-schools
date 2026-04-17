@@ -1,0 +1,4205 @@
+{
+  "source_file": "Fountain Valley.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/lcaps/Fountain Valley.pdf",
+  "district_name": "Fountain Valley School District",
+  "school_year": "2025-26",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "Fountain Valley School District's goal is to support academic success for all students by ensuring\nstudents participate in a rigorous academic program and demonstrate continued growth in all\ncontent areas, with an emphasis on collaboration, communication, critical thinking, and problem-\nsolving.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        24
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "Percentage of staff\nqualified to support the\nacademic needs of\nstudents",
+          "baseline_raw": "0% from baseline",
+          "year_1_outcome_raw": "100% of staff\nqualified to support\nacademic needs of\nstudents in the\n2024-25 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of staff\nqualified to support\nacademic needs of\nstudents",
+          "current_difference_from_baseline_raw": "0% from baseline",
+          "source_pages": [
+            25
+          ],
+          "baseline": {
+            "raw": "0% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% from baseline",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of staff\nqualified to support\nacademic needs of\nstudents in the\n2024-25 school\nyear",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of staff",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "qualified to support",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "academic needs of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2024-25 school",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of staff\nqualified to support\nacademic needs of\nstudents",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of staff",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "qualified to support",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "academic needs of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.2",
+          "metric_name": "Percentage of students\nwith access to textbooks\nand standards-aligned\ninstructional materials",
+          "baseline_raw": "0% from baseline",
+          "year_1_outcome_raw": "100% of students\nhave access to\ntextbooks and\nstandards-aligned\ninstructional\nmaterials in the\n2024-25 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of students\nhave access to\ntextbooks and\nstandards-aligned\ninstructional\nmaterials",
+          "current_difference_from_baseline_raw": "0% from baseline",
+          "source_pages": [
+            25
+          ],
+          "baseline": {
+            "raw": "0% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% from baseline",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of students\nhave access to\ntextbooks and\nstandards-aligned\ninstructional\nmaterials in the\n2024-25 school\nyear",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "have access to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "textbooks and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards-aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "materials in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2024-25 school",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of students\nhave access to\ntextbooks and\nstandards-aligned\ninstructional\nmaterials",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "have access to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "textbooks and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standards-aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "materials",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.3",
+          "metric_name": "Percentage of students\nMeeting or Exceeding\ngrade level standards as\nmeasured on the\nSmarter Balance\nAssessment for English\nLanguage Arts",
+          "baseline_raw": "+1% from baseline",
+          "year_1_outcome_raw": "77% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\nspring 2023-24\nSmarter Balanced\nAssessment for\nEnglish Language\nArts",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "80% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\n2025-26 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+          "current_difference_from_baseline_raw": "+1% from baseline",
+          "source_pages": [
+            25,
+            26
+          ],
+          "baseline": {
+            "raw": "+1% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+1% from baseline",
+                "numeric_values": [
+                  1.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "77% of FVSD\nstudents in grades\n3-8 \"Met or",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "77% of FVSD",
+                "numeric_values": [
+                  77.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students in grades",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3-8 \"Met or",
+                "numeric_values": [
+                  3.0,
+                  8.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "80% of FVSD\nstudents in grades\n3-8 \"Met or",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "80% of FVSD",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students in grades",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3-8 \"Met or",
+                "numeric_values": [
+                  3.0,
+                  8.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.4",
+          "metric_name": "Percentage of students\nMeeting or Exceeding on\nthe Smarter Balanced\nAssessment for\nMathematics",
+          "baseline_raw": "0% from baseline",
+          "year_1_outcome_raw": "73% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\nspring 2023-2024\nSmarter Balanced\nAssessment for\nMathematics",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "80% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\n2025-26 Smarter\nBalanced\nAssessment for\nMathematics",
+          "current_difference_from_baseline_raw": "0% from baseline",
+          "source_pages": [
+            26
+          ],
+          "baseline": {
+            "raw": "0% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% from baseline",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "73% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\nspring 2023-2024\nSmarter Balanced\nAssessment for\nMathematics",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "73% of FVSD",
+                "numeric_values": [
+                  73.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students in grades",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3-8 \"Met or",
+                "numeric_values": [
+                  3.0,
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "spring 2023-2024",
+                "numeric_values": [
+                  2023.0,
+                  2024.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "80% of FVSD\nstudents in grades\n3-8 \"Met or\nExceeded\nStandards\" on the\n2025-26 Smarter\nBalanced\nAssessment for\nMathematics",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "80% of FVSD",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students in grades",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3-8 \"Met or",
+                "numeric_values": [
+                  3.0,
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2025-26 Smarter",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.5",
+          "metric_name": "Percentage of students\nMeeting or Exceeding\nstandards on the\nCalifornia Science Test\n(CAST)",
+          "baseline_raw": "+4% from baseline",
+          "year_1_outcome_raw": "63% of FVSD 5th\nand 8th grade\nstudents \"Met or\nExceeded\nStandards\" on the\nspring 2023-24 CA\nScience Test",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "65% of FVSD 5th\nand 8th grade\nstudents \"Met or\nExceeded\nStandards\" on the\n2025-26 CA\nScience Test",
+          "current_difference_from_baseline_raw": "+4% from baseline",
+          "source_pages": [
+            26
+          ],
+          "baseline": {
+            "raw": "+4% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+4% from baseline",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "63% of FVSD 5th\nand 8th grade\nstudents \"Met or\nExceeded\nStandards\" on the\nspring 2023-24 CA\nScience Test",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "63% of FVSD 5th",
+                "numeric_values": [
+                  63.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "spring 2023-24 CA",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Science Test",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "65% of FVSD 5th\nand 8th grade\nstudents \"Met or\nExceeded\nStandards\" on the\n2025-26 CA\nScience Test",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "65% of FVSD 5th",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2025-26 CA",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Science Test",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.6",
+          "metric_name": "Percentage of 3rd Grade\nstudents demonstrating\ngrade level proficiency\non the 3rd Grade\nLiteracy Screener\n(Fountas & Pinnell\nAssessment)",
+          "baseline_raw": "0% from baseline",
+          "year_1_outcome_raw": "66% of FVSD 3rd\nGrade students\ndemonstrated\nproficiency on the\n3rd Grade Literacy\nScreener (F&P) at\nthe conclusion of\nthe spring 2023-24\nschool year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "70% of FVSD 3rd\nGrade students\ndemonstrated\nproficiency on the\n3rd Grade Literacy\nScreener at the\nconclusion of the\n2025-26 school\nyear",
+          "current_difference_from_baseline_raw": "0% from baseline",
+          "source_pages": [
+            26
+          ],
+          "baseline": {
+            "raw": "0% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% from baseline",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "66% of FVSD 3rd\nGrade students\ndemonstrated\nproficiency on the\n3rd Grade Literacy\nScreener (F&P) at\nthe conclusion of\nthe spring 2023-24\nschool year",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "66% of FVSD 3rd",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "demonstrated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "proficiency on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3rd Grade Literacy",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Screener (F&P) at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the conclusion of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the spring 2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "70% of FVSD 3rd\nGrade students\ndemonstrated\nproficiency on the\n3rd Grade Literacy\nScreener at the\nconclusion of the\n2025-26 school\nyear",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "70% of FVSD 3rd",
+                "numeric_values": [
+                  70.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "demonstrated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "proficiency on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3rd Grade Literacy",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Screener at the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "conclusion of the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2025-26 school",
+                "numeric_values": [
+                  2025.0,
+                  26.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "year",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.7",
+          "metric_name": "Percentage of students\ngrade 6-8 demonstrating\ngrade level proficient or\nadvanced on SRI\nLiteracy Screener",
+          "baseline_raw": "-1% from baseline",
+          "year_1_outcome_raw": "74% of students in\ngrade 6-8\ndemonstrate\nproficient or\nadvanced on End\nof Year Reading\nLexile Level in the\n2023-24 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "80% of students in\ngrade 6-8\ndemonstrate\nproficient or\nadvanced on End\nof Year Reading\nLexile Level",
+          "current_difference_from_baseline_raw": "-1% from baseline",
+          "source_pages": [
+            26,
+            27
+          ],
+          "baseline": {
+            "raw": "-1% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-1% from baseline",
+                "numeric_values": [
+                  -1.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "74% of students in\ngrade 6-8\ndemonstrate\nproficient or",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "74% of students in",
+                "numeric_values": [
+                  74.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "grade 6-8",
+                "numeric_values": [
+                  6.0,
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "demonstrate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "proficient or",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "80% of students in\ngrade 6-8\ndemonstrate\nproficient or",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "80% of students in",
+                "numeric_values": [
+                  80.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "grade 6-8",
+                "numeric_values": [
+                  6.0,
+                  8.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "demonstrate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "proficient or",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.8",
+          "metric_name": "Percentage of student\nwith access to \"Broad\nCourse of Study\"",
+          "baseline_raw": "0% from baseline",
+          "year_1_outcome_raw": "100% of FVSD\nstudents have\naccess to a Broad\nCourse of Study in\nthe 2024-25 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of FVSD\nstudents have\naccess to a Broad\nCourse of Study",
+          "current_difference_from_baseline_raw": "0% from baseline",
+          "source_pages": [
+            27
+          ],
+          "baseline": {
+            "raw": "0% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "0% from baseline",
+                "numeric_values": [
+                  0.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of FVSD\nstudents have\naccess to a Broad\nCourse of Study in\nthe 2024-25 school\nyear",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of FVSD",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students have",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "access to a Broad",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Course of Study in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the 2024-25 school",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of FVSD\nstudents have\naccess to a Broad\nCourse of Study",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of FVSD",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students have",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "access to a Broad",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Course of Study",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.9",
+          "metric_name": "CA Dashboard Indicator\nreports for FVSD\nstudents and subgroups\nin the academic indicator\nareas of\nELA and Math",
+          "baseline_raw": "-6.9 points from\nbaseline",
+          "year_1_outcome_raw": "CA Dashboard\n2023-24 ELA\nindicator reports\nOka Elementary\nsubgroup of\nStudents with\nDisabilities\nreported\n\"Red/Very Low\" at\n92.7 points below\nstandard a\ndecrease of -6.9\ncompared to 2023.\nOka is the only\nsubgroup in each\nof the 10 FVSD\nschool sites with a\nsubgroup in the\nred/very low\nperformance band\nin the 2022-23 CA\nDashboard\nreporting.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "FVSD All Students\nand Subgroups\nreporting\n\"Blue/Very High\"\nor \"Green/High\" on\nthe CA Dashboard\nAcademic\nIndicators of ELA\nand Math",
+          "current_difference_from_baseline_raw": "-6.9 points from\nbaseline",
+          "source_pages": [
+            27
+          ],
+          "baseline": {
+            "raw": "-6.9 points from\nbaseline",
+            "context_lines": [
+              "-6.9 points from"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "CA Dashboard\n2023-24 ELA\nindicator reports\nOka Elementary\nsubgroup of\nStudents with\nDisabilities\nreported\n\"Red/Very Low\" at\n92.7 points below\nstandard a\ndecrease of -6.9\ncompared to 2023.\nOka is the only\nsubgroup in each\nof the 10 FVSD\nschool sites with a\nsubgroup in the\nred/very low\nperformance band\nin the 2022-23 CA\nDashboard\nreporting.",
+            "context_lines": [
+              "CA Dashboard"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "2023-24 ELA",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "indicator reports",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Oka Elementary",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroup of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disabilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Red/Very Low\" at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "92.7 points below",
+                "numeric_values": [
+                  92.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "standard a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "decrease of -6.9",
+                "numeric_values": [
+                  -6.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "compared to 2023.",
+                "numeric_values": [
+                  2023.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Oka is the only",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroup in each",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "of the 10 FVSD",
+                "numeric_values": [
+                  10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school sites with a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroup in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "red/very low",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performance band",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "in the 2022-23 CA",
+                "numeric_values": [
+                  2022.0,
+                  23.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reporting.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "FVSD All Students\nand Subgroups\nreporting\n\"Blue/Very High\"\nor \"Green/High\" on\nthe CA Dashboard\nAcademic\nIndicators of ELA\nand Math",
+            "context_lines": [
+              "FVSD All Students"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "and Subgroups",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reporting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Blue/Very High\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or \"Green/High\" on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the CA Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Academic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicators of ELA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and Math",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "Recruit, select, and\nretain highly qualified\nstaff to support\nstudent learning",
+          "description": "FVSD will recruit, select, and retain a highly qualified staff with multiple\nauthorizations to support students. The anticipated immediate impact of\nthis action on practices is that students will receive instruction and support\nfrom educators and staff who possess the skills and knowledge necessary\nto deliver curriculum and programming effectively. The anticipated long-\nterm positive impact of this action on student learning and behavior is high-\nquality classroom instruction delivered by an expert teacher, and the\nstudent continues access to a broad course of study to prepare them for\ncollege and a global career.\nThis action is associated with metric 1.1.",
+          "total_funds_raw": "$52,035,040.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            31
+          ],
+          "total_funds": 52035040.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.2",
+          "title": "Provide an Induction\nProgram for new\nteachers",
+          "description": "FVSD supports new teachers in obtaining a clear credential by providing\nan induction program. The anticipated immediate impact of this action on\npractices is a higher retention rate of educators who are new to the\nprofession, the establishment of a mentor and network of support for\nparticipating teachers, and increased levels of preparedness for assuming\nthe responsibilities associated with serving as a public educator teacher.\nThe anticipated long-term positive impact of this action on student\nachievement is high-quality, standards-based instruction that supports\nbroader and deeper levels of learning through enhanced behavior\nmanagement, instructional planning, and teacher effectiveness. This action\nis associated with metric 1.1.",
+          "total_funds_raw": "$108,450.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            32
+          ],
+          "total_funds": 108450.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.3",
+          "title": "Expand elective\noptions across\nmiddle schools",
+          "description": "FVSD provides funding to support expanded arts and foreign language\nelective programming at each middle school, as well as a one-time stipend\nto support the acquisition of additional District-approved authorizations in\norder to standardize electives. The anticipated immediate impact of this\naction on practices supports expanded elective programs at the District's\nthree middle schools. The anticipated long-term positive impact of this\naction on student achievement and behavior is the expanded elective\nofferings that support and enhance school connectedness for students.\nThis action is associated with metric 1.8. This action contributes to\nsupporting students who are English Learners, Foster Youth as well as\nLow Income.",
+          "total_funds_raw": "$188,490.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            32
+          ],
+          "total_funds": 188490.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.4",
+          "title": "Provide standards-\naligned instructional\nmaterials and\nsupplies",
+          "description": "FVSD will provide instructional materials and supplies aligned with\nCalifornia State Standards, English Language Development Standards,\nand Next Generation Science Standards. The anticipated immediate\nimpact of this action on practices is the expansion of access to instructional\nmaterials and supplies that promote student engagement, access to\nresources that serve to elevate the rigor of instruction, and increased\nprogrammatic fidelity across classrooms/school sites that emerge from\ncollaboration focused on implementing common instructional resources.\nThe anticipated long-term positive impact of this action on student\nachievement is high-quality classroom instruction that supports broader\nand deeper levels of learning through the implementation of rigorous\ninstructional materials. Overall, the impact of this action ensures FVSD's\ninstructional program supports the implementation of California State\nStandards. This action is associated with metrics 1.2, 1.3, 1.4, 1.5, 1.6, 1.7\nand 1.8.",
+          "total_funds_raw": "$181,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            32,
+            33
+          ],
+          "total_funds": 181000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.5",
+          "title": "Professional\ndevelopment for\ncertificated and\nclassified staff",
+          "description": "FVSD will provide certificated, classified staff, and administrative staff with\nprofessional development and time to collaborate on content standards\n(CA State Standards, CA English Language Development Standards, and\nNext Generation Science Standards), District-adopted instructional\nmaterials, District Signature Practices, GATE, technology, and Multi-Tiered\nSystems of Support interventions. The anticipated immediate impact of this\naction is improved classroom instructional practices by teachers and staff\nparticipating in professional development activities. The anticipated long-\nterm positive impact of this action on student achievement is increased\neffective classroom instruction that supports higher levels of learning for all\nstudents especially English Learners, Foster Youth and students of Low\nIncome due to increased proficiency related to instructional practices and\ninstructional resources on the part of teachers/staff for these individual sub\ngroup needs. This action is associated with metrics 1.2, 1.3, 1.4, 1.5, 1.6,\n1.7 and 1.8.\nNote: For the 2025-26 school year FVSD will utilize EEBG funds to spend\ndown by the expiration date in leu of LCFF funds for this one year.",
+          "total_funds_raw": "$140,812.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            33
+          ],
+          "total_funds": 140812.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.6",
+          "title": "Improve access to\ntechnology to support\nstudent achievement",
+          "description": "FVSD will provide and maintain classroom technology in the form of\nstudent/staff devices and/or educational software programs in order to\ni n c rease opportunities for students to utilize technology in the core\ninstructional programs. FVSD ensures that students of special populations\nincluding English Learners, Socioeconomically Disadvantaged Students,\nHomeless, Foster Youth and Students with Disabilities have technology to\naccess and receive highly effective instruction, tightly aligned to the CA\nState Standards, that effectively closes the Achievement Gap.\nThe immediate impact of this action is a greater access to educational\nplatforms and content that access and support learning, as well as, the\nproduction of learning artifacts that are reflective of the technology-driven\nwork environments that students will encounter throughout their lives. In\naddition, teachers utilize data collected from common assessments to\ncontinuously improve \"Best\" First Instruction and strategically-target\ndifferentiated instruction for students. Teachers will be empowered to track\nthe progress of students from special populations in comparison to other\nstudent groups, differentiate instruction, provide interventions, and monitor\nthe impact of their instructional practices on student learning.\nThis action is associated with metrics 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 and 1.8.\nNote: Starting in 2026-27 LCAP, LREBG funds in the amount of\n$33,000.00 will be allocated to support this Action 1.6 that contributes to\nthe success of student utilization of technology for students identified as\nEnglish Learners, Socioeconomically Disadvantaged, Homeless, and\nFoster Youth.",
+          "total_funds_raw": "$413,194.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            33,
+            34
+          ],
+          "total_funds": 413194.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.7",
+          "title": "Support and maintain\ninfrastructure,\nclassroom\ntechnology and\ndevices",
+          "description": "FVSD will support and maintain the District infrastructure and network,\nclassroom technology, and devices by providing District IT staff and Site\nTechnology Coordinators. The anticipated immediate impact of this action\non practices is allocating appropriate staffing to support the ongoing\nexpansion and innovation of technology dependency across the District,\nand improved technology infrastructure to support the additional\nnetworking demands associated with the significant increase in the number\nof devices used by students and staff. The anticipated long-term positive\nimpact on student learning and behavior is increased access to\ntechnology, innovative instructional pedagogy and student creativity,\nenhanced network performance, and timely mitigation to assist when\ndevices or infrastructure are compromised. This action is associated with\nmetrics 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 and 1.8.",
+          "total_funds_raw": "$936,212.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            34
+          ],
+          "total_funds": 936212.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.8",
+          "title": "Elementary Music\nProgram for all\nelementary students",
+          "description": "FVSD utilizes itinerant music teachers in elementary schools to ensure all\nstudents regularly participate in an engaging and meaningful performing\na r ts program. The anticipated immediate impact of this action on staff is\nthe opportunity for teachers to collaborate, administer assessments,\nanalyze data from assessments, and plan targeted classroom instruction.\nThe anticipated long-term positive impact of this action on student\nachievement and behavior is access to a broad course of study that\nsystematically includes the visual and performing arts, opportunities to\ndevelop an appreciation for, and interest in, music and performance at an\nearly age. This action is associated with metric 1.8.",
+          "total_funds_raw": "$548,595.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            34,
+            35
+          ],
+          "total_funds": 548595.0,
+          "contributing": false
+        },
+        {
+          "action_number": "1.9",
+          "title": "Improve School\nLibrary Programs",
+          "description": "FVSD continues to provide a comprehensive school library program with\nexpanded access to reading-level aligned texts that support teaching,\nlearning, and access to resources for all students. The anticipated\nimmediate impact of this action on staff is the continued provision of part-\ntime Library Media Technicians at all schools to facilitate access to school\nlibraries, as well as, providing ongoing resources to support the expansion\nof school library collections. The anticipated long-term positive impact of\nthis action on student achievement and behavior is greater access to and\nvariety to appropriate reading materials through regularly scheduled\naccess to the school library which is of particularly great benefit to English\nlearners, students from low-income settings, homeless students, and foster\nyouth. This action is associated with metrics 1.2, 1.3, 1.4, 1.5, 1.6, 1.7 and\n1.8.",
+          "total_funds_raw": "$405,707.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            35
+          ],
+          "total_funds": 405707.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.10",
+          "title": "Elementary Physical\nEducation",
+          "description": "FVSD employs a group of certificated Physical Education Teachers to\nprovide instruction for students on a weekly basis at all seven elementary\nschools. The immediate impact of this action on staff is the opportunity for\ncollaboration among elementary teachers. Teacher collaboration allots for\ninstructional development specific to the needs of students based upon\ndata gathered, directly increasing the success of students identified as\nEnglish Learners, Foster Youth, Homeless and Low Income. Collaboration\nprovides the opportunity to analyze data and construct individualized\ninstructional needs for students.\nThe long-term positive impact of this action on student achievement and\nbehavior is improved quality of classroom instruction as well as improved\nphysical education instruction due to the required single-subject\ncredentialing of elementary PE teachers and the specialized content\nknowledge they possess. Additional long-term positive impacts of this\naction on student achievement is increased effective classroom instruction\nthat supports higher levels of learning for all students especially English\nLearners, Foster Youth, homeless and low income due to increased\nproficiency related to instructional practices and instructional resources on\nthe part of teachers/staff for these individual subgroup needs. This action is\nassociated with metric 1.8.",
+          "total_funds_raw": "$621,431.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            35,
+            36
+          ],
+          "total_funds": 621431.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "Fountain Valley School District's goal is to support the academic success of English Learners,\nhomeless students, foster youth, socioeconomically disadvantaged students, and students with\ndisabilities in the core program, and to provide additional supports needed to ensure equal access\nto curriculum and programs, social-emotional supports, learning engagement, and high levels of\nachievement for all students.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        37
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "Percentage of English\nLearners Meeting or\nExceeding grade level\nstandards on the\nSmarter Balance\nAssessment for English\nLanguage Arts",
+          "baseline_raw": "-7% from baseline",
+          "year_1_outcome_raw": "30% of FVSD's\n3rd-8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd-\n8th grade English\nLearners \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+          "current_difference_from_baseline_raw": "-7% from baseline",
+          "source_pages": [
+            38
+          ],
+          "baseline": {
+            "raw": "-7% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-7% from baseline",
+                "numeric_values": [
+                  -7.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "30% of FVSD's\n3rd-8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "30% of FVSD's",
+                "numeric_values": [
+                  30.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3rd-8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Met or Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 Smarter",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd-\n8th grade English\nLearners \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learners \"Meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts by 2-3%",
+                "numeric_values": [
+                  2.0,
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "annually",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.2",
+          "metric_name": "Percentage of English\nLearners Meeting or\nExceeding grade level\nstandards on the\nSmarter Balance\nAssessment for\nMathematics",
+          "baseline_raw": "-9% from baseline",
+          "year_1_outcome_raw": "37% of FVSD's\n3rd-8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd-\n8th grade English\nLearners \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "-9% from baseline",
+          "source_pages": [
+            38
+          ],
+          "baseline": {
+            "raw": "-9% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-9% from baseline",
+                "numeric_values": [
+                  -9.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "37% of FVSD's\n3rd-8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "37% of FVSD's",
+                "numeric_values": [
+                  37.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3rd-8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Met or Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 Smarter",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd-\n8th grade English\nLearners \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learners \"Meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics by 2-",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3% annually",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.3",
+          "metric_name": "Percentage of English\nLearners Meeting or\nExceeding standards on\nthe California Science\nTest (CAST)",
+          "baseline_raw": "+2% from baseline",
+          "year_1_outcome_raw": "11% of FVSD's 5th\nand 8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 California\nScience Test\n(CAST)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 5th\nand 8th grade\nEnglish Learners\n\"Meeting or\nExceeding\nStandards\" on the\nCalifornia Science\nTest (CAST) by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "+2% from baseline",
+          "source_pages": [
+            38
+          ],
+          "baseline": {
+            "raw": "+2% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+2% from baseline",
+                "numeric_values": [
+                  2.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "11% of FVSD's 5th\nand 8th grade\nEnglish Learners\n\"Met or Exceeded\nStandards\" on the\n2023-24 California\nScience Test\n(CAST)",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "11% of FVSD's 5th",
+                "numeric_values": [
+                  11.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Met or Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 California",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Science Test",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(CAST)",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 5th\nand 8th grade\nEnglish Learners\n\"Meeting or\nExceeding\nStandards\" on the\nCalifornia Science\nTest (CAST) by 2-\n3% annually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 5th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Meeting or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "California Science",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Test (CAST) by 2-",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3% annually",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.4",
+          "metric_name": "Percentage of English\nLearners achieving\nOverall Level 4 on the\nSummative English\nLanguage Proficiency\nAssessment for\nCalifornia (Summative\nELPAC)",
+          "baseline_raw": "-10% from\nbaseline",
+          "year_1_outcome_raw": "23% of FVSD\nEnglish Learners\nachieved at the\n\"Well-Developed\"\nOverall\nPerformance Level\non the 2023-24\nSummative\nELPAC",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain 30% or\nmore of English\nLearners achieving\nat the \"Well-\nDeveloped\"\nOverall\nPerformance Level\non the Summative\nELPAC",
+          "current_difference_from_baseline_raw": "-10% from\nbaseline",
+          "source_pages": [
+            38,
+            39
+          ],
+          "baseline": {
+            "raw": "-10% from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "-10% from",
+                "numeric_values": [
+                  -10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "23% of FVSD\nEnglish Learners\nachieved at the\n\"Well-Developed\"\nOverall\nPerformance Level",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "23% of FVSD",
+                "numeric_values": [
+                  23.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "achieved at the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Well-Developed\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Overall",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Performance Level",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain 30% or\nmore of English\nLearners achieving\nat the \"Well-\nDeveloped\"\nOverall",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Maintain 30% or",
+                "numeric_values": [
+                  30.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "more of English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learners achieving",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "at the \"Well-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Developed\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Overall",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.5",
+          "metric_name": "Percentage of English\nLearner students who\nmeet the criteria to\nReclassify as Fluent in\nEnglish Proficiency\n(RFEP)",
+          "baseline_raw": "+8% from baseline",
+          "year_1_outcome_raw": "25% of FVSD's\nEnglish Learner\nstudents were\nreclassified to\nRFEP in the 2023-\n24school year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain a 15% or\nhigher of English\nLearner students\nwho reclassify as\nRFEP annually",
+          "current_difference_from_baseline_raw": "+8% from baseline",
+          "source_pages": [
+            39
+          ],
+          "baseline": {
+            "raw": "+8% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+8% from baseline",
+                "numeric_values": [
+                  8.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "25% of FVSD's\nEnglish Learner\nstudents were\nreclassified to\nRFEP in the 2023-\n24school year",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "25% of FVSD's",
+                "numeric_values": [
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "English Learner",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students were",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "RFEP in the 2023-",
+                "numeric_values": [
+                  2023.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "24school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain a 15% or\nhigher of English\nLearner students\nwho reclassify as\nRFEP annually",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Maintain a 15% or",
+                "numeric_values": [
+                  15.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "higher of English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learner students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "who reclassify as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "RFEP annually",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.6",
+          "metric_name": "Percentage of Low-\nIncome students\nMeeting or Exceeding\nstandards on the\nSmarter Balance\nAssessment for English\nLanguage Arts",
+          "baseline_raw": "+6% from baseline",
+          "year_1_outcome_raw": "71% of FVSD 3rd-\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Met or\nExceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd -\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+          "current_difference_from_baseline_raw": "+6% from baseline",
+          "source_pages": [
+            39
+          ],
+          "baseline": {
+            "raw": "+6% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+6% from baseline",
+                "numeric_values": [
+                  6.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "71% of FVSD 3rd-\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Met or\nExceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "71% of FVSD 3rd-",
+                "numeric_values": [
+                  71.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 Smarter",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd -\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts by 2-3%",
+                "numeric_values": [
+                  2.0,
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "annually",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.7",
+          "metric_name": "Percentage of Low-\nIncome students\nMeeting or Exceeding on\nthe Smarter Balance\nAssessment for\nMathematics",
+          "baseline_raw": "+3% from baseline",
+          "year_1_outcome_raw": "66% of FVSD 3rd-\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Met or\nExceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd -\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "+3% from baseline",
+          "source_pages": [
+            39
+          ],
+          "baseline": {
+            "raw": "+3% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+3% from baseline",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "66% of FVSD 3rd-\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Met or\nExceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "66% of FVSD 3rd-",
+                "numeric_values": [
+                  66.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 Smarter",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd -\n8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Meeting\nor Exceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students \"Meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics by 2-",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3% annually",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.8",
+          "metric_name": "Percentage of Low\nIncome students\nMeeting or Exceeding\nstandards on the\nCalifornia Science Test\n(CAST)",
+          "baseline_raw": "+4% from baseline",
+          "year_1_outcome_raw": "56% of FVSD's 5th\nand 8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Met or\nExceeded\nStandards\" on the\n2023-24 California\nScience Test\n(CAST)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 5th\nand 8th grade\nSocioeconomically\nDisadvantaged\nstudents \"Meeting\nor Exceeding\nStandards\" on the\nCalifornia Science\nTest (CAST) by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "+4% from baseline",
+          "source_pages": [
+            39,
+            40
+          ],
+          "baseline": {
+            "raw": "+4% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+4% from baseline",
+                "numeric_values": [
+                  4.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "56% of FVSD's 5th\nand 8th grade",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "56% of FVSD's 5th",
+                "numeric_values": [
+                  56.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 5th",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 5th",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.9",
+          "metric_name": "Percentage of Students\nwith Special Needs\nMeeting or Exceeding\nstandards on the\nSmarter Balance\nAssessment for English\nLanguage Arts",
+          "baseline_raw": "+3% from baseline",
+          "year_1_outcome_raw": "36% of FVSD 3rd-\n8th grade Students\nwith Disabilities\n\"Met or Exceeded\nStandards\" on the\n2022-23 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd -\n8th grade Students\nwith Disabilities\n\"Meeting or\nExceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+          "current_difference_from_baseline_raw": "+3% from baseline",
+          "source_pages": [
+            40
+          ],
+          "baseline": {
+            "raw": "+3% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+3% from baseline",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "36% of FVSD 3rd-\n8th grade Students\nwith Disabilities\n\"Met or Exceeded\nStandards\" on the\n2022-23 Smarter\nBalanced\nAssessment for\nEnglish Language\nArts",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "36% of FVSD 3rd-",
+                "numeric_values": [
+                  36.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "8th grade Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with Disabilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Met or Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2022-23 Smarter",
+                "numeric_values": [
+                  2022.0,
+                  23.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd -\n8th grade Students\nwith Disabilities\n\"Meeting or\nExceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nEnglish Language\nArts by 2-3%\nannually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with Disabilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Meeting or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English Language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arts by 2-3%",
+                "numeric_values": [
+                  2.0,
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "annually",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.10",
+          "metric_name": "Percentage of Students\nwith Special Needs\nMeeting or Exceeding\nstandards on the\nSmarter Balance\nAssessment for\nMathematics",
+          "baseline_raw": "+2% from baseline",
+          "year_1_outcome_raw": "31% of FVSD 3rd-\n8th grade Students\nwith Disabilities\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 3rd -\n8th grade Students\nwith Disabilities\n\"Meeting or\nExceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "+2% from baseline",
+          "source_pages": [
+            40
+          ],
+          "baseline": {
+            "raw": "+2% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+2% from baseline",
+                "numeric_values": [
+                  2.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "31% of FVSD 3rd-\n8th grade Students\nwith Disabilities\n\"Met or Exceeded\nStandards\" on the\n2023-24 Smarter\nBalanced\nAssessment for\nMathematics",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "31% of FVSD 3rd-",
+                "numeric_values": [
+                  31.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "8th grade Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with Disabilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Met or Exceeded",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24 Smarter",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 3rd -\n8th grade Students\nwith Disabilities\n\"Meeting or\nExceeding\nStandards\" on the\nSmarter Balanced\nAssessment for\nMathematics by 2-\n3% annually",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd -",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with Disabilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"Meeting or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Standards\" on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Smarter Balanced",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assessment for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Mathematics by 2-",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "3% annually",
+                "numeric_values": [
+                  3.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.11",
+          "metric_name": "Percentage of Students\nwith Special Needs\nMeeting or Exceeding\nstandards on the\nCalifornia Science Test\n(CAST)",
+          "baseline_raw": "+10% from\nbaseline",
+          "year_1_outcome_raw": "24% of FVSD's 5th\nand 8th grade\nstudents with\ndisabilities \"Met or\nExceeded\nStandards\" on the\n2023-24 California\nScience Test\n(CAST)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase\npercentage of 5th\nand 8th grade\nStudents with\nDisabilities\n\"Meeting or\nExceeding\nStandards\" on the\nCalifornia Science\nTest (CAST) by 2-\n3% annually",
+          "current_difference_from_baseline_raw": "+10% from\nbaseline",
+          "source_pages": [
+            40,
+            41
+          ],
+          "baseline": {
+            "raw": "+10% from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+10% from",
+                "numeric_values": [
+                  10.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "24% of FVSD's 5th\nand 8th grade\nstudents with\ndisabilities \"Met or\nExceeded",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "24% of FVSD's 5th",
+                "numeric_values": [
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disabilities \"Met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Exceeded",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase\npercentage of 5th\nand 8th grade\nStudents with\nDisabilities",
+            "context_lines": [
+              "Increase"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 5th",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and 8th grade",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Students with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disabilities",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Provide coordinated\nservices for English\nLearners at school\nsites",
+          "description": "FVSD will utilize Initial ELPAC data to identify students learning English\nwith \"Novice\" level English language skills and provide them with primary\nlanguage support in the classroom to complement core instruction and\nEnglish Language Development instruction. In addition, FVSD will provide\ncomprehensive ELD instruction for English Learners of all levels including\nLong Term English Learners (LTELs) through an integrated instructional\ndelivery model that leverages research-based instructional strategies and\ninstructional resources across all grade levels. Targeted ELD instruction\nutilizing current researched based approaches is part of FVSD's newly\nadopted ELA curriculums, Study Sync - McGraw Hill grades 6-8 and\nBenchmark Workshop Expressions for elementary grades.\nThe anticipated immediate impact on our practices is that novice-level\nstudents will receive supplemental instructional support from bi-lingual\naides to assist with instructional activities led by the classroom teacher,\nand all other English learners will benefit from integrated ELD support in\nthe classroom. The anticipated long-term impact of this action on student\nlearning and behavior is an acceleration of the English language\ndevelopment process for student acquiring English. Overall, the impact of\nthis action is to ensure FVSD's instructional program supports the\nimplementation of State Standards and ensure that English Learners\nbenefit from a Broad Course of Study. This action is associated with\nmetrics 2.1, 2.2, 2.3, 2.4 and 2.5.",
+          "total_funds_raw": "$481,470.00",
+          "contributing_raw": "Yes\nXX",
+          "source_pages": [
+            43,
+            44
+          ],
+          "total_funds": 481470.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Provide coordinated\nsupport for Students\nwith Disabilities at\nschool sites that\nmaximize\nopportunities for\ninclusion in general\neducation settings.",
+          "description": "FVSD will provide coordinated support for students with disabilities at\nschool sites that maximize opportunities for meaningful participation in\ngeneral education settings through appropriate inclusion in the least\nrestrictive environment, as well as full inclusion through the co-teaching\ninstructional model based on the unique needs of students. The District will\nalso provide ongoing professional learning opportunities for educators that\nwork with students with special needs. The anticipated immediate impact\no n practices is that multiple-subject elementary classroom teachers, single-\nsubject middle school teachers, and educational specialists are provided\nwith additional release time to support collaborative instructional planning.\nIn addition, program specialists provide consultative and coaching support\nfor educators. The anticipated long-term impact of this action on student\nlearning and behavior is greater access to core curriculum alongside\ngeneral education peers which enhances academic achievement and\nsocialization opportunities for students with disabilities. Overall, the impact\nof this action is to ensure that FVSD's instructional program supports the\nimplementation of State Standards and CA Core Content Connectors and\nensures that students with disabilities benefit from a Broad Course of\nStudy. This action is associated with metrics 2.9, 2.10, and 2.11.",
+          "total_funds_raw": "$2,906,164.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            44
+          ],
+          "total_funds": 2906164.0,
+          "contributing": false
+        },
+        {
+          "action_number": "2.3",
+          "title": "Provide intervention\nfor students identified\nas performing below\ngrade level",
+          "description": "FVSD will provide intensive interventions to ensure that students from\nspecial populations (including English Learners, Socioeconomically\nDisadvantaged Students, Homeless and Foster Youth) receive the\nadditional academic support needed to close the Achievement Gap.\nIntervention supports follow a three-tiered model featuring (1) differentiated\n\"Best First\" instruction in the classroom, (2) targeted reading and/or math\nsupport provided by reading/math intervention teachers, and (3) intensive\ninterventions provided by educational specialists. The anticipated\nimmediate impact on our practices is systematic efforts providing targeted\nintervention for students performing below grade level during the school\nday, beyond the school day, and outside of the traditional 180-day school\ncalendar. The anticipated long-term impact of this action on student\nlearning and behavior is higher levels of academic achievement for\nstudents from special populations through participating in targeted\ninstructional opportunities during the school day, beyond the school day,\nand outside of the traditional 180-day school calendar.\nThis action is associated with metrics 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and\n2.8.\nNote: Starting in 2026-27 LCAP, LREGB funds in the amount of\n$345,000.00 are allocated for Action 2.3 that contributes to the success of\nstudent academic achievement via Tier 2 intensive interventions for\nstudents identified as English Learners, Socioeconomically Disadvantaged,\nHomeless, and Foster Youth.",
+          "total_funds_raw": "$1,272,795.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            45
+          ],
+          "total_funds": 1272795.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.4",
+          "title": "Utilize Teachers on\nSpecial Assignment\n(TOSAs) to support\nteachers in meeting\nthe needs of students\nfrom special\npopulations",
+          "description": "FVSD will identify teachers who possess specific content-area and grade-\nlevel expertise to serve as Teachers on Special Assignment (TOSA). The\nanticipated immediate impact on these practices is providing ongoing\nprofessional development and coaching for classroom teachers by their\ncolleagues to support the ongoing implementation of FVSDs Signature\nPractices of Balanced Literacy, Cognitively-Guided Instruction (CGI), and\ncommon curriculum components across grade levels, especially for the\nsuccess of English Learners, Low Income, Foster Youth and Homeless\nstudents. The anticipated long-term impact of this action on student\nlearning and behavior is improved academic outcomes for students from\nspecial populations (including English Learners, Socioeconomically\nDisadvantaged Students, Homeless and Foster Youth) due to continuous\nimprovement of \"Best\" First Instruction in all classrooms. This action is\nassociated with metrics 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10 and\n2.11.",
+          "total_funds_raw": "$645,241.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            45,
+            46
+          ],
+          "total_funds": 645241.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.5",
+          "title": "Provide coordinated\nservices for students\nidentified as Gifted &\nTalented",
+          "description": "FVSD will utilize a standardized aptitude test (such as the Pearson OLSAT\n8) and other metrics to identify students for participation in the Gifted &\nTalented Education Program. The identification criteria will be differentiated\nto ensure maximized opportunities for students in special population\ngroups (including English Learners, Low-Income Students, and Students\nwith Special Needs). In addition, resources will be designated to ensure\ncoordination of programming at school sites and to provide teachers with\ntraining related to the use of integrated Depth & Complexity Prompts. The\nimmediate impact on our practices is that students will participate in\nrigorous instructional activities that extend learning and engage in content\nthrough deeper and broader complex thinking. The long-term impact of this\naction on student learning is the development of complex thinking\nstrategies and improved preparation for advanced curriculum/advanced\nplacement courses in high school. This action is associated with metrics\n2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11.",
+          "total_funds_raw": "$30,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            46
+          ],
+          "total_funds": 30000.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "Fountain Valley School District's goal is to support the academic success of students by working to\nensure that all parents are engaged and play an active role in the school community.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        47
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "Parent Engagement\nActivities/Events\n(including parent-teacher\norganization events,\nstudent performances,\nsite-level committees,\ndistrict-level committees,\nparent trainings, etc.)",
+          "baseline_raw": "Current with the\nbaseline",
+          "year_1_outcome_raw": "Over 350+ parent\nengagement\nactivities/events,\nstudent\nperformances,\nsite-level\ncommittees,\ndistrict parent\ncommittees, parent\ntrainings, etc., are\ncalendared\nannually offering\nopportunity for\nparents to engage\nin FVSD learning\nand experiences in\nthe 2024-25 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain at or\nabove 350 annual\ncalendared parent\nengagement\nactivities/events,\nstudent\nperformances,\nsite-level\ncommittees,\ndistrict parent\ncommittees, parent\ntrainings, etc aer\ncalendared\nannually offering\nopportunity for\nparents to engage\nin FVSD learning\nand experiences.",
+          "current_difference_from_baseline_raw": "Current with the\nbaseline",
+          "source_pages": [
+            47,
+            48
+          ],
+          "baseline": {
+            "raw": "Current with the\nbaseline",
+            "context_lines": [
+              "Current with the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Over 350+ parent\nengagement\nactivities/events,\nstudent\nperformances,\nsite-level\ncommittees,\ndistrict parent\ncommittees, parent\ntrainings, etc., are",
+            "context_lines": [
+              "Over 350+ parent"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "engagement",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "activities/events,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "student",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performances,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "site-level",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "committees,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "district parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "committees, parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "trainings, etc., are",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain at or\nabove 350 annual\ncalendared parent\nengagement\nactivities/events,\nstudent\nperformances,\nsite-level\ncommittees,\ndistrict parent",
+            "context_lines": [
+              "Maintain at or"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "above 350 annual",
+                "numeric_values": [
+                  350.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "calendared parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "engagement",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "activities/events,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "student",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performances,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "site-level",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "committees,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "district parent",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.2",
+          "metric_name": "Fall Parent-Teacher\nConferences",
+          "baseline_raw": "+2% from baseline",
+          "year_1_outcome_raw": "95% parent\nparticipation rate\nfor Fall Parent-\nTeacher\nconferences\nduring 2024-25\nschool year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Parent\nparticipation rate of\n95% or higher for\nFall Parent-\nTeacher\nconferences",
+          "current_difference_from_baseline_raw": "+2% from baseline",
+          "source_pages": [
+            48
+          ],
+          "baseline": {
+            "raw": "+2% from baseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+2% from baseline",
+                "numeric_values": [
+                  2.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "95% parent\nparticipation rate\nfor Fall Parent-\nTeacher\nconferences\nduring 2024-25\nschool year",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "95% parent",
+                "numeric_values": [
+                  95.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "participation rate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for Fall Parent-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Teacher",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "conferences",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "during 2024-25",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Parent\nparticipation rate of\n95% or higher for\nFall Parent-\nTeacher\nconferences",
+            "context_lines": [
+              "Parent"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "participation rate of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "95% or higher for",
+                "numeric_values": [
+                  95.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Fall Parent-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Teacher",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "conferences",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.3",
+          "metric_name": "Written Translations of\nDocuments",
+          "baseline_raw": "Current with the\nbaseline",
+          "year_1_outcome_raw": "400+ documents\nare translated by\nFVSD staff for\ndistribution to\nfamilies during the\n2024-25 school\nyear",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain or\nincrease the 400+\ndocuments\ntranslated by\nFVSD staff into\nmajority languages\nrepresented by the\nFVSD community",
+          "current_difference_from_baseline_raw": "Current with the\nbaseline",
+          "source_pages": [
+            48
+          ],
+          "baseline": {
+            "raw": "Current with the\nbaseline",
+            "context_lines": [
+              "Current with the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "400+ documents\nare translated by\nFVSD staff for\ndistribution to\nfamilies during the\n2024-25 school\nyear",
+            "context_lines": [
+              "400+ documents"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "are translated by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD staff for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "distribution to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "families during the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2024-25 school",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain or\nincrease the 400+\ndocuments\ntranslated by\nFVSD staff into\nmajority languages\nrepresented by the\nFVSD community",
+            "context_lines": [
+              "Maintain or"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "increase the 400+",
+                "numeric_values": [
+                  400.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "documents",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "translated by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD staff into",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "majority languages",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "represented by the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD community",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.4",
+          "metric_name": "Oral interpretation\nsupport for parent\nmeetings and events",
+          "baseline_raw": "Current with the\nbaseline",
+          "year_1_outcome_raw": "350+\nmeetings/events\nwith families\nincluding school\nregistration, parent\nconferences, IEPs,\nparent trainings\nand social events.,\nwere supported by\nFVSD translators\nduring the 2024-25\nschool year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain or\nincrease the 350+\nmeetings/events\nwith interpreter\nsupport for families\nattending these\nFVSD\nopportunities",
+          "current_difference_from_baseline_raw": "Current with the\nbaseline",
+          "source_pages": [
+            48
+          ],
+          "baseline": {
+            "raw": "Current with the\nbaseline",
+            "context_lines": [
+              "Current with the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "350+\nmeetings/events\nwith families\nincluding school\nregistration, parent\nconferences, IEPs,\nparent trainings\nand social events.,\nwere supported by\nFVSD translators\nduring the 2024-25\nschool year",
+            "context_lines": [
+              "350+"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "meetings/events",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with families",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "including school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "registration, parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "conferences, IEPs,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parent trainings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and social events.,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "were supported by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD translators",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "during the 2024-25",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain or\nincrease the 350+\nmeetings/events\nwith interpreter\nsupport for families\nattending these\nFVSD\nopportunities",
+            "context_lines": [
+              "Maintain or"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "increase the 350+",
+                "numeric_values": [
+                  350.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meetings/events",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with interpreter",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "support for families",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "attending these",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "opportunities",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Parent Education and\nTraining to parents of\nstudents from special\npopulations",
+          "description": "FVSD will provide parent education and training to support involvement in\nschool-sponsored activities including parent organizations (PTA/PTO),\ncampus activities, school advisory councils, and student achievement. The\nanticipated immediate impact on practices will be enhanced outreach to all\nparents, especially parents of English learners, low-income students,\nhomeless students, foster youth, and families of students with special\nneeds.\nThe anticipated long-term positive impact of this action will be improved\nstudent learning and behavior due to increased parent awareness and\neducation of academic/behavioral expectations for students and\ninstructional pedagogy utilized in FVSD classrooms. In addition, FVSD will\nengage in ongoing outreach efforts to involve parents of students in special\npopulations (English Learner, Socioeconomically Disadvantaged,\nHomeless, and Foster Youth) on district-level and school-level committees\nsuch as School Site Council, leadership roles within PTA/PTO groups,\nmembership on English Learner Advisory Committees (district and school),\nSuperintendent's Parent Council, Safe Schools Task Force, and the LCAP\nLeadership Team.\nFVSD will gather input from parents of English learners and parents of\nLow-income students through the annual EL Parent Survey and Title I\nParent Survey. The anticipated immediate impact on staff will be to engage\nin active, ongoing, and targeted recruitment efforts to encourage parents of\nstudents from special populations to participate in the aforementioned\nparent leadership roles. The anticipated long-term positive impact of this\naction on student learning and behavior will be detail-informed practices by\nDistrict staff resulting from input gathered through more diverse\nrepresentation within these important stakeholder groups.\nThis action is associated with metric 3.1.",
+          "total_funds_raw": "$13,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            50,
+            51
+          ],
+          "total_funds": 13000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.2",
+          "title": "Use of technology\nsolutions, social\nmedia venues and\nnewsletter for\noutreach to families",
+          "description": "FVSD will leverage multiple technology solutions, social media venues,\nand newsletters to inform parents, promote involvement, and solicit input.\nThe anticipated immediate impact on practices will be the presentation of\ntimely and accurate information for parents on the District website, school\nw ebsites, technology platforms, and social media platforms. In addition, the\nSuperintendent and school principals will draft and distribute frequent\nnewsletters and updates on a recurring basis during the school year and\nsend frequent communications via various digital platforms. The\nanticipated long-term positive impact on student achievement and behavior\nwill be a frequently-informed parent community that is well-informed about\ncampus activities and parent involvement opportunities at the District level.\nThis action is associated with metrics 3.1, 3.2, 3.3, and 3.4.\nNote: Starting in 2026-27 LCAP, LREBG funds in the amount of\n$33,000.00 are allocated to support Action 3.2 that contributes to\nsuccessful parent communication via the use of technology platforms for\nstudents identified as English Learners, Socioeconomically Disadvantaged,\nHomeless, and Foster Youth.",
+          "total_funds_raw": "$80,224.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            51,
+            52
+          ],
+          "total_funds": 80224.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.3",
+          "title": "Bi-lingual Community\nLiaison",
+          "description": "FVSD will provide a District Bi-lingual Community Liaison (Vietnamese-\nfluent) to support oral interpretations and written translations. The\nanticipated immediate impact on practices is enhanced access and support\nfor non-English speaking parents provided in the form of oral interpretation\nsupport for various parent meetings and written translation of documents\n(i.e., LCAP, Federal Addendum, School Accountability Report Cards, etc.).\nThe anticipated long-term positive impact on student learning and behavior\nof this action is a widely-informed parent population that is equipped with\nmore accessible and detailed information about the school district,\ninstructional practices, and programs available to support students from\nnon-English speaking homes. This action is associated with metrics 3.1,\n3.2, 3.3, and 3.4.\nNote: For the 2025-26 school year, FVSD will utilize federal Title III funds\nto support this actions rather than LCFF supplemental.",
+          "total_funds_raw": "$105,628.00",
+          "contributing_raw": "No\nEnglish Learner Fam ilies -\nTitle III Funds",
+          "source_pages": [
+            52
+          ],
+          "total_funds": 105628.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "4",
+      "description": "Fountain Valley School District's goal is to support the academic success of students by ensuring\nthey have access to a safe, supportive, and nurturing environment that promotes engagement and\nschool connectedness.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        53
+      ],
+      "metrics": [
+        {
+          "metric_number": "4.1",
+          "metric_name": "Suspension Rate",
+          "baseline_raw": "+0.4% from\nbaseline",
+          "year_1_outcome_raw": "Suspension rate\nfor the 2023-24\nschool year\nreported on the\n2024 dashboard\nfor All Students\nwas Orange with\n1.6% for all\nstudents.\nRed subgroups =\nZero\nOrange subgroup\n= Pacific Islander,\nSocioeconomic\ndisadvantages,\nand student with\ndisabilities.\nPreviously red\nsubgroups\nimproved in status\nin 2023-24.\nSchools\nDashboard)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain\nsuspension rate at\nor below 1.0%.\nAchieve or\nmaintain CA\nDashboard\nIndicator of \"Blue\"\nor \"Green\" for\nFVSD overall\nsubgroups and\nindividual school\nsites subgroups",
+          "current_difference_from_baseline_raw": "+0.4% from\nbaseline",
+          "source_pages": [
+            54,
+            55
+          ],
+          "baseline": {
+            "raw": "+0.4% from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+0.4% from",
+                "numeric_values": [
+                  0.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Suspension rate\nfor the 2023-24\nschool year\nreported on the\n2024 dashboard\nfor All Students\nwas Orange with\n1.6% for all\nstudents.\nRed subgroups =\nZero\nOrange subgroup\n= Pacific Islander,\nSocioeconomic\ndisadvantages,\nand student with\ndisabilities.\nPreviously red\nsubgroups\nimproved in status\nin 2023-24.",
+            "context_lines": [
+              "Suspension rate"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "for the 2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported on the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2024 dashboard",
+                "numeric_values": [
+                  2024.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "for All Students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "was Orange with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "1.6% for all",
+                "numeric_values": [
+                  1.6
+                ]
+              },
+              {
+                "label": null,
+                "value": "students.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Red subgroups =",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Zero",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Orange subgroup",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "= Pacific Islander,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Socioeconomic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disadvantages,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and student with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disabilities.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Previously red",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroups",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "improved in status",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "in 2023-24.",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain\nsuspension rate at\nor below 1.0%.\nAchieve or\nmaintain CA\nDashboard\nIndicator of \"Blue\"\nor \"Green\" for\nFVSD overall\nsubgroups and\nindividual school\nsites subgroups",
+            "context_lines": [
+              "Maintain"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "suspension rate at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or below 1.0%.",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Achieve or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "maintain CA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator of \"Blue\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or \"Green\" for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD overall",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroups and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "individual school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "sites subgroups",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.4",
+          "metric_name": "Chronic Absenteeism",
+          "baseline_raw": "Decline of +3.7%\nfrom baseline. This\nreflects a 3.7%\nimprovement in\nChronic\nAbsenteeism.",
+          "year_1_outcome_raw": "Overall Chronic\nAbsenteeism rate\nfor the 2023-24\nschool year based\non the 2024 CA\nSchools\nDashboard was\n9.4%\nCA Dashboard\nIndicator of Green\nfor Overall FVSD\nsubgroups\nincludes:\nRed=\nFoster Youth =\n40% (n=20)\nPacific Islander =\n25.7% (n=35)\nDashboard\nIndicator of Red for\nChronic\nAbsenteeism for\nspecific school site\n2023-24\nsubgroups\nincludes:",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain FVSD\noverall chronic\nabsenteeism rate\n\"at or below\" 3.0%\nAchieve or\nmaintain CA\nDashboard\nIndicator of \"Blue\"\nor \"Green\" for\nFVSD overall\nsubgroups and\nindividual school\nsites subgroups",
+          "current_difference_from_baseline_raw": "Decline of +3.7%\nfrom baseline. This\nreflects a 3.7%\nimprovement in\nChronic\nAbsenteeism.",
+          "source_pages": [
+            55
+          ],
+          "baseline": {
+            "raw": "Decline of +3.7%\nfrom baseline. This\nreflects a 3.7%\nimprovement in\nChronic\nAbsenteeism.",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Decline of +3.7%",
+                "numeric_values": [
+                  3.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "from baseline. This",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reflects a 3.7%",
+                "numeric_values": [
+                  3.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "improvement in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Chronic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Absenteeism.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Overall Chronic\nAbsenteeism rate\nfor the 2023-24\nschool year based\non the 2024 CA\nSchools\nDashboard was\n9.4%\nCA Dashboard\nIndicator of Green\nfor Overall FVSD\nsubgroups\nincludes:\nRed=\nFoster Youth =\n40% (n=20)\nPacific Islander =\n25.7% (n=35)\nDashboard\nIndicator of Red for\nChronic\nAbsenteeism for\nspecific school site\n2023-24\nsubgroups\nincludes:",
+            "context_lines": [
+              "Overall Chronic"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "Absenteeism rate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for the 2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year based",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "on the 2024 CA",
+                "numeric_values": [
+                  2024.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Schools",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard was",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9.4%",
+                "numeric_values": [
+                  9.4
+                ]
+              },
+              {
+                "label": null,
+                "value": "CA Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator of Green",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for Overall FVSD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroups",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "includes:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Red=",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Foster Youth =",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "40% (n=20)",
+                "numeric_values": [
+                  40.0,
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Pacific Islander =",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "25.7% (n=35)",
+                "numeric_values": [
+                  25.7,
+                  35.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator of Red for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Chronic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Absenteeism for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "specific school site",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "2023-24",
+                "numeric_values": [
+                  2023.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "subgroups",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "includes:",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain FVSD\noverall chronic\nabsenteeism rate\n\"at or below\" 3.0%\nAchieve or\nmaintain CA\nDashboard\nIndicator of \"Blue\"\nor \"Green\" for\nFVSD overall\nsubgroups and\nindividual school\nsites subgroups",
+            "context_lines": [
+              "Maintain FVSD"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "overall chronic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "absenteeism rate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"at or below\" 3.0%",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Achieve or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "maintain CA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Dashboard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Indicator of \"Blue\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "or \"Green\" for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSD overall",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subgroups and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "individual school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "sites subgroups",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.6",
+          "metric_name": "Percentage of 3rd-5th\ngrade students reporting\nthat they \"feel safe when\nthey are at school all or\nmost of the time\" on\nFVSDs Core SEL\nSurvey",
+          "baseline_raw": "Current with\nbaseline",
+          "year_1_outcome_raw": "83% of 3rd-5th\ngrade students\nreported that they\n\"feel safe or very\nsafe at school\" on\nFVSDs Core SEL\nSurvey\nadministered\nduring the 2024-25\nschool year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase the\npercentage of 3rd-\n5th grade students\nreporting that they\n\"feel safe when\nthey are at school\nall or most of the\ntime\" on FVSDs\nCore SEL Survey\nto 90.0% or higher",
+          "current_difference_from_baseline_raw": "Current with\nbaseline",
+          "source_pages": [
+            56
+          ],
+          "baseline": {
+            "raw": "Current with\nbaseline",
+            "context_lines": [
+              "Current with"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "83% of 3rd-5th\ngrade students\nreported that they\n\"feel safe or very\nsafe at school\" on\nFVSDs Core SEL\nSurvey\nadministered\nduring the 2024-25\nschool year",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "83% of 3rd-5th",
+                "numeric_values": [
+                  83.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported that they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"feel safe or very",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "safe at school\" on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSDs Core SEL",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Survey",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "administered",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "during the 2024-25",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase the\npercentage of 3rd-\n5th grade students\nreporting that they\n\"feel safe when\nthey are at school\nall or most of the\ntime\" on FVSDs\nCore SEL Survey\nto 90.0% or higher",
+            "context_lines": [
+              "Increase the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 3rd-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "5th grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reporting that they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"feel safe when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "they are at school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "all or most of the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "time\" on FVSDs",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Core SEL Survey",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to 90.0% or higher",
+                "numeric_values": [
+                  90.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "4.7",
+          "metric_name": "Percentage of 6th-8th\ngrade students reporting\nthat they \"feel safe when\nthey are at school all or\nmost of the time\" on\nFVSDs Core SEL\nSurvey",
+          "baseline_raw": "+3.7% from\nbaseline",
+          "year_1_outcome_raw": "72.7% of 6th-8th\ngrade students\nreported that they\n\"feel safe or very\nsafe at school\" on\nFVSDs Core SEL\nSurvey\nadministered\nduring the 2024-25\nschool year",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Increase the\npercentage of 6th-\n8th grade students\nreporting that they\n\"feel safe when\nthey are at school\nall or most of the\ntime\" on FVSDs\nCore SEL Survey\nto 75.0% or higher",
+          "current_difference_from_baseline_raw": "+3.7% from\nbaseline",
+          "source_pages": [
+            56,
+            57
+          ],
+          "baseline": {
+            "raw": "+3.7% from\nbaseline",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "+3.7% from",
+                "numeric_values": [
+                  3.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "72.7% of 6th-8th\ngrade students\nreported that they\n\"feel safe or very\nsafe at school\" on\nFVSDs Core SEL\nSurvey\nadministered",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "72.7% of 6th-8th",
+                "numeric_values": [
+                  72.7
+                ]
+              },
+              {
+                "label": null,
+                "value": "grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported that they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"feel safe or very",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "safe at school\" on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "FVSDs Core SEL",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Survey",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "administered",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Increase the\npercentage of 6th-\n8th grade students\nreporting that they\n\"feel safe when\nthey are at school\nall or most of the\ntime\" on FVSDs",
+            "context_lines": [
+              "Increase the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "percentage of 6th-",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8th grade students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reporting that they",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"feel safe when",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "they are at school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "all or most of the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "time\" on FVSDs",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "4.1",
+          "title": "Develop leadership\ncapacity needed to\npromote engagement\nand school\nconnectedness",
+          "description": "Continue to develop the leadership capacity within the District to\nsuccessfully implement instructional initiatives and build a culture of\ncontinuous improvement by providing training and coaching related to\nschool-wide systems of support for staff. Implementation of this action will\nrevolve around ongoing professional growth opportunities for site and\ndistrict administrators, as well as resources to support the ongoing work of\nSchool Leadership Teams. The anticipated immediate impact of this action\nwill be the dedication of time for training of site administrators and\nopportunities for school leadership teams to collaborate on issues related\nto school culture and student connectedness. The anticipated long-term\npositive impact of this action will be improved safety and school climates,\nwhere there are ever-expanding opportunities for students to become\nengaged and connected to their school.\nThis action contributes to supporting students who are English Learners,\nFoster Youth as well as Low Income.\nThis action is associated with metrics 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, and 4.7.",
+          "total_funds_raw": "$30,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            59
+          ],
+          "total_funds": 30000.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.2",
+          "title": "Communicate with\nparents regarding\nstudent absences\nand the importance\nof school attendance",
+          "description": "Maintain timely communication with parents, both oral and written, about\nattendance policies and the impact of absences on learning. Leverage\nmulti-tiered systems of support, including site-level interventions and the\nSchool Attendance Review Board process, to address chronic\na b senteeism and promote re-engagement and school connectedness. The\nanticipated immediate impact of this action will be a positive impact on\nparent awareness and education of importance related to student\nattendance. The anticipated long-term positive impact of this action will be\nthe continued fostering of a community culture that places high value on\nthe importance of school attendance as a direct, contributing component of\nacademic and social-emotional success of students.\nIn addition, this action specifically addresses to improve the areas of\nchronic absenteeism and suspension rates for all students, especially\npreviously identified groups listed in the above Goal 4 overview, especially\nFVSD overall chronic absenteeism and suspension rates for African\nAmerican and foster youth.\nThis action is associated with metrics 4.3, 4.4, and 4.5.",
+          "total_funds_raw": "$65,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            60
+          ],
+          "total_funds": 65000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "4.3",
+          "title": "Health services and\nhealth education",
+          "description": "Health services and health education will be provided to ensure the\nphysical safety and well-being of students throughout the school day.\nImplementation of this action will involve the staffing of school nurses and\nhealth aides, ongoing training for those team members, and providing\nresources necessary to administer basic first aid at school sites. The\nanticipated immediate impact of this action will be ongoing access to\nhealth-related support and health education for students, resulting in\nimproved physical safety for students throughout the school day, as well as\na broader knowledge base related to healthy lifestyle choices which\npromote overall wellness. The anticipated long-term positive impact of this\naction will be a healthier student population that is prepared to make\ninformed decisions regarding lifestyle choices that promote social-\nemotional and physical wellness.\nThis action contributes to supporting students who are English Learners,\nFoster Youth as well as Low Income.\nThis action is associated with metrics 4.3, 4.4, 4.5, 4.6, and 4.7.",
+          "total_funds_raw": "$695,286.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            60,
+            61
+          ],
+          "total_funds": 695286.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.4",
+          "title": "Social-emotional\nsupport for\nelementary students",
+          "description": "Provide social-emotional support to help ensure the emotional well-being\nof students by providing access to mental health professionals and\nin s tructional activities related to social-emotional wellness throughout the\nschool year. The anticipated immediate impact of this action will be\nimproved social-emotional learning experiences for all elementary-aged\nstudents, as well as access to counseling and support services for\nstudents in need of additional support. The anticipated long-term positive\nimpact of this action will be improved social-emotional wellness for all\nelementary-aged students as they prepare to transition from the\nelementary school setting to the middle school setting.\nThis action is associated with metrics 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, and 4.7.\nNote: Starting in 2026-27 LCAP, LREBG funds in the amount of\n$380,000.00 are allocated for Action 4.4 that contributes to the emotional\nwell-being of students identified as English Learners, Socioeconomically\nDisadvantaged, Homeless, and Foster Youth.",
+          "total_funds_raw": "$935,984.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            61
+          ],
+          "total_funds": 935984.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.5",
+          "title": "Middle school\ncounseling program",
+          "description": "Utilize middle school counselors to provide social-emotional support for\ns t udents and help to create secondary academic plans focused on college\nand career goals. The anticipated immediate impact of this action will be\nimproved social-emotional learning experiences for all middle school\nstudents, as well as access to counseling and support services to assist\nstudents in need of additional support. The anticipated long-term positive\nimpact of this action will be improved social-emotional wellness for all\nmiddle school-aged students as they prepare to transition from the middle\nschool setting to the high school setting. The focus on helping students to\ncreate secondary academic plans focused on college and career goals will\nhelp to expand students' knowledge base related to high school\ninstructional programming opportunities, college admissions requirements,\ndegree options (Associates, Bachelor's, etc.), and help students to engage\nin the exploration of career goals.\nThis action contributes to supporting students who are English Learners,\nFoster Youth as well as Low Income.\nThis action is associated with metrics 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, and 4.7.",
+          "total_funds_raw": "$388,976.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            61,
+            62
+          ],
+          "total_funds": 388976.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.6",
+          "title": "District-wide support\nfor student behaviors",
+          "description": "Implement and communicate to educational partners a consistent, district-\nw i d e approach for supporting student behavior including alternatives to\nsuspension and expulsion. The anticipated immediate impact of this action\nwill be ongoing training for teachers, staff, and administrators related to\nstudent behavior management and the development of school-wide\nsystems of support to establish and instill an understanding of school-\nrelated behavioral expectations. The anticipated long-term positive impact\nof this action will be reduced suspension and expulsion rates, improved\ncampus climates, and higher levels of positive behaviors by students\nachieved through education and positive reinforcement of school-\nappropriate behaviors especially in the subgroups of English Learners,\nFoster Youth, Low Income and students experiencing homelessness.\nThis action is associated with metrics 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, and 4.7.\nNote: Starting in 2026-27 LCAP, LREBG funds in the amount of\n$245,000.00 are allocated for Action 4.4 that contributes to the positive\nbehavioral expectations of students identified as English Learners,\nSocioeconomically Disadvantaged, Homeless, and Foster Youth.",
+          "total_funds_raw": "$249,576.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            62
+          ],
+          "total_funds": 249576.0,
+          "contributing": true
+        },
+        {
+          "action_number": "4.7",
+          "title": "Promote student\nengagement and\nschool\nconnectedness",
+          "description": "Promote student engagement and school connectedness through ongoing\nactivities such as noon sports leagues, inter-scholastic athletics\ncompetitions at the middle school level, and student clubs (e.g., chess\nclubs, debate clubs, reading clubs, lego clubs, and robotics clubs). The\nanticipated immediate impact of this action will be the ongoing expansion\nof elective offerings and student activities to better engage students and\nimprove school connectedness. This will also help students to explore\nareas of interest to prepare for high school instructional programming, as\nwell as college and career opportunities. The anticipated long-term positive\nimpact of this action will be an expanded repertoire of elective offerings\nand student activities offered on FVSD campuses that will help broaden\nstudents' areas of interest.\nThis action contributes to supporting students who are English Learners,\nFoster Youth as well as Low Income.\nThis action is associated with metrics 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, and 4.7.",
+          "total_funds_raw": "$30,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            62,
+            63
+          ],
+          "total_funds": 30000.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "5",
+      "description": "To support the academic success of students, school facilities will be clean, safe, and effectively\nsupport a 21st Century education.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        64
+      ],
+      "metrics": [
+        {
+          "metric_number": "5.1",
+          "metric_name": "Facilities Inspection Tool\n(FIT)\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "baseline_raw": "Current with\nbaseline\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26 and\n2026-27. Leave blank\nuntil then.",
+          "year_1_outcome_raw": "Overall \"Good\"\nstatus achieved on\nthe 2024-24\nFacilities\nInspection Tool\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+          "year_2_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2026-27. Leave\nblank until then.",
+          "year_3_target_raw": "Overall \"Good\"\nstatus: Maintain\n100%\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "current_difference_from_baseline_raw": "Current with\nbaseline",
+          "source_pages": [
+            64,
+            109
+          ],
+          "baseline": {
+            "raw": "Current with\nbaseline",
+            "context_lines": [
+              "Current with"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "baseline",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Overall \"Good\"\nstatus achieved on\nthe 2024-24\nFacilities\nInspection Tool",
+            "context_lines": [
+              "Overall \"Good\""
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "status achieved on",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the 2024-24",
+                "numeric_values": [
+                  2024.0,
+                  24.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "Facilities",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Inspection Tool",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Overall \"Good\"\nstatus: Maintain\n100%",
+            "context_lines": [
+              "Overall \"Good\""
+            ],
+            "entries": [
+              {
+                "label": "status",
+                "value": "Maintain",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "5.1",
+          "title": "Provide clean and\nwell-maintained\nschool campuses",
+          "description": "Provide appropriate staffing, supplies, and services to ensure District\nfacilities are clean and well-maintained. The anticipated immediate benefits\nof this action are improved academic outcomes for students due to the\npositive impact of clean and well-maintained classrooms on student\nattendance and improved staff morale. The anticipated long- term positive\nbenefits of this action are reduced costs of maintaining facilities and\naesthetically appealing campuses which are great sources of pride within\nthe community. The metric associated with this action is metric 5.1.",
+          "total_funds_raw": "$8,377,710.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            67
+          ],
+          "total_funds": 8377710.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.2",
+          "title": "Fund and execute\nthe District's Deferred\nMaintenance Plan",
+          "description": "Fund a deferred maintenance plan based on the priorities identified in the\nFVSD Facilities Master Plan. The anticipated immediate benefit of this\naction is the availability of resources to ensure FVSD campuses are\nproperly maintained and have properly functioning systems and\ninfrastructure. The anticipated long-term positive benefits of this action are\nreduced costs of maintaining facilities and aesthetically appealing\ncampuses that are great sources of pride within the community. This action\nis associated with metric 5.1.",
+          "total_funds_raw": "$250,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            67
+          ],
+          "total_funds": 250000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.3",
+          "title": "Provide and maintain\nthe infrastructure to\nsupport instructional\ntechnology",
+          "description": "Procurement of necessary hardware and software to support the District's\ntechnology infrastructure. The anticipated immediate benefits of this action\nare universal access to individual devices for students across all grade\nlevels and a state-of-the-art network backbone providing infrastructure to\nensure uninterrupted access to high-speed internet for staff and students.\nThe anticipated long-term positive benefits of this action are increased\nlevels of student engagement and achievement and greater access to\nemerging technologies.\nThis action is associated with metric 5.1.\nNote: Starting in 2026-27 LCAP, LREBG funds in the amount of\n$33,000.00 are allocated for Action 5.3 that supports successful\ntechnology use for all students.",
+          "total_funds_raw": "$52,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            67
+          ],
+          "total_funds": 52000.0,
+          "contributing": false
+        },
+        {
+          "action_number": "5.4",
+          "title": "Site safety resources,\nsupplies and training",
+          "description": "Support for site safety through the maintenance of emergency supplies\na n d staff training. The anticipated immediate and long-term benefits of this\naction include school staff members who are better prepared to navigate\nemergency situations and improved resources available for staff to utilize\nin the event of an emergency. This action is associated with metric 5.1.",
+          "total_funds_raw": "$75,000.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            68
+          ],
+          "total_funds": 75000.0,
+          "contributing": false
+        }
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 5,
+  "metric_count": 29,
+  "action_count": 29
+}

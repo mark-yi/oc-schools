@@ -1,0 +1,3002 @@
+{
+  "source_file": "Cypress.pdf",
+  "source_path": "/Users/markyi/repos/projects/oc-schools/lcaps/Cypress.pdf",
+  "district_name": "Cypress School District",
+  "school_year": "2025",
+  "goals": [
+    {
+      "goal_number": "1",
+      "description": "Provide comprehensive, well-rounded, and rigorous educational experiences to all students, aligned\nto California State Standards.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        14
+      ],
+      "metrics": [
+        {
+          "metric_number": "1.1",
+          "metric_name": "Teachers will be\nappropriately assigned\nand fully credentialed in\nthe subject area and for\nthe students they are\nteaching\n(Priority 1)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "As reported in the\nCalifornia\nStatewide\nAssignment\nAccountability\nSystem (CalSAAS)\n100% of teachers\nare appropriately\nassigned and fully\ncredentialed in the\nsubject area and\nfor the students\nthey are teaching\n100% of English\nlearners are taught\nby teachers having\nthe appropriate\nEnglish learner\nauthorization",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of teachers\nwill be\nappropriately\nassigned and fully\ncredentialed in the\nsubject area and\nfor the students\nthey are teaching\n100% of English\nlearners will be\ntaught by teachers\nhaving the\nappropriate\nEnglish learner\nauthorization",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            15
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "As reported in the\nCalifornia\nStatewide\nAssignment\nAccountability\nSystem (CalSAAS)\n100% of teachers\nare appropriately\nassigned and fully\ncredentialed in the\nsubject area and\nfor the students\nthey are teaching\n100% of English\nlearners are taught\nby teachers having\nthe appropriate\nEnglish learner\nauthorization",
+            "context_lines": [
+              "As reported in the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "California",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Statewide",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Assignment",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Accountability",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "System (CalSAAS)",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "are appropriately",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assigned and fully",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "credentialed in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subject area and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for the students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "they are teaching",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of English",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "learners are taught",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "by teachers having",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "the appropriate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English learner",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "authorization",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of teachers\nwill be\nappropriately\nassigned and fully\ncredentialed in the\nsubject area and\nfor the students\nthey are teaching\n100% of English\nlearners will be\ntaught by teachers\nhaving the\nappropriate\nEnglish learner\nauthorization",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of teachers",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "will be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "appropriately",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "assigned and fully",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "credentialed in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "subject area and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for the students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "they are teaching",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of English",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "learners will be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "taught by teachers",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "having the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "appropriate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English learner",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "authorization",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.2",
+          "metric_name": "Percent of students who\nwill have access to the\nstandards-aligned\ninstructional materials\n(Priority 1)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "As measured by\nthe Sufficiency of\nInstructional\nMaterials and\nquarterly William's\nreports\n100% of the\nstudents in the\nschool district have\nsufficient access to\nthe standards-\naligned\ninstructional\nmaterials\n100% of English\nlearners have\nsufficient access to\nthe standards-\naligned\ninstructional\nmaterials",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of the\nstudents in the\nschool district will\nhave sufficient\naccess to the\nstandards-aligned\ninstructional\nmaterials\n100% of English\nlearners will have\nsufficient access to\nthe standards-\naligned\ninstructional\nmaterials",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            15,
+            16
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "As measured by\nthe Sufficiency of\nInstructional\nMaterials and",
+            "context_lines": [
+              "As measured by"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "the Sufficiency of",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Instructional",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Materials and",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of the\nstudents in the\nschool district will\nhave sufficient\naccess to the",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of the",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students in the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school district will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have sufficient",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "access to the",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.3",
+          "metric_name": "Students, including\nEnglish learners, receive\ninstruction aligned to\nCalifornia State\nStandards\n(Priority 2)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "As measured by\nlocal data (see\nmetrics 1.9 and\n1.10)\n100% of students,\nincluding English\nlearners, receive\ninstruction aligned\nto state standards",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of students,\nincluding English\nlearners, receive\ninstruction aligned\nto state standards",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            16
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "As measured by\nlocal data (see\nmetrics 1.9 and\n1.10)\n100% of students,\nincluding English\nlearners, receive\ninstruction aligned\nto state standards",
+            "context_lines": [
+              "As measured by"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "local data (see",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "metrics 1.9 and",
+                "numeric_values": [
+                  1.9
+                ]
+              },
+              {
+                "label": null,
+                "value": "1.10)",
+                "numeric_values": [
+                  1.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "100% of students,",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "including English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "learners, receive",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instruction aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to state standards",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of students,\nincluding English\nlearners, receive\ninstruction aligned\nto state standards",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of students,",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "including English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "learners, receive",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instruction aligned",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to state standards",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.4",
+          "metric_name": "ELA\n(Priority 4)",
+          "baseline_raw": "The district has\nmet this goal.\nThere was an\nincrease in\nstudents who met\nor exceeded the\nCAASPP ELA\nstandard within the\ndistrict by over 2%.\nThere was a\ndecrease of 6.76%\nin students with\nspecial needs\nidentified as \"Not\nMet.\"\nThere was an\nincrease by 4.72%\nof students with\nspecial needs at\nKing Elementary\nas \"Not Met.\"",
+          "year_1_outcome_raw": "67.76% met or\nexceeded the\nCAASPP ELA\nstandard\n45.04% students\nwith disabilities\n(SWD) districtwide\ndid not meet\nCAASPP ELA\nstandard\n62.22% SWD at\nKing did not meet\nCAASPP ELA\nstandard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "67% meet or\nexceed CAASPP\nELA standard\nDecrease SWD\nnot meeting\nCAASPP ELA\nstandard\ndistrictwide to 50%\nDecrease SWD\nnot meeting\nCAASPP ELA\nstandard at King\nElementary to\n54.5%",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nThere was an\nincrease in\nstudents who met\nor exceeded the\nCAASPP ELA\nstandard within the\ndistrict by over 2%.\nThere was a\ndecrease of 6.76%\nin students with\nspecial needs\nidentified as \"Not\nMet.\"\nThere was an\nincrease by 4.72%\nof students with\nspecial needs at\nKing Elementary\nas \"Not Met.\"",
+          "source_pages": [
+            16,
+            17
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nThere was an\nincrease in\nstudents who met",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "There was an",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "increase in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students who met",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "67.76% met or\nexceeded the\nCAASPP ELA\nstandard",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "67.76% met or",
+                "numeric_values": [
+                  67.76
+                ]
+              },
+              {
+                "label": null,
+                "value": "exceeded the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CAASPP ELA",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "67% meet or\nexceed CAASPP\nELA standard\nDecrease SWD\nnot meeting",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "67% meet or",
+                "numeric_values": [
+                  67.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "exceed CAASPP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "ELA standard",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Decrease SWD",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "not meeting",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.5",
+          "metric_name": "Math\n(Priority 4)",
+          "baseline_raw": "The district has not\nmet this goal.\nThere was a.88%\ndecline in students\nwho met or\nexceeded the\nCAASPP math\nstandard within the\ndistrict.",
+          "year_1_outcome_raw": "62.2% met or\nexceeded the\nCAASPP math\nstandard",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "65% meet or\nexceed CAASPP\nmath standard",
+          "current_difference_from_baseline_raw": "The district has not\nmet this goal.\nThere was a.88%\ndecline in students\nwho met or\nexceeded the\nCAASPP math\nstandard within the\ndistrict.",
+          "source_pages": [
+            17
+          ],
+          "baseline": {
+            "raw": "The district has not\nmet this goal.\nThere was a.88%\ndecline in students\nwho met or\nexceeded the\nCAASPP math\nstandard within the\ndistrict.",
+            "context_lines": [
+              "The district has not"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "There was a.88%",
+                "numeric_values": [
+                  88.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "decline in students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "who met or",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "exceeded the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CAASPP math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard within the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "district.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "62.2% met or\nexceeded the\nCAASPP math\nstandard",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "62.2% met or",
+                "numeric_values": [
+                  62.2
+                ]
+              },
+              {
+                "label": null,
+                "value": "exceeded the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CAASPP math",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "standard",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "65% meet or\nexceed CAASPP\nmath standard",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "65% meet or",
+                "numeric_values": [
+                  65.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "exceed CAASPP",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "math standard",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.6",
+          "metric_name": "Percentage of English\nlearners who made\nprogress toward English\nproficiency\n(Priority 4)",
+          "baseline_raw": "The district has not\nmet this goal.\nThere was a\n14.7% decline in\nEnglish learners\nmaking progress\ntoward English\nlanguage\nproficiency within\nthe district.",
+          "year_1_outcome_raw": "42.8% of English\nlearners are\nmaking progress\ntoward English\nlanguage\nproficiency\naccording to\nCalifornia\nDashboard data",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "58% of English\nlearners will make\nprogress toward\nEnglish language\nproficiency",
+          "current_difference_from_baseline_raw": "The district has not\nmet this goal.\nThere was a\n14.7% decline in\nEnglish learners\nmaking progress\ntoward English\nlanguage\nproficiency within\nthe district.",
+          "source_pages": [
+            17,
+            18
+          ],
+          "baseline": {
+            "raw": "The district has not\nmet this goal.\nThere was a\n14.7% decline in",
+            "context_lines": [
+              "The district has not"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "There was a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "14.7% decline in",
+                "numeric_values": [
+                  14.7
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "42.8% of English\nlearners are\nmaking progress\ntoward English\nlanguage",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "42.8% of English",
+                "numeric_values": [
+                  42.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "learners are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "making progress",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "toward English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "language",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "58% of English\nlearners will make\nprogress toward\nEnglish language\nproficiency",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "58% of English",
+                "numeric_values": [
+                  58.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "learners will make",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "progress toward",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English language",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "proficiency",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.7",
+          "metric_name": "Reclassification rate\n(Priority 4)",
+          "baseline_raw": "The district has not\nmet all outcomes.\n100% of EL\neligible students\nwere reclassified\nper Education\nCode\nrequirements.\nThere was an\n8.11% decline in\nEnglish Learners\nwho were\nreclassified.",
+          "year_1_outcome_raw": "As measured by\nlocal data and\nCALPADS report\ndata,12.89% of\nidentified English\nlearners were\nreclassified\n(100% of EL\nstudents eligible to\nreclassify)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of EL\neligible student will\nbe reclassified per\nEducation Code\nrequirements.\nMaintain 21%\nEnglish learner\nreclassification\nrate",
+          "current_difference_from_baseline_raw": "The district has not\nmet all outcomes.\n100% of EL\neligible students\nwere reclassified\nper Education\nCode\nrequirements.\nThere was an\n8.11% decline in\nEnglish Learners\nwho were\nreclassified.",
+          "source_pages": [
+            18
+          ],
+          "baseline": {
+            "raw": "The district has not\nmet all outcomes.\n100% of EL\neligible students\nwere reclassified\nper Education\nCode\nrequirements.\nThere was an\n8.11% decline in\nEnglish Learners\nwho were\nreclassified.",
+            "context_lines": [
+              "The district has not"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met all outcomes.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of EL",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "eligible students",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "were reclassified",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "per Education",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Code",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "requirements.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "There was an",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8.11% decline in",
+                "numeric_values": [
+                  8.11
+                ]
+              },
+              {
+                "label": null,
+                "value": "English Learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "who were",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "As measured by\nlocal data and\nCALPADS report\ndata,12.89% of\nidentified English\nlearners were\nreclassified\n(100% of EL\nstudents eligible to\nreclassify)",
+            "context_lines": [
+              "As measured by"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "local data and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CALPADS report",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "data,12.89% of",
+                "numeric_values": [
+                  12.89
+                ]
+              },
+              {
+                "label": null,
+                "value": "identified English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "learners were",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassified",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(100% of EL",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "students eligible to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassify)",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of EL\neligible student will\nbe reclassified per\nEducation Code\nrequirements.\nMaintain 21%\nEnglish learner\nreclassification\nrate",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of EL",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "eligible student will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "be reclassified per",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Education Code",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "requirements.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintain 21%",
+                "numeric_values": [
+                  21.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "English learner",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reclassification",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "rate",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.8",
+          "metric_name": "English learners will be\nenrolled in an EL\ninstruction program\n(Priority7/8)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "As measured by\nlocal data and\nCALPADS report\ndata, 100% of\nEnglish learners\nwill be enrolled in\nan EL instruction\nprogram",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of English\nlearners will be\nenrolled in an EL\ninstruction\nprogram",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            18
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "As measured by\nlocal data and\nCALPADS report\ndata, 100% of\nEnglish learners\nwill be enrolled in\nan EL instruction\nprogram",
+            "context_lines": [
+              "As measured by"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "local data and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CALPADS report",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "data, 100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "English learners",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "will be enrolled in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "an EL instruction",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "program",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of English\nlearners will be\nenrolled in an EL\ninstruction\nprogram",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of English",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "learners will be",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "enrolled in an EL",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "instruction",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "program",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.9",
+          "metric_name": "Classroom Observations\n(Priority 1, 2, 4, 7, 8)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "100% of\nclassrooms where\nsocioeconomically\ndisadvantaged\nstudents, foster\nyouth, and English\nlearners are taught\nwere visited to\nmonitor the\nimplementation of\napproved\ncurriculum, district\ninitiatives, and\nstate standards",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of\nclassrooms where\nsocioeconomically\ndisadvantaged\nstudents, foster\nyouth, and English\nlearners are taught\nwill be visited to\nmonitor the\nimplementation of\napproved\ncurriculum, district\ninitiatives, and\nstate standards",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            18,
+            19
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of\nclassrooms where\nsocioeconomically\ndisadvantaged\nstudents, foster\nyouth, and English",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "classrooms where",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students, foster",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "youth, and English",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of\nclassrooms where\nsocioeconomically\ndisadvantaged\nstudents, foster\nyouth, and English",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "classrooms where",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "students, foster",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "youth, and English",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "1.10",
+          "metric_name": "Formal and Informal\nFeedback\n(Priority 1, 2, 4, 7, 8)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "2 Principal data\nchat meetings\n3 Site intervention\nmeetings\n100% of staff had\naccess to the\nTOSA ticket\n100% of district\ncommittees had a\nschool site\nrepresentative\n100% of\ncommittees\nprovided minutes\nfor publication",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain\n2 Principal data\nchat meetings\n3 Site intervention\nmeetings\n100% of staff will\nhave access to the\nTOSA ticket\n100% of district\ncommittees will\nhave a school site\nrepresentative\n100% of\ncommittees will\nprovide minutes for\npublication",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            19
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "2 Principal data\nchat meetings\n3 Site intervention\nmeetings\n100% of staff had\naccess to the\nTOSA ticket\n100% of district\ncommittees had a\nschool site\nrepresentative\n100% of\ncommittees\nprovided minutes\nfor publication",
+            "context_lines": [
+              "2 Principal data"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "chat meetings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3 Site intervention",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meetings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of staff had",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "access to the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "TOSA ticket",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of district",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "committees had a",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school site",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "representative",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "committees",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "provided minutes",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for publication",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain\n2 Principal data\nchat meetings\n3 Site intervention\nmeetings\n100% of staff will\nhave access to the\nTOSA ticket\n100% of district\ncommittees will\nhave a school site\nrepresentative\n100% of\ncommittees will\nprovide minutes for\npublication",
+            "context_lines": [
+              "Maintain"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "2 Principal data",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "chat meetings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "3 Site intervention",
+                "numeric_values": [
+                  3.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meetings",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of staff will",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "have access to the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "TOSA ticket",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of district",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "committees will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have a school site",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "representative",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100% of",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "committees will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "provide minutes for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "publication",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "1.1",
+          "title": "Multi-Tiered System\nof Support",
+          "description": "Provide a rigorous, high-quality, standards-based instructional program in\nEnglish language arts, including English language development,\nmathematics, science, history/social science, visual and performing arts,\nand physical education aligned to the adopted California state standards.\nAs part of a comprehensive multi-tiered system of support, whole group\nand targeted instruction for socioeconomically disadvantaged students,\nfoster youth, and English learners will be provided through tiered support to\naddress learning gaps. Supplemental resources and materials will be\nutilized to meet the learning needs of our diverse learning population,\nincluding print and electronic resources. While this serves students\ndistrictwide, we expect the impact on academic measures of\nsocioeconomically disadvantaged students, foster youth, and English\nlearners to increase significantly more than the average of all other\nstudents.\nLREBG funds will be used to augment this action, $45,000",
+          "total_funds_raw": "$884,600.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 884600.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.2",
+          "title": "English Learner\nSupport",
+          "description": "The instructional program for English learner (EL) students will be\ndesigned and implemented to ensure they meet English language\ndevelopment (ELD) standards for their respective grade levels. Students\nwill acquire full proficiency in English as rapidly and effectively as possible\nto attain parity with native speakers within a reasonable time and achieve\nthe same rigorous, grade-level academic standards expected of all\nstudents. This action is principally directed toward English learners to\nprovide targeted and designated ELD based on the language needs.\nThe district will provide professional development for teachers, focusing on\neffective EL instruction techniques and integrating advanced educational\ntechnologies that facilitate language learning.",
+          "total_funds_raw": "$57,417.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25
+          ],
+          "total_funds": 57417.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.3",
+          "title": "Monitoring &\nAssessing Student\nProgress",
+          "description": "The progress of English learner, foster youth, and socioeconomically\ndisadvantaged students' growth toward expected outcomes is monitored\nand reviewed by the teacher. Staff will hold formal meetings to address\nstudents not meeting expected outcomes, such as intervention or Student\nStudy Team (SST) meetings. Staff will assess, review, and report student\nacademic progress using various data sources, such as work samples,\nobservations, and assessments. Data gathered will be used by the\nteacher, grade, school, and district to determine student progress.\nState/local assessment data, student work samples, observations, and\npresentations will be analyzed to determine if interventions are closing the\nachievement gap. Action plans will be reviewed and revised as needed to\nensure students are making progress toward proficiency. Data systems will\nbe utilized at the district and site levels to assess the whole child and\ndetermine targeted support for academic, social, emotional, and behavioral\nintervention.",
+          "total_funds_raw": "$513,130.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            25,
+            26
+          ],
+          "total_funds": 513130.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.4",
+          "title": "Instructional Support",
+          "description": "P r ovide school sites with highly qualified staff support who will assist in\nimplementing and monitoring district initiatives, curriculum development,\nand the integration of technology into the classroom, with a focus on\nunduplicated pupils. This encapsulates how highly qualified staff support\ncan be instrumental in improving educational outcomes. Providing our\nschools with highly qualified staff support ensures that our educational\ninitiatives are implemented effectively, are inclusive, and are adaptable to\nthe needs of our English learners, foster youth, and economically\ndisadvantaged students, who face the greatest challenges. LREBG funds\nwill be used to augment this action, $800,996",
+          "total_funds_raw": "$1,388,810.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            26
+          ],
+          "total_funds": 1388810.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.5",
+          "title": "Professional\nDevelopment",
+          "description": "All certificated and classified staff will increase content and pedagogical\nknowledge through collaboration and professional development. All\nteachers and support staff will be trained to implement adopted programs\nand strategies to provide a comprehensive, well-rounded, and rigorous\neducational experience. Professional development will be of sufficient\nintensity and duration to positively impact teacher and staff performance\nand student achievement. These opportunities will be provided during staff\nmeetings, in-services, workshops, release days, etc. Enhancing\neducational quality through professional development and collaboration\namong all certificated and classified staff will directly impact unduplicated\npupils (those who are English learners, socioeconomically disadvantaged,\nor foster youth).",
+          "total_funds_raw": "$277,893.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            26
+          ],
+          "total_funds": 277893.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.6",
+          "title": "English Learner\nSupport",
+          "description": "Increase resources, interventions, and support for long-term English\nlearners with small-group instruction. Implement targeted small-group\ninstruction based on the student’s specific language proficiency and\nacademic needs. Provide professional development focused on\neducational strategies such as scaffolding and culturally responsive\nteaching. Support engagement with parents, providing them with the tools\nand knowledge to support their child's language development at home.",
+          "total_funds_raw": "$32,201.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            27
+          ],
+          "total_funds": 32201.0,
+          "contributing": true
+        },
+        {
+          "action_number": "1.7",
+          "title": "Intensive Supports",
+          "description": "P rovide equitable access for students with exceptional needs to the full\narray of services and tiered supports based on need and the student's\nindividual educational plan (IEP). This includes but is not limited to,\ncollaborative preschool options, a preschool through grade 6 learning\ncenter model, and special day classes. Programs and services are aligned\nto ensure free appropriate public education (FAPE).\nThe data clearly indicates that students with disabilities face significant\nchallenges within our educational system. This subgroup's performance in\nELA and math is notably lower than that of their general education peers,\nwith a substantial negative deviation from the standard. This action, while\napplied districtwide, will be primarily focused at King Elementary in ELA.\nThe gaps identified underscore the critical need for action to provide these\nstudents with equitable access to education, as mandated by the\nIndividuals with Disabilities Education Act (IDEA), which guarantees FAPE.\nThe action to provide equitable access to a continuum of services and\ntiered supports is rooted in the recognition that students with disabilities\nhave unique learning needs that require specialized attention and\nresources. The following points elaborate on why this action is necessary.\nIndividualized Educational Plans (IEP): Each student with a disability has\nan IEP that outlines specific educational goals and the supports needed to\nachieve them. Disparities in academic performance suggest a need for a\nrobust system that can fully implement these IEPs and ensure that\nindividual goals are met. Aligning services with the specific requirements of\neach student's IEP ensures that interventions are personalized and directly\ntarget the unique educational needs of students with disabilities. This\ntailored approach is critical for enabling these students to access the full\ncurriculum and to participate fully in school activities, which is fundamental\nto their academic and social integration.\nSpecialized Instructional Models:The action calls for collaborative\npreschool options and learning center models from preschool through\ngrade 6, showing a commitment to early intervention, which is critical for\naddressing learning difficulties as soon as they emerge.\nSpecial day classes provide an environment where students can receive\nintensive support in a setting tailored to their needs, which can be vital for\nstudents where the general education classroom is not the least restrictive\nenvironment suitable for them.\nAligned Programs and Services: Programs and services need to be\naligned across the district to ensure that students with disabilities can\naccess the general education curriculum to the greatest extent appropriate.\nThis alignment supports a seamless transition between different levels of\nsupport as students progress through their education.\nFocus on FAPE: This data-driven action affirms the district's obligation to\nensure that students with disabilities receive an education tailored to their\nunique needs without cost to the family. This includes access to the\ngeneral education curriculum, specialized instructional strategies,\naccommodations, modifications, and related services.\nBy taking this action, the district is adhering to legal requirements and\naddressing the evident performance gaps highlighted by the data. It\nreflects a commitment to an inclusive educational system where all\nstudents, regardless of their abilities or disabilities, can thrive academically\nand develop to their full potential. It is a proactive step toward ensuring that\nevery student is valued and supported in their individual learning\noutcomes. This strategic initiative directly supports Goal 1 of our LCAP,\nwhich aims to deliver every student a comprehensive, well-rounded, and\nrigorous educational experience.",
+          "total_funds_raw": "$10,478,938.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            27,
+            28
+          ],
+          "total_funds": 10478938.0,
+          "contributing": false
+        }
+      ]
+    },
+    {
+      "goal_number": "2",
+      "description": "Provide a wide variety of parent/guardian and community involvement opportunities with open and\ntransparent communication to assure accurate, timely information.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        29
+      ],
+      "metrics": [
+        {
+          "metric_number": "2.1",
+          "metric_name": "Participation in decision-\nmaking district and\nschool advisory\ncommittees\n(Priority 3)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "year_1_outcome_raw": "100% of schools\nhad an identified\nparent\nrepresentative for\nDistrict English\nLearner Advisory\nand District\nAdvisory\nCommittees\n(DELAC/DAC),\nverified by meeting\nminutes",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "100% of schools\nwill have identified\nparent\nrepresentatives for\nDistrict English\nLearner Advisory\nand District\nAdvisory\nCommittees\n(DELAC/DAC),\nverified by meeting\nminutes",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+          "source_pages": [
+            30
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained at\n100%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "100%.",
+                "numeric_values": [
+                  100.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of schools\nhad an identified\nparent\nrepresentative for\nDistrict English\nLearner Advisory\nand District\nAdvisory\nCommittees\n(DELAC/DAC),\nverified by meeting\nminutes",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "had an identified",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "representative for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "District English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learner Advisory",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Advisory",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Committees",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(DELAC/DAC),",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "verified by meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "minutes",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of schools\nwill have identified\nparent\nrepresentatives for\nDistrict English\nLearner Advisory\nand District\nAdvisory\nCommittees\n(DELAC/DAC),\nverified by meeting\nminutes",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "will have identified",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "parent",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "representatives for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "District English",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Learner Advisory",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and District",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Advisory",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Committees",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(DELAC/DAC),",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "verified by meeting",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "minutes",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.2",
+          "metric_name": "Communication\n(Priority 3)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained:\n9 Monthly district\nnewsletters.\n12 Monthly board\nmeeting highlights.\n2 Parent/teacher\nconference.\nopportunities\n3 Communication\nChannels\n(Seesaw, Google\nClassroom,\nSchoolMessenger)\n.\n1 LCAP Survey.\nSaw an increase of\n4.4% of\neducational\npartners that feel\nthere are a variety\nof opportunities to\nprovide input.\nSaw an increase of\n2% of educational\npartners who feel\nthe district is\neffective in its\ncommunication.",
+          "year_1_outcome_raw": "Provided one-way\nand two-way\ncommunication\noptions for families\n9 Monthly district\nnewsletters\n12 Monthly board\nmeeting highlights\n2 Parent/teacher\nconference\nopportunities\n3 Communication\nChannels\n(Seesaw, Google\nClassroom,\nSchoolMessenger)\n1 LCAP Survey\n83.3% of\neducational\npartners feel there\nare a variety of\nopportunities to\nprovide input\n86.5% of\neducational\npartners feel the\ndistrict is effective\nin its\ncommunication\nDisaggregated\ndata regarding\nopportunities to\nprovide input and\neffective\ncommunication are\nto be determined\nin the 2024/25\nschool year for\nEnglish learners,",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Provide one-way\nand two-way\ncommunication\noptions for families\n9 Monthly district\nnewsletters\n12 Monthly board\nmeeting highlights\n2 Parent/teacher\nconference\nopportunities\n3 Communication\nChannels\n1 LCAP Survey\n80% of educational\npartners feel there\nare a variety of\nopportunities to\nprovide input\n85% of educational\npartners feel the\ndistrict is effective\nin its\ncommunication\nTarget outcomes\nregarding\nopportunities to\nprovide input and\neffective\ncommunication for\nEnglish learner,\nfoster youth, and\nsocioeconomically\ndisadvantaged\nstudent groups are\nto be determined\nin the 2024/25\nschool year",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained:\n9 Monthly district\nnewsletters.\n12 Monthly board\nmeeting highlights.\n2 Parent/teacher\nconference.\nopportunities\n3 Communication\nChannels\n(Seesaw, Google\nClassroom,\nSchoolMessenger)\n.\n1 LCAP Survey.\nSaw an increase of\n4.4% of\neducational\npartners that feel\nthere are a variety\nof opportunities to\nprovide input.\nSaw an increase of\n2% of educational\npartners who feel\nthe district is\neffective in its\ncommunication.",
+          "source_pages": [
+            30,
+            31
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained:\n9 Monthly district\nnewsletters.\n12 Monthly board\nmeeting highlights.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9 Monthly district",
+                "numeric_values": [
+                  9.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "newsletters.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "12 Monthly board",
+                "numeric_values": [
+                  12.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting highlights.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Provided one-way\nand two-way\ncommunication\noptions for families\n9 Monthly district\nnewsletters\n12 Monthly board\nmeeting highlights",
+            "context_lines": [
+              "Provided one-way"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "and two-way",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "communication",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "options for families",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9 Monthly district",
+                "numeric_values": [
+                  9.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "newsletters",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "12 Monthly board",
+                "numeric_values": [
+                  12.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting highlights",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Provide one-way\nand two-way\ncommunication\noptions for families\n9 Monthly district\nnewsletters\n12 Monthly board\nmeeting highlights",
+            "context_lines": [
+              "Provide one-way"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "and two-way",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "communication",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "options for families",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "9 Monthly district",
+                "numeric_values": [
+                  9.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "newsletters",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "12 Monthly board",
+                "numeric_values": [
+                  12.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "meeting highlights",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.3",
+          "metric_name": "Community connection\n(Priority 3)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained 2\nannual community\nevents.",
+          "year_1_outcome_raw": "Provided 5 annual\ncommunity\nconnection events\n(Back-to-school\nnight, open house,\nmusic\nperformances,\nEvery Student\nSucceeding\nawards)",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Provide 5 annual\ncommunity\nconnection events\nfor families",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained 2\nannual community\nevents.",
+          "source_pages": [
+            33
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained 2\nannual community\nevents.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained 2",
+                "numeric_values": [
+                  2.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "annual community",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "events.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Provided 5 annual\ncommunity\nconnection events\n(Back-to-school\nnight, open house,\nmusic\nperformances,\nEvery Student\nSucceeding\nawards)",
+            "context_lines": [
+              "Provided 5 annual"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "community",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connection events",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "(Back-to-school",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "night, open house,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "music",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "performances,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Every Student",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Succeeding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "awards)",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Provide 5 annual\ncommunity\nconnection events\nfor families",
+            "context_lines": [
+              "Provide 5 annual"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "community",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connection events",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "for families",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "2.4",
+          "metric_name": "Community Group\nCollaboration\n(Priority 3)",
+          "baseline_raw": "The district has\nmet this goal.",
+          "year_1_outcome_raw": "Cypress School\nDistrict educational\nleaders will\ncollaborate with\nlocal, state, and\nfederal groups, as\nreported to the\nExecutive Director,\nEducational\nServices",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Cypress school\ndistrict educational\nleaders collaborate\nwith local, state,\nand federal\ngroups, as\nreported to the\nExecutive Director,\nEducational\nServices",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.",
+          "source_pages": [
+            33
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "Cypress School\nDistrict educational\nleaders will\ncollaborate with\nlocal, state, and\nfederal groups, as\nreported to the\nExecutive Director,\nEducational\nServices",
+            "context_lines": [
+              "Cypress School"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "District educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "leaders will",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "collaborate with",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "local, state, and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "federal groups, as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported to the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Executive Director,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Services",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Cypress school\ndistrict educational\nleaders collaborate\nwith local, state,\nand federal\ngroups, as\nreported to the\nExecutive Director,\nEducational\nServices",
+            "context_lines": [
+              "Cypress school"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "district educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "leaders collaborate",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "with local, state,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "and federal",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "groups, as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "reported to the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Executive Director,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Services",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "2.1",
+          "title": "Advisory\nOpportunities & Input",
+          "description": "Families will participate in decision-making regarding school and district\np r i o rities.\nAdvisory committees:\n* School Site Councils (SSC)\n* English Learner Advisory Committee (ELAC), as indicated on site\nby-laws or will follow the SBE guidelines when incorporating in\nSSC\n* District English Learner Advisory Committee (DELAC)\n* District Advisory Committee (DAC)\n* Community Advisory Committee (Special Education)\n* Other, as appropriate\nFamilies of English learner, foster youth, and socioeconomically\ndisadvantaged students participate in the committees above. Providing\nparents with decision making opportunities to actively inform and guide in\ntheir students' educational programs is a crucial strategy for the Cypress\nSchool District, aimed at enhancing parental involvement, especially for at-\nrisk student groups like Special Education students, foster youth,\nsocioeconomically disadvantaged families, and English learners.",
+          "total_funds_raw": "$1,315.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            36
+          ],
+          "total_funds": 1315.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.2",
+          "title": "Communication",
+          "description": "Provide timely communication, especially to families regarding their child's\neducational program through various means, such as emails, phone calls,\nand text messages. Maintain district/school websites and social media to\npush out district/school information to families and the school community.\nUtilize the parent portal for annual re-enrollment and at-a-glance student\ninformation. Provide a variety of means for two-way communication\nbetween staff, families, and the district, such as conferences, meetings,\nemails, and phone calls.\nProviding parents with multimodalities of communication enhances\nparental involvement, especially for at-risk student groups like Special\nEducation students, foster youth, socioeconomically disadvantaged\nfamilies, and English learners. Robust communication through varied\nmeans provides opportunities to employ one and two way communication\nwhich\nis a crucial strategy for the Cypress School District, aimed at enhancing\nparental involvement, especially for at-risk student groups like Special\nEducation students, foster youth, socioeconomically disadvantaged\nfamilies, and English learners.",
+          "total_funds_raw": "$156,347.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            37
+          ],
+          "total_funds": 156347.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.3",
+          "title": "Community\nConnection",
+          "description": "Provide families, with a focus on foster youth, socioeconomically\ndisadvantaged families, and English learners, with the resources and\naccess to be active participants in their child’s educational programs\nthrough a variety of involvement opportunities. The district and schools will\nprovide targeted outreach to parents/guardians of students in at-risk\nsubgroups to ensure parent participation is representative of the district\nand school demographics, including families of foster youth,\nsocioeconomically disadvantaged students, and English learner students.\nAll sites make accommodations, as appropriate, for parents or guardians\nwith disabilities. Translation and/or interpretation will be provided as\nappropriate. Providing parents with resources and access to actively\nparticipate in their students' educational programs is a crucial strategy for\nthe Cypress School District, aimed at enhancing parental involvement,\nespecially for at-risk student groups like Special Education students, foster\nyouth, socioeconomically disadvantaged families, and English learners. To\nsupport community connection, staff will participate in community\norganizations and articulation opportunities to build relationships and share\nthe district's mission and vision.",
+          "total_funds_raw": "$23,931.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            37,
+            38
+          ],
+          "total_funds": 23931.0,
+          "contributing": true
+        },
+        {
+          "action_number": "2.4",
+          "title": "Community Group\nCollaboration",
+          "description": "Cypress school district educational leaders will collaborate with local, state,\nand federal groups. While the resources obtained as a result of these\npartnerships may benefit our student population as a whole, this action is\nprincipally directed toward our unduplicated pupils - English learner, foster\nyouth, and socioeconomically disadvantaged students. Staff participating\nand collaborating with local, state and federal groups allows for family\nperspective to be shared as well as enabling staff to identify resources and\nsupports aimed at enhancing parental involvement in the school and\nbroader community, with a lens for at-risk student groups like Special\nEducation students, foster youth, socioeconomically disadvantaged\nfamilies, and English learners.",
+          "total_funds_raw": "$1,000.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            38
+          ],
+          "total_funds": 1000.0,
+          "contributing": true
+        }
+      ]
+    },
+    {
+      "goal_number": "3",
+      "description": "Provide an engaging, safe, and secure learning environment for all students.",
+      "goal_type": "Broad Goal",
+      "source_pages": [
+        39
+      ],
+      "metrics": [
+        {
+          "metric_number": "3.1",
+          "metric_name": "District attendance\naverage\n(Priority 5)",
+          "baseline_raw": "The district has\nmet this goal.\nThe district\nattendance\naverage has\nincreased by .85%.",
+          "year_1_outcome_raw": "95.85%\nattendance\naverage",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "96% attendance\naverage",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nThe district\nattendance\naverage has\nincreased by .85%.",
+          "source_pages": [
+            40
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nThe district\nattendance\naverage has\nincreased by .85%.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "The district",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "average has",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "increased by .85%.",
+                "numeric_values": [
+                  85.0
+                ]
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "95.85%\nattendance\naverage",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "95.85%",
+                "numeric_values": [
+                  95.85
+                ]
+              },
+              {
+                "label": null,
+                "value": "attendance",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "average",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "96% attendance\naverage",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "96% attendance",
+                "numeric_values": [
+                  96.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "average",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.2",
+          "metric_name": "Chronic absenteeism\nrates\n(Priority 5)",
+          "baseline_raw": "The district has\nmet this goal.\nChronic\nabsenteeism rates\nhave:\nDecreased by\n4.1% districtwide.\nDecreased by 7.8\nin foster youth\ndistrictwide.\nDecreased by\n14.1% in two or\nmore races at\nKing.\nDecreased by\n10.5% in students\nwith disabilities at\nArnold.",
+          "year_1_outcome_raw": "8.1% districtwide\n20% foster youth\ndistrictwide\n8.1% two or more\nraces at King\n11.5% students\nwith disabilities at\nArnold",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Decrease chronic\nabsenteeism rates\nto:\n11% districtwide\n25.8% foster youth\ndistrictwide\n20% two or more\nraces at King\nElementary\n20% students with\ndisabilities at\nArnold Elementary",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nChronic\nabsenteeism rates\nhave:\nDecreased by\n4.1% districtwide.\nDecreased by 7.8\nin foster youth\ndistrictwide.\nDecreased by\n14.1% in two or\nmore races at\nKing.\nDecreased by\n10.5% in students\nwith disabilities at\nArnold.",
+          "source_pages": [
+            40,
+            41
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nChronic\nabsenteeism rates\nhave:\nDecreased by\n4.1% districtwide.\nDecreased by 7.8\nin foster youth\ndistrictwide.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Chronic",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "absenteeism rates",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "have:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Decreased by",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "4.1% districtwide.",
+                "numeric_values": [
+                  4.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "Decreased by 7.8",
+                "numeric_values": [
+                  7.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "in foster youth",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "districtwide.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "8.1% districtwide\n20% foster youth\ndistrictwide\n8.1% two or more\nraces at King\n11.5% students\nwith disabilities at\nArnold",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "8.1% districtwide",
+                "numeric_values": [
+                  8.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "20% foster youth",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "districtwide",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "8.1% two or more",
+                "numeric_values": [
+                  8.1
+                ]
+              },
+              {
+                "label": null,
+                "value": "races at King",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "11.5% students",
+                "numeric_values": [
+                  11.5
+                ]
+              },
+              {
+                "label": null,
+                "value": "with disabilities at",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Arnold",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Decrease chronic\nabsenteeism rates\nto:\n11% districtwide\n25.8% foster youth\ndistrictwide\n20% two or more\nraces at King\nElementary",
+            "context_lines": [
+              "Decrease chronic"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "absenteeism rates",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to:",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "11% districtwide",
+                "numeric_values": [
+                  11.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "25.8% foster youth",
+                "numeric_values": [
+                  25.8
+                ]
+              },
+              {
+                "label": null,
+                "value": "districtwide",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "20% two or more",
+                "numeric_values": [
+                  20.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "races at King",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Elementary",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.3",
+          "metric_name": "Pupil suspension rates\n(Priority 6)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained a <1%\nsuspension rate.",
+          "year_1_outcome_raw": "<1% suspension\nrate",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain a <1%\nsuspension rate",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained a <1%\nsuspension rate.",
+          "source_pages": [
+            41
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained a <1%\nsuspension rate.",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained a <1%",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "suspension rate.",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "<1% suspension\nrate",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "<1% suspension",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "rate",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain a <1%\nsuspension rate",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Maintain a <1%",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "suspension rate",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.4",
+          "metric_name": "Pupil expulsion rates\n(Priority 6)",
+          "baseline_raw": "The district has\nmet this goal.\nMaintained a <1%\nexpulsion rate",
+          "year_1_outcome_raw": "<1% expulsion\nrate",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "Maintain a <1%\nexpulsion rate",
+          "current_difference_from_baseline_raw": "The district has\nmet this goal.\nMaintained a <1%\nexpulsion rate",
+          "source_pages": [
+            41
+          ],
+          "baseline": {
+            "raw": "The district has\nmet this goal.\nMaintained a <1%\nexpulsion rate",
+            "context_lines": [
+              "The district has"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "met this goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained a <1%",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "expulsion rate",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "<1% expulsion\nrate",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "<1% expulsion",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "rate",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "Maintain a <1%\nexpulsion rate",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "Maintain a <1%",
+                "numeric_values": [
+                  1.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "expulsion rate",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.5",
+          "metric_name": "District survey\ncompleted by\neducational partners\n(Priority 6)",
+          "baseline_raw": "There was a\n4.64% decrease in\neducational\npartners' feeling\nconnected to their\nschool and\ncommunity.\nThe disaggregated\ndata is not\navailable as the\nCDE rescinded the\nrequirement due to\nconfidentiality.\nSince we could not",
+          "year_1_outcome_raw": "83.86% of\neducational\npartners feel\nconnected to their\nschool and\ncommunity\nDisaggregated\ndata regarding\nconnectedness is\nto be determined\nin the 2024/25\nschool year for\nEnglish learners,\nfoster youth, and\nconnectedness\nwas effective.",
+          "year_2_outcome_raw": "",
+          "year_3_target_raw": "90% of educational\npartners feel\nconnected to their\nschool and\ncommunity\nTarget outcomes\nregarding\nconnectedness for\nEnglish learner,\nfoster youth, and\nsocioeconomically\ndisadvantaged\nstudent groups are\nto be determined",
+          "current_difference_from_baseline_raw": "There was a\n4.64% decrease in\neducational\npartners' feeling\nconnected to their\nschool and\ncommunity.\nThe disaggregated\ndata is not\navailable as the\nCDE rescinded the\nrequirement due to\nconfidentiality.\nSince we could not",
+          "source_pages": [
+            41,
+            43
+          ],
+          "baseline": {
+            "raw": "There was a\n4.64% decrease in\neducational\npartners' feeling\nconnected to their\nschool and\ncommunity.\nThe disaggregated\ndata is not\navailable as the\nCDE rescinded the\nrequirement due to\nconfidentiality.\nSince we could not",
+            "context_lines": [
+              "There was a"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "4.64% decrease in",
+                "numeric_values": [
+                  4.64
+                ]
+              },
+              {
+                "label": null,
+                "value": "educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "partners' feeling",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connected to their",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "community.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "The disaggregated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "data is not",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "available as the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "CDE rescinded the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "requirement due to",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "confidentiality.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Since we could not",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "83.86% of\neducational\npartners feel\nconnected to their\nschool and\ncommunity\nDisaggregated\ndata regarding\nconnectedness is\nto be determined\nin the 2024/25\nschool year for\nEnglish learners,\nfoster youth, and",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "83.86% of",
+                "numeric_values": [
+                  83.86
+                ]
+              },
+              {
+                "label": null,
+                "value": "educational",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "partners feel",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connected to their",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "community",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Disaggregated",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "data regarding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connectedness is",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to be determined",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "in the 2024/25",
+                "numeric_values": [
+                  2024.0,
+                  25.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "school year for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English learners,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "foster youth, and",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "90% of educational\npartners feel\nconnected to their\nschool and\ncommunity\nTarget outcomes\nregarding\nconnectedness for\nEnglish learner,\nfoster youth, and\nsocioeconomically\ndisadvantaged\nstudent groups are\nto be determined",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "90% of educational",
+                "numeric_values": [
+                  90.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "partners feel",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connected to their",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "school and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "community",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Target outcomes",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "regarding",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "connectedness for",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "English learner,",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "foster youth, and",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "socioeconomically",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "disadvantaged",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "student groups are",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "to be determined",
+                "numeric_values": []
+              }
+            ]
+          }
+        },
+        {
+          "metric_number": "3.6",
+          "metric_name": "William's Act: Facilities in\n\"good\" repair\n(Priority 1)\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "baseline_raw": "The district met the\ngoal.\nMaintained 100%\nof schools are in\n\"good\" repair as\nmeasured by the\nFacility Inspection\nTool (FIT).\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26 and\n2026-27. Leave blank\nuntil then.",
+          "year_1_outcome_raw": "100% of schools\nare in \"good\"\nrepair as\nmeasured by the\nFacility Inspection\nTool (FIT)\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2025-26. Leave\nblank until then.",
+          "year_2_outcome_raw": "Enter information in\nthis box when\ncompleting the LCAP\nfor 2026-27. Leave\nblank until then.",
+          "year_3_target_raw": "100% of schools\nwill be in \"good\"\nrepair as\nmeasured by the\nFacility Inspection\nTool (FIT)\nEnter information in\nthis box when\ncompleting the LCAP\nfor 2024-25 or when\nadding a new metric.",
+          "current_difference_from_baseline_raw": "The district met the\ngoal.\nMaintained 100%\nof schools are in\n\"good\" repair as\nmeasured by the\nFacility Inspection\nTool (FIT).",
+          "source_pages": [
+            43,
+            103
+          ],
+          "baseline": {
+            "raw": "The district met the\ngoal.\nMaintained 100%\nof schools are in\n\"good\" repair as\nmeasured by the\nFacility Inspection\nTool (FIT).",
+            "context_lines": [
+              "The district met the"
+            ],
+            "entries": [
+              {
+                "label": null,
+                "value": "goal.",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Maintained 100%",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "of schools are in",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "\"good\" repair as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "measured by the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Facility Inspection",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Tool (FIT).",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_1_outcome": {
+            "raw": "100% of schools\nare in \"good\"\nrepair as\nmeasured by the\nFacility Inspection\nTool (FIT)",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "are in \"good\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "repair as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "measured by the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Facility Inspection",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Tool (FIT)",
+                "numeric_values": []
+              }
+            ]
+          },
+          "year_3_target": {
+            "raw": "100% of schools\nwill be in \"good\"\nrepair as\nmeasured by the\nFacility Inspection\nTool (FIT)",
+            "context_lines": [],
+            "entries": [
+              {
+                "label": null,
+                "value": "100% of schools",
+                "numeric_values": [
+                  100.0
+                ]
+              },
+              {
+                "label": null,
+                "value": "will be in \"good\"",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "repair as",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "measured by the",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Facility Inspection",
+                "numeric_values": []
+              },
+              {
+                "label": null,
+                "value": "Tool (FIT)",
+                "numeric_values": []
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "action_number": "3.1",
+          "title": "Student Services",
+          "description": "Provide services and support by qualified staff to ensure continuity of\neducational programs, support, and access to resources.\nEmotional Support and Counseling: Mental health specialists provide\nessential counseling services to students, helping them navigate the\ncomplexities of school life and personal challenges. Their presence is\ncrucial for detecting and addressing emotional and psychological issues\nthat could impede a student’s ability to learn effectively.\nCrisis Intervention: Mental health specialists are also key players in crisis\nintervention, offering immediate support in times of need and helping to\nmanage situations that could escalate without professional intervention.\nThis support is essential for maintaining a safe school environment.\nStaff Training and Support: Beyond student interaction, mental health\nspecialists equip school staff with the skills needed to recognize and\nrespond to mental health issues. This training enhances the overall\ncapacity of the school to address emotional and behavioral challenges\nproactively.\nRole of district Social-Emotional Learning (SEL) Teacher on Special\nAssignment (TOSA)\n* Curriculum Integration: Responsible for integrating social and\nemotional learning into the school curriculum. SEL programs are\ndesigned to teach students essential skills such as empathy, self-\nregulation, and positive interaction, which are critical for both\nacademic and personal success.\n* Professional Development: Provides ongoing professional\ndevelopment to teachers, ensuring that SEL principles are\neffectively incorporated into teaching strategies and classroom\nmanagement, which enhances the learning environment for\nstudents.\n* Program Development and Evaluation: Develops, implements, and\nevaluates SEL programs across the district, ensuring these\ninitiatives align with educational goals and effectively support\nstudent development.\nGoal Impact\nThe inclusion of a mental health psychologist and a SEL TOSA directly\nsupports the district’s goal of creating a nurturing school environment by\naddressing the holistic needs of the school community. These\nprofessionals play a vital role in:\n* Enhancing School Safety: By providing mental health and SEL\nsupport, the district creates a safer school environment where\nstudents are less likely to engage in conflict and more likely to\nresolve disputes constructively.\n* Promoting Inclusivity and Equity: These roles ensure that all\nstudents, regardless of their personal circumstances or\nbackgrounds, receive the emotional and social support they need\nto succeed.\n* Building a Supportive Community: Their work fosters a sense of\ncommunity and belonging among students and staff, which is\nessential for a positive school culture.\nThese mental health personnel are essential for achieving the overarching\ngoal of providing a safe, secure, and engaging learning environment. Their\nexpertise not only supports the emotional and psychological well-being of\nstudents and staff but also strengthens the educational framework of the\ndistrict, making it a place where students can thrive academically and\npersonally. This strategic action underscores the district’s commitment to a\ncomprehensive education that values and nurtures the whole child. This\naction is principally directed toward our unduplicated pupils - English\nlearner, foster youth, and socioeconomically disadvantaged students.\nLREBG funds will be used to augment this action, $130,000.",
+          "total_funds_raw": "$1,164,481.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            47,
+            48,
+            49
+          ],
+          "total_funds": 1164481.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.2",
+          "title": "Positive Supports &\nEngagement",
+          "description": "Implement a positive behavior and attendance system with Tier 1, 2, and 3\nsupports in the areas of social-emotional and behavior inclusive with a data\nsystem to facilitate the management and monitoring of the positive\nbehavior system and social-emotional supports.\nThese tiered supports are particularly beneficial for our English learners,\nsocioeconomically disadvantaged, and foster youth students. They\naddress not only the academic challenges these students face but also the\nsocial-emotional barriers to learning. By providing a structured yet flexible\nsupport system, we aim to ensure that all students have the necessary\nresources to develop positive behaviors, maintain regular attendance, and\nultimately achieve their full academic potential.\nTier 1: Provides universal strategies that promote positive behavior and\nattendance across all students. This foundation level includes school-wide\ninitiatives such as setting clear behavioral expectations, recognizing\npositive student behavior, and integrating social-emotional learning (SEL)\ninto the curriculum. These practices are aimed at creating a positive school\nculture that encourages respectful and responsible behavior.\nTier 2: Targets support for groups of students who require more focused\ninterventions. These might include small group sessions that address\nspecific social skills, conflict resolution strategies, or additional SEL\nlessons. The goal here is to preemptively address emerging behavioral\nissues before they escalate, providing students with the tools they need to\nnavigate school challenges.\nTier 3: Offers intensive, individualized support for students who exhibit\nsignificant behavioral challenges. This level includes personalized behavior\nintervention plans, one-on-one counseling, and coordination with external\nservices when necessary. Such targeted interventions are critical for\nstudents who struggle the most, ensuring they receive the comprehensive\nsupport needed to succeed academically and socially.\nTo effectively manage and monitor our programs, we utilize a sophisticated\ndata system. This platform allows us to track student behavior and\nattendance patterns, assess the effectiveness of interventions, and make\ndata-driven decisions. The system also facilitates communication among\nteachers, mental health personnel, and administrators, enabling a\ncoordinated approach to supporting each student’s needs. This action is\nprincipally directed toward our most at-risk subgroups, including foster\nyouth districtwide, two or more races at King Elementary, and students\nwith disabilities at Arnold Elementary.",
+          "total_funds_raw": "$1,125.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            49,
+            50
+          ],
+          "total_funds": 1125.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.3",
+          "title": "Attendance",
+          "description": "Reduce barriers that hinder students from coming to school. Revise,\ndevelop, and implement policies to increase access to and improve\nparticipation in coordinated care in available school-based social-emotional\nresources, positive behavior intervention systems (PBIS), and restorative\njustice programs, including trauma-informed mental health services. This\naction will be principally directed toward at-risk populations, including foster\nyouth districtwide, through the following:\nAddressing Root Causes: Many absenteeism issues stem from underlying\nsocial, emotional, or behavioral problems. By implementing policies that\nprovide comprehensive support, schools can directly address the root\ncauses of absenteeism. Trauma-informed mental health services are\nparticularly crucial for foster youth who might have experienced significant\ntrauma that affects their ability to attend or engage in school.\nCreating Inclusive and Supportive Environments: School-based social-\nemotional resources and positive behavior intervention systems help\ncreate a more inclusive and supportive environment. These programs\nteach coping and interpersonal skills, vital for students who may feel\nalienated or overwhelmed by the school due to their circumstances.\nRestorative Justice Programs: Restorative justice focuses on repairing\nharm and restoring relationships rather than punitive measures. This\napproach can significantly benefit students who might otherwise face\nsuspensions or expulsions, both disciplinary actions contributing to\nabsenteeism. It provides an alternative that keeps students in school and\nengaged while addressing behavioral issues constructively.\nIncreasing Engagement and Participation: Schools can increase student\nengagement and participation by implementing these systems. Students\nare more likely to attend school if they feel safe, supported, and\nunderstood. This is especially true for English learners and\nsocioeconomically disadvantaged students who might face additional\nchallenges that can alienate them from the school community.\nTailored Interventions: The action plan involves developing and revising\npolicies to ensure that interventions are tailored to meet the specific needs\nof these vulnerable groups. By focusing on foster youth and extending\nthese practices to other high-risk groups, schools can ensure that\ninterventions are sensitive to all students' varied experiences and needs.\nIntegrated Support Systems: Coordinating care among different support\nservices within the school helps ensure that students receive seamless\nsupport for their various needs. This integration is critical for effectiveness,\npreventing students from falling through the cracks due to disjointed\nservice provision.\nOutcome Expectation: Implementing these revised and developed policies\nis expected to reduce chronic absenteeism among socioeconomically\ndisadvantaged students, English learners, and foster youth by providing\nthem with the necessary tools and support to overcome the barriers that\nprevent regular school attendance. This will lead to improved academic\nperformance and better overall student well-being.",
+          "total_funds_raw": "$26,100.00",
+          "contributing_raw": "Yes\nX",
+          "source_pages": [
+            50,
+            51
+          ],
+          "total_funds": 26100.0,
+          "contributing": true
+        },
+        {
+          "action_number": "3.4",
+          "title": "Attendance",
+          "description": "Reduce barriers that hinder students from coming to school. Revise,\ndevelop, and implement policies to increase access to and improve\nparticipation in coordinated care in available school-based social-emotional\nresources, positive behavior intervention systems (PBIS), and restorative\njustice programs, including trauma-informed mental health services. This\naction will be principally directed toward at-risk populations, including foster\nstudents, students with disabilities, and those identifying as two or more\nraces, through the following:\nAddressing Root Causes: Many absenteeism issues stem from underlying\nsocial, emotional, or behavioral problems. By implementing policies that\nprovide comprehensive support, schools can directly address the root\ncauses of absenteeism. Trauma-informed mental health services are\nparticularly crucial for students who might have experienced significant\ntrauma that affects their ability to attend or engage in school.\nCreating Inclusive and Supportive Environments: School-based social-\nemotional resources and positive behavior intervention systems help\ncreate a more inclusive and supportive environment. These programs\nteach coping and interpersonal skills, vital for students who may feel\nalienated or overwhelmed by the school due to their circumstances.\nRestorative Justice Programs: Restorative justice focuses on repairing\nharm and restoring relationships rather than punitive measures. This\napproach can significantly benefit students who might otherwise face\nsuspensions or expulsions, both disciplinary actions contributing to\nabsenteeism. It provides an alternative that keeps students in school and\nengaged while addressing behavioral issues constructively.\nIncreasing Engagement and Participation: Schools can increase student\nengagement and participation by implementing these systems. Students\nare more likely to attend school if they feel safe, supported, and\nunderstood. This is especially important for students with disabilities and\nthose identifying as two or more races, who may face additional challenges\nthat can alienate them from the school community.\nTailored Interventions: The action plan involves developing and revising\npolicies to ensure that interventions are tailored to meet the specific needs\nof these vulnerable groups. By focusing on foster youth and extending\nthese practices to other high-risk groups, such as students with disabilities\nand those identifying as two or more races, schools can ensure that\ninterventions are sensitive to all students' varied experiences and needs.\nIntegrated Support Systems: Coordinating care among different support\nservices within the school helps ensure that students receive seamless\nsupport for their various needs. This integration is critical for effectiveness,\npreventing students from falling through the cracks due to disjointed\nservice provision.\nOutcome Expectation: Implementing these revised and developed policies\nis expected to reduce chronic absenteeism among at-risk populations by\nproviding them with the necessary tools and support to overcome the\nbarriers that prevent regular school attendance. This will lead to improved\nacademic performance and better overall student well-being.\nThis action is principally targeted toward students with disabilities at Arnold\nElementary and students identifying as two or more races at King\nElementary.",
+          "total_funds_raw": "$8,641.00",
+          "contributing_raw": "No\nX",
+          "source_pages": [
+            52,
+            53
+          ],
+          "total_funds": 8641.0,
+          "contributing": false
+        }
+      ]
+    }
+  ],
+  "extraction_warnings": [],
+  "goal_count": 3,
+  "metric_count": 20,
+  "action_count": 15
+}
