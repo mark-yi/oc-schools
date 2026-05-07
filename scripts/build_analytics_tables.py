@@ -8,6 +8,7 @@ import csv
 import json
 import re
 import sqlite3
+import unicodedata
 from pathlib import Path
 from typing import Any
 
@@ -60,6 +61,8 @@ TABLE_FIELDS: dict[str, list[str]] = {
         "cd_code",
         "county",
         "district",
+        "parsed_district_name",
+        "district_name_match",
         "school_year",
         "source_file",
         "source_path",
@@ -201,6 +204,7 @@ SQLITE_TYPES = {
     "has_lcap": "INTEGER",
     "has_dashboard": "INTEGER",
     "is_private_data": "INTEGER",
+    "district_name_match": "INTEGER",
     "current_year": "REAL",
     "one_year_ago": "REAL",
     "two_years_ago": "REAL",
@@ -238,6 +242,62 @@ def json_text(value: Any) -> str:
     if value in (None, ""):
         return ""
     return json.dumps(value, ensure_ascii=False, sort_keys=True)
+
+
+def normalize_district_name(value: Any) -> str:
+    text = clean(value).casefold()
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(char for char in text if not unicodedata.combining(char))
+    text = re.sub(r"\([^)]*\)", " ", text)
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    stop_words = {
+        "school",
+        "schools",
+        "district",
+        "unified",
+        "elementary",
+        "union",
+        "high",
+        "county",
+        "office",
+        "of",
+        "education",
+        "coe",
+        "joint",
+        "city",
+        "sbe",
+        "the",
+    }
+    replacements = {"mt": "mount"}
+    tokens = [
+        replacements.get(token, token)
+        for token in text.split()
+        if token and token not in stop_words
+    ]
+    return " ".join(tokens)
+
+
+def district_names_match(manifest_name: str, parsed_name: str) -> int | None:
+    if not parsed_name or parsed_name.startswith("LCAP 2025 -"):
+        return None
+    manifest_normalized = normalize_district_name(manifest_name)
+    parsed_normalized = normalize_district_name(parsed_name)
+    if not manifest_normalized or not parsed_normalized:
+        return None
+    if manifest_normalized == parsed_normalized:
+        return 1
+    if manifest_normalized in parsed_normalized or parsed_normalized in manifest_normalized:
+        return 1
+    manifest_tokens = set(manifest_normalized.split())
+    parsed_tokens = set(parsed_normalized.split())
+    if not manifest_tokens or not parsed_tokens:
+        return None
+    overlap = len(manifest_tokens & parsed_tokens) / max(len(manifest_tokens), len(parsed_tokens))
+    if overlap >= 0.75:
+        return 1
+    if len(manifest_tokens & parsed_tokens) >= 2 and overlap >= 0.5:
+        return 1
+    return 0
 
 
 def csv_value(value: Any) -> Any:
@@ -328,6 +388,7 @@ def flatten_lcaps(lcap_path: Path, manifest_by_cds: dict[str, dict[str, Any]], m
         cds_code = clean(manifest.get("cds_code")) or extract_cds_code(parsed.get("source_path"), parsed.get("source_file"))
         county = clean(manifest.get("county"))
         district = clean(manifest.get("district")) or clean(parsed.get("district_name"))
+        parsed_district_name = clean(parsed.get("district_name"))
         school_year = clean(parsed.get("school_year"))
 
         extraction_warnings = parsed.get("extraction_warnings") or []
@@ -338,6 +399,8 @@ def flatten_lcaps(lcap_path: Path, manifest_by_cds: dict[str, dict[str, Any]], m
                 "cd_code": clean(manifest.get("cd_code")),
                 "county": county,
                 "district": district,
+                "parsed_district_name": parsed_district_name,
+                "district_name_match": district_names_match(district, parsed_district_name),
                 "school_year": school_year,
                 "source_file": clean(parsed.get("source_file")),
                 "source_path": clean(parsed.get("source_path")),

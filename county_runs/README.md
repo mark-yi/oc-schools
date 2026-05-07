@@ -44,6 +44,12 @@ python3 scripts/extract_lcaps.py \
   --input-dir lcaps_statewide/2025/by_county \
   --recursive \
   --output-dir outputs/statewide_2025/lcaps_json
+
+python3 scripts/fetch_dashboard_public_data.py --year 2025
+
+python3 scripts/build_analytics_tables.py --year 2025
+
+python3 scripts/report_declining_chronic_absenteeism.py
 ```
 
 The CDE directory snapshot is saved in:
@@ -75,3 +81,15 @@ lcaps_statewide/
 
 The manifest files in `outputs/lcap_downloads/` keep the original `county`, `district`, `cd_code`, and `cds_code` fields, plus the exact PDF output path.
 Districts with no LCAP remain in the manifest with `has_lcap=false` and no PDF path.
+
+Flattened analytics tables are written under:
+
+```text
+outputs/analytics/2025/
+```
+
+The main queryable artifact is:
+
+```text
+outputs/analytics/2025/analytics.sqlite
+```

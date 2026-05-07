@@ -7,6 +7,8 @@ __pycache__/
 
 # Local tool state
 .playwright-mcp/
+.env
+.env.*
 
 # Generated statewide/county data artifacts
 lcaps_statewide/
@@ -14,6 +16,9 @@ outputs/
 data/dashboard_public/
 county_runs/*/lcaps/
 county_runs/*/outputs/
+*.sqlite
+*.db
+*.log
 
 # OS/editor noise
 .DS_Store
