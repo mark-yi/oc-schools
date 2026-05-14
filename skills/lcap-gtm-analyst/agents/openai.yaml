@@ -1,0 +1,4 @@
+interface:
+  display_name: "LCAP GTM Analyst"
+  short_description: "Rank district GTM opportunities"
+  default_prompt: "Find and explain California district opportunities using LCAP budgets, Dashboard outcomes, and narrative evidence."

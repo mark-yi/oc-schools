@@ -34,6 +34,27 @@ This pattern keeps the answers reproducible. If a report says a district has a
 declining chronic absenteeism rate, that claim should come from
 `dashboard_indicators`, not from an LLM's memory or PDF summary.
 
+## Codex Skill
+
+The repo includes a shareable skill at `skills/lcap-gtm-analyst/`. The skill is
+the analyst playbook: it tells Codex how to interpret AE language, which source
+wins for each claim, when to use SQL versus retrieval, and what an AE-ready
+answer should contain.
+
+The skill does not store the data. It points Codex at the local evidence layer:
+
+```text
+outputs/analytics/2025/analytics.sqlite
+outputs/rag/2025/lcap_retrieval.sqlite
+outputs/rag/2025/chroma/
+scripts/find_lcap_opportunities.py
+scripts/lcap_mcp_server.py
+```
+
+To make it auto-discoverable in a local Codex install, copy or symlink
+`skills/lcap-gtm-analyst/` into the Codex skills directory. Keeping it in the
+repo makes the workflow reviewable and portable.
+
 ## Example: Chronic Absenteeism Sales Candidates
 
 User question:
@@ -56,6 +77,16 @@ Report script:
 
 ```sh
 .venv/bin/python scripts/report_declining_chronic_absenteeism.py
+```
+
+Reusable opportunity CLI:
+
+```sh
+.venv/bin/python scripts/find_lcap_opportunities.py \
+  --topic chronic_absenteeism \
+  --outcome-trend worsening \
+  --rank-by strict_action_funds \
+  --limit 25
 ```
 
 Outputs:

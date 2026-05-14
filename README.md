@@ -21,7 +21,8 @@ The intended workflow is coding-agent friendly: a tool like Codex, Claude Code,
 Cursor, or another repo-aware coding agent can read the schema, write SQL against
 `analytics.sqlite`, generate one-off reports, and turn query results into
 evidence-backed account summaries. The agent should reason over deterministic
-tables rather than reread hundreds of PDFs from scratch for every question.
+tables for numeric claims, then use the optional narrative retrieval layer to
+find section-cited LCAP evidence.
 
 ## What Is In This Repo
 
@@ -33,7 +34,13 @@ Tracked source files:
 - `scripts/fetch_dashboard_public_data.py` - fetches district-level California School Dashboard public API data.
 - `scripts/build_analytics_tables.py` - flattens nested LCAP/Dashboard JSON into CSVs and SQLite.
 - `scripts/report_declining_chronic_absenteeism.py` - example GTM report over the analytics database.
+- `scripts/extract_lcap_narratives.py` - extracts section-tagged LCAP narrative chunks.
+- `scripts/build_lcap_retrieval_index.py` - builds SQLite BM25 plus Chroma dense retrieval indexes.
+- `scripts/search_lcap_retrieval.py` - searches LCAP narratives with BM25, dense retrieval, and reranking.
+- `scripts/find_lcap_opportunities.py` - reusable account-opportunity query CLI for AE/GTM scans.
+- `scripts/lcap_mcp_server.py` - exposes local LCAP retrieval tools to MCP-capable agents.
 - `scripts/analyze_*.py` - earlier exploratory research scripts over extracted LCAP data.
+- `skills/lcap-gtm-analyst/` - shareable Codex skill that teaches an agent how to route AE questions across Dashboard, LCAP, and narrative sources.
 - `data/cde/public_districts.*` - a checked-in CDE district snapshot used as a seed.
 
 Generated artifacts are intentionally ignored:
@@ -52,7 +59,13 @@ python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 ```
 
-The scripts use only public California data endpoints. No API keys are required.
+The public-data pipeline does not require API keys. Dense narrative retrieval
+uses `OPENAI_API_KEY` to create/query embeddings; BM25-only narrative search
+works without an API key.
+
+For scanned LCAP PDFs, install the `tesseract` binary if you want OCR fallback
+during narrative extraction. The extractor still works without it for normal
+text PDFs.
 
 ## End-To-End Pipeline
 
@@ -162,6 +175,52 @@ outputs/analytics/2025/dashboard_trends.csv
 The SQLite database is easiest for ad hoc analysis. The CSVs are useful for
 inspection, sharing, and loading into Postgres/DuckDB.
 
+### 6. Build Optional Narrative Retrieval
+
+After `analytics.sqlite` exists, extract section-tagged narrative chunks:
+
+```sh
+.venv/bin/python scripts/extract_lcap_narratives.py
+```
+
+The narrative extractor removes table/template noise, supports Spanish LCAP
+section headings, and uses local Tesseract OCR when a PDF has scanned or
+garbled text. Validate chunks before embedding:
+
+```sh
+.venv/bin/python scripts/validate_lcap_chunks.py --strict
+```
+
+Build the local BM25 index only:
+
+```sh
+.venv/bin/python scripts/build_lcap_retrieval_index.py --bm25-only --rebuild
+```
+
+Build the Chroma dense index:
+
+```sh
+OPENAI_API_KEY=... .venv/bin/python scripts/build_lcap_retrieval_index.py --rebuild
+```
+
+Search the narrative layer:
+
+```sh
+.venv/bin/python scripts/search_lcap_retrieval.py \
+  "chronic absenteeism family outreach attendance barriers" \
+  --bm25-only \
+  --declining-chronic-absenteeism
+```
+
+The retrieval artifacts live under `outputs/rag/2025/`. See
+`docs/lcap_retrieval.md` for the chunking, hybrid retrieval, reranking, and MCP
+workflow.
+
+QA artifacts live under `outputs/rag/2025/qa/`. The validator writes
+`validation_summary.json`, issue CSVs, review samples, and a
+`no_chunk_documents.csv` audit for source PDFs that do not contain usable LCAP
+narrative bodies.
+
 ## Example: Chronic Absenteeism GTM Report
 
 After building `analytics.sqlite`, generate the example report:
@@ -182,6 +241,21 @@ The report answers:
 
 > Which districts have declining chronic absenteeism, but still have residual
 > chronic absenteeism need and LCAP dollars attached to attendance-related work?
+
+For interactive AE-style querying, use the reusable opportunity CLI instead of
+starting from raw SQL:
+
+```sh
+.venv/bin/python scripts/find_lcap_opportunities.py \
+  --topic chronic_absenteeism \
+  --outcome-trend worsening \
+  --rank-by strict_action_funds \
+  --limit 25
+```
+
+For chronic absenteeism, `worsening` means the rate increased. Use
+`--outcome-trend decreasing_rate` when the user literally means the chronic
+absenteeism rate declined.
 
 This example came from an agent-style analysis loop:
 
@@ -303,6 +377,8 @@ is repaired or redownloaded.
 See `docs/analytics_schema.md` for a longer schema reference.
 See `docs/agent_workflow.md` for the intended Codex/Claude Code-style analysis
 workflow.
+See `skills/lcap-gtm-analyst/` for the shareable Codex skill that packages the
+AE analyst playbook.
 
 ## Design Notes
 
@@ -318,8 +394,8 @@ public PDFs + public Dashboard API
 ```
 
 That makes it possible to answer measured-outcome questions with reproducible
-queries, while still preserving raw text and source pages for qualitative sales
-research.
+queries. The narrative retrieval layer sits beside those tables for qualitative
+questions where the district's own language matters.
 
 The coding agent sits above that layer:
 
@@ -327,6 +403,7 @@ The coding agent sits above that layer:
 user asks a GTM question
 -> agent maps the question to Dashboard indicators, LCAP fields, and SQL joins
 -> agent runs deterministic queries over analytics.sqlite
+-> agent searches section-tagged LCAP chunks when narrative evidence is needed
 -> agent writes a sourced markdown/CSV report
 -> human inspects source pages before customer-facing use
 ```
@@ -342,8 +419,8 @@ money pouring in = sum(lcap_actions.total_funds) for attendance-related actions
 evidence = lcap_actions.source_pages + action title/description
 ```
 
-Embeddings or LLM classification can be added later for fuzzy semantic discovery,
-but they should sit on top of these flat facts rather than replace them.
+Embeddings and reranking are for fuzzy semantic discovery. They sit on top of
+the flat facts rather than replacing them.
 
 ## Public Data Caveats
 
