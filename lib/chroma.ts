@@ -86,8 +86,7 @@ export function buildLcapNarrativeSchema(client = getChromaClient()): Schema {
   schema.createIndex(
     new SparseVectorIndexConfig({
       sourceKey: K.DOCUMENT,
-      embeddingFunction: sparse,
-      bm25: true
+      embeddingFunction: sparse
     }),
     SPARSE_EMBEDDING_KEY
   );
@@ -113,15 +112,12 @@ export function buildLcapNarrativeSchema(client = getChromaClient()): Schema {
 export async function getNarrativeCollection(): Promise<Collection> {
   if (!cachedCollection) {
     const client = getChromaClient();
-    cachedCollection = client.getOrCreateCollection({
-      name: defaultChromaCollection(),
-      embeddingFunction: getDenseEmbeddingFunction(client),
-      schema: buildLcapNarrativeSchema(client),
-      metadata: {
-        app: "california-lcap-intelligence",
-        content_type: "lcap_narrative_chunks",
-        sparse_key: SPARSE_EMBEDDING_KEY
-      }
+    const collectionName = defaultChromaCollection();
+    cachedCollection = client.getCollection({ name: collectionName }).catch((error) => {
+      const detail = error instanceof Error ? error.message : String(error);
+      throw new Error(
+        `Chroma collection "${collectionName}" is not ready. Run "npm run chroma:migrate -- --reset" after setting Chroma env vars. ${detail}`
+      );
     });
   }
   return cachedCollection;

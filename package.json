@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=20"
+    "node": ">=20 <23"
   },
   "scripts": {
     "dev": "next dev --webpack",
@@ -19,7 +19,6 @@
   "dependencies": {
     "@chroma-core/chroma-cloud-qwen": "^0.1.1",
     "@chroma-core/chroma-cloud-splade": "^0.1.1",
-    "@chroma-core/default-embed": "^0.1.9",
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@neondatabase/serverless": "^1.0.2",
     "chromadb": "^3.0.18",

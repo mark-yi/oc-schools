@@ -6,8 +6,7 @@ import type { Metadata } from "chromadb";
 import { defaultChromaCollection, envOptional, envRequired } from "../lib/env";
 import {
   buildLcapNarrativeSchema,
-  getChromaClient,
-  getDenseEmbeddingFunction
+  getChromaClient
 } from "../lib/chroma";
 
 dotenv.config({ path: ".env.local", quiet: true });
@@ -180,7 +179,6 @@ async function main() {
 
   const collection = await client.getOrCreateCollection({
     name: collectionName,
-    embeddingFunction: getDenseEmbeddingFunction(client),
     schema: buildLcapNarrativeSchema(client),
     metadata: {
       app: "california-lcap-intelligence",
