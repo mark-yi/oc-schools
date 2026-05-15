@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
 import { assertApiKey } from "@/lib/env";
 import { getDistrictContext } from "@/lib/db";
-import { searchNarratives } from "@/lib/chroma";
+import { searchNarratives } from "@/lib/neon-vector";
 import { topicConfig } from "@/lib/lcap-domain";
 
 export const runtime = "nodejs";

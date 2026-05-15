@@ -1,6 +1,6 @@
 import { z } from "zod";
 import { assertApiKey } from "@/lib/env";
-import { searchNarratives } from "@/lib/chroma";
+import { searchNarratives } from "@/lib/neon-vector";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

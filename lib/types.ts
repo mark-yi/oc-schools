@@ -1,4 +1,4 @@
-import type { Metadata } from "chromadb";
+export type NarrativeMetadata = Record<string, string | number | boolean | null>;
 
 export interface TopicAction {
   action_id: string;
@@ -45,7 +45,7 @@ export interface NarrativeHit {
   id: string;
   document: string | null;
   score: number | null;
-  metadata: Metadata | null;
+  metadata: NarrativeMetadata | null;
 }
 
 export interface SearchNarrativesInput {
@@ -60,4 +60,3 @@ export interface SearchNarrativesInput {
   groupByDistrict?: boolean;
   perDistrict?: number;
 }
-

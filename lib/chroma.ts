@@ -25,7 +25,7 @@ import {
   ChromaCloudSpladeEmbeddingModel
 } from "@chroma-core/chroma-cloud-splade";
 import { defaultChromaCollection, envOptional, envRequired } from "./env";
-import type { NarrativeHit, SearchNarrativesInput } from "./types";
+import type { NarrativeHit, NarrativeMetadata, SearchNarrativesInput } from "./types";
 
 export const SPARSE_EMBEDDING_KEY = "sparse_embedding";
 const QWEN_TASK = "lcap-narrative-retrieval";
@@ -142,6 +142,19 @@ function whereFromInput(input: SearchNarrativesInput): WhereExpression | undefin
   ]);
 }
 
+function scalarMetadata(metadata: Metadata | null | undefined): NarrativeMetadata | null {
+  if (!metadata) {
+    return null;
+  }
+  const output: NarrativeMetadata = {};
+  for (const [key, value] of Object.entries(metadata)) {
+    if (typeof value === "string" || typeof value === "number" || typeof value === "boolean" || value === null) {
+      output[key] = value;
+    }
+  }
+  return output;
+}
+
 export async function searchNarratives(input: SearchNarrativesInput): Promise<NarrativeHit[]> {
   const query = input.query.trim();
   if (!query) {
@@ -204,7 +217,7 @@ export async function searchNarratives(input: SearchNarrativesInput): Promise<Na
     id: row.id,
     document: row.document ?? null,
     score: row.score ?? null,
-    metadata: row.metadata ?? null
+    metadata: scalarMetadata(row.metadata)
   }));
 }
 

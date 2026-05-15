@@ -2,7 +2,7 @@ import { createMcpHandler } from "mcp-handler";
 import { z } from "zod";
 import { assertApiKey } from "@/lib/env";
 import { findOpportunities, getDistrictContext } from "@/lib/db";
-import { searchNarratives } from "@/lib/chroma";
+import { searchNarratives } from "@/lib/neon-vector";
 import { topicConfig } from "@/lib/lcap-domain";
 
 export const runtime = "nodejs";
@@ -58,7 +58,7 @@ const mcpHandler = createMcpHandler(
       {
         title: "Search LCAP Narratives",
         description:
-          "Hybrid Chroma Cloud search over section-tagged narrative LCAP chunks using dense Qwen + sparse Splade + RRF.",
+          "Hybrid Neon pgvector + Postgres full-text search over section-tagged narrative LCAP chunks using RRF.",
         inputSchema: {
           query: z.string().min(1),
           limit: z.number().int().min(1).max(30).default(10),

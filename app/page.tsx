@@ -91,7 +91,7 @@ export default function Page() {
           <p className="eyebrow">California LCAP Intelligence</p>
           <h1>Search public LCAP narratives and rank district opportunities.</h1>
           <p className="hero-copy">
-            Built for AE workflows: deterministic Dashboard and LCAP spend joins in Neon, plus Chroma Cloud hybrid
+            Built for AE workflows: deterministic Dashboard and LCAP spend joins in Neon, plus pgvector semantic
             retrieval over section-tagged narrative chunks.
           </p>
         </div>
@@ -220,4 +220,3 @@ function Metric({ label, value }: { label: string; value: string }) {
     </div>
   );
 }
-

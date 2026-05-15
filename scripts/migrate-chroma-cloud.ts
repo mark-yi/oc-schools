@@ -65,6 +65,17 @@ function toInt(value: string | undefined, fallback: number): number {
   return parsed;
 }
 
+function toNonNegativeInt(value: string | undefined, fallback: number): number {
+  if (!value) {
+    return fallback;
+  }
+  const parsed = Number(value);
+  if (!Number.isInteger(parsed) || parsed < 0) {
+    throw new Error(`Expected non-negative integer, got: ${value}`);
+  }
+  return parsed;
+}
+
 function sourceDocumentId(row: ChunkRow): string {
   const cds = row.cds_code ?? "unknown";
   const source = row.source_path ?? row.pdf_url ?? "lcap";
@@ -124,18 +135,14 @@ function metadataForRow(row: ChunkRow): Metadata {
   };
 }
 
-function readBatch(db: Database.Database, offset: number, limit: number, sectionType?: string, maxRows?: number): ChunkRow[] {
+function readBatch(db: Database.Database, offset: number, limit: number, sectionType?: string): ChunkRow[] {
   const params: Array<string | number> = [];
   const filters = ["body_text is not null", "trim(body_text) != ''"];
   if (sectionType) {
     filters.push("section_type = ?");
     params.push(sectionType);
   }
-  const boundedLimit = maxRows == null ? limit : Math.min(limit, Math.max(maxRows - offset, 0));
-  if (boundedLimit <= 0) {
-    return [];
-  }
-  params.push(boundedLimit, offset);
+  params.push(limit, offset);
   return db
     .prepare(
       `
@@ -160,11 +167,19 @@ async function main() {
   const collectionName = argValue("--collection") ?? defaultChromaCollection();
   const batchSize = toInt(argValue("--batch-size"), 48);
   const limit = argValue("--limit") ? toInt(argValue("--limit"), 0) : undefined;
+  const startOffset = toNonNegativeInt(argValue("--start-offset"), 0);
   const sectionType = argValue("--section-type");
   const reset = hasArg("--reset");
+  const resume = hasArg("--resume");
 
   if (!existsSync(ragPath)) {
     throw new Error(`RAG SQLite not found: ${ragPath}`);
+  }
+  if (reset && resume) {
+    throw new Error("Use either --reset or --resume, not both.");
+  }
+  if (resume && sectionType) {
+    throw new Error("--resume is only supported for full-collection migrations without --section-type.");
   }
 
   const client = getChromaClient();
@@ -192,10 +207,23 @@ async function main() {
   const effectiveBatchSize = Math.max(1, Math.min(batchSize, maxBatch));
   const db = new Database(ragPath, { readonly: true, fileMustExist: true });
   let uploaded = 0;
+  let offset = startOffset;
+
+  if (resume) {
+    const existingCount = await collection.count();
+    offset = Math.max(offset, existingCount);
+    console.log(`resuming ${collectionName} from source offset ${offset.toLocaleString()}`);
+  } else if (offset > 0) {
+    console.log(`starting ${collectionName} from source offset ${offset.toLocaleString()}`);
+  }
 
   try {
-    for (let offset = 0; ; offset += effectiveBatchSize) {
-      const rows = readBatch(db, offset, effectiveBatchSize, sectionType, limit);
+    for (; ; offset += effectiveBatchSize) {
+      const remainingLimit = limit == null ? effectiveBatchSize : Math.min(effectiveBatchSize, limit - uploaded);
+      if (remainingLimit <= 0) {
+        break;
+      }
+      const rows = readBatch(db, offset, remainingLimit, sectionType);
       if (!rows.length) {
         break;
       }

@@ -53,6 +53,8 @@ function sqlId(identifier: string): string {
 
 async function createSchema(sql: Sql) {
   await executeBlock(sql, `
+    create extension if not exists vector;
+
     create table if not exists districts (
       cds_code text,
       cd_code text,
@@ -231,6 +233,14 @@ async function createSchema(sql: Sql) {
       prev_chunk_id text,
       next_chunk_id text
     );
+
+    create table if not exists rag_chunk_embeddings (
+      chunk_id text primary key references rag_chunks(chunk_id) on delete cascade,
+      embedding halfvec(512) not null,
+      embedding_model text not null,
+      embedding_dimensions integer not null,
+      embedded_at timestamptz not null default now()
+    );
   `);
 
   await executeBlock(sql, `
@@ -248,12 +258,14 @@ async function createSchema(sql: Sql) {
     create index if not exists idx_neon_rag_chunks_cds on rag_chunks(cds_code);
     create index if not exists idx_neon_rag_chunks_section on rag_chunks(section_type);
     create index if not exists idx_neon_rag_chunks_district_doc on rag_chunks(district_doc_id);
+    create index if not exists idx_neon_rag_chunk_embeddings_model on rag_chunk_embeddings(embedding_model);
   `);
 }
 
 async function truncateManagedTables(sql: Sql) {
   await sql.query(`
     truncate table
+      rag_chunk_embeddings,
       rag_chunks,
       dashboard_trends,
       dashboard_student_groups,

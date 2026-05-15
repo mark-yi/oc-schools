@@ -29,7 +29,7 @@ find section-cited LCAP evidence.
 Tracked source files:
 
 - `app/` - deployable Next.js demo UI plus REST and MCP API routes for Vercel.
-- `lib/` - shared Neon opportunity queries, Chroma Cloud hybrid search, and domain helpers.
+- `lib/` - shared Neon opportunity queries, pgvector narrative search, and domain helpers.
 - `scripts/fetch_cde_districts.py` - refreshes the California public district directory.
 - `scripts/download_lcaps.py` - discovers and downloads public LCAP PDFs.
 - `scripts/extract_lcaps.py` - parses LCAP PDFs into structured JSON.
@@ -42,8 +42,9 @@ Tracked source files:
 - `scripts/find_lcap_opportunities.py` - reusable account-opportunity query CLI for AE/GTM scans.
 - `scripts/lcap_mcp_server.py` - exposes local LCAP retrieval tools to MCP-capable agents.
 - `scripts/migrate-neon.ts` - copies local SQLite analytics/RAG outputs into Neon Postgres.
+- `scripts/embed-neon.ts` - embeds section-tagged narrative chunks into Neon pgvector.
 - `scripts/migrate-chroma-cloud.ts` - uploads section-tagged narrative chunks into Chroma Cloud.
-- `scripts/verify-cloud.ts` - smoke-tests Neon row counts, opportunity queries, and Chroma search.
+- `scripts/verify-cloud.ts` - smoke-tests Neon row counts, opportunity queries, and pgvector search.
 - `scripts/analyze_*.py` - earlier exploratory research scripts over extracted LCAP data.
 - `skills/lcap-gtm-analyst/` - shareable Codex skill that teaches an agent how to route AE questions across Dashboard, LCAP, and narrative sources.
 - `data/cde/public_districts.*` - a checked-in CDE district snapshot used as a seed.
@@ -69,8 +70,7 @@ uses `OPENAI_API_KEY` to create/query embeddings; BM25-only narrative search
 works without an API key.
 
 The deployable Vercel path uses Neon Postgres for deterministic analytics
-tables and Chroma Cloud for narrative retrieval with dense Qwen embeddings,
-sparse Splade embeddings, and RRF hybrid search. See
+tables and Neon `pgvector` for narrative semantic search with OpenAI embeddings. See
 `docs/vercel_chroma_neon_deployment.md` for migration and deployment steps.
 
 For scanned LCAP PDFs, install the `tesseract` binary if you want OCR fallback
@@ -238,8 +238,8 @@ After `analytics.sqlite` and `lcap_retrieval.sqlite` exist, migrate the data:
 ```sh
 npm install
 npm run db:migrate
-npm run chroma:migrate -- --limit 100
-npm run chroma:migrate -- --reset
+npm run neon:embed -- --limit 100
+npm run neon:embed -- --batch-size 128 --skip-index
 npm run verify:cloud
 ```
 
@@ -253,7 +253,7 @@ Then deploy the Next.js app to Vercel. The cloud app exposes:
 ```
 
 The MCP endpoint lets Codex, Claude Code, Cursor, or another MCP client use the
-same deterministic opportunity query and Chroma narrative retrieval tools.
+same deterministic opportunity query and Neon pgvector narrative retrieval tools.
 
 ## Example: Chronic Absenteeism GTM Report
 

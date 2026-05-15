@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-import { collectionStats, searchNarratives } from "../lib/chroma";
+import { collectionStats, searchNarratives } from "../lib/neon-vector";
 import { findOpportunities, getSql } from "../lib/db";
 
 dotenv.config({ path: ".env.local", quiet: true });
@@ -32,7 +32,9 @@ async function main() {
   }
 
   const stats = await collectionStats();
-  console.log(`chroma ${stats.collection}: ${stats.count.toLocaleString()} records`);
+  console.log(
+    `${stats.collection}: ${stats.count.toLocaleString()} embeddings / ${stats.chunk_count.toLocaleString()} chunks`
+  );
 
   const hits = await searchNarratives({
     query: "chronic absenteeism attendance barriers family outreach re-engagement",
