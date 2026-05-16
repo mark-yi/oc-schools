@@ -1,9 +1,10 @@
 "use client";
 
 import { FormEvent, useEffect, useState } from "react";
-import { ArrowDownUp, Building2, Loader2, Search, Sparkles, Target } from "lucide-react";
+import { ArrowDownUp, Building2, Check, Loader2, Search, Sparkles, Target } from "lucide-react";
 import type { NarrativeHit, OpportunityRow } from "@/lib/types";
 import { compactMoney, percent } from "@/lib/lcap-domain";
+import posthog from "posthog-js";
 
 type OpportunityResponse = { rows: OpportunityRow[]; count: number; error?: string };
 type SearchResponse = { hits: NarrativeHit[]; count: number; error?: string };
@@ -22,6 +23,7 @@ export default function Page() {
   const [rankBy, setRankBy] = useState("strict_action_funds");
   const [loadingOpps, setLoadingOpps] = useState(false);
   const [loadingSearch, setLoadingSearch] = useState(false);
+  const [copiedMcp, setCopiedMcp] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   async function loadOpportunities() {
@@ -42,7 +44,9 @@ export default function Page() {
       }
       setOpportunities(data.rows);
     } catch (caught) {
-      setError(caught instanceof Error ? caught.message : "Opportunity query failed.");
+      const message = caught instanceof Error ? caught.message : "Opportunity query failed.";
+      setError(message);
+      posthog.captureException(caught instanceof Error ? caught : new Error(message));
     } finally {
       setLoadingOpps(false);
     }
@@ -69,11 +73,25 @@ export default function Page() {
         throw new Error(data.error ?? "Narrative search failed.");
       }
       setHits(data.hits);
+      posthog.capture("narrative_search_submitted", {
+        query_length: query.trim().length,
+        result_count: data.count
+      });
     } catch (caught) {
-      setError(caught instanceof Error ? caught.message : "Narrative search failed.");
+      const message = caught instanceof Error ? caught.message : "Narrative search failed.";
+      setError(message);
+      posthog.captureException(caught instanceof Error ? caught : new Error(message));
     } finally {
       setLoadingSearch(false);
     }
+  }
+
+  async function copyMcpEndpoint() {
+    const endpoint = `${window.location.origin}/api/mcp`;
+    await navigator.clipboard.writeText(endpoint);
+    setCopiedMcp(true);
+    posthog.capture("mcp_endpoint_copied");
+    window.setTimeout(() => setCopiedMcp(false), 1800);
   }
 
   useEffect(() => {
@@ -96,14 +114,14 @@ export default function Page() {
           </p>
         </div>
         <div className="hero-actions">
-          <button className="primary-button" type="button" onClick={loadOpportunities} disabled={loadingOpps}>
+          <button className="primary-button" type="button" onClick={() => { posthog.capture("opportunities_refreshed"); void loadOpportunities(); }} disabled={loadingOpps}>
             {loadingOpps ? <Loader2 className="spin" size={18} /> : <Target size={18} />}
             Refresh
           </button>
-          <a className="secondary-button" href="/api/mcp">
-            <Sparkles size={18} />
-            MCP
-          </a>
+          <button className="secondary-button" type="button" onClick={copyMcpEndpoint}>
+            {copiedMcp ? <Check size={18} /> : <Sparkles size={18} />}
+            {copiedMcp ? "Copied" : "MCP URL"}
+          </button>
         </div>
       </section>
 
@@ -112,7 +130,7 @@ export default function Page() {
       <section className="control-band">
         <div className="field">
           <label htmlFor="trend">Outcome trend</label>
-          <select id="trend" value={outcomeTrend} onChange={(event) => setOutcomeTrend(event.target.value)}>
+          <select id="trend" value={outcomeTrend} onChange={(event) => { posthog.capture("opportunity_filter_changed", { filter: "outcome_trend", value: event.target.value }); setOutcomeTrend(event.target.value); }}>
             <option value="worsening">Worsening rate</option>
             <option value="decreasing_rate">Declining rate</option>
             <option value="any">Any trend</option>
@@ -120,7 +138,7 @@ export default function Page() {
         </div>
         <div className="field">
           <label htmlFor="rank">Rank by</label>
-          <select id="rank" value={rankBy} onChange={(event) => setRankBy(event.target.value)}>
+          <select id="rank" value={rankBy} onChange={(event) => { posthog.capture("opportunity_filter_changed", { filter: "rank_by", value: event.target.value }); setRankBy(event.target.value); }}>
             <option value="strict_action_funds">Strict attendance $</option>
             <option value="broad_action_funds">Broad attendance $</option>
             <option value="opportunity_score">Opportunity score</option>
@@ -183,8 +201,8 @@ export default function Page() {
             <Building2 size={18} />
           </div>
           <div className="preset-row">
-            {presetQueries.map((item) => (
-              <button key={item} type="button" onClick={() => setQuery(item)}>
+            {presetQueries.map((item, index) => (
+              <button key={item} type="button" onClick={() => { posthog.capture("preset_query_selected", { preset_index: index, query_length: item.length }); setQuery(item); }}>
                 {item}
               </button>
             ))}

@@ -30,3 +30,4 @@ county_runs/*/outputs/
 
 # OS/editor noise
 .DS_Store
+.env.local

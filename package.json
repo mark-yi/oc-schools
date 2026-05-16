@@ -28,6 +28,8 @@
     "mcp-handler": "^1.0.1",
     "next": "^16.0.10",
     "openai": "^6.37.0",
+    "posthog-js": "^1.373.5",
+    "posthog-node": "^5.34.2",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "zod": "^3.25.76"
