@@ -240,6 +240,13 @@ async function createSchema(sql: Sql) {
       primary key (cds_code, role)
     );
 
+    create table if not exists waitlist_signups (
+      email text primary key,
+      source text,
+      created_at timestamptz not null default now(),
+      updated_at timestamptz not null default now()
+    );
+
     create table if not exists rag_chunks (
       chunk_id text primary key,
       section_id text,
@@ -293,6 +300,7 @@ async function createSchema(sql: Sql) {
     create index if not exists idx_neon_directory_profiles_district on district_directory_profiles(district);
     create index if not exists idx_neon_directory_profiles_county on district_directory_profiles(county);
     create index if not exists idx_neon_directory_contacts_role on district_directory_contacts(role);
+    create index if not exists idx_waitlist_signups_created_at on waitlist_signups(created_at);
     create index if not exists idx_neon_rag_chunks_cds on rag_chunks(cds_code);
     create index if not exists idx_neon_rag_chunks_section on rag_chunks(section_type);
     create index if not exists idx_neon_rag_chunks_district_doc on rag_chunks(district_doc_id);

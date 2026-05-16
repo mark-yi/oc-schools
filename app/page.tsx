@@ -1,240 +1,89 @@
-"use client";
+import { ArrowRight, Database, FileText, TerminalSquare } from "lucide-react";
+import Link from "next/link";
+import { redirect } from "next/navigation";
+import { addWaitlistSignup } from "@/lib/waitlist";
 
-import { FormEvent, useEffect, useState } from "react";
-import { ArrowDownUp, Building2, Check, Loader2, Search, Sparkles, Target } from "lucide-react";
-import type { NarrativeHit, OpportunityRow } from "@/lib/types";
-import { compactMoney, percent } from "@/lib/lcap-domain";
-import posthog from "posthog-js";
+type HomePageProps = {
+  searchParams?: Promise<{
+    waitlist?: string;
+  }>;
+};
 
-type OpportunityResponse = { rows: OpportunityRow[]; count: number; error?: string };
-type SearchResponse = { hits: NarrativeHit[]; count: number; error?: string };
+export default async function HomePage({ searchParams }: HomePageProps) {
+  const params = await searchParams;
+  const waitlistState = params?.waitlist;
+  const message =
+    waitlistState === "joined"
+      ? "Thank you. You're on the waitlist."
+      : waitlistState === "exists"
+        ? "That email is already on the waitlist."
+        : waitlistState === "invalid"
+          ? "Enter a valid email."
+          : waitlistState === "error"
+            ? "Something went wrong. Try again shortly."
+            : null;
+  const messageClass =
+    waitlistState === "joined" || waitlistState === "exists" ? "form-status form-status-success" : "form-status";
 
-const presetQueries = [
-  "attendance barriers family outreach chronic absenteeism re-engagement",
-  "districts using data dashboards to monitor attendance interventions",
-  "student engagement home visits truancy SARB attendance teams"
-];
+  async function joinWaitlist(formData: FormData) {
+    "use server";
 
-export default function Page() {
-  const [opportunities, setOpportunities] = useState<OpportunityRow[]>([]);
-  const [hits, setHits] = useState<NarrativeHit[]>([]);
-  const [query, setQuery] = useState(presetQueries[0]);
-  const [outcomeTrend, setOutcomeTrend] = useState("worsening");
-  const [rankBy, setRankBy] = useState("strict_action_funds");
-  const [loadingOpps, setLoadingOpps] = useState(false);
-  const [loadingSearch, setLoadingSearch] = useState(false);
-  const [copiedMcp, setCopiedMcp] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-
-  async function loadOpportunities() {
-    setLoadingOpps(true);
-    setError(null);
+    let destination = "/?waitlist=error";
     try {
-      const params = new URLSearchParams({
-        topic: "chronic_absenteeism",
-        outcomeTrend,
-        rankBy,
-        limit: "12",
-        actionLimit: "2"
-      });
-      const response = await fetch(`/api/opportunities?${params}`);
-      const data = (await response.json()) as OpportunityResponse;
-      if (!response.ok || data.error) {
-        throw new Error(data.error ?? "Opportunity query failed.");
+      const result = await addWaitlistSignup(formData.get("email"), "homepage");
+      destination = `/?waitlist=${result.created ? "joined" : "exists"}`;
+    } catch (error) {
+      destination = error instanceof Error && error.message === "INVALID_EMAIL" ? "/?waitlist=invalid" : "/?waitlist=error";
+      if (destination.endsWith("error")) {
+        console.error(error);
       }
-      setOpportunities(data.rows);
-    } catch (caught) {
-      const message = caught instanceof Error ? caught.message : "Opportunity query failed.";
-      setError(message);
-      posthog.captureException(caught instanceof Error ? caught : new Error(message));
-    } finally {
-      setLoadingOpps(false);
     }
+    redirect(destination);
   }
-
-  async function runSearch(event?: FormEvent) {
-    event?.preventDefault();
-    setLoadingSearch(true);
-    setError(null);
-    try {
-      const response = await fetch("/api/search", {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({
-          query,
-          limit: 10,
-          candidateLimit: 180,
-          groupByDistrict: true,
-          perDistrict: 2
-        })
-      });
-      const data = (await response.json()) as SearchResponse;
-      if (!response.ok || data.error) {
-        throw new Error(data.error ?? "Narrative search failed.");
-      }
-      setHits(data.hits);
-      posthog.capture("narrative_search_submitted", {
-        query_length: query.trim().length,
-        result_count: data.count
-      });
-    } catch (caught) {
-      const message = caught instanceof Error ? caught.message : "Narrative search failed.";
-      setError(message);
-      posthog.captureException(caught instanceof Error ? caught : new Error(message));
-    } finally {
-      setLoadingSearch(false);
-    }
-  }
-
-  async function copyMcpEndpoint() {
-    const endpoint = `${window.location.origin}/api/mcp`;
-    await navigator.clipboard.writeText(endpoint);
-    setCopiedMcp(true);
-    posthog.capture("mcp_endpoint_copied");
-    window.setTimeout(() => setCopiedMcp(false), 1800);
-  }
-
-  useEffect(() => {
-    void loadOpportunities();
-  }, [outcomeTrend, rankBy]);
-
-  useEffect(() => {
-    void runSearch();
-  }, []);
 
   return (
-    <main className="app-shell">
-      <section className="hero-band">
-        <div>
-          <p className="eyebrow">California LCAP Intelligence</p>
-          <h1>Search public LCAP narratives and rank district opportunities.</h1>
-          <p className="hero-copy">
-            Built for AE workflows: deterministic Dashboard and LCAP spend joins in Neon, plus pgvector semantic
-            retrieval over section-tagged narrative chunks.
-          </p>
-        </div>
-        <div className="hero-actions">
-          <button className="primary-button" type="button" onClick={() => { posthog.capture("opportunities_refreshed"); void loadOpportunities(); }} disabled={loadingOpps}>
-            {loadingOpps ? <Loader2 className="spin" size={18} /> : <Target size={18} />}
-            Refresh
-          </button>
-          <button className="secondary-button" type="button" onClick={copyMcpEndpoint}>
-            {copiedMcp ? <Check size={18} /> : <Sparkles size={18} />}
-            {copiedMcp ? "Copied" : "MCP URL"}
-          </button>
-        </div>
-      </section>
+    <main className="site-shell">
+      <section className="landing">
+        <p className="eyebrow">California LCAP Intelligence</p>
+        <h1>Public school planning data, made usable for GTM.</h1>
+        <p className="lede">
+          LCAP PDFs, Dashboard outcomes, narrative search, funding signals, and district contacts in one MCP-ready system.
+        </p>
 
-      {error ? <div className="error-banner">{error}</div> : null}
-
-      <section className="control-band">
-        <div className="field">
-          <label htmlFor="trend">Outcome trend</label>
-          <select id="trend" value={outcomeTrend} onChange={(event) => { posthog.capture("opportunity_filter_changed", { filter: "outcome_trend", value: event.target.value }); setOutcomeTrend(event.target.value); }}>
-            <option value="worsening">Worsening rate</option>
-            <option value="decreasing_rate">Declining rate</option>
-            <option value="any">Any trend</option>
-          </select>
-        </div>
-        <div className="field">
-          <label htmlFor="rank">Rank by</label>
-          <select id="rank" value={rankBy} onChange={(event) => { posthog.capture("opportunity_filter_changed", { filter: "rank_by", value: event.target.value }); setRankBy(event.target.value); }}>
-            <option value="strict_action_funds">Strict attendance $</option>
-            <option value="broad_action_funds">Broad attendance $</option>
-            <option value="opportunity_score">Opportunity score</option>
-            <option value="affected_student_count">Affected students</option>
-            <option value="current_status">Current rate</option>
-          </select>
-        </div>
-        <form className="search-form" onSubmit={runSearch}>
-          <label htmlFor="semantic">Narrative search</label>
-          <div className="search-row">
-            <input id="semantic" value={query} onChange={(event) => setQuery(event.target.value)} />
-            <button className="icon-button" type="submit" aria-label="Search narratives" disabled={loadingSearch}>
-              {loadingSearch ? <Loader2 className="spin" size={18} /> : <Search size={18} />}
-            </button>
-          </div>
+        <form className="waitlist-form" action={joinWaitlist}>
+          <label className="sr-only" htmlFor="waitlist-email">
+            Email
+          </label>
+          <input id="waitlist-email" name="email" type="email" placeholder="you@company.com" required />
+          <button type="submit">
+            Join waitlist
+            <ArrowRight size={17} />
+          </button>
         </form>
-      </section>
+        {message ? <p className={messageClass}>{message}</p> : null}
 
-      <section className="content-grid">
-        <div className="panel">
-          <div className="panel-heading">
-            <div>
-              <p className="eyebrow">Structured opportunity query</p>
-              <h2>Chronic absenteeism targets</h2>
-            </div>
-            <ArrowDownUp size={18} />
-          </div>
-          <div className="result-list">
-            {opportunities.map((row, index) => (
-              <article className="result-card" key={row.cds_code}>
-                <div className="card-topline">
-                  <span className="rank">{index + 1}</span>
-                  <div>
-                    <h3>{row.district}</h3>
-                    <p>{row.county}</p>
-                  </div>
-                </div>
-                <div className="metric-grid">
-                  <Metric label="Rate" value={percent(row.current_status)} />
-                  <Metric label="Change" value={`${Number(row.outcome_change ?? 0).toFixed(1)} pts`} />
-                  <Metric label="Strict $" value={compactMoney(row.strict_action_funds)} />
-                  <Metric label="Broad $" value={compactMoney(row.broad_action_funds)} />
-                </div>
-                {row.top_actions?.[0] ? (
-                  <p className="evidence-line">
-                    {row.top_actions[0].title || "Untitled action"} · {compactMoney(row.top_actions[0].total_funds)}
-                  </p>
-                ) : null}
-              </article>
-            ))}
-          </div>
-        </div>
+        <p className="report-link">
+          <Link href="/chronic-absenteeism-report">
+            See an example on chronic absenteeism
+            <ArrowRight size={15} />
+          </Link>
+        </p>
 
-        <div className="panel">
-          <div className="panel-heading">
-            <div>
-              <p className="eyebrow">Hybrid narrative retrieval</p>
-              <h2>Section-cited signal</h2>
-            </div>
-            <Building2 size={18} />
+        <div className="landing-facts" aria-label="System summary">
+          <div>
+            <Database size={18} />
+            <span>California LCAP + Dashboard data</span>
           </div>
-          <div className="preset-row">
-            {presetQueries.map((item, index) => (
-              <button key={item} type="button" onClick={() => { posthog.capture("preset_query_selected", { preset_index: index, query_length: item.length }); setQuery(item); }}>
-                {item}
-              </button>
-            ))}
+          <div>
+            <FileText size={18} />
+            <span>Section-cited narrative evidence</span>
           </div>
-          <div className="result-list">
-            {hits.map((hit) => (
-              <article className="result-card narrative-card" key={hit.id}>
-                <div className="card-topline">
-                  <span className="score">{hit.score == null ? "n/a" : hit.score.toFixed(4)}</span>
-                  <div>
-                    <h3>{String(hit.metadata?.district ?? "Unknown district")}</h3>
-                    <p>
-                      {String(hit.metadata?.section_type ?? "section")} · pages{" "}
-                      {String(hit.metadata?.page_start ?? "?")}
-                    </p>
-                  </div>
-                </div>
-                <p>{hit.document}</p>
-              </article>
-            ))}
+          <div>
+            <TerminalSquare size={18} />
+            <span>Built for Codex and Claude via MCP</span>
           </div>
         </div>
       </section>
     </main>
-  );
-}
-
-function Metric({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="metric">
-      <span>{label}</span>
-      <strong>{value}</strong>
-    </div>
   );
 }
