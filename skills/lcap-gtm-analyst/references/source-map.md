@@ -79,6 +79,7 @@ When the MCP server is running, use:
 - `lcap_explain_account`: structured account context plus narrative evidence for one district.
 - `lcap_search_narratives`: BM25/hybrid retrieval over section-tagged LCAP chunks.
 - `lcap_get_lcap_document`: public LCAP PDF source metadata, including `pdf_url`, for a CDS code or district.
+- `lcap_get_district_contacts`: public California School Directory profile and role contacts for a CDS code or district.
 - `lcap_search_with_dashboard_cohort`: narrative search after a Dashboard-derived cohort filter.
 - `lcap_get_district_context`: Dashboard/LCAP facts and chunk coverage.
 - `lcap_get_chunk`: one narrative chunk plus neighbors.

@@ -1,7 +1,7 @@
 import { createMcpHandler } from "mcp-handler";
 import { z } from "zod";
 import { assertApiKey } from "@/lib/env";
-import { findOpportunities, getDistrictContext, getLcapDocuments } from "@/lib/db";
+import { findOpportunities, getDistrictContext, getDistrictDirectoryContacts, getLcapDocuments } from "@/lib/db";
 import { searchNarratives } from "@/lib/neon-vector";
 import { topicConfig } from "@/lib/lcap-domain";
 import { captureUsageEvent, errorTelemetry, queryTelemetry } from "@/lib/usage-analytics";
@@ -232,6 +232,22 @@ const mcpHandler = createMcpHandler(
     );
 
     server.registerTool(
+      "lcap_get_district_contacts",
+      {
+        title: "Get District Contacts",
+        description:
+          "Fetch public California School Directory contact metadata for a district, including superintendent, CBO, CDS coordinator, phone, email, and website when available.",
+        inputSchema: {
+          cdsCode: z.string().optional(),
+          district: z.string().optional(),
+          county: z.string().optional(),
+          limit: z.number().int().min(1).max(25).default(10)
+        }
+      },
+      async (input) => jsonContent(await getDistrictDirectoryContacts(input))
+    );
+
+    server.registerTool(
       "lcap_explain_account",
       {
         title: "Explain LCAP Account",
@@ -252,6 +268,7 @@ const mcpHandler = createMcpHandler(
         });
         return jsonContent({
           district: context.district,
+          directory_contacts: context.directory_contacts,
           lcap_documents: context.lcap_documents,
           dashboard_outcome: context.dashboard_outcome,
           strict_topic_actions: context.strict_topic_actions,

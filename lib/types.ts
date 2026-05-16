@@ -65,6 +65,40 @@ export interface LcapDocumentSource {
   extraction_error_count: number | null;
 }
 
+export interface DistrictDirectoryContact {
+  role: "superintendent" | "chief_business_official" | "cds_coordinator" | string;
+  name: string | null;
+  title: string | null;
+  phone: string | null;
+  email: string | null;
+  source: string | null;
+  fetched_at: string | null;
+}
+
+export interface DistrictDirectoryProfile {
+  cds_code: string;
+  county: string | null;
+  district: string | null;
+  district_address: string | null;
+  mailing_address: string | null;
+  phone: string | null;
+  fax: string | null;
+  email: string | null;
+  website: string | null;
+  status: string | null;
+  district_type: string | null;
+  low_grade: string | null;
+  high_grade: string | null;
+  nces_district_id: string | null;
+  cde_detail_url: string | null;
+  cde_last_updated: string | null;
+  fetched_at: string | null;
+  parse_status: string | null;
+  parse_error: string | null;
+  source: string | null;
+  contacts: DistrictDirectoryContact[];
+}
+
 export interface SearchNarrativesInput {
   query: string;
   limit?: number;

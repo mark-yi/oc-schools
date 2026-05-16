@@ -51,6 +51,7 @@ If MCP is available, prefer:
 - `lcap_search_narratives`
 - `lcap_get_district_context`
 - `lcap_get_lcap_document`
+- `lcap_get_district_contacts`
 
 Otherwise run the scripts directly in the repo.
 

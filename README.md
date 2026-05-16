@@ -238,6 +238,8 @@ After `analytics.sqlite` and `lcap_retrieval.sqlite` exist, migrate the data:
 ```sh
 npm install
 npm run db:migrate
+npm run directory:contacts -- --public-districts --all
+npm run directory:contacts:details -- --all --delay-ms 1500 --strict
 npm run neon:embed -- --limit 100
 npm run neon:embed -- --batch-size 128 --skip-index
 npm run verify:cloud
@@ -254,7 +256,24 @@ Then deploy the Next.js app to Vercel. The cloud app exposes:
 
 The MCP endpoint lets Codex, Claude Code, Cursor, or another MCP client use the
 same deterministic opportunity query, Neon pgvector narrative retrieval, account
-context, and public LCAP PDF source lookup tools.
+context, public LCAP PDF source lookup, and California School Directory contact
+lookup tools.
+
+`directory:contacts -- --public-districts --all` imports the official CDE Public
+Districts snapshot into Neon for statewide address, phone, and CDE-listed
+administrator coverage. `directory:contacts:details` then uses local Chrome with
+a persistent profile to load richer California School Directory detail pages by
+CDS code and store superintendent, chief business official, and CDS coordinator
+contact fields when CDE exposes them. The CDE Directory is self-reported public
+data, so use it for outreach verification rather than as an authoritative
+employment record.
+
+Use `npm run directory:contacts:details -- --limit 25 --strict` when you only
+want a smoke test. If CDE blocks automated detail-page requests, the browser mode
+waits for a captcha to be solved in the opened Chrome profile. Non-browser mode
+records a non-destructive blocked status instead of overwriting previously good
+contact rows; use `--html-dir` with saved detail pages when you need to import
+from a browser-accessible copy.
 
 ## Example: Chronic Absenteeism GTM Report
 

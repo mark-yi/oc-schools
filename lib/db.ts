@@ -9,7 +9,7 @@ import {
   outcomeTrendClause,
   topicConfig
 } from "./lcap-domain";
-import type { LcapDocumentSource, OpportunityRow, TopicAction } from "./types";
+import type { DistrictDirectoryContact, DistrictDirectoryProfile, LcapDocumentSource, OpportunityRow, TopicAction } from "./types";
 
 type SqlClient = NeonQueryFunction<false, false>;
 
@@ -77,6 +77,214 @@ function rowToLcapDocument(row: Record<string, unknown>): LcapDocumentSource {
     extraction_warning_count: numberOrNull(row.extraction_warning_count),
     extraction_error_count: numberOrNull(row.extraction_error_count)
   };
+}
+
+function rowToDirectoryContact(row: Record<string, unknown>): DistrictDirectoryContact {
+  return {
+    role: String(row.role ?? ""),
+    name: (row.name as string | null) ?? null,
+    title: (row.title as string | null) ?? null,
+    phone: (row.phone as string | null) ?? null,
+    email: (row.email as string | null) ?? null,
+    source: (row.source as string | null) ?? null,
+    fetched_at: row.fetched_at == null ? null : String(row.fetched_at)
+  };
+}
+
+function rowToDirectoryProfile(
+  row: Record<string, unknown>,
+  contacts: DistrictDirectoryContact[] = []
+): DistrictDirectoryProfile {
+  return {
+    cds_code: String(row.cds_code ?? ""),
+    county: (row.county as string | null) ?? null,
+    district: (row.district as string | null) ?? null,
+    district_address: (row.district_address as string | null) ?? null,
+    mailing_address: (row.mailing_address as string | null) ?? null,
+    phone: (row.phone as string | null) ?? null,
+    fax: (row.fax as string | null) ?? null,
+    email: (row.email as string | null) ?? null,
+    website: (row.website as string | null) ?? null,
+    status: (row.status as string | null) ?? null,
+    district_type: (row.district_type as string | null) ?? null,
+    low_grade: (row.low_grade as string | null) ?? null,
+    high_grade: (row.high_grade as string | null) ?? null,
+    nces_district_id: (row.nces_district_id as string | null) ?? null,
+    cde_detail_url: (row.cde_detail_url as string | null) ?? null,
+    cde_last_updated: (row.cde_last_updated as string | null) ?? null,
+    fetched_at: row.fetched_at == null ? null : String(row.fetched_at),
+    parse_status: (row.parse_status as string | null) ?? null,
+    parse_error: (row.parse_error as string | null) ?? null,
+    source: (row.source as string | null) ?? null,
+    contacts
+  };
+}
+
+function rowToFallbackDirectoryProfile(row: Record<string, unknown>): DistrictDirectoryProfile {
+  const adminName = [row.admin_first_name, row.admin_last_name]
+    .map((part) => (part == null ? "" : String(part).trim()))
+    .filter(Boolean)
+    .join(" ");
+  const contacts: DistrictDirectoryContact[] = adminName
+    ? [
+        {
+          role: "superintendent",
+          name: adminName,
+          title: "Superintendent",
+          phone: (row.phone as string | null) ?? null,
+          email: null,
+          source: "districts_fallback",
+          fetched_at: null
+        }
+      ]
+    : [];
+
+  return {
+    cds_code: String(row.cds_code ?? ""),
+    county: (row.county as string | null) ?? null,
+    district: (row.district as string | null) ?? null,
+    district_address: [row.street, row.city, row.state, row.zip]
+      .map((part) => (part == null ? "" : String(part).trim()))
+      .filter(Boolean)
+      .join(", ") || null,
+    mailing_address: null,
+    phone: (row.phone as string | null) ?? null,
+    fax: null,
+    email: null,
+    website: null,
+    status: (row.status_type as string | null) ?? null,
+    district_type: (row.doc_type as string | null) ?? null,
+    low_grade: null,
+    high_grade: null,
+    nces_district_id: null,
+    cde_detail_url: `https://www.cde.ca.gov/schooldirectory/details?cdscode=${String(row.cds_code ?? "")}`,
+    cde_last_updated: null,
+    fetched_at: null,
+    parse_status: "fallback",
+    parse_error: "CDE directory contact table has no stored row for this district.",
+    source: "districts_fallback",
+    contacts
+  };
+}
+
+export async function getDistrictDirectoryContacts({
+  cdsCode,
+  district,
+  county,
+  limit = 10
+}: {
+  cdsCode?: string;
+  district?: string;
+  county?: string;
+  limit?: number;
+}): Promise<DistrictDirectoryProfile[]> {
+  if (!cdsCode && !district) {
+    throw new Error("Provide cdsCode or district.");
+  }
+
+  const params: unknown[] = [];
+  const filters: string[] = [];
+  if (cdsCode) {
+    filters.push(`p.cds_code = ${pushParam(params, cdsCode)}`);
+  }
+  if (district) {
+    filters.push(`p.district ilike ${pushParam(params, district.replaceAll("*", "%"))}`);
+  }
+  if (county) {
+    filters.push(`p.county = ${pushParam(params, county)}`);
+  }
+  const limitRef = pushParam(params, Math.max(1, Math.min(limit, 25)));
+
+  let profiles: Record<string, unknown>[] = [];
+  try {
+    profiles = (await getSql().query(
+      `
+        select
+          p.cds_code,
+          p.county,
+          p.district,
+          p.district_address,
+          p.mailing_address,
+          p.phone,
+          p.fax,
+          p.email,
+          p.website,
+          p.status,
+          p.district_type,
+          p.low_grade,
+          p.high_grade,
+          p.nces_district_id,
+          p.cde_detail_url,
+          p.cde_last_updated,
+          p.fetched_at,
+          p.parse_status,
+          p.parse_error,
+          p.source
+        from district_directory_profiles p
+        where ${filters.join(" and ")}
+        order by p.district
+        limit ${limitRef}
+      `,
+      params
+    )) as Record<string, unknown>[];
+  } catch (error) {
+    if (!(error instanceof Error) || !/district_directory_profiles/i.test(error.message)) {
+      throw error;
+    }
+  }
+
+  profiles = profiles.filter((row) => {
+    if (row.parse_status === "ok") {
+      return true;
+    }
+    return Boolean(row.district || row.county || row.phone || row.website);
+  });
+
+  if (!profiles.length) {
+    const fallbackParams: unknown[] = [];
+    const fallbackFilters: string[] = [];
+    if (cdsCode) {
+      fallbackFilters.push(`d.cds_code = ${pushParam(fallbackParams, cdsCode)}`);
+    }
+    if (district) {
+      fallbackFilters.push(`d.district ilike ${pushParam(fallbackParams, district.replaceAll("*", "%"))}`);
+    }
+    if (county) {
+      fallbackFilters.push(`d.county = ${pushParam(fallbackParams, county)}`);
+    }
+    const fallbackLimitRef = pushParam(fallbackParams, Math.max(1, Math.min(limit, 25)));
+    const fallbackRows = (await getSql().query(
+      `
+        select *
+        from districts d
+        where ${fallbackFilters.join(" and ")}
+        order by d.district
+        limit ${fallbackLimitRef}
+      `,
+      fallbackParams
+    )) as Record<string, unknown>[];
+    return fallbackRows.map(rowToFallbackDirectoryProfile);
+  }
+
+  const profileIds = profiles.map((row) => String(row.cds_code ?? ""));
+  const contacts = (await getSql().query(
+    `
+      select cds_code, role, name, title, phone, email, source, fetched_at
+      from district_directory_contacts
+      where cds_code = any($1::text[])
+      order by
+        array_position(array['superintendent', 'chief_business_official', 'cds_coordinator']::text[], role),
+        role
+    `,
+    [profileIds]
+  )) as Record<string, unknown>[];
+  const contactsByCds = new Map<string, DistrictDirectoryContact[]>();
+  for (const contact of contacts) {
+    const key = String(contact.cds_code ?? "");
+    contactsByCds.set(key, [...(contactsByCds.get(key) ?? []), rowToDirectoryContact(contact)]);
+  }
+
+  return profiles.map((row) => rowToDirectoryProfile(row, contactsByCds.get(String(row.cds_code ?? "")) ?? []));
 }
 
 export async function getLcapDocuments({
@@ -439,6 +647,7 @@ export async function getDistrictContext(cdsCode: string, topic = "chronic_absen
     topic: normalizeTopic(topic),
     district: district ?? null,
     dashboard_outcome: dashboardOutcome ?? null,
+    directory_contacts: await getDistrictDirectoryContacts({ cdsCode, limit: 1 }),
     lcap_documents: await getLcapDocuments({ cdsCode, limit: 3 }),
     topic_goals: topicGoals,
     topic_metrics: topicMetrics,

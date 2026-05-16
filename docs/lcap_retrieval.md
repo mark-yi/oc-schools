@@ -124,6 +124,7 @@ Tools exposed:
 - `lcap_explain_account`
 - `lcap_search_narratives`
 - `lcap_get_lcap_document`
+- `lcap_get_district_contacts`
 - `lcap_search_with_dashboard_cohort`
 - `lcap_get_chunk`
 - `lcap_get_district_context`

@@ -205,6 +205,41 @@ async function createSchema(sql: Sql) {
       four_years_ago double precision
     );
 
+    create table if not exists district_directory_profiles (
+      cds_code text primary key,
+      county text,
+      district text,
+      district_address text,
+      mailing_address text,
+      phone text,
+      fax text,
+      email text,
+      website text,
+      status text,
+      district_type text,
+      low_grade text,
+      high_grade text,
+      nces_district_id text,
+      cde_detail_url text,
+      cde_last_updated text,
+      fetched_at timestamptz not null default now(),
+      parse_status text,
+      parse_error text,
+      source text
+    );
+
+    create table if not exists district_directory_contacts (
+      cds_code text not null references district_directory_profiles(cds_code) on delete cascade,
+      role text not null,
+      name text,
+      title text,
+      phone text,
+      email text,
+      source text,
+      fetched_at timestamptz not null default now(),
+      primary key (cds_code, role)
+    );
+
     create table if not exists rag_chunks (
       chunk_id text primary key,
       section_id text,
@@ -255,6 +290,9 @@ async function createSchema(sql: Sql) {
     create index if not exists idx_neon_dashboard_student_groups_lookup
       on dashboard_student_groups(indicator_name, student_group, performance);
     create index if not exists idx_neon_dashboard_trends_lookup on dashboard_trends(indicator_name, cds_code);
+    create index if not exists idx_neon_directory_profiles_district on district_directory_profiles(district);
+    create index if not exists idx_neon_directory_profiles_county on district_directory_profiles(county);
+    create index if not exists idx_neon_directory_contacts_role on district_directory_contacts(role);
     create index if not exists idx_neon_rag_chunks_cds on rag_chunks(cds_code);
     create index if not exists idx_neon_rag_chunks_section on rag_chunks(section_type);
     create index if not exists idx_neon_rag_chunks_district_doc on rag_chunks(district_doc_id);

@@ -70,6 +70,7 @@ lcap_find_opportunities
 lcap_search_narratives
 lcap_get_district_context
 lcap_get_lcap_document
+lcap_get_district_contacts
 lcap_explain_account
 ```
 
